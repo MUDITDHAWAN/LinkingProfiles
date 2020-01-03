@@ -1,0 +1,32 @@
+Captions for image 11008215_187065728301325_1111281251_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.001064)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000701)
+  2) a vase filled with lots of flowers on top of a table . (p=0.000319)
+Captions for image 14269228_1757314634535228_1620822856_n.jpg:
+  0) a group of people flying kites on a beach . (p=0.002704)
+  1) a group of people on a beach flying kites . (p=0.002668)
+  2) a group of people standing on top of a sandy beach . (p=0.002608)
+Captions for image 12070614_129450407417855_1762051325_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.000825)
+  1) a vase filled with purple flowers on top of a table . (p=0.000252)
+  2) a vase filled with flowers on top of a wooden table . (p=0.000231)
+Captions for image 12224409_457028054505518_694261173_n.jpg:
+  0) a bunch of yellow bananas hanging from a string . (p=0.000044)
+  1) a bunch of yellow bananas hanging from a tree . (p=0.000031)
+  2) a bunch of yellow bananas hanging from the ceiling . (p=0.000022)
+Captions for image 10731464_1578147729073879_1451421980_a.jpg:
+  0) a close up of a blue and white frisbee (p=0.000004)
+  1) a close up of a blue and white kite with a string (p=0.000000)
+  2) a close up of a blue and white kite with a string . (p=0.000000)
+Captions for image 12081071_674525232684942_422983625_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000068)
+  1) a bunch of flowers that are on a table . (p=0.000046)
+  2) a bunch of flowers that are sitting on a table . (p=0.000029)
+Captions for image 47511163_230048714614913_8170431503973482496_n.jpg:
+  0) a collage of pictures of different colored ties (p=0.000018)
+  1) a collage of pictures of different colored ties . (p=0.000015)
+  2) a collage of pictures of different styles of ties (p=0.000004)
+Captions for image 14374161_1695104274146548_107109098_n.jpg:
+  0) a view of a mountain range with mountains in the background . (p=0.000030)
+  1) a view of a mountain range with mountains in the distance . (p=0.000010)
+  2) a view of a mountain range with a mountain in the background . (p=0.000010)

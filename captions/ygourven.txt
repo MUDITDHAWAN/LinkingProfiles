@@ -1,0 +1,788 @@
+Captions for image 13381125_1613409648974555_1682713383_n.jpg:
+  0) a sign that is on a pole on a street . (p=0.000022)
+  1) a sign that is on a pole on a sidewalk . (p=0.000012)
+  2) a sign that is on a pole in front of a house . (p=0.000005)
+Captions for image 11850247_793757250721602_1497482586_a.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000108)
+  1) a man in a suit and tie standing in a room . (p=0.000083)
+  2) a man in a suit and tie is smiling (p=0.000046)
+Captions for image 14727632_542766059254440_6879863981226328064_n.jpg:
+  0) a car that is parked in a parking lot . (p=0.000550)
+  1) a car that is parked in a parking lot (p=0.000326)
+  2) a car is parked on the side of the road . (p=0.000305)
+Captions for image 14073034_947358292057282_486926200_n.jpg:
+  0) a black and white photo of a city street (p=0.003084)
+  1) a black and white photo of a city street . (p=0.002009)
+  2) a black and white photo of a street corner (p=0.001060)
+Captions for image 13473169_1075603035843374_1988949587_n.jpg:
+  0) a building with a clock on the side of it (p=0.000118)
+  1) a building with a clock on the side of it . (p=0.000103)
+  2) a building with a clock on the front of it (p=0.000053)
+Captions for image 19120254_2324542234438511_1682559829119336448_n.jpg:
+  0) a man in a suit and tie standing in a room . (p=0.000089)
+  1) a man in a suit and tie standing in front of a microphone . (p=0.000043)
+  2) a man in a suit and tie standing in a room (p=0.000030)
+Captions for image 45376051_2470103096549887_5151196163036176851_n.jpg:
+  0) a man standing on top of a bridge next to a river . (p=0.000027)
+  1) a man standing on top of a wooden bench . (p=0.000018)
+  2) a man standing on top of a bridge near a river . (p=0.000018)
+Captions for image 44818690_318581358739824_5959544553526833033_n.jpg:
+  0) a large body of water with a bridge in the background . (p=0.000224)
+  1) a large body of water next to a bridge . (p=0.000218)
+  2) a large body of water with a bridge in the background (p=0.000065)
+Captions for image 47197554_2389721934431064_7649434414483483402_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000683)
+  1) a sign that is on the side of a wall . (p=0.000185)
+  2) a sign that is on the side of a road . (p=0.000101)
+Captions for image 56242990_813275999037314_5693040200457239467_n.jpg:
+  0) a teddy bear sitting on top of a sign . (p=0.000115)
+  1) a teddy bear sitting on top of a pole . (p=0.000096)
+  2) a teddy bear sitting on top of a wall . (p=0.000086)
+Captions for image 42579293_152082599073890_9024752185252151047_n.jpg:
+  0) a close up of a pair of scissors (p=0.000595)
+  1) a close up of a person holding a pair of scissors (p=0.000327)
+  2) a close up of a pair of scissors on a table (p=0.000186)
+Captions for image 43662610_502863536885908_7143091566844658463_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000029)
+  1) a group of people standing in front of a tall building . (p=0.000021)
+  2) a group of people standing in front of a large building . (p=0.000018)
+Captions for image 41947216_680577692315767_6016150170471989683_n.jpg:
+  0) a row of boats sitting on top of a river . (p=0.000272)
+  1) a row of boats sitting on top of a lake . (p=0.000228)
+  2) a row of boats sitting on the side of a river . (p=0.000122)
+Captions for image 40213495_682526378784717_3327436809184477184_n.jpg:
+  0) a boat that is sitting in the water . (p=0.002211)
+  1) a boat that is floating in the water . (p=0.000788)
+  2) a boat that is sitting on the water . (p=0.000246)
+Captions for image 65859097_361627301205190_6928682867463801255_n.jpg:
+  0) a view of a large body of water with a mountain in the background . (p=0.000004)
+  1) a view of a large body of water with a bridge in the background . (p=0.000002)
+  2) a view of a large body of water with a boat in the background . (p=0.000001)
+Captions for image 38758156_2131872580397981_1259260097377337344_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.000683)
+  1) a black and white photo of a clock tower (p=0.000326)
+  2) a black and white photo of a building (p=0.000088)
+Captions for image 38508514_2112452412161713_5862637703434076160_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000461)
+  1) a sign that is on top of a pole . (p=0.000211)
+  2) a sign that is on the side of a wall . (p=0.000112)
+Captions for image 39954428_265558150730865_4293825659332984832_n.jpg:
+  0) a view of a window from inside a house . (p=0.000032)
+  1) a view of a window from inside a building . (p=0.000018)
+  2) a view of a window from inside a house (p=0.000007)
+Captions for image 40275876_1035064493340953_2881880088763170816_n.jpg:
+  0) a pair of shoes and a pair of shoes . (p=0.000456)
+  1) a pair of shoes and a pair of shoes (p=0.000252)
+  2) a pair of shoes with a pair of shoes on the floor . (p=0.000054)
+Captions for image 39316541_335030197042305_4427660976329850880_n.jpg:
+  0) a large body of water with lots of trees . (p=0.000087)
+  1) a large body of water next to a river with lots of trees . (p=0.000009)
+  2) a large body of water with lots of trees and a bridge . (p=0.000009)
+Captions for image 38295552_2129746800677918_7502623570447564800_n.jpg:
+  0) a motorcycle parked in front of a window . (p=0.000486)
+  1) a motorcycle parked in front of a building . (p=0.000345)
+  2) a motorcycle is parked in front of a window . (p=0.000164)
+Captions for image 36627087_239136170018028_8105775852278513664_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.001193)
+  1) a close up of a vandalized street sign (p=0.000855)
+  2) a close up of a street sign on a pole (p=0.000674)
+Captions for image 37125444_2019033065078787_7128168934099910656_n.jpg:
+  0) a bicycle parked on the side of a pier . (p=0.000127)
+  1) a bicycle parked on the side of the road . (p=0.000119)
+  2) a bicycle parked on the side of a pier near the water . (p=0.000012)
+Captions for image 31928335_169394470402029_240649701949440000_n.jpg:
+  0) a white toilet sitting on top of a sidewalk . (p=0.000218)
+  1) a white toilet sitting on top of a lush green field . (p=0.000169)
+  2) a white toilet sitting on top of a grass covered field . (p=0.000123)
+Captions for image 36762339_438885786577505_8453798611346522112_n.jpg:
+  0) a group of people standing outside of a building . (p=0.000178)
+  1) a group of people standing outside of a large building . (p=0.000058)
+  2) a group of people standing outside of a building with umbrellas . (p=0.000014)
+Captions for image 33226295_1786532898057099_8743057692295168000_n.jpg:
+  0) a man is standing next to a fire hydrant . (p=0.000050)
+  1) a man is standing next to a fire hydrant (p=0.000041)
+  2) a man is standing next to a statue of a cow . (p=0.000010)
+Captions for image 30087545_165968557449291_6302860641409433600_n.jpg:
+  0) a collage of photos with a clock and a book (p=0.000003)
+  1) a collage of photos showing a refrigerator and a clock (p=0.000002)
+  2) a collage of photos showing a refrigerator and a clock . (p=0.000001)
+Captions for image 30592891_241818196378969_5327010240300843008_n.jpg:
+  0) a large building with a large clock tower . (p=0.000100)
+  1) a large building with a clock tower in the middle . (p=0.000025)
+  2) a large building with a clock tower in the middle of it . (p=0.000020)
+Captions for image 30085101_905379842967089_5647786409742827520_n.jpg:
+  0) a train traveling down tracks next to a tall building . (p=0.000148)
+  1) a train traveling down tracks next to a lush green field . (p=0.000133)
+  2) a train traveling down train tracks next to a lush green hillside . (p=0.000095)
+Captions for image 30086539_843107979211262_1771777964988432384_n.jpg:
+  0) a sign that is on a pole on a street . (p=0.000035)
+  1) a sign that is on a pole in front of a building . (p=0.000028)
+  2) a street sign on a pole with a building in the background (p=0.000019)
+Captions for image 32559035_259315668141989_3114907310388936704_n.jpg:
+  0) a black and white photo of a man holding a baseball bat . (p=0.000317)
+  1) a black and white photo of a man holding a frisbee . (p=0.000271)
+  2) a black and white photo of a person holding a baseball bat . (p=0.000167)
+Captions for image 30079901_1781671828543031_3545175686698237952_n.jpg:
+  0) a bathroom with a shower and a toilet . (p=0.001030)
+  1) a bathroom with a toilet and a shower . (p=0.000819)
+  2) a bathroom with a toilet and a shower (p=0.000645)
+Captions for image 22638914_125594324815866_3835941540958568448_n.jpg:
+  0) a bike with a helmet on it sitting next to a bike . (p=0.000002)
+  1) a bike with a helmet on it sitting on a bench . (p=0.000002)
+  2) a bike with a helmet on it sitting on a bike . (p=0.000002)
+Captions for image 22220899_751985808320267_6048692740349231104_n.jpg:
+  0) a close up of a pair of scissors (p=0.000183)
+  1) a close up of a person holding a pair of scissors (p=0.000177)
+  2) a close up of a pair of scissors on a table (p=0.000036)
+Captions for image 22069121_147113345892811_5298349395253657600_n.jpg:
+  0) a car parked on the side of the road . (p=0.000622)
+  1) a car parked on the side of the road (p=0.000347)
+  2) a car driving down a street next to a tall building . (p=0.000333)
+Captions for image 21981000_901400483369048_4109701579584569344_n.jpg:
+  0) a group of people standing next to a train . (p=0.000097)
+  1) a group of people standing around a train . (p=0.000080)
+  2) a train station with a train on the tracks . (p=0.000047)
+Captions for image 21372413_1538772582812754_3972359469035159552_n.jpg:
+  0) a clock hanging from the side of a building . (p=0.001577)
+  1) a clock hanging from the side of a building (p=0.000170)
+  2) a clock hanging from the side of a brick building . (p=0.000127)
+Captions for image 21149769_856215781209235_8028180520682651648_n.jpg:
+  0) a close up of a book on a table (p=0.000150)
+  1) a close up of a box of doughnuts (p=0.000086)
+  2) a close up of a book on a desk (p=0.000032)
+Captions for image 19120690_235743740260043_1187243039240749056_n.jpg:
+  0) a group of people sitting around a table . (p=0.010118)
+  1) a group of people sitting at a table with laptops . (p=0.000918)
+  2) a group of people sitting around a table with wine glasses . (p=0.000779)
+Captions for image 21108022_342770866166726_2913052501836038144_n.jpg:
+  0) a statue of a man holding a teddy bear . (p=0.000620)
+  1) a statue of a man holding a giant teddy bear . (p=0.000164)
+  2) a statue of a man holding a teddy bear (p=0.000122)
+Captions for image 22430451_1178176268992914_4518742513825087488_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000038)
+  1) a car is parked on the side of the street . (p=0.000034)
+  2) a car is parked on the side of a road . (p=0.000021)
+Captions for image 19051890_196976930826382_2370519092068089856_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.000490)
+  1) a glass of wine is sitting on a table . (p=0.000162)
+  2) a glass of wine is sitting on a table (p=0.000146)
+Captions for image 19425015_1945182205758234_7166122868604928000_n.jpg:
+  0) a room filled with lots of wooden pews . (p=0.000144)
+  1) a room filled with lots of wooden furniture . (p=0.000081)
+  2) a room filled with lots of furniture and a chandelier . (p=0.000040)
+Captions for image 19050771_233035763854670_829445080635932672_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000021)
+  1) a man in a suit and tie is smiling (p=0.000012)
+  2) a man in a suit and tie holding a cell phone . (p=0.000009)
+Captions for image 22427370_347566515654633_6772162440713994240_n.jpg:
+  0) a group of people sitting around a table with laptops . (p=0.001757)
+  1) a group of people sitting at tables with laptops . (p=0.001368)
+  2) a group of people sitting at a table with laptops . (p=0.001004)
+Captions for image 18513009_300752377025869_7460410316875104256_n.jpg:
+  0) a computer mouse sitting on top of a desk . (p=0.000533)
+  1) a computer mouse sitting on top of a table . (p=0.000442)
+  2) a computer mouse sitting on top of a wooden table . (p=0.000196)
+Captions for image 17125761_1958711917678260_5687480278449127424_n.jpg:
+  0) a train traveling through a lush green countryside . (p=0.001324)
+  1) a train traveling down tracks next to a lush green field . (p=0.000725)
+  2) a train traveling down tracks next to a forest . (p=0.000438)
+Captions for image 16789305_159554501218355_5105065477407768576_n.jpg:
+  0) a red fire hydrant in front of a building . (p=0.000223)
+  1) a red fire hydrant in front of a brick building . (p=0.000155)
+  2) a red fire hydrant on a city street (p=0.000154)
+Captions for image 22351948_133543274036232_1921155643348090880_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000048)
+  1) a train station with a train passing by . (p=0.000034)
+  2) a train station with a train passing by (p=0.000025)
+Captions for image 17267570_1177338572391578_5410502278526271488_n.jpg:
+  0) a cat sitting on the floor in a bathroom . (p=0.000116)
+  1) a cat is sitting on the floor in a bathroom . (p=0.000084)
+  2) a cat sitting on the floor in a bathroom (p=0.000078)
+Captions for image 16464059_1328073603905500_421553629967679488_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000116)
+  1) a large building with a clock tower in the middle of it . (p=0.000080)
+  2) a large building with a clock tower in the center . (p=0.000047)
+Captions for image 19436370_143889239515160_132827588820205568_n.jpg:
+  0) a close up of a sign on a wall (p=0.000056)
+  1) a close up of a sign on a building (p=0.000042)
+  2) a close up of a sign that says `` <UNK> <UNK> '' . (p=0.000001)
+Captions for image 15258758_570849903112058_6910538513100308480_n.jpg:
+  0) a man sitting in front of a laptop computer . (p=0.004407)
+  1) a man sitting at a table with a laptop . (p=0.000824)
+  2) a man sitting at a table with a laptop computer . (p=0.000462)
+Captions for image 15046966_648278985333087_2816907137769275392_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.000982)
+  1) a city street filled with lots of tall buildings . (p=0.000296)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000061)
+Captions for image 14733489_701378023353617_7677216812823478272_n.jpg:
+  0) a man in a suit and tie standing in front of a sign . (p=0.000021)
+  1) a man in a suit and tie standing in a room . (p=0.000020)
+  2) a man in a suit and tie standing in front of a laptop . (p=0.000013)
+Captions for image 22500117_174120709811951_7389929220647944192_n.jpg:
+  0) a group of people sitting at tables working on laptops . (p=0.000576)
+  1) a group of people sitting around a table with laptops . (p=0.000425)
+  2) a group of people sitting at a table with laptops . (p=0.000332)
+Captions for image 17267931_217055652032667_2040402764621676544_n.jpg:
+  0) a group of people standing in a room . (p=0.000791)
+  1) a group of people standing around a kitchen . (p=0.000639)
+  2) a group of people standing in a living room . (p=0.000458)
+Captions for image 15043421_1837463933167104_6152153185340358656_n.jpg:
+  0) a close up of a clock on a wall (p=0.000096)
+  1) a close up of a clock on a building (p=0.000061)
+  2) a close up of a clock on a wooden wall (p=0.000007)
+Captions for image 14693656_1634716126821074_3508515465062252544_n.jpg:
+  0) a car parked in front of a parking meter . (p=0.000412)
+  1) a car is parked on the side of the road . (p=0.000162)
+  2) a car is parked on the side of the street . (p=0.000095)
+Captions for image 14488269_1831701360418323_3876146811420803072_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000324)
+  1) a sign that is on the side of a wall . (p=0.000020)
+  2) a sign that is on a pole on a street . (p=0.000013)
+Captions for image 14553339_1650839858547953_8635651563928420352_n.jpg:
+  0) a church with a clock tower on top of it . (p=0.000229)
+  1) a church with a clock tower in the middle of it . (p=0.000049)
+  2) a church with a clock tower in the middle of it (p=0.000028)
+Captions for image 13549585_195862967478448_1470359302_n.jpg:
+  0) a store front with a sign on the side of it . (p=0.000004)
+  1) a store front with a sign on the side of it (p=0.000003)
+  2) a store front with a sign on the side . (p=0.000002)
+Captions for image 14262890_1195965593794088_1485420561_n.jpg:
+  0) a car parked on the side of a street . (p=0.000187)
+  1) a car parked on the side of the street . (p=0.000180)
+  2) a car parked on the side of the street (p=0.000066)
+Captions for image 14156431_187382355024204_685387407_n.jpg:
+  0) a teddy bear sitting on top of a table . (p=0.000183)
+  1) a teddy bear sitting on top of a shelf . (p=0.000179)
+  2) a teddy bear sitting on top of a book shelf . (p=0.000157)
+Captions for image 14360084_192538994503709_365869270_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001018)
+  1) a city street filled with traffic next to tall buildings . (p=0.000211)
+  2) a city street filled with lots of tall buildings . (p=0.000172)
+Captions for image 14240669_1838787196355623_131082154_n.jpg:
+  0) a teddy bear wearing a santa claus hat . (p=0.000159)
+  1) a teddy bear with a bow tie on . (p=0.000053)
+  2) a teddy bear wearing a santa claus hat (p=0.000050)
+Captions for image 14334582_1693681117622744_994587524_n.jpg:
+  0) a teddy bear sitting on top of a table . (p=0.001418)
+  1) a teddy bear sitting on top of a wooden table . (p=0.000784)
+  2) a teddy bear sitting on a table next to a cup . (p=0.000076)
+Captions for image 14334515_1104110219664857_1116015520_n.jpg:
+  0) a pile of luggage sitting on top of a wooden floor . (p=0.000261)
+  1) a pile of luggage sitting on top of a sidewalk . (p=0.000186)
+  2) a pile of luggage sitting on top of a table . (p=0.000137)
+Captions for image 13248693_332852093719040_96425253_n.jpg:
+  0) a group of people sitting around a table . (p=0.009505)
+  1) a group of people sitting around a table with wine glasses . (p=0.001642)
+  2) a group of people sitting at a table with wine glasses . (p=0.001320)
+Captions for image 14334635_1099023543499857_390700046_n.jpg:
+  0) a painting of a clock on a wall . (p=0.000033)
+  1) a painting of a clock on a wall (p=0.000025)
+  2) a painting of a clock on a building (p=0.000002)
+Captions for image 22427474_799443190263867_6788817271620894720_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000067)
+  1) a sign that is on the side of a wall . (p=0.000036)
+  2) a white refrigerator sitting next to a wall . (p=0.000015)
+Captions for image 14276673_1186252531426606_460541350_n.jpg:
+  0) a wall mounted clock mounted to the side of a wall . (p=0.000256)
+  1) a wall mounted clock mounted to a wall . (p=0.000180)
+  2) a wall mounted clock mounted to the wall . (p=0.000053)
+Captions for image 14350425_1475295032565947_1091012506_n.jpg:
+  0) a group of people sitting around a table . (p=0.008221)
+  1) a group of people sitting at a table with wine glasses . (p=0.002048)
+  2) a group of people sitting around a table with wine glasses . (p=0.001746)
+Captions for image 14276612_144195986032539_1780641729_n.jpg:
+  0) a man riding a bike down a dirt road . (p=0.000829)
+  1) a man riding a bike down a street next to a forest . (p=0.000115)
+  2) a man riding a bike down a road next to a forest . (p=0.000081)
+Captions for image 14156481_641345842701720_1926212663_n.jpg:
+  0) a group of men standing next to each other . (p=0.000459)
+  1) a group of men standing next to each other on a stage . (p=0.000045)
+  2) a group of men standing next to each other on a field . (p=0.000020)
+Captions for image 14052635_1577384189236304_1966858356_n.jpg:
+  0) a wooden bench sitting in the middle of a forest . (p=0.000117)
+  1) a wooden bench sitting in front of a building . (p=0.000116)
+  2) a wooden bench sitting in front of a brick wall . (p=0.000101)
+Captions for image 14073038_1841173792782817_1428025285_n.jpg:
+  0) a bike parked on the side of a street . (p=0.000344)
+  1) a bike parked on the side of a road next to a building . (p=0.000057)
+  2) a bike parked on the side of a street next to a building . (p=0.000046)
+Captions for image 13687215_315352715484192_713867901_n.jpg:
+  0) a street sign on the side of a building . (p=0.000501)
+  1) a street sign on a pole on a city street (p=0.000233)
+  2) a street sign on the side of a building (p=0.000134)
+Captions for image 14099772_1666932966968652_104627284_n.jpg:
+  0) a bottle of beer sitting next to a bottle of beer . (p=0.000406)
+  1) a bottle of beer sitting next to a beer . (p=0.000207)
+  2) a bottle of beer sitting next to a bottle of wine . (p=0.000133)
+Captions for image 14128792_1084491618272961_1659874183_n.jpg:
+  0) a cat sitting on a window sill next to a window . (p=0.000007)
+  1) a cat sitting on a window sill in front of a building . (p=0.000006)
+  2) a cat sitting on a window sill next to a building . (p=0.000005)
+Captions for image 14145586_284429491931444_1549385876_n.jpg:
+  0) a brick building with a large window in it . (p=0.000006)
+  1) a brick building with a large window in it (p=0.000005)
+  2) a brick building with a window and a bench . (p=0.000005)
+Captions for image 11379196_1637728953140815_471991880_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000362)
+  1) a large building with a clock tower on it . (p=0.000150)
+  2) a large building with a clock tower in the middle of it . (p=0.000107)
+Captions for image 14145381_778993405577131_835499956_n.jpg:
+  0) a large building with a clock on the front of it . (p=0.000208)
+  1) a large building with a clock on the top of it . (p=0.000189)
+  2) a large building with a clock on the front of it (p=0.000135)
+Captions for image 14072897_1178703935525527_1738714534_n.jpg:
+  0) a building with a clock on the side of it (p=0.000197)
+  1) a building with a clock on the side of it . (p=0.000178)
+  2) a brick building with a clock on the side of it . (p=0.000093)
+Captions for image 14128814_1678414622480955_120518009_n.jpg:
+  0) a woman walking down a street next to a tall building . (p=0.000101)
+  1) a woman walking down a street next to a building . (p=0.000098)
+  2) a woman walking down a street next to a clock . (p=0.000020)
+Captions for image 14099646_1831702330449510_704486583_n.jpg:
+  0) a building with a clock on the side of it (p=0.000174)
+  1) a building with a clock on the side of it . (p=0.000137)
+  2) a brick building with a clock on the side of it . (p=0.000082)
+Captions for image 14063452_1782175498672456_984721155_n.jpg:
+  0) a man standing in front of a building . (p=0.000385)
+  1) a woman walking down a street next to a building . (p=0.000175)
+  2) a woman walking down a street next to a tall building . (p=0.000081)
+Captions for image 14063087_1133363603391702_460605726_n.jpg:
+  0) a group of people sitting at a table in a restaurant . (p=0.000245)
+  1) a group of people sitting at a table in a boat . (p=0.000078)
+  2) a group of people sitting at a table in a restaurant (p=0.000034)
+Captions for image 13734293_494494107423744_1834757079_n.jpg:
+  0) a group of people walking down a street . (p=0.000821)
+  1) a group of people walking across a street . (p=0.000569)
+  2) a group of people walking down a street next to buildings . (p=0.000163)
+Captions for image 14063473_113931235725875_737270517_n.jpg:
+  0) a group of people walking down a street . (p=0.002352)
+  1) a crowd of people walking down a street . (p=0.001517)
+  2) a group of people walking down a street next to tall buildings . (p=0.000235)
+Captions for image 13712112_929573750484314_875442279_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.005511)
+  1) a train traveling over a bridge over water . (p=0.001364)
+  2) a train traveling over a bridge over a body of water . (p=0.000502)
+Captions for image 13774253_1123171371054660_1142001150_n.jpg:
+  0) a red fire hydrant in front of a brick wall . (p=0.000046)
+  1) a red fire hydrant in front of a brick building . (p=0.000033)
+  2) a red fire hydrant sitting in front of a brick building . (p=0.000022)
+Captions for image 13736937_327680234230259_2145137296_n.jpg:
+  0) a boat sitting on the side of a road . (p=0.000107)
+  1) a boat sitting on the side of the road . (p=0.000091)
+  2) a boat sitting on the side of the road (p=0.000043)
+Captions for image 13707335_650242205129453_355867002_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.004112)
+  1) a clock that is on the side of a building . (p=0.001728)
+  2) a clock that is on the side of a wall . (p=0.000227)
+Captions for image 13743584_295399220802576_478691055_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000912)
+  1) a sign that is on the side of a wall . (p=0.000213)
+  2) a sign that is on the side of a pole . (p=0.000152)
+Captions for image 13714266_1736898329925515_230247294_n.jpg:
+  0) a patio with a table and chairs and a bench . (p=0.000002)
+  1) a patio with a table and chairs and a table . (p=0.000001)
+  2) a patio with a table and chairs and a bench (p=0.000001)
+Captions for image 13724762_268812643498195_2094217765_n.jpg:
+  0) a red brick building with a white door . (p=0.000030)
+  1) a red brick building with a red door (p=0.000022)
+  2) a red brick building with a white door (p=0.000020)
+Captions for image 13437296_574985182680854_100176613_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000199)
+  1) a sign that is on the side of a wall . (p=0.000025)
+  2) a sign that is on the side of a building (p=0.000011)
+Captions for image 13408730_250593165318755_2090664900_n.jpg:
+  0) a group of people standing on top of a lush green field . (p=0.000544)
+  1) a group of people standing on top of a field . (p=0.000229)
+  2) a group of people standing on top of a grass covered field . (p=0.000209)
+Captions for image 13744180_159350457808747_806939916_n.jpg:
+  0) a street sign on the side of a building . (p=0.000044)
+  1) a street sign on the corner of a building (p=0.000018)
+  2) a street sign on the side of a building (p=0.000018)
+Captions for image 13534631_1714792665409963_1722170025_n.jpg:
+  0) a laptop computer sitting on top of a table . (p=0.000485)
+  1) a laptop computer sitting on top of a desk . (p=0.000485)
+  2) a laptop computer sitting on top of a wooden desk . (p=0.000190)
+Captions for image 13531814_1148906075172285_1923387688_n.jpg:
+  0) a store front with a store front window . (p=0.000016)
+  1) a store front with a store front window (p=0.000007)
+  2) a store front of a store with a lot of windows . (p=0.000001)
+Captions for image 13534361_861064637357949_293554473_n.jpg:
+  0) a building with a clock on the side of it (p=0.000247)
+  1) a building with a clock on the side of it . (p=0.000228)
+  2) a building that has a clock on the side of it . (p=0.000179)
+Captions for image 12940081_1694713607443845_1921809354_n.jpg:
+  0) a building with a clock on the side of it (p=0.000346)
+  1) a building with a clock on the side of it . (p=0.000291)
+  2) a building with a clock on the front of it (p=0.000162)
+Captions for image 12383153_974643689290798_1690757848_n.jpg:
+  0) a view of a building with a clock on it . (p=0.000007)
+  1) a view of a building with a clock in the window . (p=0.000002)
+  2) a view of a building with a clock on the side of it . (p=0.000001)
+Captions for image 13557202_689798031159326_920020871_n.jpg:
+  0) a street corner with a building and a building . (p=0.000018)
+  1) a large building with a clock on the side of it . (p=0.000015)
+  2) a large building with a clock on the front of it . (p=0.000013)
+Captions for image 13423507_1743421085882659_903549573_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003949)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000255)
+  2) a city street filled with lots of traffic and traffic . (p=0.000229)
+Captions for image 13437364_735784363191106_182064361_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000347)
+  1) a man in a suit and tie sitting in a car (p=0.000177)
+  2) a man in a suit and tie sitting on a bus . (p=0.000153)
+Captions for image 13408730_612924952196147_148868836_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.000890)
+  1) a city street filled with lots of tall buildings . (p=0.000208)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000026)
+Captions for image 13525430_259652611060094_103050138_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.000791)
+  1) a city street filled with lots of cars . (p=0.000191)
+  2) a city street filled with lots of cars and motorcycles . (p=0.000070)
+Captions for image 13525334_1802265583338358_4125062_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001748)
+  1) a car driving down a street next to a tall building . (p=0.000268)
+  2) a car driving down a street next to a traffic light . (p=0.000211)
+Captions for image 13402239_212475672484553_1519264903_n.jpg:
+  0) a close up of a sandwich on a plate (p=0.002495)
+  1) a close up of a hot dog on a plate (p=0.001228)
+  2) a close up of a hot dog on a bun (p=0.000484)
+Captions for image 13385756_874319206002284_108929713_n.jpg:
+  0) a building with a clock on the side of it (p=0.000271)
+  1) a brick building with a clock on the side of it . (p=0.000251)
+  2) a building with a clock on the side of it . (p=0.000218)
+Captions for image 13437338_1721646594740395_1390355756_n.jpg:
+  0) a building that has a sign on it (p=0.000047)
+  1) a building that has a sign on the side of it . (p=0.000031)
+  2) a building that has a sign on it . (p=0.000030)
+Captions for image 13551739_1759617220985054_277775488_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000162)
+  1) a group of people standing in front of a tall building . (p=0.000113)
+  2) a crowd of people standing around a street . (p=0.000104)
+Captions for image 13402313_1366656430027542_997672533_n.jpg:
+  0) a pot of food is sitting on the stove . (p=0.000013)
+  1) a pot of food is sitting on a stove . (p=0.000009)
+  2) a pot of food is sitting on the stove (p=0.000003)
+Captions for image 13473370_791298634340053_105755261_n.jpg:
+  0) a bunch of hot dogs on a table . (p=0.000069)
+  1) a bunch of hot dogs on a table (p=0.000056)
+  2) a bunch of hot dogs are on a table . (p=0.000055)
+Captions for image 13473207_1196600787057947_1424199476_n.jpg:
+  0) a large group of people in a large room . (p=0.000727)
+  1) a large group of people in a room . (p=0.000617)
+  2) a large group of people in a large room (p=0.000077)
+Captions for image 13402245_926009287507874_901783887_n.jpg:
+  0) a fire hydrant in front of a building . (p=0.000085)
+  1) a fire hydrant in the middle of a street . (p=0.000058)
+  2) a fire hydrant in the middle of a sidewalk . (p=0.000042)
+Captions for image 13388476_1717767458495882_596892625_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000066)
+  1) a sign that is on the side of a wall . (p=0.000016)
+  2) a sign that is on the side of a street . (p=0.000006)
+Captions for image 13388760_1719639721623823_1555403974_n.jpg:
+  0) a sign that reads `` <UNK> '' on a wall . (p=0.000003)
+  1) a sign that reads `` <UNK> '' on a building . (p=0.000002)
+  2) a sign that reads `` <UNK> '' on the side of a building . (p=0.000001)
+Captions for image 12976532_707058492730457_1514256416_n.jpg:
+  0) a room with a fireplace and a window (p=0.000008)
+  1) a room with a fireplace and a window . (p=0.000007)
+  2) a room with a fireplace and a large window . (p=0.000005)
+Captions for image 13355627_1629778687342489_540088656_n.jpg:
+  0) a close up of a pair of scissors (p=0.000918)
+  1) a close up of a person holding a pair of scissors (p=0.000185)
+  2) a close up of a pair of scissors on a table (p=0.000109)
+Captions for image 13298117_578821252298243_1065132683_n.jpg:
+  0) a close up of a urinal in a bathroom (p=0.000720)
+  1) a close up of a toilet in a bathroom (p=0.000570)
+  2) a close up of a toilet in a bath room (p=0.000345)
+Captions for image 13355418_820288888115663_743415454_n.jpg:
+  0) a group of people standing around a pile of luggage . (p=0.000726)
+  1) a group of people standing around a luggage carousel . (p=0.000463)
+  2) a group of people standing in front of a train . (p=0.000080)
+Captions for image 13413255_562132240635935_541282001_n.jpg:
+  0) a man standing next to a pile of luggage . (p=0.000615)
+  1) a group of people standing around a pile of luggage . (p=0.000225)
+  2) a man standing next to a pile of luggage on a sidewalk . (p=0.000033)
+Captions for image 13249706_239709573076287_711454840_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000170)
+  1) a large building with a clock on the front of it . (p=0.000095)
+  2) a large building with a clock tower in the middle of it . (p=0.000090)
+Captions for image 13256923_1130387980359496_1590745865_n.jpg:
+  0) a car parked in front of a building . (p=0.000383)
+  1) a black and white photo of a city street . (p=0.000265)
+  2) a black and white photo of a city street (p=0.000241)
+Captions for image 13266716_1046915142045255_1349378253_n.jpg:
+  0) a person on a snowboard in the snow . (p=0.001250)
+  1) a snow boarder is going down a snowy hill . (p=0.000207)
+  2) a person on a snowboard in the snow (p=0.000113)
+Captions for image 13259523_232285587151340_516976694_n.jpg:
+  0) a street sign on the side of a building . (p=0.000264)
+  1) a street sign on the side of a street . (p=0.000180)
+  2) a street sign on the side of a road . (p=0.000141)
+Captions for image 13259001_272673113083239_1645811298_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000466)
+  1) a sign that is on the side of a pole . (p=0.000033)
+  2) a sign that is on a pole in front of a building . (p=0.000029)
+Captions for image 13261037_1770675663211672_1404651641_n.jpg:
+  0) a man walking down a street holding a cell phone . (p=0.000383)
+  1) a man walking down a street while holding a cell phone . (p=0.000223)
+  2) a man is walking down the street with a cell phone . (p=0.000102)
+Captions for image 13249875_999865900111710_1243410465_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000069)
+  1) a sign that is on the side of a wall . (p=0.000057)
+  2) a sign that is on the side of a building (p=0.000003)
+Captions for image 13256893_473585906164978_1911761674_n.jpg:
+  0) a dog looking out the window of a house . (p=0.001149)
+  1) a dog looking out the window of a house (p=0.000760)
+  2) a dog looking out the window of a building . (p=0.000427)
+Captions for image 13187939_279278142414253_1390654749_n.jpg:
+  0) a harbor filled with lots of small boats . (p=0.001178)
+  1) a harbor filled with lots of boats next to buildings . (p=0.000299)
+  2) a harbor filled with lots of boats next to a building . (p=0.000159)
+Captions for image 13266950_1725115361039600_925744940_n.jpg:
+  0) a man standing in front of a brick building . (p=0.000841)
+  1) a man standing in front of a brick wall . (p=0.000233)
+  2) a man is standing outside of a building (p=0.000230)
+Captions for image 13108546_1746757675568661_1377045204_n.jpg:
+  0) a mirror with a reflection of a mirror (p=0.000022)
+  1) a mirror with a reflection of a man in a mirror . (p=0.000019)
+  2) a mirror with a reflection of a man in it . (p=0.000016)
+Captions for image 13259501_484688738398784_1541320553_n.jpg:
+  0) a group of people walking across a bridge . (p=0.001194)
+  1) a group of people walking down a rain soaked street . (p=0.000441)
+  2) a group of people walking across a bridge over a river . (p=0.000261)
+Captions for image 13256929_1205117286195434_1286318603_n.jpg:
+  0) a motorcycle parked in front of a building . (p=0.004934)
+  1) a motorcycle parked in front of a brick building . (p=0.004203)
+  2) a motorcycle parked on the side of a street . (p=0.001346)
+Captions for image 13102540_1318625081487156_1833576468_n.jpg:
+  0) a building with a window and a window . (p=0.000010)
+  1) a building with a window and a window (p=0.000007)
+  2) a building with a large window and a window . (p=0.000002)
+Captions for image 13188052_484729435053372_1024211780_n.jpg:
+  0) a group of people standing next to each other . (p=0.001136)
+  1) a group of people standing around each other . (p=0.000431)
+  2) a group of people standing next to each other in a parking lot . (p=0.000020)
+Captions for image 13256800_1154098494642627_621335851_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000820)
+  1) a train traveling over a bridge over water . (p=0.000325)
+  2) a train traveling over a bridge over a body of water . (p=0.000148)
+Captions for image 13102574_1790109521207143_1855859282_n.jpg:
+  0) a group of people on a field playing baseball . (p=0.012903)
+  1) a group of men on a field playing baseball . (p=0.006460)
+  2) a group of people on a field playing soccer . (p=0.000805)
+Captions for image 13129413_720454818057035_65456764_n.jpg:
+  0) a large wooden grandfather clock sitting in a room . (p=0.000126)
+  1) a wooden shelf with a clock on it . (p=0.000043)
+  2) a large wooden grandfather clock sitting next to a wall . (p=0.000038)
+Captions for image 12976461_216686948712341_1035234625_n.jpg:
+  0) a parking meter on the side of the street . (p=0.000220)
+  1) a parking meter on the side of a street . (p=0.000209)
+  2) a parking meter on the side of the road . (p=0.000189)
+Captions for image 13092403_1063700943666191_1994242671_n.jpg:
+  0) a group of people standing around a train station . (p=0.000383)
+  1) a group of people standing in front of a train . (p=0.000378)
+  2) a group of people standing around a baggage claim . (p=0.000297)
+Captions for image 13117822_885450948249438_1478009295_n.jpg:
+  0) a stuffed animal is sitting on a book (p=0.000026)
+  1) a stuffed animal is sitting on a book . (p=0.000018)
+  2) a book with a picture of a cat on it . (p=0.000006)
+Captions for image 12965816_1715401468718107_296797930_n.jpg:
+  0) a man walking down a sidewalk next to a building . (p=0.000039)
+  1) a person walking down a sidewalk next to a building . (p=0.000037)
+  2) a man walking down a sidewalk next to a bench . (p=0.000021)
+Captions for image 11381430_1459865150980625_1992560072_n.jpg:
+  0) a traffic light and street sign on a pole . (p=0.000758)
+  1) a traffic light with a street sign attached to it . (p=0.000198)
+  2) a traffic light with a street sign on it . (p=0.000130)
+Captions for image 12912569_981147178643475_1158312522_n.jpg:
+  0) a room with a bed and a window (p=0.000004)
+  1) a room with a bed and a window . (p=0.000004)
+  2) a room with a bed and a large window . (p=0.000001)
+Captions for image 11312168_500176680129899_1724485613_n.jpg:
+  0) a group of people riding skateboards down a street . (p=0.001456)
+  1) a group of people riding skateboards down a curvy road . (p=0.000487)
+  2) a group of people riding skateboards down a road . (p=0.000462)
+Captions for image 12960180_971213292963055_1955869624_n.jpg:
+  0) a statue of a man standing in front of a clock tower . (p=0.000364)
+  1) a statue of a man standing in front of a building . (p=0.000106)
+  2) a statue of a man is standing in front of a clock tower . (p=0.000083)
+Captions for image 12959944_582635668580806_603271906_n.jpg:
+  0) a teddy bear sitting on top of a wooden table . (p=0.000401)
+  1) a teddy bear sitting on top of a table . (p=0.000380)
+  2) a teddy bear sitting on top of a wooden table (p=0.000015)
+Captions for image 12976664_1684475248483301_360462385_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001814)
+  1) a group of people walking down a street . (p=0.000597)
+  2) a group of people walking down a street next to tall buildings . (p=0.000249)
+Captions for image 12918568_1715914565293263_1715686322_n.jpg:
+  0) a group of people sitting around a table . (p=0.008067)
+  1) a group of people sitting around a table with wine glasses . (p=0.000461)
+  2) a group of people sitting at a table with wine glasses . (p=0.000277)
+Captions for image 12960086_1570792019880341_887223735_n.jpg:
+  0) a building with a clock on the front of it (p=0.000516)
+  1) a building with a clock on the front of it . (p=0.000454)
+  2) a large building with a clock on the front of it . (p=0.000321)
+Captions for image 12950472_1059157364141781_43261688_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.003719)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.001939)
+  2) a bottle of wine and a bottle of wine (p=0.000333)
+Captions for image 12599405_1697359730503151_38562099_n.jpg:
+  0) a building with a clock on the front of it . (p=0.000376)
+  1) a building with a clock on the front of it (p=0.000364)
+  2) a tall building with a clock on the front of it . (p=0.000224)
+Captions for image 12960173_1569938253336035_1231989467_n.jpg:
+  0) a large building with a clock on it . (p=0.000062)
+  1) a large building with a large clock on it . (p=0.000037)
+  2) a large building with a clock on it (p=0.000034)
+Captions for image 11311957_1596983567249488_1560430340_n.jpg:
+  0) a close up of a nintendo wii game system (p=0.000165)
+  1) a close up of a nintendo wii remote (p=0.000152)
+  2) a close up of a nintendo wii game console (p=0.000087)
+Captions for image 12445872_1687436574857206_1022853606_n.jpg:
+  0) a tall building with a clock on it (p=0.000068)
+  1) a tall building with a clock on the top of it . (p=0.000052)
+  2) a brick building with a clock tower in the middle . (p=0.000035)
+Captions for image 12960120_1023793184362595_1410597231_n.jpg:
+  0) a sign on the side of a building . (p=0.000196)
+  1) a sign on the side of a building (p=0.000068)
+  2) a sign on the side of the building . (p=0.000013)
+Captions for image 12519672_253589551655804_2040023914_n.jpg:
+  0) a wooden bench sitting in front of a building . (p=0.000266)
+  1) a wooden bench sitting in front of a brick building . (p=0.000174)
+  2) a wooden bench sitting in front of a brick wall . (p=0.000084)
+Captions for image 12965102_551302131719217_1317489906_n.jpg:
+  0) a man sitting at a table with a microphone . (p=0.000126)
+  1) a man sitting at a table with a microphone (p=0.000032)
+  2) a man sitting at a desk with a book and papers . (p=0.000005)
+Captions for image 12912664_1747854255460709_1900034613_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.005243)
+  1) a bus driving down a street next to a tall building . (p=0.000395)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000242)
+Captions for image 12965704_1736670949880714_195515770_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000131)
+  1) a pair of scissors sitting on a table . (p=0.000083)
+  2) a pair of scissors sitting on top of a table (p=0.000030)
+Captions for image 12976326_1606589256329527_1891596300_n.jpg:
+  0) a close up of a train on a train track (p=0.000224)
+  1) a close up of a train on a track (p=0.000111)
+  2) a close up of a train with graffiti on it (p=0.000064)
+Captions for image 12531048_246783942338496_1476647749_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000632)
+  1) a pair of scissors sitting on top of a table (p=0.000056)
+  2) a pair of scissors sitting on a table next to a pair of scissors . (p=0.000007)
+Captions for image 12135175_592259937607224_2138269451_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.001741)
+  1) a boat floating on top of a large body of water . (p=0.001089)
+  2) a boat floating on top of a lake next to a forest . (p=0.000060)
+Captions for image 12599185_1584204525239956_206723289_n.jpg:
+  0) a street sign in front of a building . (p=0.000658)
+  1) a street sign on the side of a building . (p=0.000482)
+  2) a street sign in front of a building (p=0.000342)
+Captions for image 12912795_1530959117208724_972716097_n.jpg:
+  0) a fire hydrant in the middle of a field . (p=0.000246)
+  1) a red fire hydrant sitting in the middle of a field . (p=0.000242)
+  2) a red fire hydrant sitting in the middle of a forest . (p=0.000211)
+Captions for image 12519669_1564506867211612_1574464672_n.jpg:
+  0) a group of people walking down a street . (p=0.000257)
+  1) a group of people walking down a sidewalk . (p=0.000227)
+  2) a group of people walking down a street next to a building . (p=0.000016)
+Captions for image 12093758_1653959831513557_920980559_n.jpg:
+  0) a man sitting in front of a computer monitor . (p=0.000230)
+  1) a man sitting in front of a tv holding a game controller . (p=0.000070)
+  2) a man sitting in front of a tv holding a wii controller . (p=0.000030)
+Captions for image 11934619_496417550537289_855327279_n.jpg:
+  0) a table with a plate of food and a drink (p=0.000021)
+  1) a table with a plate of food and a bottle of wine (p=0.000010)
+  2) a table with a plate of food and a bottle (p=0.000008)
+Captions for image 11821290_128475584166346_406029620_n.jpg:
+  0) a traffic light sitting on the side of a road . (p=0.000461)
+  1) a traffic light sitting on the side of a street . (p=0.000385)
+  2) a traffic light on a pole on a city street . (p=0.000141)
+Captions for image 11849826_891753730919707_893212285_n.jpg:
+  0) a car parked in front of a parking meter . (p=0.000444)
+  1) a car parked in front of a parking meter (p=0.000067)
+  2) a car parked on the side of a road next to a fire hydrant . (p=0.000037)
+Captions for image 1389311_1642774842601730_1281704966_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000075)
+  1) a pair of scissors sitting on a piece of paper . (p=0.000030)
+  2) a pair of scissors sitting on top of a table (p=0.000017)
+Captions for image 11386426_839120149508425_1114433230_n.jpg:
+  0) a table with chairs and a umbrella on it . (p=0.000021)
+  1) a table with chairs and a umbrella on it (p=0.000018)
+  2) a patio table with chairs and a table (p=0.000018)
+Captions for image 11850342_932739566797432_1471440036_n.jpg:
+  0) a parking meter on the side of the road . (p=0.001492)
+  1) a parking meter on the side of a road . (p=0.000783)
+  2) a parking meter on the side of the street . (p=0.000705)
+Captions for image 1208294_1424672847860276_810756366_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000081)
+  1) a train station with a train passing by . (p=0.000055)
+  2) a train station with a train passing by (p=0.000054)
+Captions for image 11856742_452237541647579_398693562_n.jpg:
+  0) a red fire hydrant in front of a building . (p=0.000031)
+  1) a red fire hydrant sitting in front of a building . (p=0.000027)
+  2) a red fire hydrant in front of a brick building . (p=0.000014)
+Captions for image 11116954_1618830388354197_1036987628_n.jpg:
+  0) a group of people sitting around a table with laptops . (p=0.004156)
+  1) a group of people sitting around a wooden table . (p=0.003333)
+  2) a group of people sitting at a table with laptops . (p=0.001937)
+Captions for image 11117164_1417104088597954_828838739_n.jpg:
+  0) a man and a woman playing a video game . (p=0.001340)
+  1) a couple of people that are playing a video game (p=0.001290)
+  2) a couple of people that are playing a video game . (p=0.001054)
+Captions for image 11372179_861168610644303_648185299_n.jpg:
+  0) a group of men standing next to each other . (p=0.001147)
+  1) a group of men standing next to each other on a street . (p=0.000107)
+  2) a group of men standing next to each other on a sidewalk . (p=0.000094)
+Captions for image 11373582_680388325439241_1025531307_n.jpg:
+  0) a sign that is on the side of a tree . (p=0.000181)
+  1) a sign that is on the side of a wall . (p=0.000104)
+  2) a sign that is on the side of a road . (p=0.000078)
+Captions for image 11335131_700249663437748_2045863335_n.jpg:
+  0) a street sign on a pole on a street . (p=0.000094)
+  1) a street sign on a pole on a city street (p=0.000068)
+  2) a street sign on a pole on a street (p=0.000044)
+Captions for image 11334468_836389586416000_2052175247_n.jpg:
+  0) an airport terminal with a large plane on display (p=0.000002)
+  1) an airport terminal with a large plane on the ceiling (p=0.000002)
+  2) an airport terminal with a large plane on the runway (p=0.000001)
+Captions for image 11325064_1582356735350788_32349637_n.jpg:
+  0) a large airplane that is sitting in a hanger . (p=0.000025)
+  1) a large airplane that is on display in a building (p=0.000018)
+  2) a large airplane that is sitting in a hanger (p=0.000017)
+Captions for image 11269506_377294692473278_2131510041_n.jpg:
+  0) a train station with a large clock on the ceiling (p=0.000004)
+  1) a view of a train station with a train passing by . (p=0.000002)
+  2) a train station with a large clock on the ceiling . (p=0.000001)
+Captions for image 11333483_2082270471911883_1300045463_n.jpg:
+  0) a group of people standing in a room . (p=0.000185)
+  1) a group of people standing in front of a building . (p=0.000071)
+  2) a group of people standing in front of a large building . (p=0.000033)
+Captions for image 11330764_577348515741688_1344586509_n.jpg:
+  0) a group of people standing around a large building . (p=0.000047)
+  1) a group of people standing on a stage with a skateboard . (p=0.000003)
+  2) a group of people standing around a large building (p=0.000002)
+Captions for image 11334501_391150484397888_207319742_n.jpg:
+  0) a group of people standing in a room . (p=0.000204)
+  1) a group of people standing in a room with luggage . (p=0.000020)
+  2) a group of people standing in a room with a clock . (p=0.000008)
+Captions for image 11265715_1409824832675084_1854183194_n.jpg:
+  0) a woman standing on a tennis court holding a racquet . (p=0.000977)
+  1) a woman standing on a tennis court holding a tennis racquet . (p=0.000315)
+  2) a woman standing on a tennis court holding a tennis racket . (p=0.000085)
+Captions for image 11325332_1850002731892592_237395972_n.jpg:
+  0) a group of people standing in a room . (p=0.000128)
+  1) a crowd of people standing around a large building . (p=0.000067)
+  2) a group of people standing in a room with luggage . (p=0.000008)
+Captions for image 11324365_576405852463053_593332566_n.jpg:
+  0) a train on a train track with a sky background (p=0.000359)
+  1) a train traveling down tracks next to a forest . (p=0.000334)
+  2) a train traveling down tracks next to a lush green forest . (p=0.000121)
+Captions for image 11325013_1446499832328747_1175259793_n.jpg:
+  0) a group of people standing around a large airplane . (p=0.000393)
+  1) a group of people standing in front of an airplane . (p=0.000233)
+  2) a group of people standing in front of a large airplane . (p=0.000134)
+Captions for image 11288039_1444067195889394_1340511721_n.jpg:
+  0) a crowd of people standing around a large airplane . (p=0.000459)
+  1) a group of people standing around a large airplane . (p=0.000454)
+  2) a large crowd of people standing around a large airplane . (p=0.000045)

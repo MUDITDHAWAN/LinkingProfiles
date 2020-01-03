@@ -1,0 +1,860 @@
+Captions for image 23098850_142204809740229_85550689064845312_n.jpg:
+  0) a stove top oven sitting inside of a kitchen . (p=0.002603)
+  1) a stove top oven sitting next to a stove top oven . (p=0.000382)
+  2) a stove top oven sitting in a kitchen next to pots . (p=0.000120)
+Captions for image 11356995_698696926941732_1260501423_a.jpg:
+  0) a man in a suit and tie sitting on a bench . (p=0.000050)
+  1) a man in a suit and tie sitting in a chair . (p=0.000048)
+  2) a man in a suit and tie sitting on a chair . (p=0.000026)
+Captions for image 50525107_404799060326505_3093902619038842388_n.jpg:
+  0) a black and white dog laying on a bed . (p=0.000864)
+  1) a dog laying on a couch with a remote control . (p=0.000269)
+  2) a dog laying on a couch with a remote (p=0.000201)
+Captions for image 61356601_1637729653026694_6747776695048896003_n.jpg:
+  0) a black and brown dog laying on a bed . (p=0.000974)
+  1) a black and brown dog laying on a couch . (p=0.000837)
+  2) a black and brown dog laying on a couch (p=0.000277)
+Captions for image 59817681_708165649639498_1760518311985786402_n.jpg:
+  0) a bunch of books that are on a table . (p=0.000140)
+  1) a bunch of books that are on a shelf . (p=0.000092)
+  2) a bunch of books that are sitting on a table . (p=0.000062)
+Captions for image 34686976_928974380617613_8931006148362895360_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000452)
+  1) a bunch of flowers that are sitting in the grass . (p=0.000198)
+  2) a bunch of flowers that are in a vase (p=0.000181)
+Captions for image 60602157_656907095131576_1487345914312597217_n.jpg:
+  0) a teddy bear sitting on top of a table . (p=0.000060)
+  1) a teddy bear sitting on a table next to a vase . (p=0.000001)
+  2) a teddy bear sitting on a table next to a glass . (p=0.000001)
+Captions for image 64775178_329840104609920_642636518937151052_n.jpg:
+  0) a birthday cake with candles on a table (p=0.000052)
+  1) a birthday cake with candles on a table . (p=0.000046)
+  2) a birthday cake with candles on it sitting on a table . (p=0.000034)
+Captions for image 61354900_1140788706111558_4349362701006462132_n.jpg:
+  0) a blender filled with lots of different types of food . (p=0.000041)
+  1) a bunch of bottles of wine sitting on top of a table . (p=0.000036)
+  2) a bunch of bottles of wine sitting on a table . (p=0.000035)
+Captions for image 62268821_123831592168932_9086470253589921569_n.jpg:
+  0) a dog is wearing a santa hat in his mouth . (p=0.000028)
+  1) a dog is wearing a santa hat and a hat . (p=0.000014)
+  2) a dog is wearing a santa hat in his mouth (p=0.000013)
+Captions for image 61658748_2350380608538167_4037659156545206300_n.jpg:
+  0) a bunch of fruit that is on a plate . (p=0.000065)
+  1) a bunch of fruit that is in a bowl . (p=0.000053)
+  2) a bunch of fruit that is sitting on a table . (p=0.000044)
+Captions for image 62049957_411942772725585_2888508994864870078_n.jpg:
+  0) a black and white photo of a parking meter . (p=0.000170)
+  1) a black and white photo of a parking meter (p=0.000164)
+  2) a black and white photo of a person holding a cell phone (p=0.000051)
+Captions for image 60945687_2058144741156744_25177879715954480_n.jpg:
+  0) a group of people sitting around a table . (p=0.011759)
+  1) a group of people sitting around a table with food . (p=0.002437)
+  2) a group of people sitting around a table with plates of food . (p=0.001289)
+Captions for image 23164213_128095867889124_3680721225312632832_n.jpg:
+  0) a black and white photo of a <UNK> (p=0.000156)
+  1) a black and white photo of a black and white photo (p=0.000034)
+  2) a black and white photo of a black and white picture (p=0.000012)
+Captions for image 61261277_101806097720539_7686014601530976411_n.jpg:
+  0) a bouquet of flowers in a vase on a table . (p=0.000560)
+  1) a bouquet of flowers in a glass vase . (p=0.000369)
+  2) a bouquet of flowers in a vase on a table (p=0.000254)
+Captions for image 61132438_349468272600283_371895631599838279_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000927)
+  1) a close up of a flower in a vase (p=0.000519)
+  2) a close up of a flower in a vase on a table (p=0.000233)
+Captions for image 59638263_2486283518090202_4327908289796532749_n.jpg:
+  0) a truck parked in a parking lot next to a car . (p=0.000094)
+  1) a truck parked in a parking lot next to a building . (p=0.000074)
+  2) a black and white photo of an old truck . (p=0.000044)
+Captions for image 58411086_307241096863857_7028788877096069509_n.jpg:
+  0) a green plant with leaves in the middle . (p=0.000019)
+  1) a green plant with leaves in the middle (p=0.000008)
+  2) a green plant with leaves in the middle of it . (p=0.000006)
+Captions for image 57419078_638093009985219_4832240277797655491_n.jpg:
+  0) a close up of a cup of coffee on a table (p=0.000734)
+  1) a close up of a cup of coffee on a desk (p=0.000243)
+  2) a close up of a cup of coffee on a table . (p=0.000079)
+Captions for image 23161499_1843653485662581_4939297808709582848_n.jpg:
+  0) a statue of a man holding a teddy bear . (p=0.000527)
+  1) a statue of a man holding a giant teddy bear . (p=0.000237)
+  2) a statue of a man holding a large teddy bear . (p=0.000158)
+Captions for image 57390247_586159078554822_8097934499174327259_n.jpg:
+  0) a white truck parked in a parking lot . (p=0.000454)
+  1) a white truck parked on the side of a road . (p=0.000434)
+  2) a white truck parked on the side of the road . (p=0.000204)
+Captions for image 57328230_119509799237613_6969448886812832818_n.jpg:
+  0) a close up of a cell phone on a table (p=0.000312)
+  1) a close up of a cell phone on a desk (p=0.000049)
+  2) a close up of a cell phone on a counter (p=0.000020)
+Captions for image 57052413_186237655680962_4276043772282708912_n.jpg:
+  0) a close up of a cake on a table (p=0.000305)
+  1) a close up of a cake on a plate (p=0.000107)
+  2) a close up of a cup of coffee on a table (p=0.000041)
+Captions for image 54277281_821390034892069_6592428964932760961_n.jpg:
+  0) a birthday cake with a train on it (p=0.000080)
+  1) a birthday cake with a train on it . (p=0.000060)
+  2) a birthday cake with a train on top of it . (p=0.000020)
+Captions for image 13658296_1051313124945030_284418872_n.jpg:
+  0) a pair of scissors sitting on top of a wooden table . (p=0.000497)
+  1) a black and white photo of a pair of scissors (p=0.000262)
+  2) a pair of scissors sitting on top of a wooden bench . (p=0.000242)
+Captions for image 57038505_412377822673495_2023684565854231054_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000095)
+  1) a person holding a stuffed animal in their hand . (p=0.000061)
+  2) a person holding a pair of scissors in their hands (p=0.000023)
+Captions for image 56614204_133184487760438_6492485603914968600_n.jpg:
+  0) a close up of a clock on a table (p=0.000235)
+  1) a clock that is sitting on a table . (p=0.000175)
+  2) a close up of a clock on a desk (p=0.000079)
+Captions for image 61631280_130945654772559_7472219276206386375_n.jpg:
+  0) a vase filled with purple and white flowers . (p=0.000685)
+  1) a vase filled with purple and purple flowers . (p=0.000572)
+  2) a vase filled with pink flowers on a table . (p=0.000345)
+Captions for image 53911523_299821347378580_6400048231721776403_n.jpg:
+  0) a birthday cake with a train on it (p=0.000265)
+  1) a birthday cake with a train on it . (p=0.000156)
+  2) a birthday cake with a train on top of it (p=0.000071)
+Captions for image 54732039_1014426229068838_3783239520180030017_n.jpg:
+  0) a table topped with a laptop computer and a cup of coffee . (p=0.000234)
+  1) a table topped with a laptop computer next to a cup of coffee . (p=0.000045)
+  2) a table topped with a laptop computer and a bowl of food . (p=0.000032)
+Captions for image 54513388_1226675707488180_2756896483117685913_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.000453)
+  1) a vase of flowers sitting on a table . (p=0.000259)
+  2) a vase filled with flowers sitting on a table . (p=0.000206)
+Captions for image 54277204_2284621471820448_7593951473173304262_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.000630)
+  1) a close up of a plate of food on a table (p=0.000534)
+  2) a close up of a plate of food with meat (p=0.000313)
+Captions for image 52427013_2209670242605675_2665107888445152136_n.jpg:
+  0) a cake shaped like a train on a table . (p=0.000133)
+  1) a birthday cake with a train on it (p=0.000107)
+  2) a cake shaped like a train on a train track . (p=0.000087)
+Captions for image 62415952_336042083736558_4136292275904630741_n.jpg:
+  0) a birthday cake with a train on it (p=0.000067)
+  1) a birthday cake with a train on it . (p=0.000060)
+  2) a birthday cake with candles on it (p=0.000024)
+Captions for image 51101888_392697821275628_3649984344799938820_n.jpg:
+  0) a group of stuffed animals sitting next to each other . (p=0.000876)
+  1) a group of stuffed animals sitting on top of each other . (p=0.000311)
+  2) a group of stuffed animals sitting on top of a table . (p=0.000188)
+Captions for image 50748526_350959032167523_1045100326853839740_n.jpg:
+  0) a close up of a keyboard and a mouse (p=0.000867)
+  1) a close up of a computer keyboard and mouse . (p=0.000515)
+  2) a close up of a computer keyboard and a mouse . (p=0.000179)
+Captions for image 53160751_943449606046187_5554816895892333074_n.jpg:
+  0) a white plate topped with a piece of cake . (p=0.001917)
+  1) a piece of cake on a plate with a fork . (p=0.000842)
+  2) a piece of chocolate cake on a plate (p=0.000420)
+Captions for image 49363220_2006057566180759_1751599878995146773_n.jpg:
+  0) a man wearing a hat and glasses eating a hot dog . (p=0.000010)
+  1) a man wearing a hat and glasses eating a doughnut . (p=0.000009)
+  2) a man wearing a hat and glasses eating a banana . (p=0.000008)
+Captions for image 47694153_224045351809266_1826290154345043336_n.jpg:
+  0) a red suitcase is sitting on the floor . (p=0.000018)
+  1) a red suitcase is sitting on the floor (p=0.000009)
+  2) a red suitcase is sitting on the ground . (p=0.000009)
+Captions for image 47582011_341147446480784_5440626119246452264_n.jpg:
+  0) a black and white dog sitting on a couch . (p=0.002924)
+  1) a black and white dog sitting in a chair . (p=0.001723)
+  2) a black and white dog sitting in front of a mirror . (p=0.001199)
+Captions for image 45515716_125860035077211_1195126360735472578_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000015)
+  1) a man in a suit and tie holding a baby . (p=0.000006)
+  2) a man in a suit and tie holding a baby (p=0.000003)
+Captions for image 46248301_275962863099298_5818610911894963792_n.jpg:
+  0) a large elephant standing next to a crowd of people . (p=0.000108)
+  1) a large elephant standing in front of a building . (p=0.000085)
+  2) a large elephant standing in front of a building (p=0.000005)
+Captions for image 47075730_126281981720182_4973909335778805361_n.jpg:
+  0) a close up of a tooth brush in a cup (p=0.000248)
+  1) a close up of a tooth brush in a glass (p=0.000135)
+  2) a close up of a tooth brush with tooth paste (p=0.000129)
+Captions for image 47692573_1986146184788267_6286156442449959660_n.jpg:
+  0) a close up of a stop sign on a city street (p=0.000072)
+  1) a close up of a stop sign on a street (p=0.000046)
+  2) a close up of a street sign on a street (p=0.000034)
+Captions for image 44897283_1048418168652011_4570829750940570533_n.jpg:
+  0) a close up of a vase with a flower in it (p=0.000048)
+  1) a close up of a vase with a flower in it . (p=0.000009)
+  2) a black and white photo of a vase and a vase (p=0.000002)
+Captions for image 45562915_278771269445752_4038247492476640747_n.jpg:
+  0) a birthday cake with a train on it (p=0.000028)
+  1) a birthday cake with a train on it . (p=0.000023)
+  2) a birthday cake with a train on top (p=0.000008)
+Captions for image 46103262_541895076274344_4509785930441909086_n.jpg:
+  0) a stuffed animal that is sitting in the grass . (p=0.000019)
+  1) a stuffed animal that is sitting on a blanket . (p=0.000007)
+  2) a stuffed animal that is sitting in a tree . (p=0.000007)
+Captions for image 47692356_602660600155907_828749435792025746_n.jpg:
+  0) a remote control sitting on top of a table . (p=0.001495)
+  1) a remote control sitting on top of a wooden table . (p=0.000945)
+  2) a close up of a remote control on a table (p=0.000766)
+Captions for image 45655265_185036735780484_8677192483326559440_n.jpg:
+  0) a couple of men standing next to each other . (p=0.002750)
+  1) a man and a woman pose for a picture (p=0.000210)
+  2) a couple of men standing next to each other in a room . (p=0.000142)
+Captions for image 44196262_191496855105679_7391354266836824769_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.002077)
+  1) a person is holding a pair of scissors . (p=0.000836)
+  2) a person holding a pair of scissors in their hand . (p=0.000629)
+Captions for image 42068573_311955009386271_3812953595570728329_n.jpg:
+  0) a bunch of green bananas hanging from a tree . (p=0.000653)
+  1) a bunch of green leaves hanging from a tree . (p=0.000603)
+  2) a bunch of green bananas hanging from a tree (p=0.000166)
+Captions for image 44644101_2110034639049181_6549686832198392196_n.jpg:
+  0) a close up of a person holding a kite (p=0.000085)
+  1) a close up of a stuffed animal in a field (p=0.000085)
+  2) a close up of a stuffed animal on a field (p=0.000054)
+Captions for image 40807561_307572043155790_4493226841764843865_n.jpg:
+  0) a close up of an orange on a plate (p=0.000924)
+  1) a close up of an orange on a table (p=0.000386)
+  2) a close up of an orange on a white surface (p=0.000114)
+Captions for image 44726683_1734305413365585_1699569369511648475_n.jpg:
+  0) a man and a woman are playing a video game . (p=0.000236)
+  1) a man and a woman are playing a video game (p=0.000209)
+  2) a man and a woman are playing a video game together . (p=0.000071)
+Captions for image 40485981_274492353387000_5230493741139621721_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000579)
+  1) a close up of a flower in a vase (p=0.000326)
+  2) a close up of a flower in a vase on a table (p=0.000137)
+Captions for image 40202560_285300328739288_8649269523846150193_n.jpg:
+  0) a couple of glass vases sitting on top of a table . (p=0.000121)
+  1) a couple of glass vases sitting on a table . (p=0.000107)
+  2) a couple of glass vases that are on a table (p=0.000088)
+Captions for image 39929199_273327133394368_1279724950822846464_n.jpg:
+  0) a close up of a stuffed animal wearing a hat (p=0.000348)
+  1) a close up of a teddy bear wearing a hat (p=0.000299)
+  2) a close up of a teddy bear wearing a shirt (p=0.000088)
+Captions for image 46161483_2314314942132179_3027956587292128833_n.jpg:
+  0) a man is cutting a cake with a knife . (p=0.000635)
+  1) a man in a suit is cutting a cake (p=0.000367)
+  2) a man in a suit is cutting a cake . (p=0.000279)
+Captions for image 38691876_445421099197131_3524705988529618944_n.jpg:
+  0) a bunch of different colored vases on display (p=0.000115)
+  1) a bunch of different colored vases on display . (p=0.000093)
+  2) a bunch of vases that are on a table (p=0.000075)
+Captions for image 40287990_520233398450317_8862729567575110642_n.jpg:
+  0) a close up of a bowl of food on a table (p=0.000354)
+  1) a close up of a plate of food (p=0.000154)
+  2) a close up of a bowl of food with a spoon (p=0.000119)
+Captions for image 38450823_1092659354221929_6827233434801274880_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000168)
+  1) a pair of scissors sitting on top of a piece of paper . (p=0.000096)
+  2) a pair of scissors sitting on a piece of paper . (p=0.000048)
+Captions for image 38271765_300310314077233_7152368411933147136_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000183)
+  1) a close up of a colorful flower on a table (p=0.000058)
+  2) a close up of a vase with flowers on a table (p=0.000027)
+Captions for image 44677118_269972720528845_9009005213413371826_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000087)
+  1) a man in a suit and tie is smiling (p=0.000044)
+  2) a man in a suit and tie holding a microphone . (p=0.000037)
+Captions for image 38628668_2055190917872847_8635925565662035968_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.001405)
+  1) a close up of a vase with many flowers in it (p=0.000438)
+  2) a close up of a vase with many flowers (p=0.000316)
+Captions for image 36932781_242195089730795_6396927546247610368_n.jpg:
+  0) an apple is sitting on a table next to a knife . (p=0.000015)
+  1) an apple is sitting on a plate with a knife . (p=0.000014)
+  2) an apple is sitting on a table with a knife . (p=0.000014)
+Captions for image 36942798_1810797778956112_3231828127051153408_n.jpg:
+  0) a table topped with lots of different flavored donuts . (p=0.000086)
+  1) a table topped with lots of different colored items . (p=0.000036)
+  2) a table topped with lots of different types of items . (p=0.000032)
+Captions for image 36086164_427211747794269_4534413462213754880_n.jpg:
+  0) a red and white flower in a vase on a table . (p=0.000001)
+  1) a red and white flower in the middle of a tree . (p=0.000001)
+  2) a red and white flower in the middle of a field . (p=0.000001)
+Captions for image 44839783_2154327808139289_7188224281413094643_n.jpg:
+  0) a group of men standing next to each other . (p=0.002934)
+  1) a group of people standing around each other . (p=0.000874)
+  2) a group of men standing next to each other holding wii controllers . (p=0.000600)
+Captions for image 35280395_2097024700325146_1554541787626864640_n.jpg:
+  0) a white and black teddy bear sitting on a bed . (p=0.000008)
+  1) a white and black cat laying on a bed . (p=0.000006)
+  2) a white and black teddy bear sitting on top of a bed . (p=0.000004)
+Captions for image 34534580_2100510003564882_4328223494060900352_n.jpg:
+  0) a tv screen showing a picture of a man in a car . (p=0.000000)
+  1) a tv screen showing a picture of a man in a car (p=0.000000)
+  2) a tv screen showing a picture of a man on a tv screen . (p=0.000000)
+Captions for image 34587355_208057413345736_5701600013499498496_n.jpg:
+  0) a bunch of toothbrushes and a tube of toothpaste . (p=0.000017)
+  1) a bunch of toothbrushes and toothpaste on a counter . (p=0.000012)
+  2) a bunch of toothbrushes and a tube of toothpaste (p=0.000007)
+Captions for image 34706132_255752641654728_4020494872623448064_n.jpg:
+  0) a baseball player holding a baseball bat on a field . (p=0.000883)
+  1) a baseball player holding a baseball bat in his hands . (p=0.000480)
+  2) a baseball player holding a baseball bat on a baseball field . (p=0.000286)
+Captions for image 45378449_263245934547824_2992221206947989118_n.jpg:
+  0) a plate of food that includes meat and vegetables . (p=0.000250)
+  1) a plate of food with a sandwich and a pickle . (p=0.000029)
+  2) a plate of food that includes meat and vegetables (p=0.000012)
+Captions for image 33443296_1812644792364288_8673556029000122368_n.jpg:
+  0) a person is taking a picture of themselves in the mirror . (p=0.000053)
+  1) a person is taking a picture of themselves in a mirror . (p=0.000044)
+  2) a person is taking a picture of a bus . (p=0.000044)
+Captions for image 14717350_356899337983923_948611980510363648_n.jpg:
+  0) a bunch of green bananas hanging from a tree . (p=0.000678)
+  1) a bunch of green bananas hanging from a tree (p=0.000205)
+  2) a bunch of green bananas hanging from the tree . (p=0.000053)
+Captions for image 34700673_171640080196618_1293491051150966784_n.jpg:
+  0) a close up of a flower in a vase (p=0.000159)
+  1) a close up of a flower in a vase . (p=0.000047)
+  2) a close up of a flower in a flower pot (p=0.000018)
+Captions for image 33650922_1668695509918657_5842001111426269184_n.jpg:
+  0) a close up of a green and yellow fruit . (p=0.000020)
+  1) a close up of a green and yellow fruit (p=0.000013)
+  2) a close up of a green apple with a green handle . (p=0.000004)
+Captions for image 32307822_1817248755248600_440037026020982784_n.jpg:
+  0) a statue of a man holding a teddy bear . (p=0.000193)
+  1) a statue of a man holding a giant teddy bear . (p=0.000112)
+  2) a statue of a man holding a teddy bear (p=0.000040)
+Captions for image 33373057_546938575700846_7818114619423064064_n.jpg:
+  0) a plate of food with a sandwich and french fries . (p=0.000232)
+  1) a plate of food that includes rice and vegetables . (p=0.000193)
+  2) a plate of food that includes chicken and rice . (p=0.000159)
+Captions for image 32672747_221689718611023_1716661079175593984_n.jpg:
+  0) a view of a room with a clock on the wall . (p=0.000010)
+  1) a view of a room with a clock on the wall (p=0.000003)
+  2) a view of a room with a clock and a window . (p=0.000002)
+Captions for image 32847223_388694211645791_8708558827051548672_n.jpg:
+  0) a cake shaped like a train on a table . (p=0.000144)
+  1) a cake shaped like a train on a table (p=0.000047)
+  2) a cake shaped like a train is on a table . (p=0.000032)
+Captions for image 33914015_178884586284868_3973256953991266304_n.jpg:
+  0) a statue of a man and a statue of a cow . (p=0.000012)
+  1) a statue of a man and a statue of a horse . (p=0.000010)
+  2) a statue of a man and a statue of a horse (p=0.000008)
+Captions for image 32096798_2064939333787819_8318180354640838656_n.jpg:
+  0) a birthday cake with a train on it (p=0.000038)
+  1) a birthday cake with a train on it . (p=0.000027)
+  2) a birthday cake with a train on top of it . (p=0.000010)
+Captions for image 32379342_260086954562738_5600069980214263808_n.jpg:
+  0) a person cooking food on a grill (p=0.000197)
+  1) a person cooking food on a stove top . (p=0.000177)
+  2) a person cooking food on a stove top (p=0.000122)
+Captions for image 32203437_203284803814985_7341074959793389568_n.jpg:
+  0) a pile of books sitting on top of a bed . (p=0.000242)
+  1) a pile of books sitting on top of a table . (p=0.000116)
+  2) a bunch of books that are on a table . (p=0.000105)
+Captions for image 31557177_239431470136132_414235375062482944_n.jpg:
+  0) a table topped with lots of clutter and electronics . (p=0.000072)
+  1) a table topped with lots of books and a laptop . (p=0.000028)
+  2) a table topped with a laptop computer and a mouse . (p=0.000025)
+Captions for image 31425094_1816888708620520_3663386239089770496_n.jpg:
+  0) an orange and a red apple in a blue bowl . (p=0.000002)
+  1) a red and white vase with a red flower in it . (p=0.000001)
+  2) a red and white vase with a red flower on it . (p=0.000001)
+Captions for image 31176382_178779186276332_6681037725912530944_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000304)
+  1) a bunch of flowers that are on a table . (p=0.000154)
+  2) a bunch of flowers that are in a vase (p=0.000110)
+Captions for image 31375924_1826946470681467_7235933112415289344_n.jpg:
+  0) a birthday cake with a train on it (p=0.000025)
+  1) a birthday cake with a train on it . (p=0.000020)
+  2) a birthday cake with a train on top of it . (p=0.000008)
+Captions for image 31816104_1760775164011216_2124269366944989184_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000969)
+  1) a close up of a flower in a vase (p=0.000313)
+  2) a close up of a vase with many flowers in it (p=0.000217)
+Captions for image 31997227_317692852094904_7049836989842980864_n.jpg:
+  0) a dog laying on top of a bed . (p=0.000416)
+  1) a dog laying on top of a bed next to a pillow . (p=0.000050)
+  2) a dog laying on top of a bed with a blanket . (p=0.000045)
+Captions for image 31702750_247879055957697_2119848952244207616_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000706)
+  1) a close up of a flower in a vase (p=0.000631)
+  2) a close up of a flower in a vase on a table (p=0.000212)
+Captions for image 30855590_165253884163780_320268650336485376_n.jpg:
+  0) a man laying on a bed with a dog . (p=0.000175)
+  1) a dog laying on a bed with a blanket . (p=0.000174)
+  2) a dog laying on a bed with a blanket (p=0.000112)
+Captions for image 30079924_198978990707894_8150383528643657728_n.jpg:
+  0) a bird perched on top of a tree branch . (p=0.007616)
+  1) a close up of a bird on a tree branch (p=0.001470)
+  2) a bird perched on top of a tree branch (p=0.000800)
+Captions for image 30601776_164737377679826_8519484818969329664_n.jpg:
+  0) a close up of a bunch of different items (p=0.000033)
+  1) a close up of a bunch of different colored tooth brushes (p=0.000024)
+  2) a close up of a number of different colored tooth brushes (p=0.000019)
+Captions for image 30592459_116230365903975_954250593965178880_n.jpg:
+  0) a wooden bench sitting next to a wall . (p=0.000159)
+  1) a wooden bench sitting next to a wooden wall . (p=0.000121)
+  2) a wooden bench sitting next to a wooden door . (p=0.000041)
+Captions for image 29417093_156137455079394_8205779943813021696_n.jpg:
+  0) a dog is sitting on a chair in a room . (p=0.000025)
+  1) a dog is sitting in a chair with a toy . (p=0.000019)
+  2) a dog is sitting in a chair with a stuffed animal . (p=0.000003)
+Captions for image 29402862_1919021281742943_8907357388416221184_n.jpg:
+  0) a plate of food on a table (p=0.000280)
+  1) a plate of food with a fork and knife . (p=0.000108)
+  2) a plate of food with a fork and knife (p=0.000094)
+Captions for image 27892795_939646902861686_5501173079709057024_n.jpg:
+  0) a group of stuffed animals sitting on top of a table . (p=0.000269)
+  1) a group of teddy bears sitting on top of a table . (p=0.000168)
+  2) a group of teddy bears sitting on a table . (p=0.000133)
+Captions for image 27891248_177252526218851_2440333278658428928_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000873)
+  1) a pair of scissors sitting on a table . (p=0.000312)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000194)
+Captions for image 29087504_162389997784084_2528967638277685248_n.jpg:
+  0) a close up of a person wearing a hat (p=0.000312)
+  1) a close up of a baseball player wearing a hat (p=0.000159)
+  2) a close up of a person wearing a hat and a tie (p=0.000117)
+Captions for image 27579614_452345638501508_8482004129730789376_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.002121)
+  1) a person holding a pair of scissors in their hands . (p=0.001470)
+  2) a person holding a pair of scissors in their hand . (p=0.000420)
+Captions for image 26283265_1598786503534377_5937792389799215104_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.003244)
+  1) a person is holding a pair of scissors . (p=0.001737)
+  2) a person is holding a pair of scissors (p=0.001468)
+Captions for image 26065419_325308457985655_5223760751218393088_n.jpg:
+  0) a black and white photo of a cup of coffee . (p=0.000031)
+  1) a black and white photo of a cup of coffee (p=0.000021)
+  2) a black and white photo of a toothbrush and a cup (p=0.000006)
+Captions for image 23969458_1606000949443479_2896928756520189952_n.jpg:
+  0) a close up of a stuffed animal wearing a hat (p=0.000565)
+  1) a close up of a person holding a stuffed animal (p=0.000341)
+  2) a close up of a stuffed animal on a table (p=0.000336)
+Captions for image 23824939_1753872448253699_1739431750238470144_n.jpg:
+  0) a close up of a tooth brush in a glass (p=0.000607)
+  1) a close up of a person holding a tooth brush (p=0.000193)
+  2) a close up of a tooth brush in a glass jar (p=0.000150)
+Captions for image 23667707_1989331904679052_7238988818437636096_n.jpg:
+  0) a close up of a pair of scissors (p=0.001609)
+  1) a close up of a pair of scissors on a table (p=0.001168)
+  2) a pair of scissors sitting on top of a table . (p=0.000758)
+Captions for image 23347325_1875622099420705_1625881129988915200_n.jpg:
+  0) a white plate with a piece of cake on top of it . (p=0.000046)
+  1) a white plate with a piece of cake on it . (p=0.000030)
+  2) a white plate with a piece of cake on it (p=0.000018)
+Captions for image 13525507_1761982220752661_1508554679_n.jpg:
+  0) a black and white dog sitting on a chair . (p=0.003431)
+  1) a black and white dog sitting in a chair . (p=0.002182)
+  2) a black and white dog sitting on a chair (p=0.001021)
+Captions for image 22280345_290408341452538_3867035618122924032_n.jpg:
+  0) a close up of a pair of scissors on a table (p=0.000077)
+  1) a close up of a person holding a pair of scissors (p=0.000040)
+  2) a close up of a pair of scissors on a wooden surface (p=0.000010)
+Captions for image 22637522_122532368428871_8958428685619167232_n.jpg:
+  0) a man brushing his teeth with a tooth brush . (p=0.003216)
+  1) a man brushing his teeth in front of a mirror . (p=0.001352)
+  2) a man brushing his teeth with a toothbrush . (p=0.001154)
+Captions for image 22580461_475717959480402_7984696974697824256_n.jpg:
+  0) a group of soccer balls sitting on the ground . (p=0.000249)
+  1) a group of soccer balls sitting on top of a table . (p=0.000233)
+  2) a group of soccer balls sitting on a table . (p=0.000127)
+Captions for image 22071411_1835437240100879_4814808508052537344_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000673)
+  1) a close up of a pair of scissors (p=0.000329)
+  2) a close up of a pair of scissors on a table (p=0.000221)
+Captions for image 13671341_1659551611033154_1263849030_n.jpg:
+  0) a vase with flowers in it sitting on a table . (p=0.000011)
+  1) a red and white flower in a green vase . (p=0.000007)
+  2) a vase with flowers in it sitting on the ground . (p=0.000006)
+Captions for image 22221447_1780567368902461_6862654614206939136_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000486)
+  1) a close up of a vase with flowers in it (p=0.000335)
+  2) a bunch of flowers that are in a vase (p=0.000130)
+Captions for image 21820323_1902045280058475_2543747788974325760_n.jpg:
+  0) a man holding a toothbrush in his mouth . (p=0.000340)
+  1) a man holding a pair of scissors in his hands . (p=0.000199)
+  2) a man is holding a toothbrush in his mouth . (p=0.000185)
+Captions for image 21689166_1662744100433427_7542972511860817920_n.jpg:
+  0) a close up of a bunch of green leaves (p=0.000080)
+  1) a close up of a bunch of green flowers (p=0.000050)
+  2) a close up of a tree with many different flowers (p=0.000009)
+Captions for image 21576718_192624677946681_4091963394716860416_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.001400)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000850)
+  2) a close up of a pair of scissors (p=0.000569)
+Captions for image 21480180_127607827976475_8770086900741439488_n.jpg:
+  0) a chocolate cake with white frosting and sprinkles . (p=0.000015)
+  1) a chocolate cake with white frosting on it (p=0.000009)
+  2) a chocolate cake with white frosting on it . (p=0.000006)
+Captions for image 21688992_514490535561306_2516299490504212480_n.jpg:
+  0) a man standing on a skateboard in the middle of a ramp . (p=0.000004)
+  1) a person is standing on a skateboard in the air (p=0.000001)
+  2) a person is standing on a skateboard in the middle of the street . (p=0.000001)
+Captions for image 21480230_1437883102947507_9075278454932373504_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.001079)
+  1) a close up of a pair of scissors (p=0.000595)
+  2) a close up of a pair of scissors on a bed (p=0.000088)
+Captions for image 21480410_492166871117209_7273112024366710784_n.jpg:
+  0) a close up of a pair of scissors (p=0.003853)
+  1) a close up of a pair of scissors on a table (p=0.000706)
+  2) a close up of a person holding a pair of scissors (p=0.000656)
+Captions for image 21372129_1832705576746798_3507250068912603136_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.002319)
+  1) a person is holding a pair of scissors . (p=0.001024)
+  2) a person is holding a pair of scissors (p=0.000770)
+Captions for image 21433438_361574537631089_5791346473295675392_n.jpg:
+  0) a black and white photo of a bunch of stuffed animals (p=0.000042)
+  1) a black and white photo of a bunch of stuffed animals . (p=0.000029)
+  2) a black and white photo of a group of people standing next to each other . (p=0.000001)
+Captions for image 21147648_1954494101497885_5257638065974804480_n.jpg:
+  0) a city street at night with traffic lights . (p=0.000125)
+  1) a city street at night with a traffic light . (p=0.000111)
+  2) a city street at night with traffic lights (p=0.000088)
+Captions for image 21576421_1473626222751643_4430586725231755264_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.003015)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.001494)
+  2) a pair of scissors sitting on top of a table (p=0.000179)
+Captions for image 20838901_122071135109094_5762263570402246656_n.jpg:
+  0) a close up of a chocolate doughnut with sprinkles (p=0.000172)
+  1) a close up of a chocolate doughnut with sprinkles . (p=0.000016)
+  2) a close up of a chocolate doughnut with a bite taken out of it (p=0.000007)
+Captions for image 21148972_1576836749040303_5025569648553230336_n.jpg:
+  0) a close up of a green apple on a table (p=0.000027)
+  1) a close up of a green apple on a wooden table (p=0.000022)
+  2) a close up of a green apple on a wooden surface (p=0.000021)
+Captions for image 20837566_111554342846404_2538902657842544640_n.jpg:
+  0) a black and white photo of a tooth brush (p=0.000446)
+  1) a black and white photo of a toothbrush holder . (p=0.000358)
+  2) a black and white photo of a tooth brush . (p=0.000327)
+Captions for image 20902087_656480441217320_6567176038361595904_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.001173)
+  1) a pair of scissors sitting on a table . (p=0.000533)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000294)
+Captions for image 20589391_1928638157416646_125369476894949376_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.001667)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.001100)
+  2) a pair of scissors sitting on top of a table (p=0.000153)
+Captions for image 20479104_116637625653723_3684399323635777536_n.jpg:
+  0) a statue of a bear sitting on a bench . (p=0.000040)
+  1) a statue of a bear sitting on a bench (p=0.000026)
+  2) a statue of a bear sitting on top of a pole . (p=0.000023)
+Captions for image 20987417_264310904086381_6409062280557756416_n.jpg:
+  0) a group of birds sitting on top of a wooden bench . (p=0.000064)
+  1) a group of birds sitting on top of a wooden table . (p=0.000037)
+  2) a group of birds sitting on top of a tree . (p=0.000034)
+Captions for image 20393638_351870995241545_645900271716663296_n.jpg:
+  0) a bowl of oranges on a wooden table . (p=0.000241)
+  1) a bowl of oranges on a wooden table (p=0.000181)
+  2) a bowl of oranges on a table (p=0.000121)
+Captions for image 20481812_107364406606889_4511233137170186240_n.jpg:
+  0) a person on a snowboard jumping in the air . (p=0.000142)
+  1) a person on a snowboard jumping over a snowy hill . (p=0.000051)
+  2) a person on a snowboard jumping off a ramp . (p=0.000026)
+Captions for image 20225879_1949564081967225_3592317153249853440_n.jpg:
+  0) a close up of a person holding a doughnut (p=0.002257)
+  1) a close up of a person holding a stuffed animal (p=0.001065)
+  2) a close up of a person holding a donut (p=0.000741)
+Captions for image 20225287_157935371422232_4995651322981122048_n.jpg:
+  0) a statue of a giraffe standing in the grass . (p=0.000090)
+  1) a statue of a giraffe standing in a field . (p=0.000055)
+  2) a statue of a giraffe standing in the grass (p=0.000022)
+Captions for image 20688534_188393718367369_6945748852561412096_n.jpg:
+  0) a computer mouse sitting on top of a keyboard . (p=0.000784)
+  1) a computer mouse sitting on top of a computer keyboard . (p=0.000621)
+  2) a computer mouse sitting on top of a desk . (p=0.000537)
+Captions for image 20184803_164848557393020_6126680906833854464_n.jpg:
+  0) a dog laying on top of a bed next to pillows . (p=0.000308)
+  1) a dog laying on top of a bed next to a pillow . (p=0.000163)
+  2) a dog laying on top of a bed with a blanket . (p=0.000121)
+Captions for image 20213931_347841928984917_6346471941196480512_n.jpg:
+  0) a pair of scissors and a pair of scissors . (p=0.000058)
+  1) a pair of scissors and a knife on a table . (p=0.000024)
+  2) a pair of scissors and a pair of scissors (p=0.000022)
+Captions for image 20181128_774773986018014_4933807582079877120_n.jpg:
+  0) a blender with a bunch of bananas in it (p=0.000015)
+  1) a blender with a bunch of bananas on it (p=0.000008)
+  2) a blender with a bunch of bananas in it . (p=0.000004)
+Captions for image 20184817_100695303928869_853868498063982592_n.jpg:
+  0) a box of donuts and a cup of coffee . (p=0.000033)
+  1) a person holding a pair of scissors in their hands . (p=0.000014)
+  2) a box of donuts and a cup of coffee (p=0.000013)
+Captions for image 20066627_296361780827707_1595542812449832960_n.jpg:
+  0) a black and white photo of a train on a track . (p=0.000033)
+  1) a black and white photo of a train on a track (p=0.000026)
+  2) a black and white photo of a boat on a beach . (p=0.000011)
+Captions for image 19932803_939845799512409_6212530998068903936_n.jpg:
+  0) a close up of a person holding a doughnut (p=0.002381)
+  1) a close up of a person holding a hot dog (p=0.001208)
+  2) a close up of a person holding a donut (p=0.000773)
+Captions for image 19624870_704980396376712_2932751081576333312_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.001583)
+  1) a close up of a pair of scissors (p=0.000670)
+  2) a person holding a pair of scissors in their hands . (p=0.000305)
+Captions for image 19437166_262088027602950_8806170523017936896_n.jpg:
+  0) a large white vase filled with lots of flowers . (p=0.000037)
+  1) a large vase with a bunch of flowers in it (p=0.000029)
+  2) a large vase with a bunch of flowers in it . (p=0.000005)
+Captions for image 19429006_120510128551592_2522496582851493888_n.jpg:
+  0) a birthday cake with a train on it (p=0.000054)
+  1) a birthday cake with a train on it . (p=0.000040)
+  2) a chocolate cake with a train on it . (p=0.000037)
+Captions for image 19533955_144170859483127_9108112552197357568_n.jpg:
+  0) a close up of a pair of scissors (p=0.001052)
+  1) a close up of a pair of scissors on a table (p=0.000907)
+  2) a pair of scissors sitting on top of a wooden table . (p=0.000783)
+Captions for image 19228222_117603878843009_8188957076605632512_n.jpg:
+  0) a close up of a green plant with leaves (p=0.000092)
+  1) a close up of a green plant with some leaves (p=0.000031)
+  2) a close up of a green plant with leaves on it . (p=0.000024)
+Captions for image 19367201_1851723628488275_5561962384664297472_n.jpg:
+  0) a close up of a pan of food on a stove (p=0.000306)
+  1) a close up of a cake on a pan (p=0.000250)
+  2) a cake sitting on top of a pan on top of a stove . (p=0.000114)
+Captions for image 19120909_428888550831365_666775431977893888_n.jpg:
+  0) a black and white dog standing on a tile floor . (p=0.000181)
+  1) a black and white dog standing on top of a skateboard . (p=0.000120)
+  2) a black and white dog standing on top of a wooden floor . (p=0.000084)
+Captions for image 19228163_1570806526262760_6464722398129160192_n.jpg:
+  0) a cat sitting on top of a wooden bench . (p=0.004723)
+  1) a cat sitting on top of a wooden chair . (p=0.000456)
+  2) a cat sitting on top of a wooden bench (p=0.000203)
+Captions for image 19050134_686191988220504_5103762667798003712_n.jpg:
+  0) a close up of a bird on a car mirror (p=0.000015)
+  1) a close up of a bird with a bird on it (p=0.000015)
+  2) a close up of a bird on a car (p=0.000013)
+Captions for image 19050247_431289463893210_7124821037157449728_n.jpg:
+  0) a close up of a pair of scissors (p=0.000209)
+  1) a close up of a vase with flowers in it (p=0.000186)
+  2) a close up of a pair of scissors on a table (p=0.000141)
+Captions for image 18947903_221957448316164_2555476223673237504_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.000898)
+  1) a person holding a cell phone in their hands . (p=0.000711)
+  2) a person holding a pair of scissors in their hands . (p=0.000572)
+Captions for image 19121755_1710078049292559_5283982368871284736_n.jpg:
+  0) a black and white dog holding a red frisbee . (p=0.000200)
+  1) a black and white dog chewing on a frisbee . (p=0.000186)
+  2) a black and white dog holding a red frisbee in it 's mouth . (p=0.000069)
+Captions for image 18723202_1929130220699096_2428269694776508416_n.jpg:
+  0) a man wearing a helmet and holding a skateboard . (p=0.000029)
+  1) a man wearing a helmet and holding a snowboard . (p=0.000025)
+  2) a man wearing a helmet and holding a skateboard (p=0.000005)
+Captions for image 18723219_133670157193399_5907653251368484864_n.jpg:
+  0) a birthday cake with a train on it (p=0.000092)
+  1) a birthday cake with a train on it . (p=0.000059)
+  2) a birthday cake with a train on top of it . (p=0.000026)
+Captions for image 18645139_1826798957585835_8721142561537785856_n.jpg:
+  0) a black and white photo of a man holding a teddy bear . (p=0.000180)
+  1) a black and white photo of a man in a suit . (p=0.000140)
+  2) a black and white photo of a man in a suit (p=0.000078)
+Captions for image 18444482_273405606402082_8947510930292342784_n.jpg:
+  0) a close up of a tooth brush on a table (p=0.000192)
+  1) a close up of a tooth brush on a counter (p=0.000075)
+  2) a close up of a tooth brush in a glass (p=0.000059)
+Captions for image 18161941_1456122231125525_9140931492522754048_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.000542)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000508)
+  2) a vase filled with lots of flowers on top of a table . (p=0.000230)
+Captions for image 18253282_1868257003447891_5221702353782046720_n.jpg:
+  0) a close up of a green plant in a field (p=0.000108)
+  1) a close up of a large green plant (p=0.000033)
+  2) a close up of a green plant in a field . (p=0.000030)
+Captions for image 18299340_287242775057365_6075984199498596352_n.jpg:
+  0) a piece of chocolate cake on a plate . (p=0.000727)
+  1) a close up of a cake on a plate (p=0.000584)
+  2) a piece of chocolate cake on a plate (p=0.000318)
+Captions for image 18160749_170397096817338_8191227903124439040_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.001094)
+  1) a close up of a flower in a vase (p=0.000336)
+  2) a close up of a flower in a vase on a table (p=0.000175)
+Captions for image 18094970_1927497084150797_3021509643059855360_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.001148)
+  1) a close up of a flower in a vase (p=0.000568)
+  2) a close up of a flower in a vase on a table (p=0.000248)
+Captions for image 18095342_1854158124857305_5779137878432940032_n.jpg:
+  0) a close up of a tooth brush in a cup (p=0.000129)
+  1) a close up of a tooth brush and a tooth brush (p=0.000051)
+  2) a close up of a tooth brush in a glass (p=0.000017)
+Captions for image 17883235_1122978584474528_1831399665904386048_n.jpg:
+  0) a close up of a cake on a table (p=0.000138)
+  1) a close up of a box of doughnuts on a table (p=0.000035)
+  2) a close up of a box of doughnuts (p=0.000035)
+Captions for image 17931776_1767688283542100_1645774727014252544_n.jpg:
+  0) a sign that is on a beach by the water . (p=0.000017)
+  1) a sign that is on a beach by the ocean . (p=0.000016)
+  2) a sign that is on a beach near the ocean . (p=0.000015)
+Captions for image 18013145_1205956749509621_6297114576462807040_n.jpg:
+  0) a close up of a person holding a peeled banana (p=0.000522)
+  1) a close up of a person holding a banana (p=0.000409)
+  2) a close up of a person holding an apple (p=0.000335)
+Captions for image 17595980_713694638838185_2993830494392549376_n.jpg:
+  0) a close up of a cell phone on a table (p=0.001299)
+  1) a close up of a cup of coffee on a table (p=0.000254)
+  2) a close up of a cell phone on a desk (p=0.000191)
+Captions for image 17596656_1030052237127716_4897713815090626560_n.jpg:
+  0) a man in a hat is talking on a cell phone . (p=0.000109)
+  1) a man in a hat is talking on his cell phone . (p=0.000033)
+  2) a man in a hat is talking on a cellphone . (p=0.000029)
+Captions for image 17332838_832341780249351_9027258104928010240_n.jpg:
+  0) a black and white photo of a bottle of water (p=0.000058)
+  1) a black and white photo of a bottle and a cup (p=0.000037)
+  2) a black and white photo of a bottle and a glass (p=0.000017)
+Captions for image 17494171_1907898369497460_5494053918012866560_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.003339)
+  1) a person is holding a pair of scissors . (p=0.001385)
+  2) a person is holding a pair of scissors (p=0.001127)
+Captions for image 17333972_951702321633647_5718981376779223040_n.jpg:
+  0) a birthday cake with a train on it (p=0.000034)
+  1) a birthday cake with a train on it . (p=0.000032)
+  2) a birthday cake with a train on top (p=0.000008)
+Captions for image 17333479_287776711642541_8417761387601723392_n.jpg:
+  0) a pile of stuffed animals sitting next to each other . (p=0.000554)
+  1) a pile of stuffed animals sitting on top of a table . (p=0.000180)
+  2) a pile of stuffed animals sitting on top of a bed . (p=0.000085)
+Captions for image 17127249_1377314305658042_204932595002114048_n.jpg:
+  0) a stove top with a pot on top of it . (p=0.000035)
+  1) a stove top oven sitting next to a stove top oven . (p=0.000027)
+  2) a stove top oven sitting next to a stove . (p=0.000022)
+Captions for image 17126995_393645487660920_3001574075614101504_n.jpg:
+  0) a desk with a keyboard and a mouse (p=0.000035)
+  1) a desk with a keyboard , mouse and a laptop . (p=0.000004)
+  2) a desk with a keyboard , mouse and a computer mouse . (p=0.000002)
+Captions for image 17075828_409298719419021_6539640646544654336_n.jpg:
+  0) a black and white photo of a cell phone (p=0.000018)
+  1) a black and white photo of a cell phone . (p=0.000014)
+  2) a black and white photo of a cell phone and a pen (p=0.000001)
+Captions for image 17126786_167792563730653_3027145632289652736_n.jpg:
+  0) a close up of a pair of scissors (p=0.000828)
+  1) a black and white photo of a pair of scissors . (p=0.000788)
+  2) a close up of a pair of scissors on a table (p=0.000715)
+Captions for image 16908278_277340462700738_4986012535900602368_n.jpg:
+  0) a view of a city street with a tall building . (p=0.000007)
+  1) a view of a city street with a train passing by . (p=0.000005)
+  2) a view of a city street with a train passing by (p=0.000001)
+Captions for image 16464113_167666343726751_8128665137453203456_n.jpg:
+  0) a poster of a man holding a cell phone . (p=0.000024)
+  1) a poster of a man holding a sign . (p=0.000010)
+  2) a poster of a man holding a cell phone (p=0.000010)
+Captions for image 16230951_168004680355002_2100601361249861632_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000120)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000020)
+  2) a pair of scissors sitting on top of a table (p=0.000020)
+Captions for image 15625315_249065522190137_719615340878757888_n.jpg:
+  0) a bottle of wine and a glass on a table . (p=0.000302)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.000220)
+  2) a bottle of wine sitting next to a bottle of wine . (p=0.000128)
+Captions for image 15875927_829500963856162_5186893765561810944_n.jpg:
+  0) a teddy bear with a hat on its head . (p=0.000065)
+  1) a teddy bear with a hat on its head (p=0.000033)
+  2) a teddy bear wearing a hat with a hat on . (p=0.000004)
+Captions for image 15802356_355530508148747_3533057638336036864_n.jpg:
+  0) a close up of a tooth brush on a table (p=0.000084)
+  1) a close up of a pair of scissors on a table (p=0.000045)
+  2) a close up of a pair of scissors (p=0.000039)
+Captions for image 15534909_360438464333174_2271020844601835520_n.jpg:
+  0) a dog is sitting on a couch with its eyes closed . (p=0.000016)
+  1) a dog is sitting on a couch with its eyes open . (p=0.000006)
+  2) a dog is sitting on a couch with its head on a pillow . (p=0.000005)
+Captions for image 14540383_715503705274610_8678833409935540224_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.003314)
+  1) a white plate topped with meat and veggies . (p=0.001818)
+  2) a white plate topped with meat , potatoes and vegetables . (p=0.000819)
+Captions for image 14596645_1152052021558580_3378944565259010048_n.jpg:
+  0) a close up of an orange on a tree (p=0.000300)
+  1) a close up of a bird on a tree branch (p=0.000255)
+  2) a close up of a bird on a branch (p=0.000142)
+Captions for image 14727566_1041425372670186_2532628509487005696_n.jpg:
+  0) an open laptop computer sitting on top of a table . (p=0.004678)
+  1) an open laptop computer sitting on top of a wooden table . (p=0.002823)
+  2) an open laptop computer sitting on top of a desk . (p=0.002701)
+Captions for image 15099364_1177394095681567_824840652356321280_n.jpg:
+  0) a table topped with a cup of coffee . (p=0.000030)
+  1) a table topped with a cup of coffee and a cup . (p=0.000008)
+  2) a table topped with a cup of coffee and a toothbrush . (p=0.000006)
+Captions for image 15035666_800735986733277_6497329703941046272_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.000772)
+  1) a large clock mounted to the side of a wall . (p=0.000187)
+  2) a large clock mounted to a wall in a building . (p=0.000048)
+Captions for image 14714506_582383335219904_2082858593652047872_n.jpg:
+  0) a couple of birds sitting on top of a table . (p=0.000784)
+  1) a group of birds sitting on top of a table . (p=0.000665)
+  2) a group of birds sitting on top of a wooden table . (p=0.000220)
+Captions for image 14360156_122129531583123_8736578854388236288_n.jpg:
+  0) a close up of a pizza on a pan (p=0.000614)
+  1) a close up of a pizza on a plate (p=0.000283)
+  2) a close up of a sliced pizza on a pan (p=0.000119)
+Captions for image 14712152_319954571718829_8633295787251466240_n.jpg:
+  0) a man flying through the air while riding a skateboard . (p=0.014971)
+  1) a man flying through the air on top of a skateboard . (p=0.001881)
+  2) a man flying through the air while riding a snowboard . (p=0.000448)
+Captions for image 14733527_204407223333580_1196570329523159040_n.jpg:
+  0) a red fire hydrant in the middle of a forest . (p=0.000257)
+  1) a red and white fire hydrant sitting in the middle of a forest . (p=0.000092)
+  2) a red fire hydrant in the middle of a field . (p=0.000034)
+Captions for image 14727599_1782072062051948_7602862137131663360_n.jpg:
+  0) a close up of a person holding a frisbee (p=0.000405)
+  1) a close up of a person with a frisbee (p=0.000342)
+  2) a close up of a person wearing a hat (p=0.000077)
+Captions for image 14719259_566515036879326_5858805845281734656_n.jpg:
+  0) a close up of a cake on a table (p=0.000516)
+  1) a close up of a cake on a plate (p=0.000084)
+  2) a close up of a cake on a table near a cup (p=0.000002)
+Captions for image 14488376_208546892898645_3523609397479604224_n.jpg:
+  0) a close up of a flower in a tree (p=0.000170)
+  1) a close up of a flower in a tree . (p=0.000052)
+  2) a close up of a flower in a vase (p=0.000030)
+Captions for image 14540550_1174548202608699_312638859978473472_n.jpg:
+  0) a black and white dog sitting on a chair . (p=0.000691)
+  1) a black and white dog sitting in a chair . (p=0.000498)
+  2) a black and white dog sitting on top of a couch . (p=0.000285)
+Captions for image 14280651_857752420992490_1032042516_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000652)
+  1) a close up of a person holding a pair of scissors (p=0.000353)
+  2) a close up of a person holding a toothbrush (p=0.000176)
+Captions for image 14052640_1743024942614347_1750880056_n.jpg:
+  0) a close up of a person holding a banana (p=0.000207)
+  1) a close up of a person holding a carrot (p=0.000172)
+  2) a close up of a person holding a peeled banana (p=0.000139)
+Captions for image 14582313_1171595656244258_5557576024759205888_n.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.005958)
+  1) a person riding a surf board on a wave (p=0.004566)
+  2) a man riding a surfboard on top of a wave . (p=0.001335)
+Captions for image 13557315_1000074053444292_11049328_n.jpg:
+  0) a bouquet of flowers in a vase on a table . (p=0.001000)
+  1) a bouquet of flowers in a clear vase . (p=0.000635)
+  2) a vase filled with purple flowers on a table . (p=0.000449)
+Captions for image 14294782_1247542565290072_937387359_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.002550)
+  1) a person holding a pair of scissors in their hand . (p=0.001162)
+  2) a person holding a pair of scissors in their hands (p=0.000267)
+Captions for image 14026638_554575201394950_139207996_n.jpg:
+  0) a close up of a flower in a tree (p=0.000100)
+  1) a close up of a flower in a vase (p=0.000051)
+  2) a close up of a flower in a tree . (p=0.000029)
+Captions for image 14072973_1061040937344141_1125974804_n.jpg:
+  0) a black and white photo of a vase with flowers . (p=0.000025)
+  1) a black and white photo of a cake on a table . (p=0.000023)
+  2) a black and white photo of a cake on a table (p=0.000023)
+Captions for image 14052176_684472521706850_2001022774_n.jpg:
+  0) a close up of a stuffed animal on a table (p=0.000217)
+  1) a close up of a stuffed animal on a plate (p=0.000028)
+  2) a close up of a person holding a piece of cake (p=0.000013)
+Captions for image 13774728_138751696569713_1581987385_n.jpg:
+  0) a city street with traffic lights and buildings . (p=0.000080)
+  1) a city street at night with a traffic light . (p=0.000043)
+  2) a city street with traffic lights and buildings (p=0.000043)
+Captions for image 14033412_1798479913727923_703095141_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000710)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000478)
+  2) a black and white photo of a pair of scissors (p=0.000153)
+Captions for image 13671071_1069054689882860_1994182520_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000509)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000118)
+  2) a pair of scissors sitting on top of a table (p=0.000066)
+Captions for image 13721274_305044966497853_102549338_n.jpg:
+  0) a close up of a person holding a stuffed animal (p=0.000540)
+  1) a close up of a stuffed animal in a field (p=0.000134)
+  2) a close up of a stuffed animal in a tree (p=0.000101)
+Captions for image 13714224_1750937438484777_2021273774_n.jpg:
+  0) a green plant is growing in the grass . (p=0.000035)
+  1) a green plant is growing in a garden (p=0.000033)
+  2) a green plant is growing on a tree (p=0.000030)
+Captions for image 13643544_1752640064950000_1887841660_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000660)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000527)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000217)
+Captions for image 13714147_1038767882903375_1414976970_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000132)
+  1) a cup of coffee and a pair of scissors . (p=0.000093)
+  2) a cup of coffee and a pair of scissors (p=0.000030)
+Captions for image 13715203_1161826170505538_470487040_n.jpg:
+  0) a cell phone sitting on top of a wooden table . (p=0.000479)
+  1) a cell phone is sitting on a table (p=0.000080)
+  2) a cell phone sitting on a table next to a cell phone . (p=0.000055)

@@ -1,0 +1,804 @@
+Captions for image 53285779_645397155893877_75384881912795062_n.jpg:
+  0) a man standing in a field holding a frisbee . (p=0.001240)
+  1) a man standing in a field with a frisbee . (p=0.000495)
+  2) a man standing in a field holding a kite . (p=0.000455)
+Captions for image 11821906_1650407648568574_949719932_a.jpg:
+  0) a man wearing a tie and a hat . (p=0.000374)
+  1) a man with a tie and a hat . (p=0.000191)
+  2) a man wearing a tie and a hat (p=0.000092)
+Captions for image 60828287_109174753660827_2099443489569272340_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.005439)
+  1) a red stop sign sitting in the middle of a lush green field . (p=0.000744)
+  2) a red stop sign sitting in the middle of a field . (p=0.000729)
+Captions for image 57870496_166786400993982_954385588120472825_n.jpg:
+  0) a bunch of green apples are on display (p=0.000029)
+  1) a bunch of green apples are on display . (p=0.000021)
+  2) a bunch of green apples are in a box (p=0.000007)
+Captions for image 54248201_337162173595415_1875756637489170169_n.jpg:
+  0) a man standing on a beach holding a surfboard . (p=0.000579)
+  1) a woman standing on a beach holding a surfboard . (p=0.000381)
+  2) a man standing on a rock in front of a body of water . (p=0.000039)
+Captions for image 57407405_292559938301721_7978589585674886142_n.jpg:
+  0) a man standing on top of a snow covered slope . (p=0.000682)
+  1) a man holding a snowboard on top of a snow covered slope . (p=0.000191)
+  2) a man standing on top of a snow covered hill . (p=0.000144)
+Captions for image 43984916_578549252573898_2951395664620223992_n.jpg:
+  0) a view of a park with a bench in the foreground . (p=0.000001)
+  1) a view of a park with a bench in front of it . (p=0.000001)
+  2) a view of a park with a bench in the middle of it . (p=0.000000)
+Captions for image 66706095_324860435103345_3883318574691092886_n.jpg:
+  0) a man riding a skateboard down the side of a ramp . (p=0.002115)
+  1) a man riding a skateboard down a ramp . (p=0.000510)
+  2) a man riding a skateboard on top of a wooden ramp . (p=0.000127)
+Captions for image 65307464_2323324737905645_1362936178941567391_n.jpg:
+  0) a man standing on top of a snow covered slope . (p=0.000391)
+  1) a man standing on top of a snow covered mountain . (p=0.000388)
+  2) a man standing on top of a snow covered hill . (p=0.000244)
+Captions for image 65317714_203304737253844_3654268158368999966_n.jpg:
+  0) a sign that is on the side of a road . (p=0.000252)
+  1) a sign that is on the side of a tree . (p=0.000153)
+  2) a sign that is on the side of the road . (p=0.000098)
+Captions for image 64998891_327920348099539_344955493969036516_n.jpg:
+  0) a book sitting on top of a wooden desk . (p=0.000455)
+  1) a book sitting on top of a wooden table . (p=0.000421)
+  2) a book sitting on a desk next to a keyboard . (p=0.000237)
+Captions for image 65313376_726099987808835_7040816467676840351_n.jpg:
+  0) a person holding a doughnut in their hands . (p=0.000397)
+  1) a person holding a doughnut in their hand . (p=0.000396)
+  2) a person holding a hot dog in their hand . (p=0.000256)
+Captions for image 65715516_342919773291526_6977355061377946137_n.jpg:
+  0) a clock hanging from the side of a building . (p=0.001364)
+  1) a clock on the side of a building . (p=0.000781)
+  2) a clock on the side of a building (p=0.000625)
+Captions for image 64495478_698097267316589_5095476221147505298_n.jpg:
+  0) a close up of a bunch of different fruits (p=0.000212)
+  1) a close up of a bunch of apples (p=0.000094)
+  2) a close up of two apples and a banana (p=0.000084)
+Captions for image 65511945_181922329489770_6668241449072350187_n.jpg:
+  0) a man standing on top of a snow covered mountain . (p=0.000612)
+  1) a man standing on top of a snow covered slope . (p=0.000161)
+  2) a man standing on top of a mountain with a snowboard . (p=0.000075)
+Captions for image 65167525_331214737805229_8202583757033597166_n.jpg:
+  0) a man in a suit and tie holding a book . (p=0.000006)
+  1) a man in a suit and tie holding a book (p=0.000002)
+  2) a man in a suit and tie is holding a book . (p=0.000002)
+Captions for image 64481600_339179676748794_3505011834551026250_n.jpg:
+  0) a sign that is on the side of a road . (p=0.000252)
+  1) a sign that is on the side of a hill . (p=0.000162)
+  2) a sign that is on the side of a mountain . (p=0.000046)
+Captions for image 62154378_215456579419360_2744452227988692486_n.jpg:
+  0) a close up of a banana on a table (p=0.000080)
+  1) a close up of a banana peel on a table (p=0.000058)
+  2) a close up of a banana peel on a table . (p=0.000009)
+Captions for image 62190277_121298355774194_8176263009739946803_n.jpg:
+  0) a close up of a pair of scissors (p=0.000486)
+  1) a pair of scissors sitting on top of a table . (p=0.000447)
+  2) a close up of a pair of scissors on a table (p=0.000348)
+Captions for image 64778615_340656293297615_4493954308515463584_n.jpg:
+  0) a view of a stop sign on a snowy day . (p=0.000025)
+  1) a view of a stop sign on the side of the road . (p=0.000007)
+  2) a view of a stop sign on the side of a road . (p=0.000006)
+Captions for image 61944324_383143055881127_8064541392169461349_n.jpg:
+  0) a herd of sheep standing on top of a lush green field . (p=0.014455)
+  1) a herd of sheep grazing on a lush green field . (p=0.012889)
+  2) a herd of sheep standing on top of a grass covered field . (p=0.006974)
+Captions for image 60819345_431903997629983_4533232081586759446_n.jpg:
+  0) a woman sitting at a table talking on a cell phone . (p=0.000741)
+  1) a woman sitting at a table with a cell phone . (p=0.000500)
+  2) two women sitting at a table with a cell phone (p=0.000135)
+Captions for image 64715011_193370661652566_3539771034730879286_n.jpg:
+  0) a black and white photo of a mountain range . (p=0.000326)
+  1) a black and white photo of a large mountain range . (p=0.000266)
+  2) a black and white photo of a mountain range (p=0.000182)
+Captions for image 61473888_414695622715853_5611432624271584434_n.jpg:
+  0) a man sitting on a bench in front of a building . (p=0.000756)
+  1) a man sitting on a bench in front of a store . (p=0.000328)
+  2) a man sitting on a bench in front of a store window . (p=0.000163)
+Captions for image 60099613_1278005039031258_3905608613684855614_n.jpg:
+  0) a man in a suit and tie holding a sign . (p=0.000006)
+  1) a man in a suit and tie holding a sign (p=0.000002)
+  2) a man in a suit and tie is holding a sign . (p=0.000001)
+Captions for image 61096804_152477465800128_5212050122236812210_n.jpg:
+  0) a view of a beach with a view of the ocean . (p=0.000004)
+  1) a view of a beach with a boat in the water . (p=0.000003)
+  2) a view of a beach with a boat in the distance . (p=0.000002)
+Captions for image 59628697_2175070125947284_1753698117627040388_n.jpg:
+  0) a close up of a person holding an apple (p=0.002392)
+  1) a close up of a person holding a apple (p=0.002097)
+  2) a close up of a person holding a knife (p=0.000300)
+Captions for image 53609599_2277233499223968_1976303387735778998_n.jpg:
+  0) a couple of vases that are on a table (p=0.000395)
+  1) a couple of vases sitting on top of a table . (p=0.000277)
+  2) a couple of vases that are on a table . (p=0.000204)
+Captions for image 59954933_2327063217349817_8807565720371747819_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000333)
+  1) a sign that is on the side of a wall . (p=0.000044)
+  2) a sign that is on a pole in front of a building . (p=0.000025)
+Captions for image 59702847_403238473606418_216251911606692292_n.jpg:
+  0) a piece of chocolate cake sitting on top of a white plate . (p=0.000500)
+  1) a piece of chocolate cake sitting on top of a plate . (p=0.000327)
+  2) a piece of chocolate cake on a plate (p=0.000281)
+Captions for image 60317495_365882494034605_8210836762756149467_n.jpg:
+  0) a bouquet of flowers in a vase on a table . (p=0.000385)
+  1) a bouquet of flowers in a vase on a table (p=0.000185)
+  2) a bouquet of flowers is in a vase . (p=0.000097)
+Captions for image 60311064_453877968702153_6613237546831364082_n.jpg:
+  0) a clock that is sitting on a table . (p=0.000438)
+  1) a close up of a clock on a table (p=0.000437)
+  2) a close up of a clock on a wall (p=0.000425)
+Captions for image 58410794_2276579682595623_8232935768226176538_n.jpg:
+  0) a man standing in front of a store window . (p=0.000112)
+  1) a man standing in front of a wall with a clock . (p=0.000013)
+  2) a man standing in front of a building with a clock . (p=0.000012)
+Captions for image 58622815_398059447446571_6360463737701068338_n.jpg:
+  0) a picture of a man on a laptop . (p=0.000009)
+  1) a picture of a man on a laptop (p=0.000004)
+  2) a picture of a man in a suit and tie . (p=0.000003)
+Captions for image 59486668_459287214823551_5829579338237769689_n.jpg:
+  0) a blue and white bird is flying in the sky (p=0.000009)
+  1) a blue and white bird is flying in the sky . (p=0.000008)
+  2) a blue and white bird flying in the sky . (p=0.000006)
+Captions for image 58410348_366589937284739_7957644238724354486_n.jpg:
+  0) a sign that is on top of a pole . (p=0.000087)
+  1) a sign that is on top of a hill . (p=0.000051)
+  2) a sign that is on top of a rock . (p=0.000039)
+Captions for image 59330352_2222561301125005_3095383762183733520_n.jpg:
+  0) a stop sign that is on a pole . (p=0.000342)
+  1) a stop sign that is on top of a pole . (p=0.000290)
+  2) a stop sign on a pole with a sky background (p=0.000112)
+Captions for image 59361975_134637547706593_3097033446233162785_n.jpg:
+  0) a sign that is on the side of a road . (p=0.000187)
+  1) a sign that is on the side of a hill . (p=0.000092)
+  2) a sign that is on top of a pole . (p=0.000088)
+Captions for image 57506293_826958171011805_4571083946869357950_n.jpg:
+  0) a man standing on top of a snow covered mountain . (p=0.000843)
+  1) a man standing on top of a snow covered slope . (p=0.000442)
+  2) a man standing on top of a snow covered hill . (p=0.000193)
+Captions for image 57822054_661818474238935_8129197682088519880_n.jpg:
+  0) a sign that reads `` <UNK> '' on the side of a building . (p=0.000003)
+  1) a sign that reads `` <UNK> '' on a pole . (p=0.000001)
+  2) a sign that reads `` <UNK> '' on the side of the road . (p=0.000001)
+Captions for image 57454710_103444337497650_4214070745964805551_n.jpg:
+  0) a person holding a surf board near a body of water (p=0.000215)
+  1) a person holding a surf board on a snowy surface (p=0.000137)
+  2) a person holding a surf board in front of a body of water (p=0.000081)
+Captions for image 58408996_140156640448579_3906895226790419196_n.jpg:
+  0) a close up of a green plant with leaves (p=0.000670)
+  1) a close up of a plant with leaves (p=0.000405)
+  2) a close up of a green plant with green leaves (p=0.000254)
+Captions for image 57462986_2862810733944528_7921437515738809803_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.000295)
+  1) a black and white photo of a street sign . (p=0.000247)
+  2) a black and white photo of a street sign (p=0.000184)
+Captions for image 57414288_312984699397532_3902136858933154622_n.jpg:
+  0) a picture of a man on a motorcycle . (p=0.000051)
+  1) a picture of a man on a skateboard . (p=0.000031)
+  2) a picture of a man in a suit and tie . (p=0.000010)
+Captions for image 43914634_565800293862305_3104323172993955639_n.jpg:
+  0) a man riding a skateboard up the side of a ramp . (p=0.004512)
+  1) a man riding a skateboard down the side of a ramp . (p=0.003125)
+  2) a man riding a skateboard down a ramp . (p=0.000767)
+Captions for image 54513610_2147224595323900_7696189930503373258_n.jpg:
+  0) a man holding a white frisbee in his right hand . (p=0.000761)
+  1) a man holding a white frisbee in his hands . (p=0.000745)
+  2) a man holding a white frisbee on top of a field . (p=0.000568)
+Captions for image 58666184_465617254207933_6755337255628788875_n.jpg:
+  0) a woman holding a cell phone up to her ear . (p=0.000917)
+  1) a woman holding a cell phone in her hand . (p=0.000801)
+  2) a woman is holding a cell phone to her ear . (p=0.000336)
+Captions for image 57221561_2220642304638839_4225215125516309616_n.jpg:
+  0) a man in a baseball uniform holding a baseball bat . (p=0.000888)
+  1) a baseball player holding a bat on a field . (p=0.000626)
+  2) a man is holding a baseball bat in his hand . (p=0.000292)
+Captions for image 56702447_121514195701621_8784696181319775216_n.jpg:
+  0) a kite that is flying in the air . (p=0.001088)
+  1) a kite that is flying in the sky . (p=0.001012)
+  2) a kite that is flying in the sky (p=0.000163)
+Captions for image 58453932_403075940284085_1137259876168879534_n.jpg:
+  0) a horse pulling a carriage with a man on it . (p=0.000172)
+  1) a horse pulling a carriage with a man in it . (p=0.000120)
+  2) a horse pulling a cart with a man on it . (p=0.000108)
+Captions for image 57172636_640642849682330_1736293297263457724_n.jpg:
+  0) a man in a suit and tie holding a cell phone . (p=0.000010)
+  1) a man in a suit and tie holding a cell phone (p=0.000006)
+  2) a man in a suit and tie is holding a cell phone . (p=0.000005)
+Captions for image 58410347_116753322849202_3695304588790664906_n.jpg:
+  0) a woman standing in a garden holding a cell phone . (p=0.000041)
+  1) a woman standing in a garden with a flower . (p=0.000026)
+  2) a woman standing in a garden holding a cell phone (p=0.000007)
+Captions for image 57446585_1691051341041683_8649822264816819789_n.jpg:
+  0) a man in a suit and tie holding a camera . (p=0.000015)
+  1) a man in a suit and tie holding a cell phone . (p=0.000011)
+  2) a man in a suit and tie holding a camera (p=0.000005)
+Captions for image 57625254_1327820630676212_2511569638785190479_n.jpg:
+  0) a large building with a clock on it (p=0.000587)
+  1) a clock tower with a weather vane on top . (p=0.000390)
+  2) a large building with a clock on the top . (p=0.000317)
+Captions for image 56605140_107615237015214_3319604009338758348_n.jpg:
+  0) a man and a woman are sitting on a bench . (p=0.000021)
+  1) a woman and a man are sitting on a bench . (p=0.000019)
+  2) a man and a woman are sitting on the beach . (p=0.000015)
+Captions for image 56942689_657727824654322_8619750798369934286_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.003894)
+  1) a red stop sign sitting on top of a lush green field . (p=0.000357)
+  2) a red stop sign sitting on top of a green field . (p=0.000206)
+Captions for image 56539362_175096126714193_3445888452036854186_n.jpg:
+  0) a man standing on a beach holding a surfboard . (p=0.005737)
+  1) a man standing on top of a beach holding a surfboard . (p=0.001052)
+  2) a man standing on a beach holding a white surfboard . (p=0.001021)
+Captions for image 56673354_440482633389347_7734704665108421527_n.jpg:
+  0) a cup of coffee sitting next to a plate of food . (p=0.000299)
+  1) a cup of coffee and a sandwich on a table . (p=0.000193)
+  2) a cup of coffee and a sandwich on a plate . (p=0.000185)
+Captions for image 56384259_403676283519972_751843487383584605_n.jpg:
+  0) a close up of a person holding a doughnut (p=0.005759)
+  1) a person holding a doughnut in their hand . (p=0.002660)
+  2) a close up of a person holding a donut (p=0.000618)
+Captions for image 57186152_215447416083318_2566397445215552916_n.jpg:
+  0) a woman sitting on a bench next to a body of water . (p=0.000668)
+  1) a woman sitting on a bench near a body of water . (p=0.000378)
+  2) a woman sitting on a bench next to a lake . (p=0.000305)
+Captions for image 56553798_458858554854911_1417433303296003507_n.jpg:
+  0) a view of a mountain range from below . (p=0.000160)
+  1) a view of a mountain range with a mountain in the background . (p=0.000035)
+  2) a view of a mountain range with a mountain range in the background . (p=0.000030)
+Captions for image 56285381_455564368519650_3661056635480148605_n.jpg:
+  0) a man in a suit and tie taking a selfie . (p=0.000143)
+  1) a man in a suit and tie taking a selfie (p=0.000082)
+  2) a man in a suit and tie taking a picture of himself . (p=0.000056)
+Captions for image 56281738_661681774288131_4199468696417866828_n.jpg:
+  0) a group of people standing next to each other . (p=0.001249)
+  1) a group of people standing around a table . (p=0.000293)
+  2) a group of people standing next to each other in a room . (p=0.000093)
+Captions for image 57034864_431656997570258_3454590547801547511_n.jpg:
+  0) a man holding a baseball bat on a field . (p=0.000154)
+  1) a man holding a baseball bat in his hands . (p=0.000070)
+  2) a man holding a baseball bat on a field (p=0.000027)
+Captions for image 56389641_2338892352839516_5900579455957286116_n.jpg:
+  0) a man in a baseball uniform holding a baseball bat . (p=0.000284)
+  1) a man in a baseball uniform holding a bat . (p=0.000195)
+  2) a man in a baseball cap holding a baseball bat . (p=0.000158)
+Captions for image 55782439_440661293143106_8519952616679608928_n.jpg:
+  0) a large clock tower towering over a city . (p=0.004419)
+  1) a large building with a clock on it (p=0.000497)
+  2) a large building with a clock on the top of it . (p=0.000361)
+Captions for image 54512819_830896857254550_1828025883498460573_n.jpg:
+  0) a close up of a pair of scissors (p=0.000454)
+  1) a close up of a pair of scissors on a table (p=0.000377)
+  2) a close up of a vase with flowers in it (p=0.000220)
+Captions for image 56381730_131862734542050_2213660350313088760_n.jpg:
+  0) a book sitting on top of a bed next to a book . (p=0.000319)
+  1) a pair of scissors sitting on top of a piece of paper . (p=0.000218)
+  2) a book sitting on top of a bed with a book . (p=0.000091)
+Captions for image 56462835_2401318929902411_1362426744267512174_n.jpg:
+  0) a street sign on a pole near a tree (p=0.000136)
+  1) a street sign on a pole in a wooded area . (p=0.000030)
+  2) a street sign on a pole in front of trees . (p=0.000026)
+Captions for image 54513187_311858186169972_7479519938643832712_n.jpg:
+  0) a black and white photo of a stop sign (p=0.000176)
+  1) a black and white photo of a person holding a surfboard . (p=0.000017)
+  2) a black and white photo of a person holding a surfboard (p=0.000016)
+Captions for image 54446723_109843403532913_6623637462777083235_n.jpg:
+  0) a man is holding a pair of scissors . (p=0.000085)
+  1) a man is holding a pair of scissors (p=0.000058)
+  2) a person holding a skateboard in front of a building . (p=0.000026)
+Captions for image 54511472_115914839586328_7397742927345080175_n.jpg:
+  0) a sign that is on the side of a tree . (p=0.000148)
+  1) a sign that is on a tree in the grass . (p=0.000022)
+  2) a sign that is on the side of a road . (p=0.000018)
+Captions for image 54446464_163218531341553_8010077128059678694_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000097)
+  1) a pair of scissors sitting on a table . (p=0.000080)
+  2) a pair of scissors sitting on a table (p=0.000049)
+Captions for image 53767124_195172054786186_7317490467615272138_n.jpg:
+  0) a stop sign on a pole with a sky background (p=0.000092)
+  1) a stop sign with a sky background (p=0.000054)
+  2) a stop sign on a pole on a street . (p=0.000029)
+Captions for image 54447085_149632782744914_6927141203364862635_n.jpg:
+  0) a sign that is on the side of a hill . (p=0.000036)
+  1) a sign that is on the side of a road . (p=0.000026)
+  2) a sign that is on the side of a mountain . (p=0.000011)
+Captions for image 45339988_308873743170972_7471122454511605222_n.jpg:
+  0) a man holding a baseball bat on a field . (p=0.000412)
+  1) a woman holding a baseball bat on a field . (p=0.000293)
+  2) a man holding a baseball bat on a field (p=0.000058)
+Captions for image 44519027_2114863465430400_3803765683730637325_n.jpg:
+  0) a black and white photo of a man holding a tennis racket . (p=0.000199)
+  1) a black and white photo of a man holding a baseball bat . (p=0.000177)
+  2) a black and white photo of a man holding a tennis racket (p=0.000165)
+Captions for image 50058446_2328124487227390_8706331730839038046_n.jpg:
+  0) a man sitting on a bench in front of a building . (p=0.000134)
+  1) a man sitting on a bench in the middle of a street . (p=0.000055)
+  2) a man sitting on a bench in front of a sign . (p=0.000052)
+Captions for image 54512696_1485952438206819_1685793736156467009_n.jpg:
+  0) a close up of two apples on a plate (p=0.000296)
+  1) a close up of two apples on a table (p=0.000284)
+  2) a close up of a apple and a knife (p=0.000082)
+Captions for image 54217457_126706651737074_8657944704606993970_n.jpg:
+  0) a close up of a green plant with leaves (p=0.000255)
+  1) a close up of a plant with leaves (p=0.000141)
+  2) a bunch of broccoli growing in a tree (p=0.000070)
+Captions for image 54234042_195226954776986_7944956956036140181_n.jpg:
+  0) a young boy holding a baseball bat on a field . (p=0.000594)
+  1) a woman holding a baseball bat on a field . (p=0.000535)
+  2) a young boy holding a baseball bat on top of a field . (p=0.000265)
+Captions for image 53762911_2259678334273430_1014486958341943792_n.jpg:
+  0) a sign that is on the side of a road . (p=0.000286)
+  1) a sign that is on the side of a pole . (p=0.000140)
+  2) a street sign on a pole on a street (p=0.000051)
+Captions for image 52880819_125804135213221_8729699260410115600_n.jpg:
+  0) a group of people standing on top of a lush green field . (p=0.001041)
+  1) a group of people standing on top of a grass covered field . (p=0.000270)
+  2) a group of people standing on a lush green field . (p=0.000197)
+Captions for image 53934240_273160563600824_1529119927625236863_n.jpg:
+  0) a black and white photo of a stop sign (p=0.000451)
+  1) a black and white photo of a stop sign . (p=0.000347)
+  2) a black and white photo of a street sign (p=0.000219)
+Captions for image 53809427_259742484960281_8330722650806102466_n.jpg:
+  0) a man holding a cell phone up to his ear . (p=0.001283)
+  1) a man holding a smart phone in his right hand . (p=0.001236)
+  2) a man holding a cell phone in his hand . (p=0.000933)
+Captions for image 53366355_555791104909344_1219335307223215921_n.jpg:
+  0) a man standing on top of a rocky hillside . (p=0.000037)
+  1) a man standing on top of a mountain with a snowboard . (p=0.000010)
+  2) a man standing on top of a rock next to a sign . (p=0.000008)
+Captions for image 54247670_2185959308128716_6630860952141994913_n.jpg:
+  0) a stop sign that has a sticker on it . (p=0.000043)
+  1) a stop sign with a sticker on it (p=0.000036)
+  2) a stop sign with a sticker on it . (p=0.000034)
+Captions for image 52837122_3424057724381540_8309040356508423298_n.jpg:
+  0) a man standing on a beach holding a surfboard . (p=0.004562)
+  1) a man standing on a beach with a surfboard . (p=0.001034)
+  2) a man standing on top of a beach holding a surfboard . (p=0.000923)
+Captions for image 51951587_608076452999502_4956704368709957998_n.jpg:
+  0) a group of people standing on top of a snow covered field . (p=0.002030)
+  1) a group of people standing on top of a snow covered slope . (p=0.000940)
+  2) a group of people standing on top of a beach . (p=0.000485)
+Captions for image 51694375_255322565403764_2927276187976569953_n.jpg:
+  0) a man holding a donut in his hands . (p=0.000280)
+  1) a man holding a donut in his hand . (p=0.000267)
+  2) a man holding a donut in his hands (p=0.000056)
+Captions for image 51781315_2319960248328574_2754358062010879471_n.jpg:
+  0) a man holding a baseball bat on a field . (p=0.000920)
+  1) a man standing in a field holding a frisbee . (p=0.000499)
+  2) a man holding a baseball bat in front of a fence . (p=0.000146)
+Captions for image 52944700_124324778630264_4727282736914152875_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001975)
+  1) a large clock tower towering over the city of london . (p=0.000542)
+  2) a large clock tower in the middle of a city . (p=0.000274)
+Captions for image 53283827_2190000067726409_1993808665397522739_n.jpg:
+  0) a small bird sitting on top of a tree branch . (p=0.001096)
+  1) a yellow bird is perched on a branch . (p=0.000928)
+  2) a yellow bird is perched on a tree branch . (p=0.000357)
+Captions for image 51768210_2228996540689767_5604429071062272829_n.jpg:
+  0) a book sitting on top of a book . (p=0.000940)
+  1) a book sitting on top of a bed next to a book . (p=0.000712)
+  2) a book sitting on top of a book next to a book . (p=0.000210)
+Captions for image 51209153_119331092503399_2419968886196217217_n.jpg:
+  0) a woman is holding a pair of scissors . (p=0.000093)
+  1) a woman is holding a pair of scissors (p=0.000070)
+  2) a woman is holding a pair of scissors in her hands . (p=0.000046)
+Captions for image 51895359_347246785876249_4934294714655070692_n.jpg:
+  0) a man is holding a surfboard in front of a building . (p=0.000006)
+  1) a man is holding a surfboard in front of a building (p=0.000001)
+  2) a man in a suit and tie standing in front of a stop sign . (p=0.000001)
+Captions for image 51710901_1227031717453717_8297560473960865401_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000422)
+  1) a person is holding a pair of scissors (p=0.000203)
+  2) a person holding a pair of scissors in a box . (p=0.000129)
+Captions for image 52624234_2146775382064974_2666339202693752880_n.jpg:
+  0) a man holding a skateboard in his hand . (p=0.000136)
+  1) a man holding a baseball bat in his hands . (p=0.000094)
+  2) a man holding a skateboard in his hand (p=0.000044)
+Captions for image 51952859_554428315035432_2298404688681361875_n.jpg:
+  0) a group of people walking down a street . (p=0.001807)
+  1) a group of people walking down a street next to tall buildings . (p=0.000282)
+  2) a group of people walking down a street next to buildings . (p=0.000206)
+Captions for image 51508314_323638121618381_1029537876476500114_n.jpg:
+  0) a close up of a pair of scissors (p=0.000947)
+  1) a pair of scissors sitting on top of a table . (p=0.000566)
+  2) a close up of a pair of scissors on a table (p=0.000476)
+Captions for image 51226442_782557758770507_2137963120840812541_n.jpg:
+  0) a stop sign with a sign on it (p=0.000012)
+  1) a sign that reads `` <UNK> '' on the side of a road . (p=0.000007)
+  2) a sign that reads `` <UNK> '' on the side of the road . (p=0.000004)
+Captions for image 52183980_309423106429770_15131413896082502_n.jpg:
+  0) a cutting board topped with fruits and vegetables . (p=0.001605)
+  1) a cutting board topped with vegetables and a knife . (p=0.000154)
+  2) a wooden cutting board topped with vegetables and a knife . (p=0.000065)
+Captions for image 52624237_283554239006079_8881781389372263113_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000886)
+  1) a close up of a person holding a pair of scissors (p=0.000247)
+  2) a close up of a person holding a baseball bat (p=0.000241)
+Captions for image 51125104_120380355707971_5765128654925631935_n.jpg:
+  0) a close up of a fire hydrant on a city street (p=0.000172)
+  1) a close up of a fire hydrant on a street (p=0.000082)
+  2) a close up of a fire hydrant on a sidewalk (p=0.000037)
+Captions for image 51287969_1496541937142424_853602388434534877_n.jpg:
+  0) a couple of people that are posing for a picture . (p=0.000210)
+  1) a couple of people that are posing for a picture (p=0.000107)
+  2) a couple of people that are standing up (p=0.000102)
+Captions for image 51039996_116466899448703_275948629421510185_n.jpg:
+  0) a picture of a stop sign and a sign . (p=0.000023)
+  1) a picture of a stop sign and a sign (p=0.000007)
+  2) a picture of a sign that says `` <UNK> '' . (p=0.000003)
+Captions for image 50494064_162139381442478_8162055931257061951_n.jpg:
+  0) a man wearing a hat and a hat . (p=0.000297)
+  1) a man with a hat and a hat on . (p=0.000063)
+  2) a man with a hat and a hat on (p=0.000029)
+Captions for image 50244779_2475176089223163_8352317058453446309_n.jpg:
+  0) a black and white photo of a clock on a pole (p=0.000070)
+  1) a black and white photo of a clock on a pole . (p=0.000065)
+  2) a black and white photo of a clock on a wall . (p=0.000062)
+Captions for image 50259630_399076007513257_5159273329006409264_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.000266)
+  1) a black and white photo of a clock tower (p=0.000213)
+  2) a black and white photo of a plane flying in the sky . (p=0.000096)
+Captions for image 51171016_963661023829611_4489373918795632127_n.jpg:
+  0) a woman sitting on a bed using a laptop computer . (p=0.000133)
+  1) a woman sitting on a bed using a laptop . (p=0.000112)
+  2) a woman sitting on a bed with a laptop . (p=0.000070)
+Captions for image 51367735_361986071307914_2611567274145293569_n.jpg:
+  0) a sign that is on top of a hill . (p=0.000084)
+  1) a sign that is on the side of a hill . (p=0.000072)
+  2) a sign that is on the side of a mountain . (p=0.000066)
+Captions for image 50255325_2315737442040219_489467072727134965_n.jpg:
+  0) a man standing in a field holding a snowboard . (p=0.000201)
+  1) a man standing in a field holding a snowboard (p=0.000026)
+  2) a man standing in front of a sign holding a sign . (p=0.000008)
+Captions for image 50255330_232694944339437_1788597676335192133_n.jpg:
+  0) a black and white photo of a boat in the water . (p=0.000100)
+  1) a black and white photo of a boat in the water (p=0.000043)
+  2) a black and white photo of a boat on a river . (p=0.000023)
+Captions for image 50703695_611703325946059_2854928338434290015_n.jpg:
+  0) a man standing in front of a sign reading a book . (p=0.000084)
+  1) a man standing in front of a sign reading a newspaper . (p=0.000024)
+  2) a man standing in front of a sign reading a book (p=0.000014)
+Captions for image 50201798_283161032350370_5238259017985198177_n.jpg:
+  0) a bed sitting in a bedroom next to a window . (p=0.000295)
+  1) a bed sitting in a bedroom next to a lamp . (p=0.000210)
+  2) a bed sitting in a room next to a window . (p=0.000197)
+Captions for image 50936549_133410344370973_6958241116850016119_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000275)
+  1) a church with a steeple and a clock tower . (p=0.000254)
+  2) a large building with a clock tower on top of it . (p=0.000229)
+Captions for image 50690846_252435288985591_3506240109299095666_n.jpg:
+  0) a close up of a pair of scissors (p=0.000925)
+  1) a close up of a pair of scissors on a table (p=0.000213)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000092)
+Captions for image 49933897_1989641011084856_8347822739051360739_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000848)
+  1) a large clock tower towering over a city at night . (p=0.000204)
+  2) a large clock tower towering over the ocean . (p=0.000197)
+Captions for image 50511216_2810634055620035_35392250806488106_n.jpg:
+  0) a group of people standing in front of a clock . (p=0.000187)
+  1) a group of people standing in front of a building . (p=0.000122)
+  2) a group of people standing in front of a clock tower . (p=0.000094)
+Captions for image 51499367_230353091240248_2716038508345285355_n.jpg:
+  0) a bird flying over the top of a mountain . (p=0.001365)
+  1) a bird flying over the top of a snow covered mountain . (p=0.000209)
+  2) a bird flying over the top of a mountain (p=0.000096)
+Captions for image 50491373_612578852505485_4246268008306620357_n.jpg:
+  0) a stop sign with a sky background (p=0.000159)
+  1) a stop sign on the side of a road . (p=0.000146)
+  2) a stop sign on the side of the road . (p=0.000080)
+Captions for image 49403808_297528034446531_7395333036884012202_n.jpg:
+  0) a man holding a skateboard in front of a sign . (p=0.000071)
+  1) a man standing in front of a sign holding a surfboard . (p=0.000032)
+  2) a man holding a skateboard in front of a sign (p=0.000018)
+Captions for image 49844039_286854528646288_5272618103696701799_n.jpg:
+  0) a woman standing next to a sign in a field . (p=0.000021)
+  1) a woman standing next to a sign on a beach . (p=0.000019)
+  2) a woman standing next to a sign on a field . (p=0.000010)
+Captions for image 50725987_409146696496420_1661210553613049836_n.jpg:
+  0) a stop sign on the side of a road . (p=0.000571)
+  1) a stop sign on the side of a road (p=0.000222)
+  2) a stop sign on the side of the road . (p=0.000191)
+Captions for image 49993870_2320959977927827_5207883844043428676_n.jpg:
+  0) a stop sign on the side of a road . (p=0.000512)
+  1) a stop sign on the side of the road . (p=0.000219)
+  2) a stop sign on the side of a road (p=0.000148)
+Captions for image 49533002_365207100971043_2692325056463620510_n.jpg:
+  0) a couple of animals that are standing in the grass . (p=0.000262)
+  1) a couple of horses standing on top of a lush green field . (p=0.000142)
+  2) a couple of animals standing on top of a lush green field . (p=0.000119)
+Captions for image 50489263_594870820961337_103097989067162082_n.jpg:
+  0) a black and white photo of a mountain range . (p=0.000390)
+  1) a black and white photo of a large mountain range . (p=0.000172)
+  2) a black and white photo of a mountain range (p=0.000157)
+Captions for image 49800454_249915205908498_4131072759510039300_n.jpg:
+  0) a group of people riding skis on top of a snow covered slope . (p=0.004482)
+  1) a group of people standing on top of a snow covered slope . (p=0.004015)
+  2) a group of people riding skis on a snowy surface (p=0.001837)
+Captions for image 50264410_278857209452537_2492264448506682121_n.jpg:
+  0) a man is standing in front of a sign (p=0.000131)
+  1) a man is standing in front of a sign . (p=0.000128)
+  2) a man standing in front of a sign on a mountain . (p=0.000030)
+Captions for image 50270621_421575321721153_6326674200417113022_n.jpg:
+  0) a bird is perched on a branch of a tree . (p=0.000504)
+  1) a bird is perched on a branch in a tree . (p=0.000190)
+  2) a bird is perched on a branch of a tree (p=0.000066)
+Captions for image 49686671_319033905258972_8246604544959054339_n.jpg:
+  0) a man standing on top of a snow covered slope . (p=0.000871)
+  1) a man standing on top of a snow covered hill . (p=0.000297)
+  2) a man standing on top of a hill holding a snowboard . (p=0.000137)
+Captions for image 49801284_2238412653102077_1295113991551801957_n.jpg:
+  0) a dog wearing a santa hat sitting on a couch . (p=0.000046)
+  1) a dog wearing a santa hat sitting in a chair . (p=0.000041)
+  2) a dog wearing a santa hat sitting on a chair . (p=0.000028)
+Captions for image 47581320_140006320327921_6661982978829549298_n.jpg:
+  0) a man wearing a mask and holding a baseball bat . (p=0.000015)
+  1) a man in a suit and tie holding a teddy bear . (p=0.000014)
+  2) a man wearing a mask and holding a teddy bear . (p=0.000013)
+Captions for image 50585239_228130698065589_5882808389558810036_n.jpg:
+  0) a man standing on top of a snow covered slope . (p=0.000901)
+  1) a man standing on top of a snow covered field . (p=0.000823)
+  2) a man standing on top of a snow covered hill . (p=0.000402)
+Captions for image 47692697_2277704882261121_8852734325208965685_n.jpg:
+  0) a man wearing a hat and a hat . (p=0.000150)
+  1) a man wearing a hat and a hat and glasses . (p=0.000012)
+  2) a man wearing a hat and a hat and a hat . (p=0.000011)
+Captions for image 47694473_281264515895234_5172813347787001444_n.jpg:
+  0) a man on a skateboard performing a trick . (p=0.000496)
+  1) a man on a skateboard doing a trick . (p=0.000214)
+  2) a man on a skateboard doing a trick in the air . (p=0.000060)
+Captions for image 47694182_2257692027849945_5607823283913717357_n.jpg:
+  0) a woman sitting on a bench with her legs crossed . (p=0.000126)
+  1) a woman sitting on a bench with a dog . (p=0.000057)
+  2) a woman sitting on a bench with her legs crossed (p=0.000024)
+Captions for image 49907277_690337241744456_4093044165211062150_n.jpg:
+  0) a man standing in front of a building with a surfboard . (p=0.000010)
+  1) a man standing in front of a building with a clock on it . (p=0.000009)
+  2) a man standing in front of a building with a sign on it . (p=0.000005)
+Captions for image 46450397_285065318842134_7943138354406902306_n.jpg:
+  0) a man holding a baseball bat on a field . (p=0.001748)
+  1) a man holding a baseball bat in his hands . (p=0.001013)
+  2) a man holding a baseball bat on top of a field . (p=0.000636)
+Captions for image 47585495_140833806796425_9122494734999823979_n.jpg:
+  0) a man sitting on a bed holding a book . (p=0.000114)
+  1) a man sitting on a bed with a laptop . (p=0.000052)
+  2) a man sitting on a bed with a laptop computer . (p=0.000034)
+Captions for image 47583389_350391578875663_439404072312617208_n.jpg:
+  0) a man holding a pair of scissors in his hands . (p=0.000214)
+  1) a man holding a pair of scissors in his hand . (p=0.000112)
+  2) a man is holding a pair of scissors (p=0.000085)
+Captions for image 49496062_2214653525235601_8124740129720601870_n.jpg:
+  0) a woman is standing in front of a stop sign . (p=0.000181)
+  1) a woman is standing in front of a stop sign (p=0.000118)
+  2) a woman is standing in front of a sign (p=0.000053)
+Captions for image 49933855_357793098337674_1899460734477249966_n.jpg:
+  0) a sign that is on top of a pole . (p=0.000411)
+  1) a sign that is on top of a sign . (p=0.000111)
+  2) a sign that is on top of a pole (p=0.000017)
+Captions for image 47581811_169512257343643_6071008270083320192_n.jpg:
+  0) a man standing on top of a lush green field . (p=0.001733)
+  1) a man standing in a field holding a frisbee . (p=0.000319)
+  2) a man standing on top of a lush green hillside . (p=0.000273)
+Captions for image 46055486_2214817018776398_3225902020493160128_n.jpg:
+  0) a woman standing in front of a stop sign . (p=0.000584)
+  1) a woman standing in front of a stop sign (p=0.000172)
+  2) a woman standing in a field holding a frisbee . (p=0.000122)
+Captions for image 47586538_228196504737117_5703683699747631602_n.jpg:
+  0) a stop sign on the side of a mountain . (p=0.000132)
+  1) a stop sign on the side of a snowy mountain . (p=0.000078)
+  2) a stop sign on the side of a snowy hill . (p=0.000057)
+Captions for image 47694572_1711876398916667_8678682445797913999_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.000457)
+  1) a person holding a cell phone in their hands . (p=0.000258)
+  2) a person holding a pair of scissors in their hands . (p=0.000224)
+Captions for image 49906722_309010676388059_5920212899963781917_n.jpg:
+  0) a man holding a pair of scissors in his hands . (p=0.000173)
+  1) a man holding a pair of scissors in his hand . (p=0.000127)
+  2) a man holding a pair of scissors in his hands (p=0.000040)
+Captions for image 47583983_1229217083911538_8244749474835912760_n.jpg:
+  0) a man standing in a field holding a kite . (p=0.000160)
+  1) a man standing in a field with a kite . (p=0.000041)
+  2) a man standing on a hill with a kite . (p=0.000040)
+Captions for image 47581241_360052134806006_1253990365036917712_n.jpg:
+  0) a stop sign on a pole with a sky background (p=0.000020)
+  1) a stop sign on a pole in front of a tree . (p=0.000005)
+  2) a stop sign on a pole in a field (p=0.000004)
+Captions for image 46974186_1981474685306970_3143854854315134019_n.jpg:
+  0) a woman in a blue shirt is holding a tennis racket (p=0.000010)
+  1) a woman in a blue dress holding a white frisbee . (p=0.000008)
+  2) a woman in a blue dress holding a tennis racket . (p=0.000007)
+Captions for image 46707253_287036651950504_9193795888788265535_n.jpg:
+  0) a woman holding a tennis racquet on a tennis court . (p=0.003206)
+  1) a woman holding a tennis racquet on top of a tennis court . (p=0.002088)
+  2) a woman is playing tennis on a tennis court . (p=0.001063)
+Captions for image 47269407_2117052765275200_5834480530285722309_n.jpg:
+  0) a woman in a red shirt is playing frisbee (p=0.000146)
+  1) a woman in a green shirt is playing frisbee (p=0.000113)
+  2) a woman in a red shirt is playing frisbee . (p=0.000043)
+Captions for image 47586085_221694495418911_616164090678000028_n.jpg:
+  0) a picture of a stop sign and a sign . (p=0.000019)
+  1) a picture of a stop sign and a sign (p=0.000013)
+  2) a picture of a sign that reads `` <UNK> '' . (p=0.000012)
+Captions for image 47690950_211837866435693_6605875848336283604_n.jpg:
+  0) a close up of a sign with a clock on it (p=0.000012)
+  1) a close up of a sign with a clock (p=0.000010)
+  2) a close up of a sign with a clock on it . (p=0.000001)
+Captions for image 46529577_2158066160921866_1702218832275626674_n.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.019611)
+  1) a person riding a surf board on a wave (p=0.009283)
+  2) a person on a surfboard riding a wave . (p=0.004074)
+Captions for image 46477893_288268285367870_3601832873378850472_n.jpg:
+  0) a stop sign on the side of a road . (p=0.000585)
+  1) a stop sign on the side of the road . (p=0.000306)
+  2) a stop sign on the side of a road (p=0.000227)
+Captions for image 46274646_219346655623174_7249801742041995901_n.jpg:
+  0) a picture of a computer screen showing a microphone . (p=0.000002)
+  1) a picture of a computer screen with a clock on it . (p=0.000001)
+  2) a picture of a computer screen showing a microphone (p=0.000001)
+Captions for image 47426604_322009355066972_6327765982580438765_n.jpg:
+  0) a black and white photo of a stop sign . (p=0.000341)
+  1) a black and white photo of a stop sign (p=0.000287)
+  2) a stop sign with a mountain in the background (p=0.000251)
+Captions for image 46647875_331114527474426_7140470367547199679_n.jpg:
+  0) a sign that is on the side of a hill . (p=0.000117)
+  1) a sign that is on the side of a road . (p=0.000103)
+  2) a sign that is on the side of the road . (p=0.000022)
+Captions for image 47159916_504880536670510_9052523235926305360_n.jpg:
+  0) a street sign in front of a large building . (p=0.000158)
+  1) a street sign in front of a tall building . (p=0.000080)
+  2) a street sign in front of a building (p=0.000053)
+Captions for image 45825629_571758386603502_3565448127365483576_n.jpg:
+  0) a woman is holding a cell phone in her hand . (p=0.000120)
+  1) a woman is holding a cell phone to her ear . (p=0.000098)
+  2) a woman is holding a cell phone up to her ear . (p=0.000066)
+Captions for image 46814018_2153842674667739_5076408592423522602_n.jpg:
+  0) a man standing in front of a stop sign . (p=0.000582)
+  1) a man standing in front of a stop sign (p=0.000141)
+  2) a man standing in front of a sign on a street . (p=0.000019)
+Captions for image 46544572_2158474360877164_5675672192042514737_n.jpg:
+  0) a man standing in front of a stop sign . (p=0.000417)
+  1) a man standing in front of a stop sign (p=0.000145)
+  2) a man standing in front of a building with a clock . (p=0.000009)
+Captions for image 47302140_516071035545172_6090434748314110703_n.jpg:
+  0) a woman in a red shirt is playing frisbee (p=0.000116)
+  1) a woman in a blue shirt is playing frisbee (p=0.000069)
+  2) a woman in a red shirt is holding a frisbee (p=0.000050)
+Captions for image 47129711_370545063696498_4483112392991580307_n.jpg:
+  0) a woman wearing a hat and a tie . (p=0.000087)
+  1) a woman wearing a hat and a tie (p=0.000033)
+  2) a woman wearing a hat and a hat . (p=0.000028)
+Captions for image 46635536_273035313395063_6556174364371637936_n.jpg:
+  0) a close up of a vandalized stop sign (p=0.000466)
+  1) a close up of a stop sign with a sky background (p=0.000229)
+  2) a close up of a stop sign with a mountain background (p=0.000045)
+Captions for image 46814021_268013857204528_7671546360528471264_n.jpg:
+  0) a clock on the side of a building . (p=0.000167)
+  1) a clock on the side of a building (p=0.000060)
+  2) a clock on the side of a tall building . (p=0.000037)
+Captions for image 46384092_2336435083064795_6271423405017411327_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.000359)
+  1) a woman holding a cell phone in her hand . (p=0.000181)
+  2) a person holding a cell phone in their hand (p=0.000162)
+Captions for image 45815630_1949176521865484_134614113297610252_n.jpg:
+  0) a black and white photo of a mountain range . (p=0.000916)
+  1) a black and white photo of a mountain range (p=0.000187)
+  2) a black and white photo of a mountain range with mountains in the background . (p=0.000107)
+Captions for image 46762532_964515827071735_8873473276171871737_n.jpg:
+  0) a sign that is on a pole in the grass . (p=0.000031)
+  1) a sign that is on a pole by a tree . (p=0.000014)
+  2) a sign that is on a pole in front of a house . (p=0.000009)
+Captions for image 47469821_1803409936434652_5468128366759230271_n.jpg:
+  0) a plane flying in the air with a sky background (p=0.000167)
+  1) a plane flying in the sky with a sky background (p=0.000072)
+  2) a plane flying in the air with a sky in the background (p=0.000004)
+Captions for image 46649060_1062578393948936_8883699289545328201_n.jpg:
+  0) a black and white photo of a man holding a kite . (p=0.000027)
+  1) a black and white photo of a man holding a kite (p=0.000018)
+  2) a black and white photo of a man in a field (p=0.000009)
+Captions for image 46535977_149047042732722_1279106512022338094_n.jpg:
+  0) a man standing in front of a building holding a snowboard . (p=0.000034)
+  1) a man standing in front of a building holding a sign . (p=0.000019)
+  2) a man standing in front of a building with a sign on it . (p=0.000008)
+Captions for image 42903284_1987645374865918_7193647111630341450_n.jpg:
+  0) a woman is sitting on the grass with a frisbee . (p=0.000024)
+  1) a woman is sitting on a bench with a book . (p=0.000018)
+  2) a woman is sitting on the grass with a book . (p=0.000012)
+Captions for image 45861727_152119952421944_4339382436238344693_n.jpg:
+  0) a man in a blue shirt holding a white frisbee . (p=0.000025)
+  1) a man in a hat holding a baseball bat . (p=0.000024)
+  2) a man in a red jacket holding a white frisbee . (p=0.000020)
+Captions for image 46518587_296186201013607_7491940734064522462_n.jpg:
+  0) a woman standing next to a stop sign . (p=0.001135)
+  1) a woman standing next to a stop sign (p=0.000231)
+  2) a woman is standing next to a sign (p=0.000175)
+Captions for image 47338181_520388821812614_5012249494772811400_n.jpg:
+  0) a stop sign with a sticker on it . (p=0.000088)
+  1) a stop sign with a sticker on it (p=0.000081)
+  2) a stop sign with a street sign on top of it . (p=0.000053)
+Captions for image 46645054_256723308328169_903375958911290095_n.jpg:
+  0) a black and white photo of a stop sign (p=0.002410)
+  1) a black and white photo of a stop sign . (p=0.002015)
+  2) a black and white picture of a stop sign . (p=0.001084)
+Captions for image 44864143_356919018450051_5709545026287134875_n.jpg:
+  0) a television with a picture of a man on it . (p=0.000030)
+  1) a television with a picture of a person on it . (p=0.000017)
+  2) a television with a picture of a man on it (p=0.000011)
+Captions for image 46407226_105251487098301_3863092602426764554_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000473)
+  1) a street sign on a pole on a city street (p=0.000079)
+  2) a sign that is on the side of a pole . (p=0.000052)
+Captions for image 43985227_301304064051419_8048099416299798509_n.jpg:
+  0) a couple of people sitting on top of a bench . (p=0.001709)
+  1) a group of people sitting on a bench in a park . (p=0.000589)
+  2) a group of people sitting on a bench in front of a tree . (p=0.000282)
+Captions for image 42190433_332894110871485_3458828282255394042_n.jpg:
+  0) a stop sign with a mountain in the background (p=0.000092)
+  1) a stop sign with a mountain in the background . (p=0.000072)
+  2) a stop sign with a sign on top of it (p=0.000019)
+Captions for image 45802657_2037710622938705_5760196760289338036_n.jpg:
+  0) a stack of books and a clock on a table . (p=0.000053)
+  1) a stack of books on a table with a clock . (p=0.000014)
+  2) a stack of books and a clock on a table (p=0.000013)
+Captions for image 43607964_424269428108723_7168435456161377919_n.jpg:
+  0) a sign that reads `` <UNK> '' on a beach . (p=0.000003)
+  1) a sign that says `` <UNK> '' on a beach . (p=0.000001)
+  2) a sign that reads `` <UNK> '' on the side of a road . (p=0.000001)
+Captions for image 44485521_1373020056166644_8318874158093191402_n.jpg:
+  0) a close up of a stop sign with a sky background (p=0.000527)
+  1) a close up of a stop sign on a street (p=0.000104)
+  2) a close up of a stop sign with a sticker on it (p=0.000096)
+Captions for image 44881408_1978450329121823_6117492916794438043_n.jpg:
+  0) a statue of a man holding a baseball bat . (p=0.000043)
+  1) a statue of a man holding a baseball bat (p=0.000009)
+  2) a sign that reads `` <UNK> '' on a tree . (p=0.000002)
+Captions for image 44608494_571824816595777_3166923862745443975_n.jpg:
+  0) a person sitting on a bed with a laptop . (p=0.000053)
+  1) a person sitting on a bed with a book . (p=0.000038)
+  2) a person sitting on a bed with a laptop (p=0.000031)
+Captions for image 46248301_1182571175216890_8319075311199293330_n.jpg:
+  0) a woman is holding a stop sign in the grass . (p=0.000014)
+  1) a woman is holding a stop sign in the grass (p=0.000010)
+  2) a woman is holding a stop sign in front of a building . (p=0.000005)
+Captions for image 45529092_486950361814206_8048997167035332653_n.jpg:
+  0) a stop sign on the side of a road . (p=0.000239)
+  1) a stop sign on the side of a mountain . (p=0.000145)
+  2) a stop sign on the side of a hill . (p=0.000137)
+Captions for image 44918749_773971329619596_8846355761473913679_n.jpg:
+  0) a black and white photo of a street sign (p=0.000189)
+  1) a black and white photo of a sign on a building (p=0.000098)
+  2) a black and white photo of a sign on a wall (p=0.000054)
+Captions for image 43759101_397690860770673_6411161084940344591_n.jpg:
+  0) a picture of a sign that reads `` <UNK> '' . (p=0.000004)
+  1) a picture of a sign that says <UNK> (p=0.000002)
+  2) a picture of a sign that reads `` <UNK> '' (p=0.000001)
+Captions for image 44580388_2023689981021356_7143062633441072268_n.jpg:
+  0) a man in a suit and tie standing next to a sign . (p=0.000036)
+  1) a man in a suit and tie holding a sign . (p=0.000034)
+  2) a man in a suit and tie standing in front of a sign . (p=0.000025)
+Captions for image 44849187_1945233402452558_7983812659470068638_n.jpg:
+  0) a book sitting on top of a wooden table . (p=0.000364)
+  1) a book sitting on top of a table next to a book . (p=0.000146)
+  2) a book sitting on top of a book next to a book . (p=0.000111)
+Captions for image 44659467_289531371672055_5290938057540946386_n.jpg:
+  0) a woman holding a tennis racket in her hand . (p=0.001050)
+  1) a woman holding a tennis racket in her hands . (p=0.001002)
+  2) a woman holding a tennis racket in her hand (p=0.000317)
+Captions for image 43914588_354125448465261_976670558452870201_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.001045)
+  1) a person is holding a pair of scissors . (p=0.000548)
+  2) a person is holding a pair of scissors (p=0.000434)
+Captions for image 44907924_185628912344815_3957804664527076229_n.jpg:
+  0) a man standing in front of a stop sign . (p=0.000695)
+  1) a man standing in front of a stop sign (p=0.000180)
+  2) a man standing in front of a sign on a street . (p=0.000032)
+Captions for image 42751231_2148635325353316_7621208679819739068_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000294)
+  1) a person is holding a pair of scissors . (p=0.000184)
+  2) a person is holding a pair of scissors (p=0.000162)
+Captions for image 44254763_2203303369907661_3259359123598141731_n.jpg:
+  0) a woman sitting at a table with a plate of food . (p=0.000725)
+  1) a woman sitting at a table with a laptop . (p=0.000551)
+  2) a woman sitting at a table with a plate of food in front of her . (p=0.000107)
+Captions for image 41898851_2209656359269552_2303961346264963770_n.jpg:
+  0) a pile of fruit sitting on top of a table . (p=0.000548)
+  1) a pile of fruit sitting on top of a wooden table . (p=0.000332)
+  2) a pile of fruit sitting next to a pile of apples . (p=0.000060)
+Captions for image 42823102_112714413008797_8649239258072631909_n.jpg:
+  0) a man holding a skateboard in his hand . (p=0.000356)
+  1) a man holding a skateboard in his hands . (p=0.000257)
+  2) a man holding a skateboard in his hand (p=0.000104)

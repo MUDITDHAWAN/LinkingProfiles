@@ -1,0 +1,52 @@
+Captions for image 20766256_163348450894218_6911744587161665536_a.jpg:
+  0) a man standing in front of a refrigerator . (p=0.001173)
+  1) a man standing in front of a refrigerator freezer . (p=0.000669)
+  2) a man standing in front of a refrigerator in a kitchen . (p=0.000564)
+Captions for image 21107228_1946585038918751_1664136120226545664_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000285)
+  1) a man wearing a tie and a shirt . (p=0.000254)
+  2) a man wearing a tie and a tie . (p=0.000187)
+Captions for image 21148037_290576551422983_3512321446036635648_n.jpg:
+  0) a man wearing a tie and a shirt . (p=0.000338)
+  1) a man wearing a tie and a hat . (p=0.000324)
+  2) a man with a tie and a shirt . (p=0.000222)
+Captions for image 20987597_166346187272227_8010285810026807296_n.jpg:
+  0) a man is holding a baseball bat in his hand . (p=0.000208)
+  1) a man is holding a baseball bat in his hands . (p=0.000180)
+  2) a man is holding a baseball bat in his hand (p=0.000065)
+Captions for image 21041781_914040288750284_10914813274226688_n.jpg:
+  0) a man and a woman are standing together (p=0.000152)
+  1) a man in a suit and tie is smiling . (p=0.000053)
+  2) a man in a suit and tie standing next to a woman . (p=0.000051)
+Captions for image 20766868_695072720702864_7472363146435362816_n.jpg:
+  0) a young boy wearing a tie and a hat . (p=0.000032)
+  1) a young boy wearing a tie and a hat (p=0.000007)
+  2) a young boy wearing a baseball cap and a hat . (p=0.000005)
+Captions for image 20905107_1948677992040355_6459857067766185984_n.jpg:
+  0) a man in a suit and tie holding a cell phone . (p=0.000068)
+  1) a man in a suit and tie holding a beer . (p=0.000068)
+  2) a man in a suit and tie holding a cell phone (p=0.000024)
+Captions for image 20837072_1839660453014989_5649746018636398592_n.jpg:
+  0) a young boy wearing a hat and sunglasses . (p=0.000054)
+  1) a young boy wearing a hat and a hat . (p=0.000031)
+  2) a young boy wearing a hat and a tie . (p=0.000026)
+Captions for image 21042803_201768133693981_5905199506487508992_n.jpg:
+  0) a man sitting on a bed in a room . (p=0.000891)
+  1) a man sitting on a bed in a bedroom . (p=0.000718)
+  2) a man sitting on a bed in a room (p=0.000125)
+Captions for image 21148070_164206370810006_4244841930984259584_n.jpg:
+  0) a man and a woman are standing together (p=0.000152)
+  1) a man in a suit and tie is smiling . (p=0.000053)
+  2) a man in a suit and tie standing next to a woman . (p=0.000051)
+Captions for image 21041221_1502149456510997_3299088650641342464_n.jpg:
+  0) a man in a suit and tie holding a toothbrush . (p=0.000026)
+  1) a man in a suit and tie holding a tooth brush . (p=0.000018)
+  2) a man in a suit and tie is holding a toothbrush . (p=0.000010)
+Captions for image 21041402_1968026230117669_6224261721985384448_n.jpg:
+  0) a man is laying on a bed in a room . (p=0.000122)
+  1) a man is laying on a bed in a bedroom . (p=0.000091)
+  2) a man is laying on a bed in a room (p=0.000069)
+Captions for image 21042265_260338364470435_1209909222339248128_n.jpg:
+  0) a man in a black shirt and a black tie (p=0.000007)
+  1) a man in a black shirt and a black tie . (p=0.000004)
+  2) a man in a black shirt and a white shirt and tie (p=0.000000)

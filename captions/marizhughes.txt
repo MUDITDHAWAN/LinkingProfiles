@@ -1,0 +1,12 @@
+Captions for image 11420710_453423564839038_2034171618_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000693)
+  1) a large clock tower towering over a city at night . (p=0.000406)
+  2) a clock tower in the middle of a city . (p=0.000394)
+Captions for image 11266024_1629294547306191_740053913_n.jpg:
+  0) a large clock tower towering over a city . (p=0.005512)
+  1) a large clock tower towering over a city at night . (p=0.001359)
+  2) a large building with a clock tower on top . (p=0.000306)
+Captions for image 1963013_1480666445590285_898960559_a.jpg:
+  0) a woman in a dress shirt and tie . (p=0.000106)
+  1) a woman in a dress shirt and a tie . (p=0.000025)
+  2) a woman in a dress shirt and a tie (p=0.000010)

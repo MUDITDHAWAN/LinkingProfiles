@@ -1,0 +1,28 @@
+Captions for image 42509161_246611279359513_1549832037778039198_n.jpg:
+  0) a man sitting at a table with a plate of food . (p=0.006157)
+  1) a man sitting at a table with a cup of coffee (p=0.000280)
+  2) a man sitting at a table with a plate of food and coffee . (p=0.000230)
+Captions for image 51508313_347749295950297_7035625865860416641_n.jpg:
+  0) a man in a suit and tie is eating a sandwich . (p=0.000014)
+  1) a man in a suit and tie is eating a hot dog . (p=0.000012)
+  2) a man in a suit and tie is eating a donut . (p=0.000011)
+Captions for image 45402569_194076678144514_7298171752535489766_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000147)
+  1) a man in a suit and tie sitting in a car (p=0.000067)
+  2) a man in a suit and tie sitting in a chair . (p=0.000043)
+Captions for image 65303449_891412381225806_7649459951297315013_n.jpg:
+  0) a woman in a black shirt and a black tie (p=0.000008)
+  1) a woman in a black shirt and sunglasses is talking on her cell phone . (p=0.000002)
+  2) a woman in a black shirt and a black tie . (p=0.000002)
+Captions for image 66484753_2237278863015571_8675426452897792000_n.jpg:
+  0) a black and white photo of a man wearing a tie . (p=0.000071)
+  1) a black and white photo of a man wearing a tie (p=0.000063)
+  2) a black and white photo of a man with a beard . (p=0.000063)
+Captions for image 46691017_962461447287297_7876348473867776611_n.jpg:
+  0) a black and white dog laying on top of a bed . (p=0.001200)
+  1) a black and white dog laying on a bed . (p=0.001080)
+  2) a black and white cat laying on a bed . (p=0.000592)
+Captions for image 46583412_2150637595067833_8587640837622700169_n.jpg:
+  0) a man is holding a cell phone to his ear . (p=0.000180)
+  1) a man is holding a cell phone in his hand . (p=0.000110)
+  2) a man in a hat is talking on a cell phone . (p=0.000093)

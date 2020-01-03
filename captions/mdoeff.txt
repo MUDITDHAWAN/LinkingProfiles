@@ -1,0 +1,772 @@
+Captions for image 13113799_1620529698267299_967764181_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.000542)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000487)
+  2) a bouquet of flowers in a vase on a table . (p=0.000404)
+Captions for image 11357915_794213530676353_1645549168_a.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000121)
+  1) a man in a suit and tie is smiling (p=0.000066)
+  2) a man in a suit and tie standing in a field . (p=0.000043)
+Captions for image 42003221_1667421446691818_688685231421145951_n.jpg:
+  0) a group of planes flying in the sky . (p=0.000417)
+  1) a group of planes flying through the sky . (p=0.000351)
+  2) a group of planes flying through the sky (p=0.000112)
+Captions for image 46707728_295998621029625_4623757000505182370_n.jpg:
+  0) a large bridge spanning the width of a river . (p=0.001504)
+  1) a large bridge spanning the width of a river (p=0.000079)
+  2) a bridge over a body of water with a clock tower . (p=0.000041)
+Captions for image 64561569_338774110152822_6265288428947221104_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001515)
+  1) a clock tower in the middle of a city . (p=0.000439)
+  2) a clock tower in the middle of a city (p=0.000169)
+Captions for image 56328799_828173574211962_3914433564627352973_n.jpg:
+  0) a red brick building with a red fire hydrant . (p=0.000022)
+  1) a red brick building with a clock on it (p=0.000017)
+  2) a red brick building with a clock on the side of it . (p=0.000011)
+Captions for image 57488225_2030243500614190_6634543522516503949_n.jpg:
+  0) a black and white photo of a man in a hospital bed . (p=0.000072)
+  1) a black and white photo of a man and a woman . (p=0.000070)
+  2) a black and white photo of a man and a woman (p=0.000040)
+Captions for image 21909190_1963660967179613_7140034425500205056_n.jpg:
+  0) a baseball game in progress with the batter up to plate . (p=0.005290)
+  1) a baseball player is getting ready to hit a ball . (p=0.001107)
+  2) a baseball game in progress with the batter up to plate (p=0.000353)
+Captions for image 52179409_565206210644791_4311522232577058667_n.jpg:
+  0) a group of people riding surfboards on top of a wave . (p=0.002014)
+  1) a group of people on surfboards in the water . (p=0.000912)
+  2) a group of people riding boards on top of a wave . (p=0.000864)
+Captions for image 60609532_210331676611384_556599505938898746_n.jpg:
+  0) a brown and white cat standing in a field . (p=0.000080)
+  1) a brown and white cat standing in a grassy field . (p=0.000039)
+  2) a small brown and white dog standing in a field . (p=0.000032)
+Captions for image 65556681_2188768887838953_1568281329021323007_n.jpg:
+  0) a group of people standing on top of a lush green field . (p=0.000059)
+  1) a group of people standing on top of a grass covered field . (p=0.000017)
+  2) a group of people standing on top of a lush green hillside . (p=0.000016)
+Captions for image 53970494_409488219813907_7939950746920287908_n.jpg:
+  0) a boat that is sitting in the water . (p=0.001558)
+  1) a boat sitting on top of a sandy beach . (p=0.000727)
+  2) a boat sitting on top of a beach next to the ocean . (p=0.000522)
+Captions for image 54247871_252406122373489_5211916117308325206_n.jpg:
+  0) a boat traveling down a river next to a forest . (p=0.000119)
+  1) a boat traveling down a river next to a building . (p=0.000064)
+  2) a boat traveling down a river next to a tall building . (p=0.000055)
+Captions for image 57388197_332983430747182_3992473508472336804_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003971)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000616)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000245)
+Captions for image 53889229_120775369066665_5107792480509420237_n.jpg:
+  0) a herd of sheep grazing on a lush green hillside . (p=0.000544)
+  1) a herd of sheep grazing on a rocky hillside . (p=0.000418)
+  2) a herd of sheep standing on top of a hill . (p=0.000263)
+Captions for image 50905720_514894099035480_4461457472705186938_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003405)
+  1) a city street filled with lots of traffic and tall buildings . (p=0.000091)
+  2) a city street filled with lots of traffic and people . (p=0.000077)
+Captions for image 51137513_809850806028660_6535808489188199190_n.jpg:
+  0) a group of people sitting around a table with a computer . (p=0.000003)
+  1) a group of people sitting around a table with a laptop . (p=0.000003)
+  2) a group of people standing around a table with a computer . (p=0.000002)
+Captions for image 51576070_565724843903151_6935564429687688348_n.jpg:
+  0) a car parked in front of a building . (p=0.001403)
+  1) a white car parked in front of a building . (p=0.001296)
+  2) a car parked in front of a building with a clock on it . (p=0.000023)
+Captions for image 57358353_135118787647376_3985257824286055846_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001672)
+  1) a city street filled with lots of tall buildings . (p=0.000830)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000116)
+Captions for image 49400980_1788654704593432_2522193259677548847_n.jpg:
+  0) a train traveling through a lush green forest . (p=0.000363)
+  1) a train traveling through a lush green countryside . (p=0.000357)
+  2) a train traveling through a lush green hillside . (p=0.000215)
+Captions for image 57430349_417304959100999_5268041815057186553_n.jpg:
+  0) a group of people walking down a street next to tall buildings . (p=0.000159)
+  1) a group of people sitting on a bench in front of a building . (p=0.000132)
+  2) a group of people walking down a street next to a building . (p=0.000063)
+Captions for image 52043278_2320873858197252_4657562375258276480_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.009809)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.001222)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000584)
+Captions for image 49554401_478862032642248_4493818656205320134_n.jpg:
+  0) a tree in a forest filled with trees . (p=0.000046)
+  1) a tree in a forest filled with lots of trees . (p=0.000014)
+  2) a tree in a forest filled with trees (p=0.000010)
+Captions for image 47692642_2161914880537206_6225574924422012928_n.jpg:
+  0) a bird sitting on top of a tree branch . (p=0.000239)
+  1) a bird sitting on top of a tree in a forest . (p=0.000039)
+  2) a bird sitting on top of a tree branch (p=0.000032)
+Captions for image 47693720_1758998980866387_8580632575659048530_n.jpg:
+  0) a tree in the middle of a forest . (p=0.000214)
+  1) a tree in the middle of a forest (p=0.000062)
+  2) a tree in the middle of a wooded area . (p=0.000050)
+Captions for image 47242989_284453475594219_277088460110957297_n.jpg:
+  0) a person flying a kite on a beach . (p=0.001312)
+  1) a person is flying a kite on the beach . (p=0.001115)
+  2) a person is flying a kite on a beach . (p=0.000706)
+Captions for image 47692872_540540909689693_6338015752242082179_n.jpg:
+  0) a woman sitting on a bench looking at the ocean . (p=0.001296)
+  1) a woman sitting on a bench in front of a lake . (p=0.000370)
+  2) a woman sitting on a bench looking at the ocean (p=0.000331)
+Captions for image 46248293_497330944008103_4376869466956848833_n.jpg:
+  0) a plane flying over a large body of water . (p=0.000333)
+  1) a plane flying over a body of water . (p=0.000202)
+  2) a plane flying over a body of water (p=0.000148)
+Captions for image 47454201_351379342347805_4074616855824514881_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000305)
+  1) a train traveling down tracks next to a river . (p=0.000225)
+  2) a train traveling over a bridge over water . (p=0.000149)
+Captions for image 42657912_176597513221538_4689697294617337883_n.jpg:
+  0) a crowd of people standing in front of a tall building . (p=0.000206)
+  1) a crowd of people standing in front of a building . (p=0.000122)
+  2) a crowd of people standing in front of a large building . (p=0.000088)
+Captions for image 42896151_368473457244501_8797568469541552099_n.jpg:
+  0) a view of a beach with a person standing on it . (p=0.000002)
+  1) a view of a beach with a person on the beach . (p=0.000001)
+  2) a view of a beach with a person standing on the beach . (p=0.000001)
+Captions for image 43985411_580568365705160_7524777603308691265_n.jpg:
+  0) a night time view of a city street at night . (p=0.000081)
+  1) a night time view of a city street . (p=0.000043)
+  2) a night time view of a city street at night (p=0.000019)
+Captions for image 45544726_311757919422217_7405550994045688201_n.jpg:
+  0) a room filled with lots of wooden furniture . (p=0.000191)
+  1) a room filled with lots of furniture and a piano . (p=0.000060)
+  2) a room filled with lots of furniture and a clock . (p=0.000059)
+Captions for image 44403485_389665484937452_5499984950944172262_n.jpg:
+  0) a truck parked on the side of a road . (p=0.000458)
+  1) a black and white photo of a truck driving down a dirt road . (p=0.000049)
+  2) a black and white photo of a truck driving down a road . (p=0.000038)
+Captions for image 43090735_317410002406909_4017649390108412395_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000439)
+  1) a train traveling over a bridge over a body of water . (p=0.000108)
+  2) a train on a bridge over a body of water (p=0.000086)
+Captions for image 44269244_359979507905455_6838585792218076310_n.jpg:
+  0) a view of a city skyline from the distance . (p=0.000002)
+  1) a view of a city skyline from a distance . (p=0.000002)
+  2) a view of a city skyline from the distance (p=0.000000)
+Captions for image 42814247_285333025439855_6955617843223071549_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.001991)
+  1) a train traveling down tracks next to a river . (p=0.000649)
+  2) a train traveling over a bridge over a body of water . (p=0.000447)
+Captions for image 43678613_2327411747489397_8184323390066387358_n.jpg:
+  0) a group of people playing a game of tennis . (p=0.001986)
+  1) a group of people playing a game of soccer . (p=0.001650)
+  2) a black and white photo of a baseball game . (p=0.000993)
+Captions for image 36136915_2031005193828038_5696744106294771712_n.jpg:
+  0) a herd of sheep grazing on a lush green hillside . (p=0.001604)
+  1) a herd of sheep grazing on a lush green field . (p=0.000681)
+  2) a herd of sheep grazing on a hillside . (p=0.000379)
+Captions for image 44442149_297718130843574_6470960531155924750_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.002202)
+  1) a group of people standing on top of a lush green field . (p=0.001847)
+  2) a group of people standing on top of a grass covered field . (p=0.000974)
+Captions for image 43914707_1164609443686683_3719262215765589553_n.jpg:
+  0) an elephant is standing in the snow near a tree . (p=0.000011)
+  1) an elephant is walking in the snow near a tree . (p=0.000008)
+  2) an elephant is standing in the snow by a tree . (p=0.000005)
+Captions for image 38081495_221878518504113_4563391988811956224_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.001079)
+  1) a group of people standing on top of a beach . (p=0.000437)
+  2) a group of people standing on top of a beach next to the ocean . (p=0.000102)
+Captions for image 41920851_2053036998088044_7129530841744811553_n.jpg:
+  0) a group of people standing in front of a store . (p=0.000027)
+  1) a group of people standing in front of a large building . (p=0.000013)
+  2) a group of people standing in front of a display of luggage . (p=0.000003)
+Captions for image 41113458_2140285892649736_290016165876948650_n.jpg:
+  0) a view of a city skyline from the distance . (p=0.000008)
+  1) a view of a city skyline from the beach . (p=0.000007)
+  2) a view of a city skyline from a distance . (p=0.000007)
+Captions for image 42002929_266277974012957_3242492124859754860_n.jpg:
+  0) a large body of water with a sky background (p=0.000190)
+  1) a large body of water next to a river . (p=0.000069)
+  2) a large body of water next to a forest . (p=0.000055)
+Captions for image 41184596_2057761934537683_1266385483002752677_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.000383)
+  1) a group of people standing on a beach flying kites . (p=0.000210)
+  2) a group of people standing on top of a beach . (p=0.000090)
+Captions for image 40585890_2034684813249024_6498864869302713504_n.jpg:
+  0) a plane flying over a large body of water . (p=0.000477)
+  1) an airplane flying over a large body of water . (p=0.000346)
+  2) a plane flying over a body of water . (p=0.000256)
+Captions for image 41021658_276272256336387_4855429152859819694_n.jpg:
+  0) a truck driving down a road next to a river . (p=0.000059)
+  1) a truck driving down a road next to a tall building . (p=0.000025)
+  2) a truck driving down a road next to a large body of water . (p=0.000014)
+Captions for image 42424616_251515088804409_409742583797552422_n.jpg:
+  0) a group of planes flying in the sky . (p=0.000424)
+  1) a group of planes flying in the sky (p=0.000215)
+  2) a group of planes flying in formation in the sky . (p=0.000201)
+Captions for image 38679542_258126335029028_3261570693971574784_n.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.003152)
+  1) a man riding a surfboard on top of a wave . (p=0.001505)
+  2) a man riding a wave on a surfboard . (p=0.000671)
+Captions for image 37852096_272300913569388_7748714218571956224_n.jpg:
+  0) a bench sitting in the middle of a forest . (p=0.000718)
+  1) a park bench sitting in the middle of a forest . (p=0.000211)
+  2) a bench sitting in the middle of a lush green forest . (p=0.000115)
+Captions for image 39314902_268200577344111_8149480421575360512_n.jpg:
+  0) a group of people sitting on a bench next to a river . (p=0.000009)
+  1) a group of people sitting on a bench in front of a lake . (p=0.000005)
+  2) a group of people sitting on a bench in the middle of a park . (p=0.000002)
+Captions for image 38540800_1037722096389056_4779891897109839872_n.jpg:
+  0) a clock tower in the middle of a park . (p=0.000111)
+  1) a clock tower in the middle of a city . (p=0.000032)
+  2) a clock tower in the middle of a park (p=0.000030)
+Captions for image 38493367_420071085182907_7727467990316220416_n.jpg:
+  0) a group of people standing on a beach next to the ocean . (p=0.000006)
+  1) a group of people standing on a beach next to a beach . (p=0.000003)
+  2) a group of people standing on a beach next to a large body of water . (p=0.000001)
+Captions for image 36135994_2069207503343140_7092094253945323520_n.jpg:
+  0) a baseball game in progress with the batter up to plate . (p=0.003849)
+  1) a baseball game in progress with the batter up to bat . (p=0.000317)
+  2) a baseball game in progress with the batter up to plate (p=0.000244)
+Captions for image 38618463_243310853185287_2987498643151388672_n.jpg:
+  0) a boat sitting on top of a lush green field . (p=0.000570)
+  1) a boat sitting on top of a lush green hillside . (p=0.000295)
+  2) a boat sitting on the shore of a lake . (p=0.000233)
+Captions for image 38528489_888771251322969_7889795360145539072_n.jpg:
+  0) a man is sitting on a surfboard in the water . (p=0.000292)
+  1) a man is sitting on a surfboard in the ocean . (p=0.000265)
+  2) a man is sitting on a surfboard on the beach . (p=0.000144)
+Captions for image 20838707_1817111981952299_6978507835143356416_n.jpg:
+  0) a close up of a graffiti covered wall (p=0.000015)
+  1) a close up of a graffiti covered wall with graffiti (p=0.000006)
+  2) a close up of a graffiti covered wall with graffiti on it (p=0.000003)
+Captions for image 39275974_1966450063646567_3055569571235758080_n.jpg:
+  0) a group of people sitting on top of a sandy beach . (p=0.000342)
+  1) a group of people sitting on top of a beach . (p=0.000115)
+  2) a group of people on a beach with umbrellas (p=0.000032)
+Captions for image 34517165_202334720406914_1637366654222467072_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002898)
+  1) a city street filled with lots of buses and people . (p=0.000211)
+  2) a city street filled with lots of buses and buildings . (p=0.000208)
+Captions for image 38713568_280351229445469_8036255196638085120_n.jpg:
+  0) a table with a bunch of umbrellas on it (p=0.000098)
+  1) a bunch of umbrellas that are on a table . (p=0.000065)
+  2) a bunch of umbrellas that are on a table (p=0.000029)
+Captions for image 30079226_1546812615618207_8081801611120214016_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002379)
+  1) a city street filled with lots of people . (p=0.001171)
+  2) a group of people sitting on a bench in a city . (p=0.000038)
+Captions for image 38635683_566911217044532_1886477918486396928_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.000208)
+  1) a group of people standing on top of a beach . (p=0.000078)
+  2) a group of people standing on a beach next to a body of water . (p=0.000031)
+Captions for image 29416578_1864680677157983_6105682107349073920_n.jpg:
+  0) a man is riding a skateboard in a skate park . (p=0.000002)
+  1) a man in a red shirt is doing a trick (p=0.000002)
+  2) a man in a red shirt is doing a trick on a skateboard . (p=0.000001)
+Captions for image 38690906_600184510379250_3254169791010701312_n.jpg:
+  0) a group of cars parked in a parking lot . (p=0.000019)
+  1) a group of people standing on top of a lush green field . (p=0.000010)
+  2) a group of cars parked in a parking lot (p=0.000007)
+Captions for image 29417982_1460005857462079_271497424084664320_n.jpg:
+  0) a view of a bridge over a body of water . (p=0.000062)
+  1) a view of a bridge over a river . (p=0.000033)
+  2) a view of a bridge over a body of water (p=0.000005)
+Captions for image 29716344_208687356392036_2025296870720405504_n.jpg:
+  0) a window with a reflection of a cat in it . (p=0.000003)
+  1) a window with a reflection of a cat in the window . (p=0.000002)
+  2) a window with a reflection of a cat in a window . (p=0.000002)
+Captions for image 38784950_1827229827330993_8400362767143403520_n.jpg:
+  0) a herd of animals walking across a dirt field . (p=0.000376)
+  1) a herd of animals standing on top of a sandy beach . (p=0.000356)
+  2) a herd of animals standing on top of a dirt field . (p=0.000202)
+Captions for image 29416324_2169345709968483_3367452229207326720_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000044)
+  1) a group of people standing in front of a large building . (p=0.000033)
+  2) a group of people standing in front of a large building (p=0.000001)
+Captions for image 29715442_2051527375130378_4139793121187725312_n.jpg:
+  0) a group of people standing on top of a lush green field . (p=0.000044)
+  1) a group of people standing on top of a lush green hillside . (p=0.000005)
+  2) a group of people standing on top of a wooden bench . (p=0.000005)
+Captions for image 38882104_433155357195047_3557685075300581376_n.jpg:
+  0) a large body of water next to a lake . (p=0.000071)
+  1) a large body of water with boats in it . (p=0.000068)
+  2) a large body of water with boats in it (p=0.000053)
+Captions for image 28427588_195296661230837_8229463269656494080_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.000667)
+  1) a city street filled with lots of tall buildings . (p=0.000190)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000038)
+Captions for image 29402123_1555694344529544_7132507246205861888_n.jpg:
+  0) a pool of water and a blue umbrella . (p=0.000012)
+  1) a pool of water and a blue umbrella (p=0.000010)
+  2) a pool with a pool and a pool (p=0.000005)
+Captions for image 29717038_805405852990299_4819510367665258496_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000265)
+  1) a clock tower in the middle of a park . (p=0.000129)
+  2) a clock tower in the middle of a city (p=0.000101)
+Captions for image 26871563_434986953584316_4397463645387227136_n.jpg:
+  0) a group of people standing on top of a lush green field . (p=0.000022)
+  1) a group of people standing on top of a traffic light . (p=0.000019)
+  2) a group of people standing on top of a bridge . (p=0.000015)
+Captions for image 27879987_154218641944950_8814237029945573376_n.jpg:
+  0) a large clock tower towering over a city at night . (p=0.000772)
+  1) a large clock tower towering over a city . (p=0.000529)
+  2) a large clock tower towering over a city at night (p=0.000022)
+Captions for image 14693880_1289024037788255_16542788095049728_n.jpg:
+  0) a tall building with a clock on it (p=0.000011)
+  1) a tall building with a clock on it . (p=0.000006)
+  2) a tall building with a clock tower in the middle of it . (p=0.000005)
+Captions for image 26868352_1536535353048861_61842512540598272_n.jpg:
+  0) a group of people standing on a beach flying kites . (p=0.000039)
+  1) a group of people standing on a beach next to the ocean . (p=0.000013)
+  2) a group of people standing on a beach next to a body of water . (p=0.000011)
+Captions for image 26864861_536227750066451_8490043075853287424_n.jpg:
+  0) a large clock tower towering over a city . (p=0.002079)
+  1) a clock tower in the middle of a city . (p=0.000195)
+  2) a large clock tower sitting in the middle of a river . (p=0.000144)
+Captions for image 26069126_143559933090638_1082539428850696192_n.jpg:
+  0) a view of a city street at sunset . (p=0.000050)
+  1) a view of a city street at sunset (p=0.000010)
+  2) a view of a city skyline with a sunset . (p=0.000003)
+Captions for image 26867812_1544881448923025_2920194096146415616_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.001778)
+  1) a train on a train track near a bridge (p=0.000305)
+  2) a train traveling over a bridge over a body of water . (p=0.000287)
+Captions for image 26072322_175148073232311_4409137160339324928_n.jpg:
+  0) a herd of sheep grazing on a rocky hillside . (p=0.000765)
+  1) a herd of sheep standing on top of a rocky hillside . (p=0.000687)
+  2) a herd of sheep standing on top of a lush green hillside . (p=0.000507)
+Captions for image 25013955_306507246509129_1696318168441552896_n.jpg:
+  0) a large body of water with a sky background (p=0.000123)
+  1) a large body of water with a boat in the distance . (p=0.000062)
+  2) a large body of water next to a large body of water . (p=0.000036)
+Captions for image 39041778_721765508155714_4174505317456936960_n.jpg:
+  0) a group of people sitting on a bench under a tree . (p=0.000034)
+  1) a group of people sitting on top of a wooden bench . (p=0.000032)
+  2) a group of people sitting on a bench under a tree (p=0.000004)
+Captions for image 25013981_2147196368844037_3725760172228870144_n.jpg:
+  0) a large body of water with boats on it . (p=0.000165)
+  1) a large body of water with lots of boats on it . (p=0.000116)
+  2) a large body of water with a lot of boats on it (p=0.000104)
+Captions for image 23161728_1997205933881714_434913593893322752_n.jpg:
+  0) a group of people standing in a room . (p=0.000082)
+  1) a room filled with lots of different colored umbrellas . (p=0.000075)
+  2) a group of people standing in a room with a clock . (p=0.000002)
+Captions for image 25008680_169071387027490_6393860845108985856_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.001200)
+  1) a large clock mounted to the side of a wall . (p=0.000184)
+  2) a building with a clock on the wall (p=0.000085)
+Captions for image 22351652_157176504873225_7480733337615597568_n.jpg:
+  0) a red fire hydrant in front of a building . (p=0.000133)
+  1) a red fire hydrant sitting in front of a building . (p=0.000078)
+  2) a red fire hydrant in front of a building (p=0.000039)
+Captions for image 21879230_273021749869698_954326035065733120_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001462)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000107)
+  2) a city street filled with lots of traffic and traffic . (p=0.000091)
+Captions for image 22220673_1761062217523783_5181996819944570880_n.jpg:
+  0) a couple of trees that are in the grass . (p=0.000056)
+  1) a couple of trees that are next to a tree (p=0.000029)
+  2) a couple of trees that are next to some trees (p=0.000022)
+Captions for image 13113952_121148658298022_2102141129_n.jpg:
+  0) a crowd of people watching a baseball game . (p=0.003841)
+  1) a large crowd of people watching a baseball game . (p=0.002022)
+  2) a crowd of people watching a baseball game (p=0.001941)
+Captions for image 21372960_909098789230816_4676670449868865536_n.jpg:
+  0) a black bear standing on top of a dirt field . (p=0.001260)
+  1) a black bear standing on top of a grass covered field . (p=0.000600)
+  2) a black bear standing on top of a dirt road . (p=0.000491)
+Captions for image 21294579_2033360076885100_7001000080656302080_n.jpg:
+  0) a large body of water with a bridge over it . (p=0.000088)
+  1) a large body of water with a bridge in the background . (p=0.000056)
+  2) a large body of water with a bridge in the background (p=0.000050)
+Captions for image 21107179_402856456783526_5546340849874370560_n.jpg:
+  0) a group of people riding surfboards on top of a wave . (p=0.000354)
+  1) a group of people riding surfboards on top of a wave in the ocean . (p=0.000141)
+  2) a group of people riding on top of a wave in the ocean . (p=0.000128)
+Captions for image 21296573_287030848369950_936181529111953408_n.jpg:
+  0) a man standing on a beach holding a surfboard . (p=0.000400)
+  1) a young boy standing on a beach holding a surfboard . (p=0.000081)
+  2) a young boy standing on a beach with a surfboard . (p=0.000075)
+Captions for image 20838883_1509432802451271_2539873225962160128_n.jpg:
+  0) a colorful kite is flying in the sky . (p=0.000591)
+  1) a colorful kite flying in a blue sky . (p=0.000413)
+  2) a colorful kite is flying in the sky (p=0.000213)
+Captions for image 15276735_1687989911441657_7041969120857817088_n.jpg:
+  0) a kite flying in the sky over a city . (p=0.000208)
+  1) a kite flying in the sky over a city (p=0.000135)
+  2) a kite flying in the sky above a city . (p=0.000096)
+Captions for image 20766425_1456786867723061_1338410323098468352_n.jpg:
+  0) a large body of water filled with lots of boats . (p=0.000608)
+  1) a group of boats floating on top of a body of water . (p=0.000274)
+  2) a large body of water filled with boats . (p=0.000201)
+Captions for image 20901960_110878559619417_1479168697879756800_n.jpg:
+  0) a young boy holding a baseball bat on a field . (p=0.000287)
+  1) a young boy holding a baseball bat in his hands . (p=0.000199)
+  2) a little boy holding a baseball bat on a field . (p=0.000130)
+Captions for image 20902817_2072840206278666_695848787159023616_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.000031)
+  1) a group of people standing on top of a lush green field . (p=0.000030)
+  2) a group of people sitting on a bench under a tree . (p=0.000008)
+Captions for image 20837135_987464178062006_5294347014014763008_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.000298)
+  1) a group of people standing on top of a beach . (p=0.000153)
+  2) a group of people standing on top of a beach next to the ocean . (p=0.000032)
+Captions for image 20759241_842911662539959_4765602193023696896_n.jpg:
+  0) a group of people sitting on top of a sandy beach . (p=0.000706)
+  1) a group of people sitting on a beach next to the ocean . (p=0.000383)
+  2) a group of people sitting on top of a beach next to the ocean . (p=0.000205)
+Captions for image 20633487_129142551027246_5521858157602668544_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.004161)
+  1) a group of people standing on top of a beach . (p=0.000698)
+  2) a group of people on a beach playing with a frisbee (p=0.000299)
+Captions for image 20590150_142110119708741_5192761584241344512_n.jpg:
+  0) a group of people riding skateboards down a street . (p=0.000162)
+  1) a group of people riding skateboards on a ramp . (p=0.000122)
+  2) a group of people riding skateboards on top of a ramp . (p=0.000079)
+Captions for image 20583047_500256523647285_6937189343517736960_n.jpg:
+  0) a couple of people on a beach with surfboards . (p=0.000688)
+  1) a couple of people on a beach with a surfboard . (p=0.000604)
+  2) a couple of people on a beach with a kite . (p=0.000211)
+Captions for image 20589520_1404313516348586_522848999124762624_n.jpg:
+  0) a white plate topped with a salad and a salad . (p=0.000067)
+  1) a white plate topped with a salad and a sandwich . (p=0.000056)
+  2) a plate of food with a fork and a knife . (p=0.000054)
+Captions for image 20184576_1442238795862919_4886467537715331072_n.jpg:
+  0) a couple of people sitting on top of a rock . (p=0.000082)
+  1) a couple of people sitting on top of a wooden bench . (p=0.000079)
+  2) a couple of people sitting on top of a bench . (p=0.000073)
+Captions for image 20066173_154139665154624_5097559712820363264_n.jpg:
+  0) a view of a sunset from the sky . (p=0.000033)
+  1) a view of a mountain range from the sky . (p=0.000008)
+  2) a view of a mountain range from the top of a plane . (p=0.000002)
+Captions for image 19985315_117031765586764_5270512458077831168_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000869)
+  1) a large tower with a clock on it (p=0.000253)
+  2) a large clock tower sitting on top of a beach . (p=0.000069)
+Captions for image 19985860_383583935377671_7740392586291970048_n.jpg:
+  0) a view of a lake and a mountain range . (p=0.000002)
+  1) a view of a lake with a plane flying over it . (p=0.000001)
+  2) a view of a lake and a mountain in the background . (p=0.000001)
+Captions for image 19622802_484198108582037_7097555433711206400_n.jpg:
+  0) a red and yellow fire hydrant in a garden . (p=0.000003)
+  1) a red and yellow fire hydrant in a garden (p=0.000001)
+  2) a red and yellow fire hydrant sitting in the grass . (p=0.000001)
+Captions for image 19121959_313619525729004_4505025264454991872_n.jpg:
+  0) a bird is perched on top of a pole . (p=0.000071)
+  1) a bird is perched on top of a building . (p=0.000071)
+  2) a bird is perched on top of a wire . (p=0.000040)
+Captions for image 19226995_468630316803556_488388835831447552_n.jpg:
+  0) a group of people standing next to each other . (p=0.000114)
+  1) a group of people standing next to each other holding umbrellas . (p=0.000079)
+  2) a group of people standing next to each other under an umbrella . (p=0.000027)
+Captions for image 19534275_1364972276956682_6890548756052180992_n.jpg:
+  0) a man and a woman are standing next to a baby elephant . (p=0.000001)
+  1) a man and a woman are standing next to a fence . (p=0.000001)
+  2) a man and a woman are standing next to a small elephant . (p=0.000001)
+Captions for image 19051750_631337593739347_7158926272943357952_n.jpg:
+  0) a plane flying over a city with a sky background (p=0.000002)
+  1) a view of a city skyline from a plane . (p=0.000002)
+  2) a view of a city skyline from a plane (p=0.000000)
+Captions for image 18947864_101497877120044_2837342085357502464_n.jpg:
+  0) a stop sign on the side of a road . (p=0.000111)
+  1) a stop sign on the side of the road . (p=0.000054)
+  2) a stop sign on the side of the road (p=0.000022)
+Captions for image 18723026_225174827987170_7713991409438556160_n.jpg:
+  0) a group of people on a field playing baseball . (p=0.004407)
+  1) a group of people on a field playing soccer . (p=0.001331)
+  2) a baseball game in progress with the batter up to plate . (p=0.000990)
+Captions for image 18723241_300967326997910_3392322271694553088_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000430)
+  1) a tall building with a clock on the top of it . (p=0.000183)
+  2) a large building with a clock tower in the middle . (p=0.000151)
+Captions for image 18721979_1685737541728308_6445772225030127616_n.jpg:
+  0) a bird sitting on top of a book . (p=0.000681)
+  1) a bird sitting on top of a wooden table . (p=0.000180)
+  2) a bird sitting on top of a book on a table . (p=0.000117)
+Captions for image 18514218_848603671958140_2492787331992387584_n.jpg:
+  0) a painting of a bird flying in the air . (p=0.000021)
+  1) a painting of a bird flying in the air (p=0.000018)
+  2) a painting of a bird sitting on a branch (p=0.000005)
+Captions for image 18722733_1439573766124997_1840841464309874688_n.jpg:
+  0) a red and white kite flying in a blue sky . (p=0.000234)
+  1) a red and white kite flying in the sky . (p=0.000166)
+  2) a red and white kite flying in the sky (p=0.000110)
+Captions for image 18722987_1762227057128591_1221211123835994112_n.jpg:
+  0) a bird perched on top of a wooden table . (p=0.000715)
+  1) a bird perched on top of a wooden bench . (p=0.000653)
+  2) a bird perched on top of a wooden chair . (p=0.000605)
+Captions for image 18013304_412510435786150_4405310615061528576_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.002518)
+  1) a large clock mounted to the side of a brick building . (p=0.000229)
+  2) a building with a clock on the front of it . (p=0.000167)
+Captions for image 18253068_797779483722804_5545760745821569024_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.001121)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000687)
+  2) a vase filled with flowers sitting on top of a wooden table . (p=0.000235)
+Captions for image 18096617_1297149963673554_5992249040354410496_n.jpg:
+  0) a harbor filled with lots of boats next to buildings . (p=0.000203)
+  1) a harbor filled with lots of boats next to a bridge . (p=0.000159)
+  2) a harbor filled with lots of boats on top of water . (p=0.000138)
+Captions for image 18646313_1902541126690954_5086084049831723008_n.jpg:
+  0) a group of people standing on top of a lush green field . (p=0.000175)
+  1) a group of people walking down a street . (p=0.000073)
+  2) a group of people standing on top of a grass covered field . (p=0.000040)
+Captions for image 18095170_761357500691092_2361886345242083328_n.jpg:
+  0) a couple of animals that are in the grass . (p=0.000150)
+  1) a couple of animals that are standing in the grass . (p=0.000103)
+  2) a couple of animals that are on a hill (p=0.000018)
+Captions for image 18011500_1880473158883827_8144746354002886656_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000785)
+  1) a large clock tower towering over a city at night . (p=0.000571)
+  2) a clock tower in the middle of a city . (p=0.000279)
+Captions for image 18298684_1379375025488722_4972973423211839488_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000702)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000546)
+  2) a bunch of flowers that are in a vase (p=0.000264)
+Captions for image 17931792_546248225545572_275015642250215424_n.jpg:
+  0) a bunch of umbrellas that are on the beach . (p=0.000327)
+  1) a bunch of umbrellas that are on a beach . (p=0.000274)
+  2) a bunch of umbrellas that are in the sand . (p=0.000274)
+Captions for image 18011733_138768873327287_335407280478486528_n.jpg:
+  0) a bunch of bananas hanging from a tree . (p=0.000856)
+  1) a bunch of green bananas hanging from a tree . (p=0.000504)
+  2) a bunch of bananas hanging from a tree (p=0.000308)
+Captions for image 18645877_1478564495527299_5918306715882749952_n.jpg:
+  0) a group of people standing in a field . (p=0.001073)
+  1) a group of people in a field with a kite . (p=0.000132)
+  2) a group of people standing in a field with a kite . (p=0.000083)
+Captions for image 18251372_207044649809963_3118226907791884288_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.001513)
+  1) a close up of a vase with many flowers in it (p=0.000306)
+  2) a close up of a vase with flowers on a table (p=0.000250)
+Captions for image 18011312_361585030909796_1052744287235604480_n.jpg:
+  0) a man sitting on a bench in a park . (p=0.000289)
+  1) a man sitting on a bench next to a tree . (p=0.000162)
+  2) a man sitting on a bench in a park (p=0.000057)
+Captions for image 17818075_170039303517760_2156327367914553344_n.jpg:
+  0) a city street at night with a traffic light . (p=0.000062)
+  1) a city street at night with traffic lights (p=0.000054)
+  2) a city street at night with a red light (p=0.000016)
+Captions for image 17883181_683409628493096_6050130175708889088_n.jpg:
+  0) a large stone building with a clock on it (p=0.000082)
+  1) a large stone building with a clock on it . (p=0.000054)
+  2) a building with a clock on the side of it (p=0.000053)
+Captions for image 17881782_726500740854414_441260606369038336_n.jpg:
+  0) a toaster oven sitting on the side of a road . (p=0.000144)
+  1) a toaster oven sitting on the side of a street . (p=0.000084)
+  2) a toaster oven sitting on top of a box . (p=0.000060)
+Captions for image 18251451_260511104416437_5723208925973577728_n.jpg:
+  0) a bunch of flowers that are in a tree . (p=0.000200)
+  1) a bunch of flowers that are sitting in a tree . (p=0.000101)
+  2) a bunch of flowers that are growing in a tree . (p=0.000070)
+Captions for image 17818182_270784456681008_614216426823090176_n.jpg:
+  0) a close up of a cake with a train on it (p=0.000005)
+  1) a close up of a sign that says <UNK> (p=0.000004)
+  2) a close up of a sign that says `` <UNK> '' . (p=0.000002)
+Captions for image 17819281_269218713527955_4812643883190059008_n.jpg:
+  0) a bunch of green bananas hanging from a tree . (p=0.000567)
+  1) a bunch of green bananas hanging from a plant . (p=0.000105)
+  2) a bunch of green bananas hanging on a tree . (p=0.000085)
+Captions for image 17438383_112001099339679_8097467689015967744_n.jpg:
+  0) a close up of a blue and yellow banana . (p=0.000067)
+  1) a close up of a blue and yellow banana (p=0.000036)
+  2) a close up of a blue and yellow bird feeder . (p=0.000024)
+Captions for image 17438003_651139625086621_2908159666502500352_n.jpg:
+  0) a group of people standing next to each other holding umbrellas . (p=0.000014)
+  1) a group of people standing in front of a large building . (p=0.000009)
+  2) a group of people standing in front of a large colorful kite . (p=0.000005)
+Captions for image 17437461_1151438564965055_5997458148489691136_n.jpg:
+  0) a group of people standing around a store . (p=0.000054)
+  1) a group of people standing in front of a store . (p=0.000048)
+  2) a group of people standing in front of a train . (p=0.000047)
+Captions for image 16789377_293760341043267_6234534815605981184_n.jpg:
+  0) a city street with a traffic light and street signs . (p=0.000029)
+  1) a city street with a traffic light and street sign . (p=0.000008)
+  2) a city street with a traffic light and a street sign . (p=0.000005)
+Captions for image 16583883_1108956302566009_8690108021210087424_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.000717)
+  1) a group of people standing on top of a beach . (p=0.000225)
+  2) a group of people standing on a beach flying kites . (p=0.000223)
+Captions for image 16465531_382618032098495_1192599537768726528_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.005462)
+  1) a city street filled with traffic next to tall buildings . (p=0.001326)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000398)
+Captions for image 16228896_1815143808740505_847154871474847744_n.jpg:
+  0) a statue of a man sitting on top of a bench . (p=0.000019)
+  1) a statue of a man is sitting on a bench (p=0.000014)
+  2) a statue of a man sitting on top of a wooden bench . (p=0.000013)
+Captions for image 16123909_1915492075340204_3798061952337444864_n.jpg:
+  0) a group of people standing around a table filled with vases . (p=0.000005)
+  1) a group of people standing in front of a building . (p=0.000005)
+  2) a group of people standing in front of a building with lots of flowers . (p=0.000000)
+Captions for image 15877035_1155972824520354_2103443160720998400_n.jpg:
+  0) a street scene with cars and a traffic light . (p=0.000025)
+  1) a city street with cars and buildings in the background . (p=0.000020)
+  2) a street scene with cars and a building . (p=0.000013)
+Captions for image 16229439_970223093121928_4212313528016568320_n.jpg:
+  0) a view of a city skyline from a plane . (p=0.000004)
+  1) a view of a city street from a plane . (p=0.000003)
+  2) a view of a city street from the top of a building . (p=0.000002)
+Captions for image 15534786_425649451158349_6809849417231761408_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.001146)
+  1) a red stop sign sitting on the side of a street . (p=0.000580)
+  2) a red stop sign sitting on the side of a building . (p=0.000326)
+Captions for image 15306733_1642341786062784_3621633294342291456_n.jpg:
+  0) there are many different colored ties on this table (p=0.000275)
+  1) a bunch of different colored ties on a table . (p=0.000144)
+  2) a group of different colored ties on a table . (p=0.000125)
+Captions for image 15535027_1956957687864981_7507125065540960256_n.jpg:
+  0) a view of a bunch of people sitting at a table . (p=0.000003)
+  1) a view of a bunch of people sitting at tables . (p=0.000002)
+  2) a view of a bunch of people in a city . (p=0.000001)
+Captions for image 16110272_1865765840306291_8992959612793651200_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.002223)
+  1) a red stop sign sitting on the side of a street . (p=0.000256)
+  2) a red stop sign sitting in the middle of a forest . (p=0.000237)
+Captions for image 15035793_1810966712509133_8530975183631024128_n.jpg:
+  0) a person flying a kite on a cloudy day . (p=0.000493)
+  1) a person flying a kite on a beach . (p=0.000397)
+  2) a person flying a kite in the sky . (p=0.000390)
+Captions for image 13188204_279551569050352_2113364210_n.jpg:
+  0) a young boy holding a baseball bat on a field . (p=0.001244)
+  1) a baseball player holding a bat next to home plate . (p=0.001223)
+  2) a baseball player holding a bat on a field . (p=0.000990)
+Captions for image 14714642_212394179191559_8429840888632442880_n.jpg:
+  0) a group of people standing next to each other . (p=0.000119)
+  1) a group of people standing next to each other in a room . (p=0.000023)
+  2) a group of people standing next to each other at a train station . (p=0.000015)
+Captions for image 14677228_1059929154124014_2887191554559049728_n.jpg:
+  0) a fruit stand with apples , oranges and bananas . (p=0.000060)
+  1) a fruit stand with apples , oranges and bananas (p=0.000025)
+  2) a fruit stand with apples , oranges , and bananas . (p=0.000021)
+Captions for image 14374057_296643240717118_2941366090187407360_n.jpg:
+  0) a traffic light suspended over a city street . (p=0.000208)
+  1) a traffic light suspended over a street next to a forest . (p=0.000067)
+  2) a traffic light suspended over a street near a forest . (p=0.000052)
+Captions for image 14134979_1438599899500373_419548861_n.jpg:
+  0) a white plate with a banana on it (p=0.000009)
+  1) a white plate with a banana on top of it . (p=0.000008)
+  2) a white plate with a banana on it . (p=0.000005)
+Captions for image 14134738_1120943601321223_699464115_n.jpg:
+  0) a traffic light sitting on the side of a road . (p=0.000309)
+  1) a traffic light sitting on the side of a street . (p=0.000066)
+  2) a traffic light sitting in the middle of a street . (p=0.000054)
+Captions for image 13721140_929230850539919_500997235_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000469)
+  1) a group of people standing in front of a large building . (p=0.000135)
+  2) a group of people standing in front of a building (p=0.000050)
+Captions for image 14073050_1560891777551657_654693131_n.jpg:
+  0) a baseball game in progress with the batter up to plate . (p=0.003749)
+  1) a baseball game is being played on a field . (p=0.000654)
+  2) a baseball game in progress with the batter up to bat . (p=0.000403)
+Captions for image 14063683_188458461567983_1973114638_n.jpg:
+  0) two giraffes standing next to each other in a zoo . (p=0.001021)
+  1) two giraffes standing next to each other near a fence . (p=0.000440)
+  2) two giraffes standing next to each other in a zoo (p=0.000175)
+Captions for image 13827415_958510624271930_1308270078_n.jpg:
+  0) a tall building with a clock on it (p=0.000438)
+  1) a tall building with a clock on the top of it . (p=0.000156)
+  2) a tall building with a clock on the front of it . (p=0.000119)
+Captions for image 13671320_1138757052852634_1841453354_n.jpg:
+  0) a cake made to look like a train . (p=0.000480)
+  1) a cake made to look like a train (p=0.000191)
+  2) a cake made to look like a horse . (p=0.000024)
+Captions for image 14026561_1775853505996855_603144624_n.jpg:
+  0) a large body of water next to a large body of water . (p=0.000066)
+  1) a large body of water with a large building in the background . (p=0.000054)
+  2) a large body of water with lots of boats on top of it . (p=0.000031)
+Captions for image 14027317_1147455215327817_1308959217_n.jpg:
+  0) a close up of a bird on a cage (p=0.000163)
+  1) a close up of a stuffed animal on a rock (p=0.000040)
+  2) a close up of a stuffed animal on a wooden surface (p=0.000029)
+Captions for image 14063437_606869882829176_44609089_n.jpg:
+  0) a large clock tower sitting in the middle of a field . (p=0.000393)
+  1) a clock tower in the middle of a field . (p=0.000351)
+  2) a clock tower in the middle of a field (p=0.000198)
+Captions for image 13768334_284945588534903_605164859_n.jpg:
+  0) a man sitting at a table with a laptop . (p=0.003885)
+  1) a man sitting at a table in front of a laptop computer . (p=0.003022)
+  2) a man sitting at a table with a laptop computer . (p=0.002754)
+Captions for image 13696893_1130275487060254_910416942_n.jpg:
+  0) a train traveling through a lush green forest . (p=0.000857)
+  1) a train traveling through a forest filled with trees . (p=0.000107)
+  2) a train traveling over a bridge over a river . (p=0.000087)
+Captions for image 13767532_1572735089696271_1510413752_n.jpg:
+  0) a couple of giraffe standing next to a tree . (p=0.001247)
+  1) a couple of giraffe standing next to each other . (p=0.001247)
+  2) a couple of giraffe standing next to each other on a field . (p=0.000349)
+Captions for image 13715317_1065316880190568_53732679_n.jpg:
+  0) a red fire hydrant in the middle of a forest . (p=0.000376)
+  1) a couple of trees that are in the snow . (p=0.000180)
+  2) a couple of trees that are in the woods . (p=0.000134)
+Captions for image 13712600_1726998470887876_380693237_n.jpg:
+  0) a herd of sheep standing on top of a lush green field . (p=0.000319)
+  1) a herd of sheep standing on top of a dirt field . (p=0.000281)
+  2) a herd of sheep standing on top of a grass covered field . (p=0.000175)
+Captions for image 13725725_898355656941804_1365375340_n.jpg:
+  0) a close up of a pizza on a plate (p=0.001977)
+  1) a close up of a pizza on a wooden surface (p=0.000807)
+  2) a close up of a slice of pizza on a plate (p=0.000700)
+Captions for image 13714038_603095496535111_815301821_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000032)
+  1) a train station with a train passing by (p=0.000024)
+  2) a train station with a train passing by . (p=0.000022)
+Captions for image 13741409_127676681000296_594691843_n.jpg:
+  0) a group of people sitting on a bench in front of a building . (p=0.000015)
+  1) a group of people sitting on a bench next to a building . (p=0.000013)
+  2) a group of people sitting on a bench next to a train . (p=0.000011)
+Captions for image 13734333_512468058951035_1743762514_n.jpg:
+  0) a person walking on a beach with a surfboard (p=0.000131)
+  1) a person walking on a beach with a surfboard . (p=0.000111)
+  2) a person standing on a beach with a surfboard . (p=0.000093)
+Captions for image 13745193_160641894346543_1935637803_n.jpg:
+  0) a busy city street with cars and pedestrians . (p=0.000063)
+  1) a busy city street with cars and pedestrians (p=0.000016)
+  2) a busy city street with cars and people walking . (p=0.000011)
+Captions for image 13715326_293577780992092_665722310_n.jpg:
+  0) a man sitting at a table with a glass of wine . (p=0.001013)
+  1) a man sitting at a table with a glass of beer . (p=0.000420)
+  2) a group of people sitting at a table with food . (p=0.000419)
+Captions for image 13743449_154878998251968_1707794119_n.jpg:
+  0) a wall mounted to the side of a building . (p=0.000062)
+  1) a wall mounted to the side of a building with a clock . (p=0.000001)
+  2) a wall mounted to the side of a building with a clock on it . (p=0.000000)
+Captions for image 13707259_1084051458355640_1361399154_n.jpg:
+  0) a group of colorful umbrellas hanging from a ceiling . (p=0.000199)
+  1) a group of colorful umbrellas sitting on top of a table . (p=0.000052)
+  2) a group of colorful umbrellas hanging on a wall . (p=0.000041)
+Captions for image 13725508_1575367956090857_321518219_n.jpg:
+  0) a building with a clock on the side of it . (p=0.000028)
+  1) a building with a clock on the side of it (p=0.000023)
+  2) a building with a clock on the wall (p=0.000010)
+Captions for image 13643581_263495820697315_1410565502_n.jpg:
+  0) a wooden bench sitting in front of a building . (p=0.000166)
+  1) a wooden bench sitting in front of a tall building . (p=0.000077)
+  2) a wooden bench sitting in front of a large building . (p=0.000042)
+Captions for image 13597800_1581816472116481_1328930203_n.jpg:
+  0) a bunch of different types of doughnuts on display . (p=0.000024)
+  1) a bunch of different types of doughnuts on a table . (p=0.000015)
+  2) a bunch of different types of doughnuts on display (p=0.000009)
+Captions for image 13561858_1055199564565277_1193317116_n.jpg:
+  0) a group of people on a field playing baseball . (p=0.005998)
+  1) a baseball game in progress with the batter up to plate . (p=0.002214)
+  2) a baseball game in progress with the batter up to bat . (p=0.000219)
+Captions for image 13437395_1740311829586687_457265257_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000532)
+  1) a large clock tower towering over a city at night . (p=0.000111)
+  2) a large clock tower towering over a city at sunset . (p=0.000021)
+Captions for image 13724646_297313927288450_815053706_n.jpg:
+  0) a close up of a clock on a building (p=0.000016)
+  1) a close up of a clock on a wall (p=0.000011)
+  2) a close up of a cake with a clock on it (p=0.000009)
+Captions for image 13385679_1741606359396722_1817195407_n.jpg:
+  0) a fire hydrant in the middle of a field . (p=0.000941)
+  1) a fire hydrant in the middle of a grassy area . (p=0.000302)
+  2) a fire hydrant in the middle of a field of grass . (p=0.000271)
+Captions for image 13260858_222665621451811_909522628_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.000199)
+  1) a red stop sign sitting in the middle of a field . (p=0.000058)
+  2) a red stop sign sitting in the middle of a forest . (p=0.000052)
+Captions for image 13423607_1258994667474226_2144930402_n.jpg:
+  0) a couple of people standing on top of a sandy beach . (p=0.000574)
+  1) a couple of people standing on top of a beach . (p=0.000404)
+  2) a couple of people standing on a beach next to the ocean . (p=0.000176)
+Captions for image 13285298_548690658643150_1182853160_n.jpg:
+  0) a wooden bench sitting in the middle of a forest . (p=0.000145)
+  1) a wooden bench sitting in the middle of a lush green field . (p=0.000052)
+  2) a wooden bench sitting in the middle of a field . (p=0.000050)
+Captions for image 13256856_1700841810187219_284407568_n.jpg:
+  0) a group of people riding on the back of a train . (p=0.000033)
+  1) a group of people riding on the back of a forest . (p=0.000014)
+  2) a group of people riding on the back of a horse . (p=0.000011)

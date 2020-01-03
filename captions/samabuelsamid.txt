@@ -1,0 +1,816 @@
+Captions for image 64915769_1524797110988056_7489902773532174679_n.jpg:
+  0) a dog that is sitting in the grass . (p=0.001114)
+  1) a dog that is sitting on a bench . (p=0.000199)
+  2) a dog that is sitting in the grass with a frisbee . (p=0.000054)
+Captions for image 20766715_147976385784378_2559697390546190336_a.jpg:
+  0) a bird perched on top of a tree branch . (p=0.016953)
+  1) a bird is perched on a branch of a tree . (p=0.002292)
+  2) a bird perched on top of a tree branch (p=0.001501)
+Captions for image 54204722_127614568355638_3878492950215847617_n.jpg:
+  0) a blue car parked next to a parking meter . (p=0.000712)
+  1) a blue car parked in front of a parking meter . (p=0.000293)
+  2) a blue car parked next to a parking meter (p=0.000064)
+Captions for image 46043127_935703233484236_1323691961055784589_n.jpg:
+  0) a refrigerator filled with lots of food and drinks . (p=0.001320)
+  1) a refrigerator filled with different types of food . (p=0.000756)
+  2) a refrigerator filled with lots of different types of food . (p=0.000511)
+Captions for image 60556577_2312157468998487_8660339226995895541_n.jpg:
+  0) a car parked on the side of the road . (p=0.000394)
+  1) a car is parked on the side of the road . (p=0.000269)
+  2) a car parked on the side of the road (p=0.000171)
+Captions for image 47693000_800571140285912_6570067255765212208_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000173)
+  1) a car is parked on the side of the street . (p=0.000072)
+  2) a car is parked on the side of the road (p=0.000059)
+Captions for image 66344916_630096227468678_7235843329699788991_n.jpg:
+  0) a black and white dog laying on a rug . (p=0.000917)
+  1) a black and white dog laying on top of a couch . (p=0.000861)
+  2) a black and white dog laying on top of a rug . (p=0.000578)
+Captions for image 64885904_472613406836843_6416578510854817910_n.jpg:
+  0) an old car is parked in front of a house . (p=0.000045)
+  1) an old car is parked in front of a building . (p=0.000030)
+  2) a car parked in a parking lot next to a car . (p=0.000027)
+Captions for image 65735738_851431155239934_4241054415387272898_n.jpg:
+  0) a small bird perched on a tree branch . (p=0.003813)
+  1) a small bird sitting on a tree branch . (p=0.003117)
+  2) a small bird sitting on a tree branch (p=0.002103)
+Captions for image 65622717_2308971262755611_210382812773652398_n.jpg:
+  0) a dog is holding a frisbee in its mouth . (p=0.002590)
+  1) a dog is holding a frisbee in its mouth (p=0.000755)
+  2) a dog with a frisbee in its mouth standing on a beach . (p=0.000191)
+Captions for image 65235315_129271908282521_6808117799419136076_n.jpg:
+  0) a black and white dog with a frisbee in its mouth . (p=0.000757)
+  1) a black and white dog standing on top of a grass covered field . (p=0.000406)
+  2) a black and white dog with a frisbee in its mouth (p=0.000283)
+Captions for image 65301278_185366912462833_633946564047283859_n.jpg:
+  0) a truck parked on the side of a road . (p=0.000787)
+  1) a truck parked on the side of the road . (p=0.000486)
+  2) a truck parked on the side of the road (p=0.000238)
+Captions for image 66139793_341100643235347_6037423980320760791_n.jpg:
+  0) a truck parked on the side of a road . (p=0.000373)
+  1) a truck parked on the side of the road . (p=0.000289)
+  2) a truck parked on the side of the road (p=0.000147)
+Captions for image 65672685_871763703185958_5192591298581003273_n.jpg:
+  0) a black and white dog laying on top of a grass covered field . (p=0.000190)
+  1) a black and white dog standing next to a frisbee . (p=0.000133)
+  2) a black and white dog standing next to a red frisbee . (p=0.000087)
+Captions for image 64213774_475817453244932_2072252560499337463_n.jpg:
+  0) two dogs are playing with a frisbee in the grass . (p=0.000316)
+  1) two dogs are playing with a frisbee in a field . (p=0.000192)
+  2) two dogs are playing with a frisbee in a grassy field . (p=0.000077)
+Captions for image 62151865_645933072587325_6617485090440960928_n.jpg:
+  0) a car parked in a parking lot next to a car . (p=0.000039)
+  1) a car parked in a parking lot next to a building . (p=0.000011)
+  2) a car parked in a parking lot next to a parking meter . (p=0.000009)
+Captions for image 64644166_384718685583462_155417524521087351_n.jpg:
+  0) a dog is laying in the grass with a frisbee . (p=0.000371)
+  1) a dog is laying in the grass with a frisbee in its mouth . (p=0.000113)
+  2) a dog is laying in the grass next to a frisbee . (p=0.000065)
+Captions for image 64591900_731241380625735_3567651660895013814_n.jpg:
+  0) a brown and white dog sitting on top of a grass covered field . (p=0.000158)
+  1) a brown and white dog sitting on top of a field . (p=0.000121)
+  2) a brown and white dog sitting on top of a green field . (p=0.000091)
+Captions for image 65187235_386926988595521_8319727633895437588_n.jpg:
+  0) a black and white dog sitting on a bench . (p=0.002673)
+  1) a black and white cat sitting on a bench . (p=0.002205)
+  2) a black and white dog sitting on a bench (p=0.001224)
+Captions for image 65111395_2398232690411557_6492099835396101846_n.jpg:
+  0) a dog sitting on a bench in the grass . (p=0.000067)
+  1) a dog is sitting on a bench in the grass . (p=0.000054)
+  2) a dog is sitting on a bench in the sun . (p=0.000032)
+Captions for image 65053345_590029288071929_2390964591424248369_n.jpg:
+  0) a car parked on the side of the road . (p=0.001590)
+  1) a car is parked on the side of the road . (p=0.001205)
+  2) a car is parked on the side of the road (p=0.000311)
+Captions for image 64746843_363488324368114_6840198352439570476_n.jpg:
+  0) a black and white dog sitting on a chair . (p=0.001289)
+  1) a black and white dog sitting on a wooden bench . (p=0.001105)
+  2) a black and white dog sitting on a wooden chair . (p=0.000894)
+Captions for image 62547107_2278813312435112_4561108196087968636_n.jpg:
+  0) a dog sitting in the back of a pickup truck . (p=0.001156)
+  1) a dog sitting in the back of a truck . (p=0.001057)
+  2) a dog sitting in the back of a pickup truck (p=0.000476)
+Captions for image 65542764_625031437999157_8293566963602061821_n.jpg:
+  0) a red car parked next to a red car . (p=0.000121)
+  1) a red car parked in front of a red fire hydrant . (p=0.000064)
+  2) a red car parked in a parking lot next to a car . (p=0.000020)
+Captions for image 65201411_679408199167525_2338065033065120050_n.jpg:
+  0) a red car parked in front of a building . (p=0.000175)
+  1) a red car parked in front of a red fire hydrant . (p=0.000043)
+  2) a red car parked in front of a building (p=0.000015)
+Captions for image 62178983_2689498927749981_6808715401877654108_n.jpg:
+  0) a car that is parked next to a parking meter (p=0.000153)
+  1) a car that is parked in a parking lot . (p=0.000145)
+  2) a car that is parked in a parking lot (p=0.000140)
+Captions for image 62545714_374745823393390_2819783101651867817_n.jpg:
+  0) a black and white dog sitting on a wooden bench . (p=0.000897)
+  1) a black and white dog sitting on a wooden chair . (p=0.000594)
+  2) a black and white dog sitting on top of a wooden chair . (p=0.000206)
+Captions for image 60166275_2498852606826413_1340842329151986430_n.jpg:
+  0) a parking meter sitting next to a building . (p=0.000025)
+  1) a parking meter sitting next to a white building . (p=0.000020)
+  2) a white and blue bus parked next to a building . (p=0.000009)
+Captions for image 62045684_1453809621410824_6914383062367140612_n.jpg:
+  0) a dog with a frisbee in its mouth . (p=0.000604)
+  1) a dog with a frisbee in its mouth (p=0.000531)
+  2) a black and white dog with a frisbee in its mouth . (p=0.000193)
+Captions for image 64750918_1127742740751296_7760824864190958342_n.jpg:
+  0) a couple of dogs that are standing in the grass . (p=0.000172)
+  1) a couple of dogs that are standing in the dirt . (p=0.000144)
+  2) a couple of dogs that are sitting on a bench (p=0.000103)
+Captions for image 60763933_468747040601845_3565917113940872872_n.jpg:
+  0) a red and white truck driving down a road . (p=0.000079)
+  1) a red and white truck driving down a street . (p=0.000058)
+  2) a red and white truck parked in a parking lot . (p=0.000042)
+Captions for image 64299882_892214807826097_1549100972914054807_n.jpg:
+  0) a white car parked next to a parking meter . (p=0.001386)
+  1) a white car parked in front of a parking meter . (p=0.000456)
+  2) a white car parked in front of a building . (p=0.000421)
+Captions for image 66281551_113617073066290_453007021014304865_n.jpg:
+  0) a black and white dog sitting on a bench . (p=0.000102)
+  1) a black and white dog laying on top of a grass covered field . (p=0.000100)
+  2) a black and white dog laying on top of a field . (p=0.000073)
+Captions for image 62171079_149743446191732_5246971933281740033_n.jpg:
+  0) a black and white dog sitting in front of a tv . (p=0.000635)
+  1) a black and white dog sitting in front of a television . (p=0.000258)
+  2) a black and white dog sitting in front of a flat screen tv . (p=0.000126)
+Captions for image 64880714_841877816168866_9146038593410735256_n.jpg:
+  0) a black and white photo of an old car . (p=0.000060)
+  1) a black and white photo of a classic car (p=0.000026)
+  2) a black and white photo of a car parked in a field . (p=0.000026)
+Captions for image 62594080_2286700321423069_7241273342518087899_n.jpg:
+  0) a woman is standing next to a truck . (p=0.000095)
+  1) a woman standing next to a truck with a dog . (p=0.000058)
+  2) a woman is standing next to a truck (p=0.000041)
+Captions for image 61768439_332653974078021_8856531212572673856_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000319)
+  1) a car is parked on the side of a road . (p=0.000130)
+  2) a car with a surfboard strapped to the back of it . (p=0.000118)
+Captions for image 62363189_413655556031466_5365903539933283495_n.jpg:
+  0) a statue of a man sitting on top of a bench . (p=0.000049)
+  1) a statue of a man sitting on a bench next to a statue . (p=0.000007)
+  2) a statue of a man sitting on a bench next to a statue (p=0.000001)
+Captions for image 60787843_657017194813275_2347449435093518698_n.jpg:
+  0) a car parked in a parking lot next to a car . (p=0.000102)
+  1) a car parked on the side of a road next to a surfboard . (p=0.000026)
+  2) a car parked on the side of the road with a surfboard strapped to it . (p=0.000010)
+Captions for image 63264457_150356166098543_424902900732297754_n.jpg:
+  0) a large body of water surrounded by mountains . (p=0.000181)
+  1) a large body of water with a mountain in the background . (p=0.000147)
+  2) a large body of water with a mountain in the background (p=0.000118)
+Captions for image 61972543_2397275076978819_2070025176046666569_n.jpg:
+  0) a tall building with a large clock on it 's side . (p=0.000117)
+  1) a tall building with a clock on it 's side . (p=0.000087)
+  2) a tall building with a clock on it (p=0.000081)
+Captions for image 60876708_876583149348680_8536587299841462936_n.jpg:
+  0) a black and white dog sitting on a bench . (p=0.000618)
+  1) a black and white dog sitting on a wooden bench . (p=0.000346)
+  2) a black and white dog sitting on a bench (p=0.000149)
+Captions for image 60989271_733572467072073_429618715432460501_n.jpg:
+  0) a large building with a clock on it (p=0.000429)
+  1) a large building with a clock on it . (p=0.000364)
+  2) a tall building with a clock on it (p=0.000278)
+Captions for image 61198444_2762160087189773_7654728087595300267_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001610)
+  1) a large building with a clock tower on top . (p=0.000437)
+  2) a large building with a clock tower on top of it . (p=0.000386)
+Captions for image 60828288_364653240836322_1061320950121361800_n.jpg:
+  0) a young boy riding a skateboard down a street . (p=0.000908)
+  1) a young boy riding a skateboard down a sidewalk . (p=0.000363)
+  2) a young boy riding a skateboard on a sidewalk . (p=0.000287)
+Captions for image 60500566_430497467730976_5297877538872611349_n.jpg:
+  0) a motorcycle is parked on the side of the road . (p=0.000405)
+  1) a red motorcycle is parked in a parking lot . (p=0.000309)
+  2) a motorcycle is parked on the side of a road . (p=0.000224)
+Captions for image 61026784_154903432221945_8398928017501861594_n.jpg:
+  0) a red and white motorcycle parked on a field . (p=0.000036)
+  1) a red and black motorcycle is parked on the grass (p=0.000028)
+  2) a red and black motorcycle is parked on the grass . (p=0.000025)
+Captions for image 58606491_171483800515655_5127559006592365719_n.jpg:
+  0) a television with a picture of a man on it . (p=0.000028)
+  1) a television with a picture of a man on it (p=0.000011)
+  2) a television with a picture of a man in the background . (p=0.000002)
+Captions for image 52116031_636096173491013_6936710618542265925_n.jpg:
+  0) a dog is sitting on a couch looking at the camera . (p=0.000073)
+  1) a dog sitting on a couch with a stuffed animal . (p=0.000035)
+  2) a dog is sitting on a couch looking at something . (p=0.000032)
+Captions for image 61273799_2240087832754988_2659628014106980520_n.jpg:
+  0) a woman standing next to a man on a skateboard . (p=0.000082)
+  1) a woman standing next to a man on a motorcycle . (p=0.000047)
+  2) a woman standing next to a man in a suit . (p=0.000035)
+Captions for image 61837376_708793102871307_2679728685649386603_n.jpg:
+  0) a red and white motorcycle parked in a field . (p=0.000055)
+  1) a red and white motorcycle parked in a parking lot . (p=0.000049)
+  2) a red and white motorcycle parked in a field (p=0.000013)
+Captions for image 60236184_2304296089826192_2751230616425903052_n.jpg:
+  0) a black and white dog laying on top of a bench . (p=0.000870)
+  1) a black and white dog laying on a bench . (p=0.000525)
+  2) a black and white dog laying on top of a wooden bench . (p=0.000428)
+Captions for image 61374214_451250229028994_7871368295679809426_n.jpg:
+  0) a black and white dog laying on top of a grass covered field . (p=0.000546)
+  1) a black and white dog laying on top of a green field . (p=0.000325)
+  2) a black and white dog laying on top of a field . (p=0.000251)
+Captions for image 61052778_360523661261419_3592447458189978633_n.jpg:
+  0) a street scene with focus on a street light . (p=0.000135)
+  1) a street scene with focus on a street sign . (p=0.000059)
+  2) a street scene with focus on a tree and a fire hydrant . (p=0.000019)
+Captions for image 60017975_429280807872312_3025427799128117354_n.jpg:
+  0) a dog sitting in the back seat of a car . (p=0.000589)
+  1) a dog sitting in the back of a car . (p=0.000445)
+  2) a dog sitting in the back seat of a car (p=0.000181)
+Captions for image 59951584_676340176138451_1717828007742661344_n.jpg:
+  0) a black and white photo of a car parked in a parking lot . (p=0.000024)
+  1) a black and white photo of a car parked in a driveway . (p=0.000015)
+  2) a black and white photo of a car parked in a driveway (p=0.000011)
+Captions for image 59630876_301748350717358_7656137502410769165_n.jpg:
+  0) a black and white dog laying on the ground . (p=0.000184)
+  1) a black and white dog laying on the ground (p=0.000093)
+  2) a black and white dog laying on top of a green field . (p=0.000080)
+Captions for image 59674938_2366304240247900_1914394023028254743_n.jpg:
+  0) a car parked on the side of the road . (p=0.000278)
+  1) a car parked on the side of the road (p=0.000127)
+  2) a car is parked in front of a house (p=0.000086)
+Captions for image 59742304_137998247349666_5725663442618458269_n.jpg:
+  0) a black and white dog laying on top of a bench . (p=0.000164)
+  1) a black and white dog sitting on a bench . (p=0.000152)
+  2) a black and white dog laying on top of a blanket . (p=0.000148)
+Captions for image 60949638_485100915629942_3233423937150989720_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000321)
+  1) a car is parked on the side of the street . (p=0.000170)
+  2) a car is parked on the side of a road . (p=0.000130)
+Captions for image 59800088_459623708126631_6967985501643225861_n.jpg:
+  0) a car parked on the side of the road . (p=0.000175)
+  1) a car parked on the side of the road (p=0.000078)
+  2) a car parked on the side of a road with a surfboard . (p=0.000021)
+Captions for image 59644649_2298507667143499_8594912449555585986_n.jpg:
+  0) a group of people standing in a room . (p=0.000052)
+  1) a group of people standing in a room with luggage . (p=0.000012)
+  2) a group of people standing in a room with lots of luggage . (p=0.000001)
+Captions for image 60928390_405495723368590_7986649712396068027_n.jpg:
+  0) a bride and groom are cutting their wedding cake . (p=0.002941)
+  1) a bride and groom pose for a picture . (p=0.001923)
+  2) a bride and groom pose for a picture (p=0.000663)
+Captions for image 57488150_310338576314426_1289163524755695724_n.jpg:
+  0) a man is standing next to a car (p=0.000053)
+  1) a man standing next to a black and white car . (p=0.000030)
+  2) a man standing next to a car with a surfboard on top of it . (p=0.000008)
+Captions for image 57156476_288019298808653_9005191976990863592_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000622)
+  1) a car is parked on the side of a road . (p=0.000268)
+  2) a car is parked on the side of the street . (p=0.000261)
+Captions for image 60257530_137621050634362_5753005584847320526_n.jpg:
+  0) a red car is parked in a parking lot . (p=0.000181)
+  1) a red car is parked on the side of the road . (p=0.000075)
+  2) a red car is parked in a parking lot (p=0.000044)
+Captions for image 59535952_673550609775806_5022423753210800003_n.jpg:
+  0) a blue car parked next to a parking meter . (p=0.000264)
+  1) a red car is parked on the side of the road . (p=0.000111)
+  2) a red car is parked on the side of a road . (p=0.000047)
+Captions for image 60092153_966658503504730_1980378760348712826_n.jpg:
+  0) a car parked on the side of the road . (p=0.000510)
+  1) a car parked on the side of the road (p=0.000236)
+  2) a car parked in a parking lot next to a car . (p=0.000080)
+Captions for image 60788337_624946601307028_7543409046801991177_n.jpg:
+  0) a picture of a computer screen showing the time . (p=0.000003)
+  1) a picture of a computer screen showing the time (p=0.000001)
+  2) a picture of a computer screen showing a picture of a man . (p=0.000000)
+Captions for image 60066237_582416348932644_1299841423285851577_n.jpg:
+  0) a close up of a computer keyboard and a mouse . (p=0.000192)
+  1) a black and white photo of a street sign . (p=0.000133)
+  2) a close up of a computer keyboard and a phone . (p=0.000072)
+Captions for image 60188296_2248465172149488_835216807357789118_n.jpg:
+  0) a blue car parked next to a parking meter . (p=0.000498)
+  1) a blue car parked in front of a parking meter . (p=0.000184)
+  2) a blue car parked next to a parking meter (p=0.000051)
+Captions for image 58805647_163427831355849_1165174467512611740_n.jpg:
+  0) a rear view mirror shows a car and a car . (p=0.000009)
+  1) a rear view mirror on a car with a dog on it . (p=0.000002)
+  2) a rear view mirror on a car with a dog in it . (p=0.000002)
+Captions for image 59571883_849107992108542_6232061077193175946_n.jpg:
+  0) a red car is parked on the side of the road . (p=0.000217)
+  1) a red car is parked in a parking lot . (p=0.000175)
+  2) a red car is parked on the side of the street . (p=0.000088)
+Captions for image 57987886_599023020633454_4251638553734780112_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000779)
+  1) a car that is parked next to a parking meter (p=0.000254)
+  2) a car is parked on the side of the road (p=0.000251)
+Captions for image 58785060_850505891967442_7901271109650946835_n.jpg:
+  0) a car parked on the side of the road . (p=0.000482)
+  1) a car parked on the side of the street (p=0.000062)
+  2) a car parked on the side of the road with a surfboard strapped to it . (p=0.000012)
+Captions for image 58933516_2344904759099892_569061209892537599_n.jpg:
+  0) a bird is standing on the edge of the water . (p=0.000124)
+  1) a bird is standing on a rock in the water . (p=0.000100)
+  2) a bird is standing on the edge of a body of water . (p=0.000092)
+Captions for image 57511912_425695464909968_4130842451387892582_n.jpg:
+  0) a bird is standing on a rock in the water . (p=0.000130)
+  1) a bird is standing on a rock in the water (p=0.000040)
+  2) a bird is standing in the water near a tree . (p=0.000036)
+Captions for image 56923048_414894549292299_7346403914529015188_n.jpg:
+  0) a white and black bird flying in the sky . (p=0.000578)
+  1) a white and black bird flying in the sky (p=0.000512)
+  2) a bird flying in the air with a sky background (p=0.000512)
+Captions for image 57506182_2038281863143303_1698597516094247973_n.jpg:
+  0) two white birds flying over a body of water . (p=0.002661)
+  1) a white bird flying over a body of water . (p=0.002641)
+  2) two white birds flying over a body of water (p=0.000106)
+Captions for image 56924023_582152402303585_8562772125603349158_n.jpg:
+  0) a bird standing on a rock in a body of water . (p=0.000102)
+  1) a bird standing on a rock in a lake . (p=0.000094)
+  2) a bird is standing in the water near a tree . (p=0.000037)
+Captions for image 58410182_215305586095534_3098359352522944654_n.jpg:
+  0) a bird flying over a body of water . (p=0.007918)
+  1) a white bird flying over a body of water . (p=0.004461)
+  2) a bird flying over a body of water (p=0.001118)
+Captions for image 56980898_735622133569702_7364531760473399266_n.jpg:
+  0) a bird flying over a body of water . (p=0.004427)
+  1) a bird is flying over a body of water . (p=0.001371)
+  2) a bird flying over a body of water (p=0.000809)
+Captions for image 57216878_651863348617932_4545867962793467905_n.jpg:
+  0) a large white bird flying over a body of water . (p=0.001533)
+  1) a large white bird flying over the ocean . (p=0.000758)
+  2) a large white bird flying over the ocean (p=0.000199)
+Captions for image 57325360_318394822179359_1096623027117469514_n.jpg:
+  0) a bird flying over a body of water . (p=0.003165)
+  1) a bird flying over a body of water (p=0.000477)
+  2) a bird flying in the air with a sky background (p=0.000434)
+Captions for image 57221548_2521880741208522_7257570827295147202_n.jpg:
+  0) a white and black bird flying in the sky . (p=0.000863)
+  1) a white and black bird flying in the sky (p=0.000656)
+  2) a white and black bird flying in the air . (p=0.000517)
+Captions for image 57032367_316079079062880_2403536095112329520_n.jpg:
+  0) a bird is standing in a grassy field . (p=0.000852)
+  1) a bird is standing in a grassy field (p=0.000296)
+  2) a bird standing in the grass near a tree . (p=0.000239)
+Captions for image 56905178_343949272923318_1209938018651507109_n.jpg:
+  0) a black and white dog laying on top of a grass covered field . (p=0.000958)
+  1) a black and white dog laying on top of a field . (p=0.000469)
+  2) a black and white dog laying on top of a green field . (p=0.000369)
+Captions for image 57057897_1238482049663491_1151532321247872097_n.jpg:
+  0) a close up of a dog wearing a hat (p=0.000958)
+  1) a close up of a dog with a frisbee in its mouth (p=0.000286)
+  2) a close up of a dog with a frisbee (p=0.000248)
+Captions for image 57490406_314125635931759_7300489735371050714_n.jpg:
+  0) a black and white dog laying on a rug . (p=0.000582)
+  1) a black and white dog laying on a rug (p=0.000150)
+  2) a black and white dog laying on a floor next to a cat . (p=0.000015)
+Captions for image 55897500_469708090438015_653656224024809857_n.jpg:
+  0) a red car parked next to a red car . (p=0.000118)
+  1) a red car parked in front of a red car . (p=0.000086)
+  2) a red car is parked in front of a red car . (p=0.000024)
+Captions for image 56358359_171557213853343_4981729248207699616_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000312)
+  1) a train station with a train on the tracks (p=0.000128)
+  2) a train station with a train passing by . (p=0.000116)
+Captions for image 57258349_1055726994628054_27390547900875923_n.jpg:
+  0) a tall building with a clock on top of it . (p=0.000110)
+  1) a large building with a clock on it . (p=0.000103)
+  2) a large building with a clock on it (p=0.000075)
+Captions for image 56997677_2285973164955477_225260303636825915_n.jpg:
+  0) a black and white cat laying on top of a table . (p=0.000540)
+  1) a black and white cat laying on the floor next to a remote control . (p=0.000118)
+  2) a black and white cat laying on a floor next to a remote control . (p=0.000114)
+Captions for image 55937672_2606873346020388_9075122314157283770_n.jpg:
+  0) a car that is parked next to a parking meter . (p=0.000291)
+  1) a car that is parked next to a parking meter (p=0.000198)
+  2) a car that is parked in front of a parking meter . (p=0.000178)
+Captions for image 56905170_337591657110937_5579462455053784453_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000213)
+  1) a car is parked on the side of the street . (p=0.000093)
+  2) a car is parked on the side of the road (p=0.000076)
+Captions for image 56835800_381831139212704_940786040346064499_n.jpg:
+  0) a car is parked next to a parking meter . (p=0.000364)
+  1) a car is parked on the side of the road . (p=0.000314)
+  2) a car is parked on the side of the street . (p=0.000173)
+Captions for image 56164224_577993942706056_6074575408621317376_n.jpg:
+  0) a group of motorcycles parked in a parking lot . (p=0.000267)
+  1) a bunch of motorcycles that are parked in a lot (p=0.000132)
+  2) a bunch of motorcycles are parked in a lot (p=0.000124)
+Captions for image 57317309_383739728887505_4547361797122945665_n.jpg:
+  0) a car parked on the side of the road . (p=0.000165)
+  1) a car parked on the side of the road (p=0.000083)
+  2) a car parked on the side of the road with a surfboard strapped to it . (p=0.000003)
+Captions for image 55921993_198817261079373_3451883649347736408_n.jpg:
+  0) a blue car parked next to a red car . (p=0.000045)
+  1) a blue car parked next to a red fire hydrant . (p=0.000042)
+  2) a blue car parked next to a red and white fire hydrant . (p=0.000008)
+Captions for image 52649389_359636791551951_7068016017965512944_n.jpg:
+  0) a black and white dog sitting on a wooden bench . (p=0.000058)
+  1) a black and white dog sitting on top of a couch . (p=0.000055)
+  2) a black and white dog sitting on top of a wooden bench . (p=0.000022)
+Captions for image 56852982_2596173773744802_2398804655047698774_n.jpg:
+  0) a car with a surfboard on top of it . (p=0.000089)
+  1) a car with a surfboard strapped to the back . (p=0.000052)
+  2) a car with a surfboard on top of it (p=0.000033)
+Captions for image 56661957_2593124147427934_4847820308452371673_n.jpg:
+  0) a black and white dog sitting on a couch . (p=0.000619)
+  1) a black and white dog laying on top of a couch . (p=0.000521)
+  2) a black and white dog laying on top of a bed . (p=0.000510)
+Captions for image 56544813_511928136003713_4019317037633155277_n.jpg:
+  0) a close up of a luggage bag on a car (p=0.000351)
+  1) a close up of a luggage bag on the ground (p=0.000170)
+  2) a close up of a luggage bag on a luggage rack (p=0.000028)
+Captions for image 56252869_2336264529940315_80142261529857225_n.jpg:
+  0) a car parked on the side of the road . (p=0.000485)
+  1) a car that is parked in front of a building . (p=0.000415)
+  2) a car that is parked in front of a building (p=0.000158)
+Captions for image 57506442_268990944006239_2703451100109430886_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000153)
+  1) a large building with a clock tower on top . (p=0.000135)
+  2) a large building with a clock tower in the middle . (p=0.000065)
+Captions for image 57462964_2371178786427641_7498163314190025239_n.jpg:
+  0) a black and brown dog laying on a bed . (p=0.001021)
+  1) a black and brown dog laying on a couch . (p=0.001007)
+  2) a black and brown dog laying on a couch (p=0.000259)
+Captions for image 56178979_2118576044886496_5718308235253146262_n.jpg:
+  0) two dogs are sitting on the floor next to each other . (p=0.000015)
+  1) a dog is sitting on a bench with a dog . (p=0.000002)
+  2) two dogs are sitting on the floor next to a person . (p=0.000001)
+Captions for image 56178979_362920037889198_1288089006736486375_n.jpg:
+  0) a black and white dog laying on a couch . (p=0.002408)
+  1) a black and white dog laying on top of a couch . (p=0.002023)
+  2) a black and white dog laying on a bed . (p=0.001704)
+Captions for image 52270183_731448813921707_4719515799677497958_n.jpg:
+  0) a black and white dog sitting on a wooden bench . (p=0.001478)
+  1) a black and white dog sitting on a bench . (p=0.001472)
+  2) a black and white dog laying on the ground . (p=0.001259)
+Captions for image 55876739_154807242217003_4075905117739619215_n.jpg:
+  0) a white truck parked in a parking lot . (p=0.002720)
+  1) a white truck parked in front of a building . (p=0.001284)
+  2) a white truck is parked in a parking lot . (p=0.000730)
+Captions for image 53293046_691461331268710_3916870570273847208_n.jpg:
+  0) a close up of a motorcycle with a helmet on it (p=0.000117)
+  1) a close up of a motorcycle with a helmet on (p=0.000050)
+  2) a close up of a motorcycle with a helmet (p=0.000027)
+Captions for image 53747583_1934064840037276_2098137256534044300_n.jpg:
+  0) a dog sitting in the back seat of a car . (p=0.008459)
+  1) a dog sitting in the back of a car . (p=0.002326)
+  2) a dog is sitting in the back seat of a car . (p=0.002310)
+Captions for image 53485592_733931993670805_6702563638697971432_n.jpg:
+  0) a black and white dog laying on top of a bench . (p=0.001029)
+  1) a black and white dog sitting on a bench . (p=0.000997)
+  2) a black and white dog laying on a bench . (p=0.000775)
+Captions for image 56358359_308692519820881_8998755680376803526_n.jpg:
+  0) a red car parked in a parking space . (p=0.000118)
+  1) a red car parked in front of a red fire hydrant . (p=0.000031)
+  2) a red car parked in front of a red car . (p=0.000030)
+Captions for image 53806602_106458800401336_1804552471748886390_n.jpg:
+  0) a sign that says `` <UNK> '' on a street corner . (p=0.000002)
+  1) a street sign that reads `` <UNK> '' on a pole . (p=0.000002)
+  2) a street sign that reads `` <UNK> '' on the side of a building . (p=0.000001)
+Captions for image 53741240_2182602108494902_6866258310951822321_n.jpg:
+  0) a car parked next to a parking meter . (p=0.002946)
+  1) a car is parked next to a parking meter . (p=0.002142)
+  2) a car parked next to a parking meter (p=0.001099)
+Captions for image 53765083_265304501075810_845669291379953790_n.jpg:
+  0) a dog sitting on a couch with a stuffed animal . (p=0.000013)
+  1) a dog sitting on a couch with a stuffed animal (p=0.000011)
+  2) a dog is sitting on a couch with a toy . (p=0.000009)
+Captions for image 54190840_309269406427743_9065785653913243811_n.jpg:
+  0) a black and white dog sitting on a chair . (p=0.001010)
+  1) a black and white dog sitting on a wooden bench . (p=0.000957)
+  2) a black and white dog is sitting on a chair . (p=0.000434)
+Captions for image 53039255_591812554627150_3585125364730070403_n.jpg:
+  0) a black and white dog sitting on a chair . (p=0.000709)
+  1) a black and white dog sitting on a wooden chair . (p=0.000452)
+  2) a black and white dog sitting on a chair (p=0.000291)
+Captions for image 54513486_2299047920155946_7700787929311945125_n.jpg:
+  0) a man in a suit and tie standing in front of a bus . (p=0.000027)
+  1) a man in a suit and tie standing in front of a car . (p=0.000019)
+  2) a man in a suit and tie standing next to a car . (p=0.000017)
+Captions for image 52156975_151451459195016_2584928649497296501_n.jpg:
+  0) a black and white dog laying on a skateboard . (p=0.000217)
+  1) a dog laying on the ground with a toy . (p=0.000095)
+  2) a dog laying on the ground with a toy (p=0.000048)
+Captions for image 52001913_785773421804730_2631907618617753666_n.jpg:
+  0) a black and white dog sitting on a bench . (p=0.000720)
+  1) a black and white dog sitting on a wooden bench . (p=0.000412)
+  2) a black and white dog laying on top of a bench . (p=0.000230)
+Captions for image 51856872_290143754991508_9038989934832981292_n.jpg:
+  0) a bird is perched on a wooden post . (p=0.000302)
+  1) a bird is perched on a wooden bench . (p=0.000293)
+  2) a bird is perched on a wooden chair . (p=0.000253)
+Captions for image 52125588_489473011582448_6975665846056421511_n.jpg:
+  0) a black and white photo of a car parked in a parking lot . (p=0.000025)
+  1) a black and white photo of a car parked in a field . (p=0.000013)
+  2) a black and white photo of a car parked in a parking lot (p=0.000008)
+Captions for image 55942423_2314969525437076_2026895382807852087_n.jpg:
+  0) a car is parked next to a parking meter . (p=0.000391)
+  1) a car is parked in a parking lot . (p=0.000296)
+  2) a car is parked in front of a parking meter . (p=0.000255)
+Captions for image 47585393_295357527993820_7643251075017753189_n.jpg:
+  0) a black and white photo of a classic car . (p=0.000018)
+  1) a black and white photo of a car parked in a parking lot . (p=0.000003)
+  2) a black and white photo of a car parked in a parking lot (p=0.000001)
+Captions for image 47693748_1204378736375985_6682733849191168486_n.jpg:
+  0) a black and white photo of a classic car . (p=0.000106)
+  1) a black and white photo of an old car . (p=0.000063)
+  2) a black and white photo of a classic car (p=0.000047)
+Captions for image 51766045_283915725610521_2325745191158596558_n.jpg:
+  0) a black and white dog sitting on a couch . (p=0.000226)
+  1) a black and white dog laying on a rug . (p=0.000181)
+  2) a black and white dog laying on top of a couch . (p=0.000149)
+Captions for image 50622485_118694255875229_5470833887981872611_n.jpg:
+  0) a black and white photo of a classic car . (p=0.000261)
+  1) a black and white photo of a car with a surfboard . (p=0.000018)
+  2) a black and white photo of a car with a surfboard strapped to it . (p=0.000007)
+Captions for image 50343642_1339314552875093_8424584970436279218_n.jpg:
+  0) a bird perched on top of a tree branch . (p=0.001039)
+  1) a bird perched on top of a wooden post . (p=0.000642)
+  2) a bird perched on top of a wooden fence . (p=0.000512)
+Captions for image 56270332_993210847543600_4835867173245602957_n.jpg:
+  0) a red car parked in a parking lot . (p=0.000299)
+  1) a red car parked in front of a red fire hydrant . (p=0.000092)
+  2) a red car is parked in front of a building . (p=0.000072)
+Captions for image 50230788_627126174411828_2634200894483829030_n.jpg:
+  0) a group of people standing on the side of the road . (p=0.000046)
+  1) a group of people standing on the side of a road . (p=0.000044)
+  2) a group of people standing on the side of a road next to a traffic light . (p=0.000003)
+Captions for image 50100431_698704090524086_4489820300199335868_n.jpg:
+  0) a snow covered street with a red fire hydrant . (p=0.000021)
+  1) a snow covered street with a fire hydrant in the snow . (p=0.000005)
+  2) a snow covered street with a fire hydrant in the middle of it . (p=0.000003)
+Captions for image 47583021_239712863407476_3173953328683735_n.jpg:
+  0) a black and white dog laying on a rug . (p=0.000123)
+  1) a black and white dog laying on top of a couch . (p=0.000112)
+  2) a black and white dog laying on top of a bed . (p=0.000085)
+Captions for image 50628723_348647935735501_6755357491827934670_n.jpg:
+  0) a black and white dog wearing a red hat . (p=0.000105)
+  1) a black and white dog wearing a red hat (p=0.000028)
+  2) a black and white dog with a red collar is sitting in the snow . (p=0.000004)
+Captions for image 53614288_2081033782189946_4854930942319903073_n.jpg:
+  0) a red car parked in front of a building . (p=0.000241)
+  1) a red car is parked in front of a building . (p=0.000076)
+  2) a red car is parked in front of a building (p=0.000025)
+Captions for image 50015897_2574431632571809_3931536084229669806_n.jpg:
+  0) a black and white dog laying on top of a couch . (p=0.000595)
+  1) a black and white dog laying on a couch . (p=0.000483)
+  2) a black and white dog laying on top of a bed . (p=0.000243)
+Captions for image 50768126_2286065521445867_2428734134661546053_n.jpg:
+  0) a couple of bears that are standing in the snow . (p=0.000295)
+  1) a couple of bears that are in the snow . (p=0.000291)
+  2) a snow covered forest with lots of trees . (p=0.000137)
+Captions for image 54277541_321671775218216_5243455782157188794_n.jpg:
+  0) a car parked in front of a parking meter . (p=0.001595)
+  1) a car is parked in front of a parking meter . (p=0.000719)
+  2) a car parked in front of a parking meter (p=0.000234)
+Captions for image 50598048_243101599931649_9093582366316566976_n.jpg:
+  0) a black and white dog laying on a couch . (p=0.000881)
+  1) a dog laying on a couch next to a remote control . (p=0.000506)
+  2) a black and white dog laying on a bed . (p=0.000408)
+Captions for image 49907236_783916321983213_1698108518793263823_n.jpg:
+  0) a white and brown dog laying on top of a bed . (p=0.000313)
+  1) a white and brown dog laying on top of a blanket . (p=0.000164)
+  2) a white and brown dog laying on a floor . (p=0.000092)
+Captions for image 50264409_1231635067011801_5414286204043940763_n.jpg:
+  0) a view of a mountain range from a plane . (p=0.000130)
+  1) a view of a mountain from a plane window . (p=0.000083)
+  2) a view of a mountain range from a plane window . (p=0.000049)
+Captions for image 50839979_538757186619454_5886771199184518999_n.jpg:
+  0) a bird is perched on a window sill . (p=0.000586)
+  1) a bird is perched on a window ledge . (p=0.000428)
+  2) a bird is perched on a wooden bench . (p=0.000364)
+Captions for image 53845822_1224977971011952_8947125551627565957_n.jpg:
+  0) a red car parked in front of a building . (p=0.000234)
+  1) a red car is parked in front of a building . (p=0.000125)
+  2) a red car is parked in front of a building (p=0.000040)
+Captions for image 49436951_373011743251777_7223164242571427014_n.jpg:
+  0) a person sitting in the snow with a snowboard . (p=0.000480)
+  1) a person sitting in the snow on a snowboard . (p=0.000272)
+  2) a person sitting in the snow with a snowboard (p=0.000124)
+Captions for image 49907442_520942861766863_3505738523626137812_n.jpg:
+  0) a white truck parked in front of a building . (p=0.000461)
+  1) a truck parked in front of a building . (p=0.000369)
+  2) a truck parked in a parking lot next to a building . (p=0.000076)
+Captions for image 50751471_553487725116033_3311457509794959824_n.jpg:
+  0) a car parked on the side of a road next to a surfboard . (p=0.000016)
+  1) a car parked on the side of a road with a surfboard on top of it . (p=0.000004)
+  2) a car parked on the side of the road with a surfboard on top of it . (p=0.000002)
+Captions for image 49622785_517337358757996_5957501884379907232_n.jpg:
+  0) a car parked on the side of the road . (p=0.000408)
+  1) a car parked on the side of a road next to a surfboard . (p=0.000026)
+  2) a car parked on the side of a road next to a tree . (p=0.000014)
+Captions for image 49330414_2246901665578737_567139534382146424_n.jpg:
+  0) a car parked in front of a parking meter (p=0.000080)
+  1) a car parked on the side of a road next to a parking meter . (p=0.000031)
+  2) a car parked on the side of a road next to a tree . (p=0.000031)
+Captions for image 49907275_116414746085852_2580083893565088616_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000272)
+  1) a car is parked on the side of the road (p=0.000097)
+  2) a car parked on the side of a road next to a surfboard . (p=0.000074)
+Captions for image 49956639_2031343946912665_3381516947574180318_n.jpg:
+  0) a train traveling through a lush green hillside . (p=0.000108)
+  1) a train traveling through a lush green countryside . (p=0.000099)
+  2) a large mountain range with a mountain range in the background . (p=0.000039)
+Captions for image 50082650_114814189582407_9123393651985989392_n.jpg:
+  0) a dog that is standing in the snow . (p=0.007264)
+  1) a dog is standing in the snow with a frisbee . (p=0.000496)
+  2) a dog that is standing in the snow with a frisbee . (p=0.000206)
+Captions for image 49745799_1016834131842661_3337220265616480285_n.jpg:
+  0) a small bird sitting on top of a tree branch . (p=0.002013)
+  1) a bird sitting on top of a tree branch . (p=0.001229)
+  2) a small bird sitting on top of a wooden branch . (p=0.000411)
+Captions for image 50533030_1969663806676271_5209769503534492212_n.jpg:
+  0) a small bird sitting on a tree branch . (p=0.000934)
+  1) a bird sitting on top of a tree branch . (p=0.000827)
+  2) a small bird sitting on a tree branch (p=0.000668)
+Captions for image 49565654_527429207665811_6567802818965728426_n.jpg:
+  0) a small bird sitting on a wooden bench . (p=0.000809)
+  1) a small bird sitting on a wooden bench (p=0.000432)
+  2) a small bird sitting on a wooden post . (p=0.000298)
+Captions for image 49542433_2346509182302324_9057928430110584012_n.jpg:
+  0) a black and white dog laying on top of a snow covered slope . (p=0.003911)
+  1) a black and white dog laying on top of a snow covered field . (p=0.002767)
+  2) a black and white dog laying on top of a snow covered ground . (p=0.001462)
+Captions for image 49743455_610841699368560_9178050848399880794_n.jpg:
+  0) a black and white dog standing in the snow . (p=0.002500)
+  1) a black and white dog standing on a snow covered slope . (p=0.000762)
+  2) a black and white dog standing in the snow (p=0.000659)
+Captions for image 49376199_162979458012719_1380973800970813017_n.jpg:
+  0) a car parked in front of a parking meter . (p=0.000767)
+  1) a car is parked in front of a parking meter . (p=0.000507)
+  2) a car is parked in front of a parking meter (p=0.000130)
+Captions for image 49279947_962799240596619_6982020719477474475_n.jpg:
+  0) a car is parked in front of a parking meter . (p=0.000416)
+  1) a car parked in a parking lot next to a car . (p=0.000137)
+  2) a car parked in a parking lot next to a parking meter . (p=0.000130)
+Captions for image 49907444_295585864638124_6880687848775315831_n.jpg:
+  0) a car with a surfboard strapped to the back . (p=0.000034)
+  1) a car with a surfboard strapped to it (p=0.000016)
+  2) a car with a surfboard strapped to the back of it . (p=0.000016)
+Captions for image 49277881_2115511898536583_3561235096414358581_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000596)
+  1) a car is parked on the side of the street . (p=0.000313)
+  2) a car is parked on the side of a road . (p=0.000236)
+Captions for image 50061680_770434756648340_2283832261503472243_n.jpg:
+  0) a black and white photo of a car parked in a parking lot . (p=0.000009)
+  1) a black and white photo of a car parked in a parking lot (p=0.000004)
+  2) a black and white photo of a car parked on a street . (p=0.000003)
+Captions for image 50310328_232188764220078_957325658706619504_n.jpg:
+  0) a car parked in a parking lot next to a parking meter . (p=0.000049)
+  1) a car parked in a parking lot next to a car . (p=0.000048)
+  2) a car parked in a parking lot next to a parked car . (p=0.000015)
+Captions for image 49536518_133918677630267_3719038759254320300_n.jpg:
+  0) a small white dog sitting in a car . (p=0.000062)
+  1) a small white dog sitting on top of a car . (p=0.000056)
+  2) a small white dog sitting in the back of a car . (p=0.000036)
+Captions for image 45798256_2160390084220935_1087732115601968877_n.jpg:
+  0) a car is parked in front of a parking meter . (p=0.000144)
+  1) a car is parked in front of a parking meter (p=0.000035)
+  2) a car parked in a parking lot with a surfboard . (p=0.000020)
+Captions for image 49505755_1675649515883585_2555309016345801064_n.jpg:
+  0) a close up of a motorcycle on a car (p=0.000190)
+  1) a close up of a motorcycle with a helmet on it (p=0.000181)
+  2) a close up of a motorcycle parked on a street (p=0.000158)
+Captions for image 45382444_2298362633572283_8860569559590435073_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000398)
+  1) a car parked on the side of the road . (p=0.000388)
+  2) a car is parked on the side of the street . (p=0.000336)
+Captions for image 49539742_365404240704697_8063721686046160796_n.jpg:
+  0) a black and white dog laying on top of a grass covered field . (p=0.001363)
+  1) a black and white dog laying on the ground . (p=0.001158)
+  2) a black and white dog laying on top of a green field . (p=0.000634)
+Captions for image 49775803_1180095652140054_2823179169116020500_n.jpg:
+  0) a black and white cat sitting on top of a car . (p=0.000081)
+  1) a black and white dog sitting in a car . (p=0.000047)
+  2) a black and white dog sitting on top of a car . (p=0.000043)
+Captions for image 49426798_591339974641386_8180544699707552263_n.jpg:
+  0) a black and white dog sitting on a couch . (p=0.000467)
+  1) a black and white dog sitting on top of a couch . (p=0.000374)
+  2) a black and white dog laying on a couch . (p=0.000241)
+Captions for image 49725233_133385934351483_6375463509125527919_n.jpg:
+  0) a car that is parked in front of a building . (p=0.000188)
+  1) a car is parked in front of a building . (p=0.000093)
+  2) a car that is parked in front of a building (p=0.000050)
+Captions for image 49988608_667649106962360_2735776419949183534_n.jpg:
+  0) a black and white dog laying on top of a grass covered field . (p=0.001317)
+  1) a black and white dog laying on top of a green field . (p=0.000668)
+  2) a black and white dog laying on top of a field . (p=0.000645)
+Captions for image 49716535_591918511262399_2811150206910224125_n.jpg:
+  0) a black and white cat laying on top of a couch . (p=0.002222)
+  1) a black and white cat laying on a couch . (p=0.001559)
+  2) a black and white cat laying on top of a bed . (p=0.001282)
+Captions for image 47356232_2025952110832464_2370564578968301679_n.jpg:
+  0) a black cat sitting on a wooden bench . (p=0.000418)
+  1) a black bear sitting on a wooden bench . (p=0.000230)
+  2) a black cat sitting on a wooden bench (p=0.000135)
+Captions for image 47583293_549703035535021_4478459325972948465_n.jpg:
+  0) a car parked next to a parking meter . (p=0.001201)
+  1) a car parked in front of a parking meter . (p=0.000496)
+  2) a car parked next to a parking meter (p=0.000365)
+Captions for image 47691162_282466735789453_601007466517612840_n.jpg:
+  0) a car is parked in a parking lot . (p=0.000475)
+  1) a car with a surfboard strapped to the back . (p=0.000148)
+  2) a car is parked in a parking lot (p=0.000117)
+Captions for image 47448540_494158557739045_18371993766678420_n.jpg:
+  0) a black and white dog laying on top of a bed . (p=0.003457)
+  1) a black and white dog laying on a bed . (p=0.002932)
+  2) a black and white dog laying on a couch . (p=0.001058)
+Captions for image 46988079_267813317223976_4629052425478301663_n.jpg:
+  0) a dog laying on the floor with a stuffed animal (p=0.000038)
+  1) a dog laying on the floor next to a pair of shoes . (p=0.000037)
+  2) a dog laying on the floor next to a stuffed animal (p=0.000027)
+Captions for image 47582589_280044606031464_6390975973819914017_n.jpg:
+  0) a black and white dog laying on a rug . (p=0.000852)
+  1) a black and white dog laying on top of a couch . (p=0.000533)
+  2) a black and white dog laying on a rug (p=0.000249)
+Captions for image 47312841_2141445379449527_7519242156798817803_n.jpg:
+  0) a black and white cat laying on top of a couch . (p=0.000471)
+  1) a black and white cat laying on top of a remote control . (p=0.000137)
+  2) a black and white dog laying on a couch next to a remote control . (p=0.000082)
+Captions for image 45831886_290051151615271_6775931861956284588_n.jpg:
+  0) a car is parked next to a parking meter . (p=0.000862)
+  1) a car parked next to a parking meter . (p=0.000804)
+  2) a car is parked on the side of the road . (p=0.000303)
+Captions for image 47126231_1164021560471156_7482943064836089507_n.jpg:
+  0) a small dog is sitting on a couch . (p=0.000490)
+  1) a small dog is sitting on a couch (p=0.000420)
+  2) a dog laying on a couch with a stuffed animal (p=0.000101)
+Captions for image 47582126_366914417188747_7702310582361864142_n.jpg:
+  0) a black and white dog laying on a couch . (p=0.001341)
+  1) a black and white dog laying on top of a couch . (p=0.001235)
+  2) a black and white dog laying on top of a bed . (p=0.000621)
+Captions for image 46796320_933040540418292_8553832394231358625_n.jpg:
+  0) a dog that is laying down on the ground . (p=0.000404)
+  1) a dog that is laying down on a blanket . (p=0.000260)
+  2) a dog that is laying down on a couch . (p=0.000181)
+Captions for image 47582464_2066692966727753_6675543626933993231_n.jpg:
+  0) a black and white cat laying on top of a couch . (p=0.000742)
+  1) a black and white cat laying on a couch . (p=0.000571)
+  2) a black and white cat laying on top of a bed . (p=0.000468)
+Captions for image 47693000_314237202632188_1955816300947502077_n.jpg:
+  0) a car is parked in front of a parking meter . (p=0.000166)
+  1) a car parked in a parking lot next to a car . (p=0.000135)
+  2) a car parked in a parking lot next to a parking meter . (p=0.000065)
+Captions for image 46937114_220419085526202_4751026367005384443_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000567)
+  1) a car parked on the side of the road . (p=0.000422)
+  2) a car is parked on the side of the road (p=0.000163)
+Captions for image 47585519_733544793706731_1693794165734030429_n.jpg:
+  0) a blue car parked next to a parking meter . (p=0.000669)
+  1) a blue car parked in front of a parking meter . (p=0.000250)
+  2) a blue car parked next to a parking meter (p=0.000061)
+Captions for image 46984063_401005147308075_3129432034547498669_n.jpg:
+  0) a black and white dog laying on top of a bed . (p=0.000924)
+  1) a black and white dog laying on a bed . (p=0.000773)
+  2) a black and white dog laying on top of a couch . (p=0.000623)
+Captions for image 46826759_372441456823648_1931428012597838652_n.jpg:
+  0) a black and white dog sitting on a chair . (p=0.000898)
+  1) a black and white dog laying on top of a couch . (p=0.000510)
+  2) a black and white dog sitting on a couch . (p=0.000467)
+Captions for image 49907472_317633858858548_7997359460001230764_n.jpg:
+  0) a car parked next to a parking meter . (p=0.000257)
+  1) a car parked next to a parking meter (p=0.000096)
+  2) a car parked in a parking lot next to a car . (p=0.000060)
+Captions for image 46409355_270480933827187_7073578654347548214_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.000899)
+  1) a laptop computer sitting on top of a table . (p=0.000898)
+  2) a laptop computer sitting on top of a wooden table . (p=0.000576)
+Captions for image 45745251_588336761606122_4572171808506120485_n.jpg:
+  0) a man sitting at a table with a laptop . (p=0.000307)
+  1) a man sitting at a table with a laptop computer . (p=0.000142)
+  2) a man sitting at a table with a laptop computer (p=0.000024)
+Captions for image 47585526_351393645412345_4928233267057458705_n.jpg:
+  0) a dog laying on the floor with a stuffed animal (p=0.000042)
+  1) a dog laying on the floor with a toy (p=0.000041)
+  2) a dog laying on the floor with a stuffed animal . (p=0.000031)
+Captions for image 46284204_347630402455048_123534052791443394_n.jpg:
+  0) a car parked on a beach next to a boat . (p=0.000150)
+  1) a car parked on the beach with a boat in the background . (p=0.000050)
+  2) a car parked on the beach with a boat in the background (p=0.000034)
+Captions for image 46577255_1012566725589457_7503160334230117326_n.jpg:
+  0) a car parked on a beach next to a boat . (p=0.000101)
+  1) a car parked on the beach next to a boat . (p=0.000078)
+  2) a car parked on the beach with a surfboard on top of it . (p=0.000035)
+Captions for image 46819337_269434530441399_9143387722680987200_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000371)
+  1) a car is parked on the side of the road (p=0.000121)
+  2) a car parked in a parking lot next to a car . (p=0.000110)
+Captions for image 46177653_907332656127327_5021448747687434788_n.jpg:
+  0) a car parked on the side of the road . (p=0.000234)
+  1) a car parked on the side of a road . (p=0.000179)
+  2) a car parked on the side of the road (p=0.000101)
+Captions for image 46650656_748946492145309_352983527362073505_n.jpg:
+  0) a dog laying on top of a couch cushion . (p=0.000509)
+  1) a dog laying on a couch next to a remote control . (p=0.000155)
+  2) a dog laying on a couch next to a remote . (p=0.000105)
+Captions for image 44888741_307272519996466_6026521716982256059_n.jpg:
+  0) a car is parked in a parking lot . (p=0.000259)
+  1) a blue car parked in a parking lot . (p=0.000198)
+  2) a car with a surfboard strapped to the back . (p=0.000083)
+Captions for image 45902899_560589777715232_5287091047641614314_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000384)
+  1) a car is parked on the side of a road . (p=0.000170)
+  2) a car is parked on the side of the road (p=0.000109)
+Captions for image 47586280_368833967200576_5392583665111324295_n.jpg:
+  0) a black and white dog laying on top of a couch . (p=0.001172)
+  1) a black and white dog laying on a couch . (p=0.001152)
+  2) a black and white dog laying on top of a bed . (p=0.001127)
+Captions for image 46673844_1958391894454680_3560150667088617407_n.jpg:
+  0) a white car parked in a parking lot . (p=0.000383)
+  1) a car parked in a parking lot next to a car . (p=0.000074)
+  2) a white car parked in a parking lot next to a car . (p=0.000050)
+Captions for image 45687855_199136720969104_5724970744157356722_n.jpg:
+  0) a blue car parked in a parking lot . (p=0.000142)
+  1) a car with a surfboard strapped to the back . (p=0.000046)
+  2) a car with a surfboard strapped to the back of it . (p=0.000036)

@@ -1,0 +1,888 @@
+Captions for image 64748516_348313915852937_3035685103756871859_n.jpg:
+  0) a black and white photo of a vase of flowers . (p=0.000119)
+  1) a black and white photo of a vase with flowers . (p=0.000107)
+  2) a black and white photo of a vase with flowers in it . (p=0.000066)
+Captions for image 40388195_173566440154010_7367525833713385472_n.jpg:
+  0) a large white bird flying over a body of water . (p=0.000569)
+  1) a large white polar bear swimming in a pool of water . (p=0.000147)
+  2) a large white bird standing on top of a body of water . (p=0.000064)
+Captions for image 42423825_1093215320837728_5495582095252920945_n.jpg:
+  0) a close up of a cake on a table (p=0.000455)
+  1) a close up of a cake with a train on it (p=0.000042)
+  2) a close up of a cake on a table with a knife (p=0.000008)
+Captions for image 64638992_2294322187488906_3608210437807365945_n.jpg:
+  0) a close up of a pair of scissors (p=0.001688)
+  1) a black and white photo of a pair of scissors . (p=0.000825)
+  2) a black and white photo of a pair of scissors (p=0.000589)
+Captions for image 61978909_662616487498566_7929891625665044234_n.jpg:
+  0) a large clock on the side of a building . (p=0.000120)
+  1) a bird is sitting on top of a building . (p=0.000017)
+  2) a large clock on the side of a building (p=0.000016)
+Captions for image 64628168_151833119315930_7486123987231589466_n.jpg:
+  0) a woman holding a pair of scissors in her hands . (p=0.001413)
+  1) a woman is holding a pair of scissors . (p=0.000822)
+  2) a woman holding a pair of scissors in her hand . (p=0.000634)
+Captions for image 65051888_373352769830172_2322441731648608943_n.jpg:
+  0) a flock of birds sitting on top of a tree . (p=0.001097)
+  1) a group of birds sitting on top of a tree . (p=0.000634)
+  2) a flock of birds flying over a forest . (p=0.000232)
+Captions for image 65811328_696341604139240_7630480648467937362_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000211)
+  1) a man wearing a tie and a white shirt . (p=0.000198)
+  2) a man wearing a tie and a shirt . (p=0.000101)
+Captions for image 66476286_468351457074710_4420549062331678165_n.jpg:
+  0) a close up of a pair of scissors (p=0.002285)
+  1) a close up of a person holding a pair of scissors (p=0.000497)
+  2) a close up of a pair of scissors on a table (p=0.000150)
+Captions for image 65601902_424522028393184_5615860119283532170_n.jpg:
+  0) a black and white photo of a woman holding a bouquet of flowers . (p=0.000183)
+  1) a black and white photo of a woman holding a bouquet of flowers (p=0.000044)
+  2) a black and white photo of a person holding a vase (p=0.000038)
+Captions for image 61628818_186782445648411_7071709613663482601_n.jpg:
+  0) a close up of a pair of scissors (p=0.000756)
+  1) a close up of a pair of scissors on a table (p=0.000187)
+  2) a pair of scissors and a pair of scissors . (p=0.000081)
+Captions for image 65738166_363727224284665_9010381912325709164_n.jpg:
+  0) a white teddy bear sitting on top of a book . (p=0.000075)
+  1) a white teddy bear sitting on top of a table . (p=0.000054)
+  2) a white teddy bear sitting on top of a wooden table . (p=0.000031)
+Captions for image 57156355_312496129419566_1765893447251973760_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000507)
+  1) a pair of scissors sitting on a table . (p=0.000202)
+  2) a pair of scissors and a pair of scissors . (p=0.000162)
+Captions for image 57465194_534569367073804_4771174566467359671_n.jpg:
+  0) a black and white photo of a pair of scissors . (p=0.000105)
+  1) a black and white photo of a pair of scissors (p=0.000065)
+  2) a black and white photo of a <UNK> (p=0.000020)
+Captions for image 60095619_650459265417734_1000919930349487532_n.jpg:
+  0) a book that is on top of a table . (p=0.000045)
+  1) a book that is sitting on a table . (p=0.000044)
+  2) a book that is sitting on top of a book . (p=0.000030)
+Captions for image 62608725_379971022650039_3917234925952414723_n.jpg:
+  0) a black and white photo of a white toilet (p=0.000025)
+  1) a black and white photo of a collage of photos (p=0.000008)
+  2) a black and white photo of a collage of photos with a man and a woman (p=0.000000)
+Captions for image 65422621_382115622656462_5506854624041942590_n.jpg:
+  0) a bunch of birds that are flying in the sky . (p=0.000101)
+  1) a bunch of birds that are flying in the air . (p=0.000100)
+  2) a bunch of birds that are sitting on a branch . (p=0.000039)
+Captions for image 64812099_2278677045687345_6844037700700545692_n.jpg:
+  0) a close up of a pair of scissors (p=0.003715)
+  1) a close up of a person holding a pair of scissors (p=0.000831)
+  2) a close up of a pair of scissors on a table (p=0.000599)
+Captions for image 64438554_1610145005783950_8139011363056703146_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000748)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000349)
+  2) a pair of scissors sitting on a table . (p=0.000128)
+Captions for image 61995701_618566535306675_6658043315715566242_n.jpg:
+  0) a cake shaped like a train on a table . (p=0.000034)
+  1) a cake shaped like a train on a table (p=0.000008)
+  2) a cake shaped like a train on a track . (p=0.000007)
+Captions for image 62442115_149677696194246_4573243990948225135_n.jpg:
+  0) a woman in a white dress holding a pair of scissors . (p=0.000017)
+  1) a woman in a white dress holding a pair of scissors (p=0.000002)
+  2) a woman in a white shirt and tie holding a knife . (p=0.000001)
+Captions for image 61090628_371289790185422_6939679908330569801_n.jpg:
+  0) a close up of a pair of scissors (p=0.001600)
+  1) a pair of scissors sitting on top of a table . (p=0.000571)
+  2) a close up of a pair of scissors on a table (p=0.000355)
+Captions for image 61483331_1331941673638518_2720990116512886719_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.000325)
+  1) a bird perched on top of a tree . (p=0.000283)
+  2) a black and white photo of a clock tower (p=0.000124)
+Captions for image 61127114_141048530293418_4887188447293558180_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000426)
+  1) a woman holding a pair of scissors in her hands . (p=0.000164)
+  2) a person holding a pair of scissors in their hands (p=0.000129)
+Captions for image 61801091_438852816946985_8622274254855823388_n.jpg:
+  0) a woman in a dress holding a pair of scissors . (p=0.000028)
+  1) a woman in a white dress holding a pair of scissors . (p=0.000022)
+  2) a woman in a dress holding a pair of scissors (p=0.000010)
+Captions for image 61103081_2395766697367074_1875982303737666966_n.jpg:
+  0) a close up of a statue of a horse (p=0.000016)
+  1) a close up of a statue of a person with a clock (p=0.000004)
+  2) a close up of a statue of a person holding a clock (p=0.000002)
+Captions for image 61825429_1107335616123875_134016426126301801_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000094)
+  1) a close up of a pair of scissors on a table (p=0.000041)
+  2) a close up of a pair of scissors on a cutting board (p=0.000018)
+Captions for image 61531016_302588874023417_98655425640001851_n.jpg:
+  0) a black and white photo of a man and a woman (p=0.000516)
+  1) a black and white photo of a man and a woman . (p=0.000470)
+  2) a black and white photo of a man and woman (p=0.000237)
+Captions for image 61461231_139916243855173_3501178453026228970_n.jpg:
+  0) a collage of photos of a person holding a pair of scissors (p=0.000014)
+  1) a collage of photos of a person holding a pair of scissors . (p=0.000007)
+  2) a collage of photos of a man holding a pair of scissors (p=0.000006)
+Captions for image 61042649_410551016205786_5040648544710948493_n.jpg:
+  0) a statue of a man holding a clock . (p=0.000247)
+  1) a statue of a man holding a large clock . (p=0.000141)
+  2) a statue of a man with a clock on top . (p=0.000052)
+Captions for image 56248159_410617823107618_5427080887163527903_n.jpg:
+  0) a cake shaped like a teddy bear on a table . (p=0.000007)
+  1) a cake shaped like a heart shaped like a bear . (p=0.000006)
+  2) a cake shaped like a heart shaped like a train . (p=0.000006)
+Captions for image 60122243_2773482872668126_8779301006609897855_n.jpg:
+  0) a woman in a white shirt and black tie (p=0.000033)
+  1) a woman in a white shirt and black tie . (p=0.000029)
+  2) a woman in a white shirt and a tie (p=0.000022)
+Captions for image 60020703_323080808610711_3297168694017584688_n.jpg:
+  0) a woman wearing a tie and a hat . (p=0.000023)
+  1) a man with a tie and a hat . (p=0.000018)
+  2) a woman wearing a tie and a white shirt . (p=0.000008)
+Captions for image 60136900_804655256587103_3734154917090732473_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000083)
+  1) a pair of scissors sitting on a table . (p=0.000031)
+  2) a pair of scissors sitting on top of a wooden table . (p=0.000029)
+Captions for image 60075051_114275826479363_882129810528839943_n.jpg:
+  0) a black and white photo of a clock on a wall . (p=0.000079)
+  1) a black and white photo of a large clock (p=0.000073)
+  2) a black and white photo of a clock on a wall (p=0.000056)
+Captions for image 60447332_2278524169091907_8371076294065746861_n.jpg:
+  0) a bird perched on top of a tree branch . (p=0.002413)
+  1) a flock of birds sitting on top of a tree . (p=0.002136)
+  2) a bird perched on top of a tree . (p=0.001346)
+Captions for image 60254836_2059376611024884_8131174515994541880_n.jpg:
+  0) a black and white photo of a clock on a wall . (p=0.000035)
+  1) a black and white photo of a clock on a wall (p=0.000026)
+  2) a black and white photo of a clock on a white wall . (p=0.000002)
+Captions for image 59876911_137164714054811_7862929272345588399_n.jpg:
+  0) a flock of birds sitting on top of a tree . (p=0.002400)
+  1) a flock of birds flying over a forest . (p=0.001026)
+  2) a flock of birds flying through a cloudy sky . (p=0.000756)
+Captions for image 60494676_382800595914211_6278151892117303606_n.jpg:
+  0) a close up of a pair of scissors (p=0.000148)
+  1) a close up of a person holding a pair of scissors (p=0.000051)
+  2) a close up of a pair of scissors on a table (p=0.000032)
+Captions for image 60259297_176745663326648_7707652355946128005_n.jpg:
+  0) a woman holding a pair of scissors in her hands . (p=0.000947)
+  1) a woman holding a pair of scissors in her hand . (p=0.000350)
+  2) a woman holding a pair of scissors in her hands (p=0.000135)
+Captions for image 60232745_2127858620583329_1978077546090851730_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000933)
+  1) a close up of a person wearing a tie (p=0.000622)
+  2) a close up of a pair of scissors (p=0.000553)
+Captions for image 60838083_2560568820644206_6924216827962765385_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.001265)
+  1) a black and white photo of a person holding a pair of scissors . (p=0.000095)
+  2) a black and white photo of a person holding a pair of scissors (p=0.000056)
+Captions for image 56706300_162791981393531_8420865310812451894_n.jpg:
+  0) a plane flying over a city street at night . (p=0.000019)
+  1) a plane flying over a city street at night (p=0.000009)
+  2) a plane flying over a city street at sunset . (p=0.000009)
+Captions for image 59968151_2337304106292283_7595377752614504429_n.jpg:
+  0) a black and white photo of a vase with flowers . (p=0.000225)
+  1) a black and white photo of a vase with flowers (p=0.000113)
+  2) a black and white photo of a vase with flowers in it . (p=0.000097)
+Captions for image 59773450_455530708550040_4981543009623828597_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000882)
+  1) a black and white photo of a pair of scissors . (p=0.000308)
+  2) a pair of scissors sitting on top of a wooden table . (p=0.000210)
+Captions for image 59211607_2466291283606954_7772434422184196915_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000167)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000054)
+  2) a pair of scissors sitting on a table . (p=0.000042)
+Captions for image 58033349_2336150156662028_9077819582513777632_n.jpg:
+  0) a group of people standing next to each other . (p=0.000974)
+  1) a group of people standing around each other . (p=0.000625)
+  2) a group of people standing next to each other holding wine glasses . (p=0.000243)
+Captions for image 59649489_2183996045264225_2760101296286662615_n.jpg:
+  0) a person on a surfboard in the water . (p=0.000364)
+  1) a person on a surfboard in the water (p=0.000066)
+  2) a person on a surfboard in the middle of the water . (p=0.000026)
+Captions for image 58453680_160026128363634_4281631388434623298_n.jpg:
+  0) a black and white photo of a <UNK> (p=0.000052)
+  1) a black and white photo of a white and black clock . (p=0.000002)
+  2) a black and white photo of a white and black clock (p=0.000001)
+Captions for image 57379498_822455228120283_5578537911950427765_n.jpg:
+  0) a group of people standing next to each other . (p=0.001148)
+  1) a group of people standing around each other . (p=0.000843)
+  2) a group of people standing next to each other holding wine glasses . (p=0.000213)
+Captions for image 59464500_277431143161241_4468851295033903744_n.jpg:
+  0) a close up of a pair of scissors (p=0.001289)
+  1) a close up of a pair of scissors on a table (p=0.000483)
+  2) a pair of scissors sitting on top of a table . (p=0.000242)
+Captions for image 57678286_432567870876675_5733577551326726313_n.jpg:
+  0) a large blue and white bed with a blue and white canopy . (p=0.000000)
+  1) a large blue and white bed with a blue and white sheet . (p=0.000000)
+  2) a large blue and white bed with a blue and white canopy (p=0.000000)
+Captions for image 58410386_606642726506709_818377864454199232_n.jpg:
+  0) a group of people standing on top of a beach . (p=0.000032)
+  1) a group of people standing on top of a roof . (p=0.000022)
+  2) a group of people standing on top of a tall building . (p=0.000014)
+Captions for image 57506112_587273335092738_8782249912929795977_n.jpg:
+  0) a close up of a pair of scissors (p=0.000287)
+  1) a close up of a pair of scissors on a table (p=0.000092)
+  2) a close up of a person holding a pair of scissors (p=0.000083)
+Captions for image 58410294_134082871015356_4294777248363943552_n.jpg:
+  0) a statue of a man holding a skateboard . (p=0.000089)
+  1) a statue of a man holding a skateboard (p=0.000017)
+  2) a collage of photos of a man holding a skateboard . (p=0.000011)
+Captions for image 57804085_372333720047461_1332528071630465099_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000150)
+  1) a pair of scissors sitting on a table . (p=0.000036)
+  2) a pair of scissors sitting on top of a box . (p=0.000029)
+Captions for image 57488075_629419477484700_663578499894198649_n.jpg:
+  0) a close up of a pair of scissors (p=0.000300)
+  1) a close up of a pair of scissors on a table (p=0.000040)
+  2) a close up of a pair of scissors on a sheet (p=0.000006)
+Captions for image 37684549_254413258482432_4119013931970723840_n.jpg:
+  0) a group of people standing next to each other . (p=0.000307)
+  1) a group of people standing around each other . (p=0.000260)
+  2) a group of people standing next to each other holding wine glasses . (p=0.000060)
+Captions for image 56990456_133310594412288_5285053834924941165_n.jpg:
+  0) a close up of a pair of scissors (p=0.002960)
+  1) a pair of scissors sitting on top of a table . (p=0.001345)
+  2) a close up of a pair of scissors on a table (p=0.000739)
+Captions for image 41292306_240863149932985_3257845881965734346_n.jpg:
+  0) a black and white photo of a vase with flowers . (p=0.000066)
+  1) a black and white photo of a clock on a table . (p=0.000036)
+  2) a black and white photo of a clock on a wall . (p=0.000028)
+Captions for image 41845825_590003308084420_2373282864193869713_n.jpg:
+  0) a painting of a person holding a surf board (p=0.000036)
+  1) a painting of a man holding a surfboard . (p=0.000018)
+  2) a painting of a person holding a surf board . (p=0.000013)
+Captions for image 49851793_359463331514257_2214574637020407092_n.jpg:
+  0) a close up of a pair of scissors (p=0.005186)
+  1) a close up of a pair of scissors on a table (p=0.001421)
+  2) a close up of a pair of scissors and a pair of scissors (p=0.000217)
+Captions for image 56960774_333234960719323_670224052871183203_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000947)
+  1) a close up of a pair of scissors (p=0.000940)
+  2) a pair of scissors sitting on top of a wooden table . (p=0.000441)
+Captions for image 50999852_147160592962081_7914503028526488983_n.jpg:
+  0) a birthday cake with a train on it (p=0.000020)
+  1) a birthday cake with a train on it . (p=0.000019)
+  2) a birthday cake that has been made to look like a train . (p=0.000003)
+Captions for image 49435112_388675421881664_6582347147899027260_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.001197)
+  1) a black and white photo of a person holding a pair of scissors . (p=0.000045)
+  2) a black and white photo of a person holding a pair of scissors (p=0.000040)
+Captions for image 50645180_2833902289957426_8301114817802726392_n.jpg:
+  0) a black and white photo of a person holding a pair of scissors . (p=0.000014)
+  1) a black and white photo of a person holding a pair of scissors (p=0.000010)
+  2) a black and white photo of a vase with a flower in it . (p=0.000003)
+Captions for image 57258360_2272478339641718_2637268220191734730_n.jpg:
+  0) a black and white photo of a pair of scissors . (p=0.000067)
+  1) a black and white photo of a pair of scissors (p=0.000047)
+  2) a black and white photo of a <UNK> (p=0.000017)
+Captions for image 50639565_131699757860953_6700571458355957668_n.jpg:
+  0) a painting of a man holding a pair of scissors . (p=0.000004)
+  1) a painting of a man holding a skateboard . (p=0.000003)
+  2) a painting of a man holding a pair of scissors (p=0.000002)
+Captions for image 49686668_525636444615986_3279797921537155498_n.jpg:
+  0) a black and white photo of a vase with flowers . (p=0.000450)
+  1) a black and white photo of a vase with flowers (p=0.000200)
+  2) a black and white picture of a vase with flowers . (p=0.000188)
+Captions for image 49759368_798340717171746_6532386938747018863_n.jpg:
+  0) a close up of a pair of scissors (p=0.001939)
+  1) a black and white photo of a pair of scissors . (p=0.001026)
+  2) a pair of scissors sitting on top of a table . (p=0.000688)
+Captions for image 49907269_326390404639455_4282308468489419171_n.jpg:
+  0) a group of ties hanging from a wall . (p=0.000101)
+  1) a group of ties hanging from a rack . (p=0.000064)
+  2) a group of ties hanging from a ceiling . (p=0.000034)
+Captions for image 37366396_415317542311687_8475910060764037120_n.jpg:
+  0) a large body of water next to a bridge . (p=0.000060)
+  1) a large body of water with a bridge in the background (p=0.000053)
+  2) a large body of water with a bridge in the background . (p=0.000049)
+Captions for image 50522558_2040758569354299_2818747678161681556_n.jpg:
+  0) a birthday cake with a train on it (p=0.000040)
+  1) a birthday cake with a train on it . (p=0.000034)
+  2) a birthday cake with a number of people on it (p=0.000004)
+Captions for image 47692044_528567930996852_6914149254820899284_n.jpg:
+  0) a collage of photos of a cat and a bird (p=0.000002)
+  1) a collage of photos of a cat and a cat (p=0.000002)
+  2) a collage of photos with a cat and a bird (p=0.000002)
+Captions for image 50024626_321712131822180_5300502088004655342_n.jpg:
+  0) a bunch of different types of scissors on a table . (p=0.000007)
+  1) a bunch of different colored ties hanging on a wall . (p=0.000006)
+  2) a bunch of different colored ties hanging from a wall . (p=0.000006)
+Captions for image 57180318_162952701393607_7047451974040377376_n.jpg:
+  0) a painting of a man holding a kite . (p=0.000014)
+  1) a pair of scissors and a pair of scissors . (p=0.000010)
+  2) a painting of a man holding a pair of scissors . (p=0.000008)
+Captions for image 49907453_375657543251710_4699162553509812984_n.jpg:
+  0) a collage of pictures of a man and a woman . (p=0.000007)
+  1) a collage of pictures of a man and a woman (p=0.000004)
+  2) a collage of photos of a man and a woman . (p=0.000004)
+Captions for image 49791082_283903128974606_5031019241094004110_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000296)
+  1) a pair of scissors sitting on a table . (p=0.000066)
+  2) a pair of scissors sitting on top of a wooden table . (p=0.000061)
+Captions for image 47692497_783018655366524_1632655446974650897_n.jpg:
+  0) a clock that is on a wall in a room . (p=0.000006)
+  1) a clock that is on a wall in a room (p=0.000001)
+  2) a clock that is on a wall with a picture of a person . (p=0.000000)
+Captions for image 47691287_227977121467345_4379318998174860084_n.jpg:
+  0) a birthday cake with a train on it (p=0.000030)
+  1) a birthday cake with a train on it . (p=0.000023)
+  2) a birthday cake with a train on top of it . (p=0.000009)
+Captions for image 57119738_2170431096338828_3739933739288383541_n.jpg:
+  0) a black and white photo of a bird on a building . (p=0.000002)
+  1) a black and white photo of a bird on a table . (p=0.000001)
+  2) a black and white photo of a bird on a building (p=0.000001)
+Captions for image 47581187_1872182092893699_4049334004751014719_n.jpg:
+  0) a book with a picture of a bird on it . (p=0.000013)
+  1) a book with a book on top of it . (p=0.000011)
+  2) a book with a book on top of it (p=0.000010)
+Captions for image 47694254_334376977164474_9206989338115596623_n.jpg:
+  0) a statue of a man holding a giant teddy bear . (p=0.000030)
+  1) a statue of a man holding a giant pair of scissors . (p=0.000023)
+  2) a statue of a man in a suit and tie (p=0.000011)
+Captions for image 46270698_2211322585791125_5679562806826758727_n.jpg:
+  0) a collage of photos with a vase and flowers (p=0.000010)
+  1) a collage of photos with a vase with flowers (p=0.000010)
+  2) a collage of photos with a vase and flowers . (p=0.000010)
+Captions for image 49858361_510398326117197_1700555169617258414_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000384)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000227)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000113)
+Captions for image 47691889_346101739557791_9006360651806087452_n.jpg:
+  0) a cake with a picture of a person on it . (p=0.000001)
+  1) a cake with a picture of a man on it . (p=0.000001)
+  2) a cake with a picture of a person on it (p=0.000001)
+Captions for image 47581177_323136631863767_7247577106853874853_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.000358)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000293)
+  2) a vase filled with flowers on top of a wooden table . (p=0.000105)
+Captions for image 47690932_577612759348239_2144060091589857281_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000697)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000292)
+  2) a pair of scissors sitting on a table . (p=0.000190)
+Captions for image 46530006_161593284811292_3014992068417139073_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000431)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000104)
+  2) a pair of scissors sitting on top of a table (p=0.000043)
+Captions for image 47583001_758012137900055_9160055591598987278_n.jpg:
+  0) a black and white photo of a pair of scissors . (p=0.000069)
+  1) a black and white photo of a pair of scissors (p=0.000062)
+  2) a black and white photo of a bird sitting on a table . (p=0.000002)
+Captions for image 47691052_935829773288687_5602580961178575633_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000069)
+  1) a close up of a vase with flowers on it (p=0.000029)
+  2) a close up of a vase with a flower in it (p=0.000026)
+Captions for image 47003027_1975811845871499_8149746335288125859_n.jpg:
+  0) a black and white photo of a woman in a dress . (p=0.000018)
+  1) a black and white photo of a woman in a dress (p=0.000014)
+  2) a black and white photo of a woman holding a clock (p=0.000005)
+Captions for image 47583935_315536245729003_2706289538224465106_n.jpg:
+  0) a picture of a person holding a pair of scissors . (p=0.000036)
+  1) a painting of a man holding a pair of scissors . (p=0.000015)
+  2) a picture of a person holding a pair of scissors (p=0.000008)
+Captions for image 47506019_957305671141205_8009458979582687488_n.jpg:
+  0) a close up of a red and white vase on a table . (p=0.000004)
+  1) a close up of a red and white vase on a table (p=0.000002)
+  2) a close up of a red and white vase with a red light . (p=0.000000)
+Captions for image 47428124_223080051956342_733044593537467704_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.000107)
+  1) a painting of a vase with flowers in it . (p=0.000022)
+  2) a vase filled with flowers sitting on top of a counter . (p=0.000017)
+Captions for image 46352148_212178523048166_356501580119447004_n.jpg:
+  0) a picture of a traffic light in a city . (p=0.000022)
+  1) a picture of a traffic light in a city (p=0.000004)
+  2) a picture of a traffic light in a dark city . (p=0.000004)
+Captions for image 47145264_596096477478038_4465421448537940254_n.jpg:
+  0) a black and white photo of a brick building (p=0.000354)
+  1) a black and white photo of a building (p=0.000107)
+  2) a black and white photo of a building with a clock (p=0.000046)
+Captions for image 46941477_2151062284949857_1606413638084641416_n.jpg:
+  0) a bird perched on top of a tree branch . (p=0.000846)
+  1) a bird perched on top of a tree . (p=0.000728)
+  2) a bird perched on top of a tall tree . (p=0.000253)
+Captions for image 47692518_1185921881576915_5696887357909277726_n.jpg:
+  0) a man flying through the air while riding a snowboard . (p=0.015303)
+  1) a man flying through the air while riding skis . (p=0.004652)
+  2) a person jumping a snow board in the air (p=0.003604)
+Captions for image 47107727_276990059673383_4506511383204210181_n.jpg:
+  0) a close up of a pair of scissors (p=0.001780)
+  1) a close up of a pair of scissors on a table (p=0.000615)
+  2) a pair of scissors and a pair of scissors . (p=0.000218)
+Captions for image 47220730_294827084474760_8728455222166293625_n.jpg:
+  0) a black and white photo of a pair of scissors . (p=0.000167)
+  1) a black and white photo of a pair of scissors (p=0.000139)
+  2) a black and white photo of a person holding a pair of scissors . (p=0.000017)
+Captions for image 47206372_421121891756283_2869640789364126976_n.jpg:
+  0) a painting of a man holding a surfboard . (p=0.000025)
+  1) a painting of a man holding a surfboard (p=0.000009)
+  2) a painting of a man in a suit and tie . (p=0.000004)
+Captions for image 47385741_1203112443174340_8959165821891803140_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000098)
+  1) a close up of a street sign with a building in the background (p=0.000033)
+  2) a close up of a sign that says <UNK> (p=0.000017)
+Captions for image 47305511_287550198559736_5386116788256102595_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.001107)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000377)
+  2) a pair of scissors sitting on top of a table (p=0.000161)
+Captions for image 46022234_273029930225425_4435790262524576780_n.jpg:
+  0) a black and white photo of a bird perched on a tree . (p=0.000031)
+  1) a black and white photo of a bird perched on a tree (p=0.000017)
+  2) a black and white photo of a bird perched on a branch . (p=0.000015)
+Captions for image 45513331_2153056918345943_7119538168962532447_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000105)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000081)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000036)
+Captions for image 44705216_352734028628469_818103042329927871_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.000378)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000346)
+  2) a vase filled with flowers on top of a window sill . (p=0.000159)
+Captions for image 43985208_2138605759724888_8995610709087093750_n.jpg:
+  0) a bunch of birds that are sitting on a table . (p=0.000068)
+  1) a group of birds sitting on top of a table . (p=0.000060)
+  2) a bunch of birds that are on a table . (p=0.000058)
+Captions for image 44262447_2272634379729093_4833423207982253847_n.jpg:
+  0) a black and white photo of a kite flying in the sky . (p=0.000046)
+  1) a black and white photo of a kite in the sky . (p=0.000034)
+  2) a black and white photo of a kite flying in the sky (p=0.000022)
+Captions for image 45681755_204175570494729_8032855216099254542_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.002456)
+  1) a bottle of wine and a bottle of wine . (p=0.002208)
+  2) a bottle of wine and a bottle of wine (p=0.001132)
+Captions for image 43516989_2316272395067471_6377051983431510854_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000111)
+  1) a close up of a vase with flowers (p=0.000044)
+  2) a close up of a vase with a flower in it (p=0.000036)
+Captions for image 43468491_553936105053492_6478476751802030150_n.jpg:
+  0) a statue of a bird sitting on top of a cage . (p=0.000031)
+  1) a statue of a bird sitting on a branch . (p=0.000024)
+  2) a statue of a bird sitting on a branch (p=0.000017)
+Captions for image 43705870_340918819815390_867568485851360863_n.jpg:
+  0) a man holding a glass of wine in his hand . (p=0.000466)
+  1) a man holding a wine glass in his hand . (p=0.000439)
+  2) a man holding a wine glass in his hand (p=0.000185)
+Captions for image 42778141_753205508367182_2492582386363677101_n.jpg:
+  0) a wooden table with a clock on it . (p=0.000019)
+  1) a wooden table with a clock on it (p=0.000014)
+  2) a wooden table with a clock on top of it . (p=0.000012)
+Captions for image 43915158_246687506007506_5623555725913378640_n.jpg:
+  0) a wooden table with a clock on it . (p=0.000086)
+  1) a wooden table with a clock on it (p=0.000078)
+  2) a wooden bench sitting next to a wall . (p=0.000070)
+Captions for image 43214401_2057763330953634_2413098872056527028_n.jpg:
+  0) a wooden bench sitting on top of a wooden table . (p=0.000126)
+  1) a wooden bench sitting on top of a table . (p=0.000061)
+  2) a wooden bench sitting on top of a wooden floor . (p=0.000030)
+Captions for image 43718974_280542099240773_4080018519755988927_n.jpg:
+  0) a close up of a cake on a table (p=0.001460)
+  1) a close up of a piece of cake on a plate (p=0.000405)
+  2) a close up of a slice of pizza on a plate (p=0.000345)
+Captions for image 43493058_422837968246014_2674807025992855723_n.jpg:
+  0) a wooden table with a clock on it . (p=0.000015)
+  1) a wooden table with a clock on top of it . (p=0.000013)
+  2) a wooden table topped with a fire hydrant . (p=0.000012)
+Captions for image 43220403_343404593061561_2930693864695108269_n.jpg:
+  0) a statue of a man holding a clock . (p=0.000033)
+  1) a statue of a bear sitting on top of a table . (p=0.000019)
+  2) a statue of a bear sitting on a table . (p=0.000013)
+Captions for image 43581687_260250691298197_7738037727799690054_n.jpg:
+  0) a wooden bench sitting in front of a window . (p=0.000048)
+  1) a wooden bench sitting in front of a building . (p=0.000043)
+  2) a wooden bench sitting in a room next to a window . (p=0.000014)
+Captions for image 43985471_560751621044502_5881541172130941502_n.jpg:
+  0) a fire hydrant in front of a building . (p=0.000063)
+  1) a fire hydrant in front of a building (p=0.000020)
+  2) a fire hydrant in front of a building with a clock . (p=0.000001)
+Captions for image 43308401_126109911693979_2300758484579474237_n.jpg:
+  0) a wooden bench sitting in front of a window . (p=0.000080)
+  1) a wooden bench sitting next to a window . (p=0.000073)
+  2) a wooden bench sitting in front of a building . (p=0.000030)
+Captions for image 42168349_353041212102247_4255286594453636408_n.jpg:
+  0) a close up of a stuffed animal on a table (p=0.000621)
+  1) a close up of a stuffed animal on a bed (p=0.000424)
+  2) a close up of a teddy bear on a bed (p=0.000245)
+Captions for image 42455969_176973009855791_2470982023589114964_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.003190)
+  1) a close up of a pair of scissors (p=0.001613)
+  2) a person holding a pair of scissors in their hands . (p=0.000574)
+Captions for image 43818190_310508656413852_3250339617452008963_n.jpg:
+  0) a boat sailing on top of a body of water . (p=0.001584)
+  1) a boat sailing on top of a lake next to a shore . (p=0.000029)
+  2) a boat sailing on top of a lake next to a mountain . (p=0.000010)
+Captions for image 43778704_343715359697155_6358537510956138273_n.jpg:
+  0) a wooden table topped with a wooden table and chairs . (p=0.000001)
+  1) a wooden table topped with a wooden table and a clock . (p=0.000001)
+  2) a wooden table topped with a wooden table and a fire place . (p=0.000000)
+Captions for image 43369103_289484531777716_5126166251092274760_n.jpg:
+  0) a person on a beach flying a kite . (p=0.000283)
+  1) a person on a beach flying a kite (p=0.000100)
+  2) a person on a beach flying a kite in the sky . (p=0.000019)
+Captions for image 42508507_2245520629065887_7248013605218489857_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000253)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000082)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000039)
+Captions for image 40667106_561905547599891_2201046315562844529_n.jpg:
+  0) a close up of a person wearing a mask (p=0.001030)
+  1) a close up of a person wearing a hat (p=0.000386)
+  2) a close up of a person wearing a tie (p=0.000365)
+Captions for image 43915329_1974740322824762_7687889763181049809_n.jpg:
+  0) a wooden table topped with lots of wooden boards . (p=0.000006)
+  1) a wooden table topped with lots of wooden utensils . (p=0.000004)
+  2) a wooden table topped with a metal pan filled with food . (p=0.000000)
+Captions for image 40593494_707221699632025_8750572670239650395_n.jpg:
+  0) a statue of a man holding a baseball bat . (p=0.000476)
+  1) a statue of a man holding a clock . (p=0.000142)
+  2) a statue of a man holding a baseball bat (p=0.000066)
+Captions for image 42915843_1518999228245480_1121283145885314327_n.jpg:
+  0) a close up of a pair of scissors (p=0.000402)
+  1) a close up of a person holding a pair of scissors (p=0.000140)
+  2) a close up of a pair of scissors on a table (p=0.000077)
+Captions for image 42344234_259140951472832_6929411566351905584_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.001944)
+  1) a close up of a pair of scissors (p=0.001219)
+  2) a close up of a pair of scissors on a table (p=0.000118)
+Captions for image 43714490_1931639090465669_5688400270817085113_n.jpg:
+  0) a wooden bench sitting next to a wooden fence . (p=0.000140)
+  1) a wooden bench sitting next to a tree . (p=0.000086)
+  2) a wooden bench sitting next to a wall . (p=0.000047)
+Captions for image 42398939_1848141568556285_8992387316795066040_n.jpg:
+  0) a group of colorful birds sitting on top of a table . (p=0.000061)
+  1) a bunch of birds that are sitting on a table . (p=0.000032)
+  2) a group of colorful birds sitting on top of a wall . (p=0.000023)
+Captions for image 41885924_2214283522176758_1342059471446151727_n.jpg:
+  0) a white vase with a flower on top of it . (p=0.000003)
+  1) a large vase with a flower on top of it . (p=0.000002)
+  2) a large vase with a flower on top of it (p=0.000001)
+Captions for image 41327507_524511661350354_7990788984781486496_n.jpg:
+  0) a living room with a fireplace and a tv . (p=0.000057)
+  1) a living room with a fireplace and a tv (p=0.000054)
+  2) a living room with a fireplace and a television . (p=0.000049)
+Captions for image 42002632_1866755033437954_650400355392514637_n.jpg:
+  0) a close up of a cake on a table (p=0.001808)
+  1) a close up of a cake on a plate (p=0.000597)
+  2) a close up of a cake with candles (p=0.000425)
+Captions for image 42003646_471157466717975_4643704605860445611_n.jpg:
+  0) a painting of a bird sitting on top of a table . (p=0.000001)
+  1) a painting of a bird sitting on top of a mirror . (p=0.000000)
+  2) a painting of a bird sitting on top of a table (p=0.000000)
+Captions for image 42003190_253038062082238_2830763053540989415_n.jpg:
+  0) a group of people standing around each other . (p=0.000616)
+  1) a group of people standing around a table . (p=0.000468)
+  2) a man and a woman holding wine glasses (p=0.000218)
+Captions for image 42003763_2120773044863328_994887456088609637_n.jpg:
+  0) a bird sitting on top of a wooden table . (p=0.000128)
+  1) a bird sitting on top of a piece of paper . (p=0.000124)
+  2) a bird sitting on top of a piece of paper (p=0.000013)
+Captions for image 41863391_2230597210553013_9048396613127599537_n.jpg:
+  0) a close up of a person holding a banana (p=0.001456)
+  1) a close up of a person holding a pair of scissors (p=0.000387)
+  2) a close up of a person holding a doughnut (p=0.000387)
+Captions for image 41413563_1802878826477477_1011616331492576944_n.jpg:
+  0) a bird sitting on a branch in a tree . (p=0.000333)
+  1) a bird is perched on a branch in a tree . (p=0.000156)
+  2) a bird is sitting on a branch in a tree . (p=0.000153)
+Captions for image 42471599_247259452640204_5223287426565058273_n.jpg:
+  0) a cake shaped like a train on a table . (p=0.000027)
+  1) a cake shaped like a train is on a table . (p=0.000007)
+  2) a cake shaped like a train on a table (p=0.000007)
+Captions for image 41421623_346856195886696_4819684048734227999_n.jpg:
+  0) a bird perched on top of a bird feeder . (p=0.000696)
+  1) a bird perched on top of a wooden table . (p=0.000374)
+  2) a bird perched on top of a piece of wood . (p=0.000336)
+Captions for image 41779132_365420304000929_1930649998078242577_n.jpg:
+  0) a close up of a bird on a tree branch (p=0.000040)
+  1) a close up of a bird on a tree (p=0.000038)
+  2) a close up of a bird with a bird on it (p=0.000014)
+Captions for image 41481887_312597759544362_8820255142448390104_n.jpg:
+  0) a cake shaped like a teddy bear on a table . (p=0.000011)
+  1) a cake shaped like a teddy bear on a table (p=0.000006)
+  2) a cake shaped like a teddy bear sitting on top of a table . (p=0.000004)
+Captions for image 40308007_2162413257133378_2438597820315339503_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000101)
+  1) a pair of scissors sitting on top of a piece of paper . (p=0.000059)
+  2) a pair of scissors sitting on a table . (p=0.000021)
+Captions for image 36759298_2072059829534817_8497755187849461760_n.jpg:
+  0) a man and a woman holding a teddy bear . (p=0.000103)
+  1) a man and a woman pose for a picture . (p=0.000088)
+  2) a man and a woman pose for a picture (p=0.000084)
+Captions for image 37110991_1887578084667664_5012239904017481728_n.jpg:
+  0) a group of people sitting at a table in a room . (p=0.000059)
+  1) a group of people sitting at a table in a restaurant . (p=0.000030)
+  2) a group of people sitting at a table in front of a clock . (p=0.000008)
+Captions for image 37766075_507481176351096_7391888468764262400_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000564)
+  1) a pair of scissors sitting on top of a piece of paper . (p=0.000204)
+  2) a pair of scissors sitting on top of a wooden table . (p=0.000127)
+Captions for image 40470302_263897044463096_6197310098045008635_n.jpg:
+  0) a painting of a painting of a woman holding a kite . (p=0.000000)
+  1) a painting of a painting of a man holding a kite . (p=0.000000)
+  2) a painting of a painting of a person holding a kite . (p=0.000000)
+Captions for image 39724113_1944810265817742_6342798223739977728_n.jpg:
+  0) a man and a woman sitting at a table with plates of food . (p=0.000141)
+  1) a man and a woman are sitting at a table (p=0.000132)
+  2) a man and a woman sitting at a table with a cake . (p=0.000129)
+Captions for image 40129212_263462521162572_1375166047895076281_n.jpg:
+  0) a teddy bear is sitting on a table . (p=0.000024)
+  1) a teddy bear is sitting on a table (p=0.000009)
+  2) a teddy bear with a red ribbon around it . (p=0.000006)
+Captions for image 40756793_564890390635380_9170405660882490147_n.jpg:
+  0) a bunch of ties hanging on a wall . (p=0.000742)
+  1) a group of ties hanging from a wall . (p=0.000391)
+  2) a bunch of ties hanging from a wall . (p=0.000373)
+Captions for image 40129188_292106461574561_3378825564600139776_n.jpg:
+  0) a truck parked on the side of the road . (p=0.000354)
+  1) a truck parked on the side of a road . (p=0.000307)
+  2) a truck parked in a parking lot next to a car . (p=0.000207)
+Captions for image 40077291_718658511820070_1613635697191682048_n.jpg:
+  0) a statue of a man and a woman holding a teddy bear . (p=0.000009)
+  1) a statue of a man and a woman holding a horse . (p=0.000008)
+  2) a statue of a man and a woman holding a horse (p=0.000006)
+Captions for image 40187527_461018474390496_7974940441088884736_n.jpg:
+  0) a man standing next to an airplane on a runway . (p=0.000413)
+  1) a man standing next to a small airplane . (p=0.000396)
+  2) a man standing next to an airplane on a tarmac . (p=0.000150)
+Captions for image 39104625_281608479235127_4407180171375804416_n.jpg:
+  0) a statue of a man holding a clock . (p=0.000030)
+  1) a statue of a man holding a giant pair of scissors . (p=0.000021)
+  2) a statue of a man holding a large clock . (p=0.000015)
+Captions for image 40585480_612748332453963_7407632108105869690_n.jpg:
+  0) a close up of a pair of scissors (p=0.001793)
+  1) a pair of scissors sitting on top of a table . (p=0.000791)
+  2) a close up of a pair of scissors on a table (p=0.000538)
+Captions for image 39865274_231303024224606_2284719350734651392_n.jpg:
+  0) a blue and gold cake decorated with flowers . (p=0.000002)
+  1) a blue and gold cake decorated with flowers (p=0.000001)
+  2) a blue and gold cake decorated with a flag . (p=0.000000)
+Captions for image 38821006_305478623363605_1856507134183735296_n.jpg:
+  0) a close up of a cake on a table (p=0.000501)
+  1) a close up of a cake on a plate (p=0.000446)
+  2) a close up of a cake on a plate on a table (p=0.000043)
+Captions for image 39935168_704762953249483_5740805342560780288_n.jpg:
+  0) a blue and white double decker bus driving down a street . (p=0.000076)
+  1) a blue and white double decker bus on a street . (p=0.000032)
+  2) a blue and white double decker bus on street (p=0.000013)
+Captions for image 39613304_2315925025114118_4153291494729449472_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.001493)
+  1) a pair of scissors sitting on a table . (p=0.000512)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000299)
+Captions for image 38877876_521089658334700_3994138135796645888_n.jpg:
+  0) a bird flying over a body of water . (p=0.000804)
+  1) a bird flying over a body of water near a beach . (p=0.000058)
+  2) a bird flying over a body of water with a lighthouse in the background . (p=0.000033)
+Captions for image 38835517_275056086427631_4947473102863859712_n.jpg:
+  0) a surfboard sitting on top of a sandy beach . (p=0.002058)
+  1) a surfboard sitting on top of a beach . (p=0.000185)
+  2) a surfboard sitting on top of a beach next to the ocean . (p=0.000167)
+Captions for image 39910193_328426637726442_4803490895565422592_n.jpg:
+  0) a car that is parked next to a parking meter . (p=0.000341)
+  1) a car that is parked on the side of the road . (p=0.000269)
+  2) a car that is parked next to a parking meter (p=0.000249)
+Captions for image 38954590_224254308247991_3924951993684066304_n.jpg:
+  0) a cake shaped like a train on a table . (p=0.000012)
+  1) a painting of a man holding a pair of scissors . (p=0.000005)
+  2) a cake shaped like a train on a table (p=0.000003)
+Captions for image 39134857_240016679990455_3868991481805012992_n.jpg:
+  0) a close up of a pair of scissors (p=0.000623)
+  1) a pair of scissors sitting on top of a table . (p=0.000326)
+  2) a close up of a pair of scissors on a table (p=0.000230)
+Captions for image 39724104_1155597221289211_8782242800650420224_n.jpg:
+  0) a red truck is parked in a parking lot . (p=0.000505)
+  1) a red truck parked in a parking lot . (p=0.000452)
+  2) a red truck is parked on the side of the road . (p=0.000253)
+Captions for image 38682767_285449332052389_6989765099044995072_n.jpg:
+  0) a painting of a man holding a pair of scissors . (p=0.000010)
+  1) a painting of a man holding a pair of scissors (p=0.000004)
+  2) a painting of a man holding a large pair of scissors . (p=0.000002)
+Captions for image 38831028_244254219559375_6394810561162379264_n.jpg:
+  0) a group of ties hanging from a ceiling . (p=0.000122)
+  1) a group of ties hanging from a wall . (p=0.000119)
+  2) a group of ties hanging from the ceiling . (p=0.000053)
+Captions for image 38730039_296431257781675_3609857030887571456_n.jpg:
+  0) a pair of black scissors sitting on top of a table . (p=0.000042)
+  1) a pair of scissors and a pair of scissors . (p=0.000030)
+  2) a pair of black scissors sitting on a table . (p=0.000021)
+Captions for image 38741024_1909764412661662_7544546157813301248_n.jpg:
+  0) a group of birds sitting on top of a rock . (p=0.000057)
+  1) a group of small birds sitting on top of a rock . (p=0.000024)
+  2) a group of small birds sitting on top of a wooden boat . (p=0.000002)
+Captions for image 39510530_1668466783280603_7319119112746041344_n.jpg:
+  0) a blue and white truck parked in a parking lot . (p=0.000085)
+  1) a blue and white truck parked in front of a building . (p=0.000033)
+  2) a blue and white truck parked in a parking space . (p=0.000016)
+Captions for image 38646014_275438353042453_1715986331223457792_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000058)
+  1) a group of people standing next to each other . (p=0.000057)
+  2) a person holding a pair of scissors in their hands (p=0.000023)
+Captions for image 38150509_307116826518907_484482021909856256_n.jpg:
+  0) a bunch of different colored ties hanging on a wall . (p=0.000107)
+  1) a bunch of different colored ties hanging from a wall . (p=0.000095)
+  2) a bunch of different colored ties on a table . (p=0.000027)
+Captions for image 38502228_282430575901330_3379756189523902464_n.jpg:
+  0) a close up of a pair of scissors (p=0.000191)
+  1) a close up of a pair of scissors on a table (p=0.000016)
+  2) a close up of a pair of scissors on a bed (p=0.000015)
+Captions for image 38159025_1038009326374437_7620782063540502528_n.jpg:
+  0) a group of men standing next to each other . (p=0.001689)
+  1) a group of people standing next to each other . (p=0.001217)
+  2) a group of men in suits and ties . (p=0.000141)
+Captions for image 40171888_2460042154006266_7322777630313283584_n.jpg:
+  0) a red car is parked on the side of the road . (p=0.000045)
+  1) a red car is parked on the side of a road . (p=0.000018)
+  2) a red car is parked on the side of the road (p=0.000017)
+Captions for image 38154302_2149466385265435_1105429998220607488_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000585)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000172)
+  2) a black and white photo of a pair of scissors . (p=0.000090)
+Captions for image 38233389_1054228978085325_7140880568417255424_n.jpg:
+  0) a close up of a sign on a building (p=0.000150)
+  1) a close up of a sign on a wall (p=0.000149)
+  2) a close up of a street sign with a sky background (p=0.000073)
+Captions for image 39938637_284103172187027_1472231904789921792_n.jpg:
+  0) a car parked on the side of the road . (p=0.000070)
+  1) a car parked on the side of the road with a boat in the background . (p=0.000003)
+  2) a car parked on the side of a road with a boat in the background . (p=0.000002)
+Captions for image 38839020_257833308370476_1286712712289583104_n.jpg:
+  0) a row of parking meters in front of a building . (p=0.000186)
+  1) a parking meter in front of a brick building . (p=0.000092)
+  2) a row of parking meters in front of a brick building . (p=0.000059)
+Captions for image 38229609_270126560436128_131224247463837696_n.jpg:
+  0) a collage of photos of a person holding a pair of scissors (p=0.000004)
+  1) a collage of photos of a man and a woman . (p=0.000004)
+  2) a collage of photos of a man and a woman (p=0.000003)
+Captions for image 37642924_1124809654333832_5316206434751348736_n.jpg:
+  0) a painting of a bird sitting on a book . (p=0.000014)
+  1) a painting of a bird sitting on top of a book . (p=0.000012)
+  2) a painting of a bird sitting on a book (p=0.000010)
+Captions for image 38165383_290677285025339_7137801072571056128_n.jpg:
+  0) a pair of scissors and a pair of scissors . (p=0.000017)
+  1) a pair of scissors and a knife on a table . (p=0.000008)
+  2) a pair of scissors and a pair of scissors (p=0.000005)
+Captions for image 37883771_493490614434203_4516862559394988032_n.jpg:
+  0) a close up of a pair of scissors (p=0.000671)
+  1) a close up of a pair of scissors on a table (p=0.000184)
+  2) a black and white photo of a pair of scissors . (p=0.000138)
+Captions for image 37989029_239059490149199_1056535940199088128_n.jpg:
+  0) a man wearing a hat and sunglasses holding a banana . (p=0.000044)
+  1) a man wearing a hat and sunglasses holding a banana (p=0.000017)
+  2) a man in a hat and sunglasses is holding a banana . (p=0.000015)
+Captions for image 37707510_2310481268968626_6231411880460550144_n.jpg:
+  0) a wall with a bunch of different colored ties hanging from it . (p=0.000002)
+  1) a wall with a bunch of different colored ties on it (p=0.000001)
+  2) a wall with a bunch of different colored ties (p=0.000001)
+Captions for image 37921534_261944391290651_8478812698446921728_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000394)
+  1) a pair of scissors sitting on a table . (p=0.000159)
+  2) a pair of scissors sitting on top of a wooden table . (p=0.000140)
+Captions for image 37622319_277245449747544_3858835228474736640_n.jpg:
+  0) a black cat sitting on top of a wooden bench . (p=0.003612)
+  1) a black cat sitting on top of a wooden table . (p=0.001184)
+  2) a black cat sitting on top of a wooden chair . (p=0.000944)
+Captions for image 37695271_2127481830853320_8905039252832649216_n.jpg:
+  0) a man wearing a hat and sunglasses holding a banana . (p=0.000051)
+  1) a man in a hat and sunglasses is holding a banana . (p=0.000023)
+  2) a man wearing a hat and sunglasses holding a banana (p=0.000018)
+Captions for image 37846042_654746411567924_5406844340779614208_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000222)
+  1) a pair of scissors sitting on top of a piece of paper . (p=0.000085)
+  2) a pair of scissors sitting on top of a wooden table . (p=0.000043)
+Captions for image 37614638_206429100053729_7748280602968719360_n.jpg:
+  0) a plane flying in the sky with a sky background (p=0.000106)
+  1) a kite flying in the sky over a mountain . (p=0.000041)
+  2) a kite flying in the sky above a mountain . (p=0.000023)
+Captions for image 37811217_500636610348450_8534576256010682368_n.jpg:
+  0) a bottle of wine and a glass of wine (p=0.000200)
+  1) a bottle of wine and a glass of orange juice . (p=0.000185)
+  2) a bottle of wine and a glass of wine on a table . (p=0.000178)
+Captions for image 37585872_866547326887718_7881975186772197376_n.jpg:
+  0) a close up of a sign on a wall (p=0.000069)
+  1) a close up of a sign on a building (p=0.000039)
+  2) a close up of a sign on a wall with stickers on it (p=0.000002)
+Captions for image 37232622_438560366642533_4946856001962770432_n.jpg:
+  0) a couple of boats that are sitting in the water . (p=0.000410)
+  1) a couple of boats sitting on top of a beach . (p=0.000203)
+  2) a couple of boats sitting on top of a sandy beach . (p=0.000140)
+Captions for image 36972220_2128233677440396_6530311981872709632_n.jpg:
+  0) a group of people sitting on top of surfboards . (p=0.001180)
+  1) a group of people sitting on top of a beach . (p=0.000471)
+  2) a group of people sitting on surfboards in the water . (p=0.000444)
+Captions for image 37360893_350736605461820_7043508020524875776_n.jpg:
+  0) a close up of a pair of scissors (p=0.000378)
+  1) a close up of a book on a bed (p=0.000300)
+  2) a close up of a pair of scissors on a table (p=0.000034)
+Captions for image 37398494_296427141126683_8876122814281678848_n.jpg:
+  0) a large group of people in a room . (p=0.000057)
+  1) a group of people standing around a large building . (p=0.000030)
+  2) a large group of people in a room with a clock . (p=0.000002)
+Captions for image 37843320_1665720633538939_2251026109686611968_n.jpg:
+  0) a couple of men standing next to each other . (p=0.004095)
+  1) a man and a woman standing next to each other . (p=0.000523)
+  2) a man and a woman are standing together (p=0.000078)
+Captions for image 37620286_2016887778345322_3859715426187476992_n.jpg:
+  0) a group of people standing in a room . (p=0.000288)
+  1) a group of people standing in front of a building . (p=0.000095)
+  2) a group of people standing in a room with a clock . (p=0.000013)
+Captions for image 37864249_208715046466718_8142893011190153216_n.jpg:
+  0) a tall building with a clock on it . (p=0.000148)
+  1) a large building with a clock on it . (p=0.000138)
+  2) a tall building with a clock on top of it . (p=0.000111)
+Captions for image 37341455_1980390551992136_8308149175053189120_n.jpg:
+  0) a group of people sitting around a table . (p=0.004029)
+  1) a group of people sitting around a table eating food . (p=0.001905)
+  2) a group of people sitting around a table with food . (p=0.000999)
+Captions for image 37415835_207242649957548_3067719526910001152_n.jpg:
+  0) a group of people standing next to each other . (p=0.002238)
+  1) a group of people standing around each other . (p=0.000781)
+  2) a group of people standing next to each other in a field . (p=0.000027)
+Captions for image 37625054_253485212134616_1344368396220760064_n.jpg:
+  0) a group of people sitting on top of a sandy beach . (p=0.001373)
+  1) a group of people sitting on top of a beach . (p=0.000537)
+  2) a group of people on a beach with surfboards . (p=0.000413)
+Captions for image 37828740_423235328084929_6282049819758297088_n.jpg:
+  0) a view of a city skyline from the water . (p=0.000004)
+  1) a view of a city skyline from a distance . (p=0.000003)
+  2) a view of a beach with a large clock tower . (p=0.000002)
+Captions for image 37178197_292702464620293_7799490928263036928_n.jpg:
+  0) a group of people standing outside of a bus . (p=0.001992)
+  1) a group of people standing next to a truck . (p=0.001293)
+  2) a group of people standing next to a bus . (p=0.001135)
+Captions for image 37860237_208908233061969_4671969818616791040_n.jpg:
+  0) a man and woman standing next to each other . (p=0.000301)
+  1) a man holding a frisbee in his hand . (p=0.000171)
+  2) a man holding a frisbee in his hands . (p=0.000150)
+Captions for image 37050384_2125411394396785_2466515828791574528_n.jpg:
+  0) a large group of people in a room . (p=0.000189)
+  1) a large group of people in a room (p=0.000019)
+  2) a group of people standing in a room with a clock . (p=0.000003)
+Captions for image 37167077_2060968480821226_8045283415462772736_n.jpg:
+  0) a man in a suit and tie holding a beer . (p=0.000050)
+  1) a man in a suit and tie holding a drink . (p=0.000046)
+  2) a man in a suit and tie holding a drink (p=0.000028)
+Captions for image 37112020_1099001240275185_1398479396397907968_n.jpg:
+  0) a man is talking on his cell phone . (p=0.002396)
+  1) a man is talking on a cell phone . (p=0.002000)
+  2) a man is talking on his cell phone (p=0.001465)
+Captions for image 36867105_1907459992649532_8139922233851117568_n.jpg:
+  0) a cat sitting on top of a toilet . (p=0.000111)
+  1) a cat sitting on top of a white toilet . (p=0.000035)
+  2) a cat sitting on top of a book shelf . (p=0.000033)
+Captions for image 36963204_1063387463826850_1663772645734219776_n.jpg:
+  0) a view of a beach with a sunset in the background . (p=0.000034)
+  1) a view of a beach with a sunset in the distance . (p=0.000013)
+  2) a view of a beach with a sunset and the ocean . (p=0.000003)
+Captions for image 36937805_295885237650817_6013816755502186496_n.jpg:
+  0) a close up of a cup of coffee and a cup (p=0.000003)
+  1) a close up of a cup of coffee and a cup of coffee (p=0.000001)
+  2) a close up of a cup of coffee and a cup of coffee . (p=0.000001)
+Captions for image 37190646_2153081298297732_4462435221991587840_n.jpg:
+  0) a painting of a person holding a pair of scissors . (p=0.000006)
+  1) a painting of a man holding a pair of scissors . (p=0.000005)
+  2) a painting of a person holding a pair of scissors (p=0.000004)
+Captions for image 37818864_2092396844380972_3211146918923075584_n.jpg:
+  0) a large body of water next to a forest . (p=0.000040)
+  1) a large body of water with a bridge in the background . (p=0.000030)
+  2) a large body of water with a bridge in the distance . (p=0.000017)
+Captions for image 37730057_683445245333623_5415769579173445632_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000338)
+  1) a man and a woman dressed in costumes . (p=0.000038)
+  2) a man and a woman standing next to each other in a parade . (p=0.000006)
+Captions for image 37007720_2047550902128897_401655020715507712_n.jpg:
+  0) a blender sitting on top of a counter . (p=0.001986)
+  1) a blender sitting on top of a wooden counter . (p=0.000807)
+  2) a blender sitting on top of a counter next to a blender . (p=0.000163)
+Captions for image 36960907_501833583619859_8616422436998479872_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000064)
+  1) a sign that is on the side of a wall . (p=0.000021)
+  2) a sign that is on the side of a building (p=0.000002)
+Captions for image 37119817_259201351539005_3611175345329274880_n.jpg:
+  0) a statue of a man in a suit and tie (p=0.000100)
+  1) a statue of a man in a suit and tie . (p=0.000093)
+  2) a statue of a man holding a giant clock . (p=0.000089)

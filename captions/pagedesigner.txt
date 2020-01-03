@@ -1,0 +1,16 @@
+Captions for image 12338926_1695765867335166_30698489_n.jpg:
+  0) a display case filled with lots of teddy bears . (p=0.001574)
+  1) a display case filled with lots of stuffed animals . (p=0.001489)
+  2) a display case filled with lots of different types of teddy bears . (p=0.000413)
+Captions for image 12394151_529770757189755_1014301626_a.jpg:
+  0) a birthday cake with a train on it (p=0.000085)
+  1) a birthday cake with a train on it . (p=0.000069)
+  2) a birthday cake with a train on the top . (p=0.000004)
+Captions for image 12356583_593388730813353_969229525_n.jpg:
+  0) a sign that is on the side of a road . (p=0.000007)
+  1) a sign that is on the side of a snowy road . (p=0.000002)
+  2) a sign that is on a pole with snow (p=0.000001)
+Captions for image 12328177_967880596599207_335765755_n.jpg:
+  0) a poster of a man holding a stop sign . (p=0.000032)
+  1) a poster of a man holding a tennis racket . (p=0.000023)
+  2) a poster of a man holding a stop sign (p=0.000013)

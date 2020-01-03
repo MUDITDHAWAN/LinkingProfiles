@@ -1,0 +1,796 @@
+Captions for image 11246551_366180503581213_766729769_n.jpg:
+  0) a bunch of books that are on a table . (p=0.000056)
+  1) a bunch of books that are on a shelf . (p=0.000037)
+  2) a group of people sitting on top of a couch . (p=0.000009)
+Captions for image 11255117_861007623982994_1229819970_a.jpg:
+  0) a living room filled with furniture and a large window . (p=0.000315)
+  1) a living room with a couch and a table (p=0.000300)
+  2) a living room with a couch and a table . (p=0.000067)
+Captions for image 11243665_100449396958681_610878600_n.jpg:
+  0) a close up of a bunch of bananas (p=0.000543)
+  1) a bunch of bananas hanging from a ceiling . (p=0.000350)
+  2) a bunch of bananas hanging from a ceiling (p=0.000069)
+Captions for image 11337143_899533556759928_203798421_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000213)
+  1) a close up of a person wearing a tie (p=0.000073)
+  2) a close up of a person wearing a suit and tie (p=0.000071)
+Captions for image 11419137_933567576684733_1923621699_n.jpg:
+  0) a bed with a bunch of stuff on it (p=0.000015)
+  1) a bed with a bunch of pillows on it (p=0.000009)
+  2) a bed with a bunch of stuff on top of it (p=0.000002)
+Captions for image 11246748_1451810175111692_841619768_n.jpg:
+  0) a dog sitting on top of a bed next to a window . (p=0.000031)
+  1) a dog sitting on top of a bed next to a pillow . (p=0.000029)
+  2) a dog sitting on top of a bed next to a stuffed animal . (p=0.000021)
+Captions for image 11282170_1140332259317607_373778050_n.jpg:
+  0) a man standing in front of a store window . (p=0.000096)
+  1) a man standing in front of a store holding a giant banana . (p=0.000000)
+  2) a man standing in front of a store with a giant tv . (p=0.000000)
+Captions for image 11256832_1589264854682786_863277857_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.004676)
+  1) a living room with a couch and a table (p=0.001823)
+  2) a living room filled with furniture and a large window . (p=0.001582)
+Captions for image 11348235_587756461364962_442958700_n.jpg:
+  0) a bed with a blue and white striped bedspread . (p=0.000007)
+  1) a bed with a blue and white striped bedspread (p=0.000002)
+  2) a bed with a blue and white bedspread and a red blanket . (p=0.000000)
+Captions for image 11312143_502156403267543_1243652004_n.jpg:
+  0) a bed sitting in a bedroom next to a window . (p=0.001004)
+  1) a bed sitting in a room next to a window . (p=0.000783)
+  2) a bed sitting in a bedroom next to a lamp . (p=0.000120)
+Captions for image 18096601_119294985292765_247201343847006208_n.jpg:
+  0) a close up of a cake on a table (p=0.000140)
+  1) a close up of a cake on a plate (p=0.000088)
+  2) a close up of a cake on a plate on a table (p=0.000018)
+Captions for image 11330754_373486976189543_532402255_n.jpg:
+  0) a close up of a pair of scissors (p=0.003201)
+  1) a pair of scissors sitting on top of a table . (p=0.002628)
+  2) a close up of a pair of scissors on a table (p=0.001709)
+Captions for image 11355869_776397295813494_465180334_n.jpg:
+  0) a parking meter on a sidewalk next to a building . (p=0.000048)
+  1) a parking meter on a sidewalk next to a street . (p=0.000041)
+  2) a parking meter on a sidewalk next to a sidewalk . (p=0.000027)
+Captions for image 11382537_1605239306426583_1778031968_n.jpg:
+  0) a sign that reads `` <UNK> '' on a building . (p=0.000004)
+  1) a sign that reads `` <UNK> '' on a wall . (p=0.000004)
+  2) a sign that reads `` <UNK> '' on the side of a building . (p=0.000003)
+Captions for image 11376510_505493962932075_1889066688_n.jpg:
+  0) a table with a bunch of chairs and a table (p=0.000006)
+  1) a group of people sitting at a table with a laptop . (p=0.000004)
+  2) a group of people sitting at a table in front of a sign . (p=0.000003)
+Captions for image 11326273_1591861791070751_977196643_n.jpg:
+  0) a bench sitting in front of a building . (p=0.000188)
+  1) a bench in front of a building with a tree in the background . (p=0.000001)
+  2) a bench in front of a building with a tree in the background (p=0.000000)
+Captions for image 11379879_984274128260037_855243563_n.jpg:
+  0) a black and white photo of a living room (p=0.000104)
+  1) a black and white photo of a group of people (p=0.000020)
+  2) a black and white photo of a living room with a couch (p=0.000004)
+Captions for image 11324991_958937080812622_376860456_n.jpg:
+  0) a white teddy bear sitting on top of a bed . (p=0.000076)
+  1) a white teddy bear sitting on top of a blue chair . (p=0.000011)
+  2) a white teddy bear sitting on top of a white bed . (p=0.000011)
+Captions for image 11274359_1730076070552707_1369821452_n.jpg:
+  0) a table with chairs and a table with chairs . (p=0.000037)
+  1) a table with chairs and a vase with flowers . (p=0.000032)
+  2) a table with chairs and a table with chairs (p=0.000025)
+Captions for image 11254406_1038160519547357_1988379236_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.000700)
+  1) a vase filled with flowers on top of a table . (p=0.000555)
+  2) a vase filled with flowers sitting on a table . (p=0.000230)
+Captions for image 11356637_647037208766470_1989079016_n.jpg:
+  0) a close up of a nintendo wii remote (p=0.001328)
+  1) a close up of a nintendo wii controller (p=0.001024)
+  2) a close up of a nintendo wii game system (p=0.000532)
+Captions for image 11311255_539357849535423_395678322_n.jpg:
+  0) a small wooden bench sitting in a room . (p=0.000020)
+  1) an old wooden bench sitting in the middle of a room . (p=0.000017)
+  2) an old wooden bench sitting in a room . (p=0.000010)
+Captions for image 11313769_1463096500649448_714595265_n.jpg:
+  0) a plate of food on a table (p=0.000169)
+  1) a plate of food that includes a sandwich and chips . (p=0.000045)
+  2) a plate of food on a table with a drink (p=0.000029)
+Captions for image 11351007_1601818536756026_1180710031_n.jpg:
+  0) a close up of a blender on a counter (p=0.000057)
+  1) a close up of a blender on a table (p=0.000047)
+  2) a close up of a blender on a counter top (p=0.000013)
+Captions for image 11326298_982256045118448_985712671_n.jpg:
+  0) a dog laying on a bed with a stuffed animal (p=0.000228)
+  1) a dog laying on a bed with a stuffed animal . (p=0.000205)
+  2) a dog laying on a bed next to a pillow . (p=0.000184)
+Captions for image 11373824_1858598274365201_1545262726_n.jpg:
+  0) a wooden rocking chair sitting in a room . (p=0.000133)
+  1) a wooden rocking chair sitting on top of a wooden bench . (p=0.000073)
+  2) a wooden rocking chair sitting on a wooden bench . (p=0.000069)
+Captions for image 11350806_493736620774045_161771255_n.jpg:
+  0) a row of urinals are lined up against a wall . (p=0.000039)
+  1) a row of urinals are lined up against a brick wall . (p=0.000002)
+  2) a row of urinals are lined up against a wall (p=0.000002)
+Captions for image 11349310_841958552562080_669001981_n.jpg:
+  0) a group of people sitting around a table . (p=0.005650)
+  1) a group of people sitting around a table eating food . (p=0.004767)
+  2) a group of people sitting around a table with food . (p=0.001964)
+Captions for image 11377615_850486215031071_2103231881_n.jpg:
+  0) a wooden bench sitting in front of a building . (p=0.000169)
+  1) a wooden bench sitting next to a wooden fence . (p=0.000146)
+  2) a wooden bench sitting in front of a large building . (p=0.000023)
+Captions for image 11251221_838762149532551_436901971_n.jpg:
+  0) a blue and white striped couch sitting in a living room . (p=0.000006)
+  1) a blue and white striped chair sitting in a room . (p=0.000006)
+  2) a blue and white striped couch sitting in a room . (p=0.000006)
+Captions for image 11357704_373933849478005_654034577_n.jpg:
+  0) a living room filled with lots of furniture . (p=0.000935)
+  1) a living room filled with furniture and a large window . (p=0.000475)
+  2) a living room filled with furniture and a large painting . (p=0.000050)
+Captions for image 11375354_1034037779941702_1083917312_n.jpg:
+  0) a wooden bench sitting in front of a window . (p=0.000658)
+  1) a wooden bench sitting in front of a building . (p=0.000220)
+  2) a wooden bench sitting next to a window . (p=0.000176)
+Captions for image 11271034_1584899651769521_1810234818_n.jpg:
+  0) a bed sitting in a room next to a window . (p=0.000085)
+  1) a bed sitting in a bedroom next to a window . (p=0.000070)
+  2) a bed sitting in a room next to a table . (p=0.000036)
+Captions for image 11371121_1581342475466603_895433648_n.jpg:
+  0) a close up of a pair of scissors (p=0.000260)
+  1) a close up of a pair of scissors on a table (p=0.000039)
+  2) a close up of a colorful umbrella (p=0.000025)
+Captions for image 11311470_894353597289164_819657561_n.jpg:
+  0) a wooden bench sitting in front of a window . (p=0.000365)
+  1) a wooden bench sitting in front of a building . (p=0.000209)
+  2) a wooden bench sitting in front of a wooden fence . (p=0.000055)
+Captions for image 11283337_1079190872109938_1881584311_n.jpg:
+  0) a bed with a wooden headboard and a wooden headboard . (p=0.000007)
+  1) a bed with a wooden frame and a wooden headboard . (p=0.000006)
+  2) a bed with a blue and white canopy (p=0.000003)
+Captions for image 11378586_1642305129326822_1046174616_n.jpg:
+  0) a laptop computer sitting on top of a table . (p=0.000925)
+  1) a laptop computer sitting on top of a desk . (p=0.000752)
+  2) a laptop computer sitting on top of a wooden desk . (p=0.000656)
+Captions for image 11334535_590461667749398_1789493142_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.004649)
+  1) a living room with a couch and a table (p=0.001341)
+  2) a living room filled with furniture and a large window . (p=0.001014)
+Captions for image 11355820_1592599751017480_780487008_n.jpg:
+  0) a sign that is on top of a building . (p=0.000013)
+  1) a sign that is on top of a wall . (p=0.000006)
+  2) a sign that is on top of a building (p=0.000001)
+Captions for image 11374677_1071006189593641_2117326113_n.jpg:
+  0) a man sitting on a couch holding a remote . (p=0.000554)
+  1) a man sitting on a couch holding a wii controller . (p=0.000356)
+  2) a man sitting on a couch holding a wii remote . (p=0.000326)
+Captions for image 11335853_486478518177058_969736493_n.jpg:
+  0) a cat is looking out of a window . (p=0.000396)
+  1) a cat is looking out of a window (p=0.000197)
+  2) a cat is looking out the window of a house . (p=0.000065)
+Captions for image 11280380_828375210571161_1555348427_n.jpg:
+  0) a collage of photos of a bathroom with a toilet (p=0.000009)
+  1) a collage of photos of a bathroom with a toilet . (p=0.000004)
+  2) a collage of photos showing a toilet and a person (p=0.000002)
+Captions for image 11355212_731636446958928_1839059279_n.jpg:
+  0) a wooden bench sitting in front of a window . (p=0.000681)
+  1) a wooden bench sitting next to a window . (p=0.000324)
+  2) a wooden bench sitting in front of a window (p=0.000053)
+Captions for image 11377472_1726668040893696_134323271_n.jpg:
+  0) a wooden bench sitting in front of a building . (p=0.000223)
+  1) a wooden bench sitting in front of a window . (p=0.000160)
+  2) a wooden bench sitting in front of a building (p=0.000054)
+Captions for image 11375374_883517918386645_1744867308_n.jpg:
+  0) a large metal clock sitting on top of a table . (p=0.000047)
+  1) a large metal clock sitting on top of a wooden table . (p=0.000029)
+  2) a large metal clock on a wooden table . (p=0.000026)
+Captions for image 11357625_1447549505544940_50597835_n.jpg:
+  0) a collage of photos of a person holding a cell phone (p=0.000002)
+  1) a collage of photos of a person holding a wii remote (p=0.000001)
+  2) a collage of photos of a man holding a wii game controller . (p=0.000001)
+Captions for image 11263416_1469604536665042_427500085_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.001240)
+  1) a living room filled with furniture and a flat screen tv . (p=0.000823)
+  2) a living room filled with furniture and a large window . (p=0.000728)
+Captions for image 11333602_838604692898581_1836058590_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.003748)
+  1) a living room filled with furniture and a large window . (p=0.001871)
+  2) a living room with a couch and a table (p=0.001578)
+Captions for image 11265453_839849056097782_349760967_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.001211)
+  1) a red stop sign sitting next to a street sign . (p=0.000457)
+  2) a red stop sign sitting on the side of a street . (p=0.000370)
+Captions for image 11325901_789429284487659_1620814117_n.jpg:
+  0) a woman in a white dress and a man in a white shirt (p=0.000000)
+  1) a woman in a white dress and a man in a white dress (p=0.000000)
+  2) a woman in a red dress and a man in a white shirt (p=0.000000)
+Captions for image 11313777_1438838916433837_587594674_n.jpg:
+  0) a small white dog sitting on top of a bed . (p=0.000693)
+  1) a small white dog sitting on top of a couch . (p=0.000476)
+  2) a small white dog laying on a bed . (p=0.000427)
+Captions for image 11242318_1589619631300470_1526337134_n.jpg:
+  0) a table that has some food on it (p=0.000109)
+  1) a table that has a bunch of food on it (p=0.000057)
+  2) a table that has some food on it . (p=0.000032)
+Captions for image 11252314_1456191041340269_1605252794_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.003755)
+  1) a living room with a couch and a table (p=0.001040)
+  2) a living room filled with furniture and a large window . (p=0.000952)
+Captions for image 11296727_824181777671484_1251783449_n.jpg:
+  0) a vase of flowers sitting on a table . (p=0.000179)
+  1) a vase of flowers sits on a table . (p=0.000079)
+  2) a vase of flowers sitting on a table (p=0.000074)
+Captions for image 11324306_640050356138717_312533373_n.jpg:
+  0) a black and white photo of a bed in a room . (p=0.000190)
+  1) a black and white photo of a bed in a room (p=0.000170)
+  2) a black and white photo of a bed with a blue blanket (p=0.000013)
+Captions for image 11356551_1401068980219427_1965767855_n.jpg:
+  0) a blue and white vase sitting on a table . (p=0.000057)
+  1) a blue and white vase sitting on top of a table . (p=0.000048)
+  2) a blue and white vase sitting on a table (p=0.000025)
+Captions for image 11330813_1117887494893290_1393085042_n.jpg:
+  0) a bed with a blue and white striped bedspread . (p=0.000008)
+  1) a bed with a blue and white striped comforter . (p=0.000004)
+  2) a bed with a blue and white striped bedspread (p=0.000002)
+Captions for image 11326479_983588845006900_1842927774_n.jpg:
+  0) a brown dog laying on top of a couch . (p=0.000192)
+  1) a brown dog laying on top of a bed . (p=0.000159)
+  2) a brown dog laying on top of a green blanket . (p=0.000035)
+Captions for image 11274300_376400119234233_274645470_n.jpg:
+  0) a woman in a dress holding a surfboard . (p=0.000124)
+  1) a woman in a white dress holding a white umbrella . (p=0.000056)
+  2) a woman in a white dress holding a black umbrella . (p=0.000041)
+Captions for image 11326682_776225875827185_1227841739_n.jpg:
+  0) a close up of a street sign on a pole (p=0.000102)
+  1) a close up of a street sign with a sky background (p=0.000070)
+  2) a close up of a street sign with a sticker on it (p=0.000019)
+Captions for image 11283283_1439951836321124_1012313913_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000289)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000176)
+  2) a pair of scissors sitting on a table . (p=0.000104)
+Captions for image 11330633_703173406474737_1926831725_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.000071)
+  1) a piece of cake on a white plate (p=0.000040)
+  2) a piece of cake on a plate with a fork (p=0.000034)
+Captions for image 11311366_849367525148008_1529673420_n.jpg:
+  0) a pair of scissors sitting on top of a wooden table . (p=0.000801)
+  1) a pair of scissors sitting on top of a table . (p=0.000355)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000119)
+Captions for image 11287881_1446023485712609_182930423_n.jpg:
+  0) a bed with a blue and white striped bedspread . (p=0.000013)
+  1) a bed with a blue and white striped bedspread (p=0.000003)
+  2) a bed with a blue and white striped bedspread and pillows . (p=0.000001)
+Captions for image 11252608_730523910389680_210580612_n.jpg:
+  0) a bunch of stuffed animals sitting on top of a table . (p=0.000025)
+  1) a bunch of different types of vegetables on a table . (p=0.000018)
+  2) a bunch of stuffed animals sitting on a table . (p=0.000017)
+Captions for image 11311565_764557790326260_1142368292_n.jpg:
+  0) a close up of a cake on a table (p=0.000518)
+  1) a close up of a vase with a flower in it (p=0.000069)
+  2) a close up of a cake with a train on it (p=0.000035)
+Captions for image 11282647_1396053134055834_1736936116_n.jpg:
+  0) a building with a sign on the side of it (p=0.000045)
+  1) a building with a sign on the side of it . (p=0.000024)
+  2) a building with a sign on the side (p=0.000005)
+Captions for image 11296805_884248538291406_1538777342_n.jpg:
+  0) a pile of carrots and other items on a table . (p=0.000011)
+  1) a pair of scissors and a pair of scissors . (p=0.000007)
+  2) a pair of scissors and a pair of scissors (p=0.000004)
+Captions for image 11249057_964214756962572_1081111205_n.jpg:
+  0) a dog laying on a bed with a stuffed animal (p=0.000257)
+  1) a dog laying on a bed with a stuffed animal . (p=0.000238)
+  2) a dog laying on top of a bed next to a teddy bear . (p=0.000140)
+Captions for image 11288099_1570888683177268_1677299805_n.jpg:
+  0) a stuffed animal is sitting on a table (p=0.000020)
+  1) a stuffed animal is sitting on a table . (p=0.000018)
+  2) a stuffed animal is sitting next to a pair of scissors . (p=0.000012)
+Captions for image 11208523_1658455167721966_1463640941_n.jpg:
+  0) a bunch of different types of apples on display . (p=0.000070)
+  1) a bunch of different types of apples on display (p=0.000038)
+  2) a bunch of different types of fruit on a table . (p=0.000018)
+Captions for image 11326192_626161550848089_180478690_n.jpg:
+  0) a brown teddy bear sitting on top of a wooden chair . (p=0.000339)
+  1) a brown teddy bear sitting on a wooden chair . (p=0.000247)
+  2) a brown teddy bear sitting on top of a wooden bench . (p=0.000136)
+Captions for image 11296853_1453951614897229_1463850977_n.jpg:
+  0) a vase filled with purple flowers on top of a table . (p=0.000257)
+  1) a vase filled with purple flowers on a table . (p=0.000253)
+  2) a white vase filled with purple flowers on a table . (p=0.000170)
+Captions for image 11258052_942972765748112_435888320_n.jpg:
+  0) a cat sitting on top of a red suitcase . (p=0.000010)
+  1) a cat sitting in a basket on a bed . (p=0.000006)
+  2) a cat sitting on top of a red basket . (p=0.000005)
+Captions for image 11269180_1582735325348769_31053217_n.jpg:
+  0) a close up of many different colored tooth brushes (p=0.000068)
+  1) a close up of a cup of coffee and a cell phone (p=0.000005)
+  2) a close up of many different colored tooth brushes in a glass (p=0.000003)
+Captions for image 11247636_1654366074796691_1394509284_n.jpg:
+  0) a close up of a pair of scissors (p=0.000984)
+  1) a close up of a pair of shoes (p=0.000207)
+  2) a close up of a pair of scissors on a table (p=0.000049)
+Captions for image 11242676_403331346515581_1049539259_n.jpg:
+  0) a wooden bench sitting in front of a wooden table . (p=0.000092)
+  1) a wooden bench sitting in a living room next to a window . (p=0.000026)
+  2) a wooden bench sitting in a living room next to a wall . (p=0.000020)
+Captions for image 11283392_680387492067256_1840048974_n.jpg:
+  0) a pile of luggage sitting on top of a wooden floor . (p=0.000229)
+  1) a pile of luggage sitting on top of a table . (p=0.000105)
+  2) a pile of luggage sitting on top of a floor . (p=0.000085)
+Captions for image 11244424_409350642570257_1098351765_n.jpg:
+  0) a row of wooden benches sitting next to each other . (p=0.002481)
+  1) a row of wooden benches sitting on top of a beach . (p=0.000278)
+  2) a row of wooden benches sitting on top of a grass covered field . (p=0.000075)
+Captions for image 11280566_1444258452554893_2036490877_n.jpg:
+  0) a wooden rocking chair sitting in a room . (p=0.000272)
+  1) a wooden rocking chair sitting in front of a window . (p=0.000049)
+  2) a wooden rocking chair sitting next to a wooden chair . (p=0.000028)
+Captions for image 11272434_402387569947895_1520461538_n.jpg:
+  0) a pair of shoes sitting on top of a wooden floor . (p=0.000539)
+  1) a pair of shoes sitting next to a pair of shoes . (p=0.000366)
+  2) a close up of a pair of shoes (p=0.000252)
+Captions for image 11275358_1606042086332820_1059683982_n.jpg:
+  0) a wooden bench with a bunch of bananas on it (p=0.000007)
+  1) a wooden bench with a bunch of bananas on it . (p=0.000003)
+  2) a wooden bench with a bunch of bananas hanging from it . (p=0.000003)
+Captions for image 11255230_833478816687478_257923188_n.jpg:
+  0) a close up of a stuffed animal on a table (p=0.000105)
+  1) a close up of a cake with a train on it (p=0.000019)
+  2) a close up of a stuffed animal on a surface (p=0.000011)
+Captions for image 11287816_1470611036563072_1409554623_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000118)
+  1) a close up of a vase with a flower in it (p=0.000080)
+  2) a close up of a vase with flowers on it (p=0.000056)
+Captions for image 11287704_1609318689354972_1293257646_n.jpg:
+  0) a pink suitcase is sitting on the floor . (p=0.000019)
+  1) a pink suitcase is sitting on a bed . (p=0.000008)
+  2) a pink suitcase is sitting on the floor (p=0.000006)
+Captions for image 11267833_568725229935527_1303193090_n.jpg:
+  0) a wooden bench sitting next to a tree . (p=0.000492)
+  1) a wooden bench sitting in front of a tree . (p=0.000458)
+  2) a wooden bench sitting in front of a green tree . (p=0.000062)
+Captions for image 11235996_1571001593167414_799436141_n.jpg:
+  0) a bed sitting in a bedroom next to a window . (p=0.001088)
+  1) a bed sitting in a bedroom next to a lamp . (p=0.000598)
+  2) a bed sitting in a bedroom next to a wall . (p=0.000111)
+Captions for image 11275217_104782536523210_743883215_n.jpg:
+  0) a close up of a fire hydrant in a kitchen (p=0.000064)
+  1) a close up of a red and white fire hydrant . (p=0.000048)
+  2) a close up of a red and white fire hydrant (p=0.000040)
+Captions for image 11282817_1610389179175454_866236968_n.jpg:
+  0) a close up of a pair of scissors (p=0.001445)
+  1) a close up of a person holding a pair of scissors (p=0.001253)
+  2) a close up of a pair of scissors on a table (p=0.000155)
+Captions for image 11232559_100120523660009_1118370340_n.jpg:
+  0) a stuffed animal is laying on a bed (p=0.000096)
+  1) a stuffed animal is sitting on a bed (p=0.000064)
+  2) a stuffed animal is sitting on a bed . (p=0.000052)
+Captions for image 11254229_1591157421124600_206729655_n.jpg:
+  0) a wooden bench sitting in front of a window . (p=0.000923)
+  1) a wooden bench sitting next to a window . (p=0.000465)
+  2) a wooden bench sitting in front of a building . (p=0.000262)
+Captions for image 11263391_1450442871916496_780244704_n.jpg:
+  0) a wooden bench sitting in front of a window . (p=0.000391)
+  1) a wooden bench sitting in front of a building . (p=0.000158)
+  2) a wooden bench sitting in front of a window (p=0.000071)
+Captions for image 11254212_393076794227321_81098051_n.jpg:
+  0) a close up of a number of different colored vases (p=0.000038)
+  1) a bunch of different colored ties hanging from a wall . (p=0.000037)
+  2) a bunch of different colored ties hanging on a wall . (p=0.000026)
+Captions for image 11260578_923614601014610_198850857_n.jpg:
+  0) a wooden table topped with lots of books . (p=0.000034)
+  1) a large stack of books on a table . (p=0.000032)
+  2) a large stack of books on a table (p=0.000007)
+Captions for image 11263653_471955419622567_845117187_n.jpg:
+  0) a close up of a plate of food (p=0.000135)
+  1) a close up of a plate of food on a table (p=0.000097)
+  2) a close up of a plate of food with carrots (p=0.000057)
+Captions for image 11251082_400765696773592_2130914802_n.jpg:
+  0) a close up of a vandalized stop sign (p=0.003891)
+  1) a close up of a stop sign with graffiti (p=0.000209)
+  2) a close up of a stop sign with graffiti on it (p=0.000208)
+Captions for image 11257963_1588898871389267_721091098_n.jpg:
+  0) a close up of a number of birds (p=0.000072)
+  1) a close up of a bird on a wire (p=0.000027)
+  2) a close up of a number of different colored birds (p=0.000021)
+Captions for image 11282794_1580333858922829_606473072_n.jpg:
+  0) a close up of a cake on a table (p=0.000201)
+  1) a close up of a red and white cake (p=0.000030)
+  2) a close up of a red and white cake on a table (p=0.000006)
+Captions for image 11254320_1594640010815453_1013337365_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.002566)
+  1) a living room with a couch and a table (p=0.000763)
+  2) a living room filled with furniture and a fire place (p=0.000073)
+Captions for image 11265767_713889285403223_1277796170_n.jpg:
+  0) a close up of a stuffed animal on the ground (p=0.000102)
+  1) a close up of a stuffed animal on a table (p=0.000086)
+  2) a close up of a stuffed animal on a tree (p=0.000068)
+Captions for image 11244406_1611597342413339_1741630992_n.jpg:
+  0) a close up of a number of different items (p=0.000006)
+  1) a close up of a number of different items on a wall (p=0.000002)
+  2) a close up of a number of different items on a shelf (p=0.000001)
+Captions for image 11271967_1627700694133827_1334309125_n.jpg:
+  0) a group of baseball bats sitting next to each other . (p=0.000435)
+  1) a group of baseball bats sitting on top of a field . (p=0.000249)
+  2) a group of baseball bats sitting on top of a wooden table . (p=0.000077)
+Captions for image 11246288_1389586798037583_711544129_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.006301)
+  1) a living room filled with furniture and a flat screen tv . (p=0.002153)
+  2) a living room filled with furniture and a large window . (p=0.001269)
+Captions for image 11274258_696606893795790_1478381597_n.jpg:
+  0) a red and black motorcycle parked on a sidewalk . (p=0.000088)
+  1) a red and black motorcycle is parked on the street (p=0.000024)
+  2) a red and black motorcycle is parked on the street . (p=0.000022)
+Captions for image 11226658_1633612076875664_1252110521_n.jpg:
+  0) a large building with a clock on it (p=0.000011)
+  1) a large building with a clock on the side of it . (p=0.000009)
+  2) a view of a building with a clock on it . (p=0.000008)
+Captions for image 11246312_417397805099854_1257899171_n.jpg:
+  0) a red and white couch sitting on a wooden bench . (p=0.000009)
+  1) a red and white couch sitting in a room . (p=0.000008)
+  2) a red and white couch sitting on top of a wooden bench . (p=0.000007)
+Captions for image 11263344_687259801396621_1222465221_n.jpg:
+  0) a black and white photo of a wooden bench (p=0.000123)
+  1) a black and white photo of a wooden bench . (p=0.000120)
+  2) a black and white photo of a wooden table (p=0.000032)
+Captions for image 11263391_465593586930945_1214008681_n.jpg:
+  0) a living room filled with furniture and a large window . (p=0.001059)
+  1) a living room filled with furniture and a flat screen tv . (p=0.000968)
+  2) a living room with a couch and a table (p=0.000433)
+Captions for image 11262906_1449384255359149_771894982_n.jpg:
+  0) a statue of an elephant with a person on it . (p=0.000010)
+  1) a statue of an elephant with a person on it (p=0.000009)
+  2) a statue of an elephant with a person in it (p=0.000005)
+Captions for image 11246515_493910497425017_950334266_n.jpg:
+  0) a wooden chair sitting in a room next to a window . (p=0.000073)
+  1) a wooden bench sitting in a room next to a window . (p=0.000060)
+  2) a wooden bench sitting in a room next to a wall . (p=0.000023)
+Captions for image 11265843_813013142081316_1016713731_n.jpg:
+  0) a close up of a pair of scissors (p=0.000164)
+  1) a close up of a pair of red scissors (p=0.000163)
+  2) a close up of a pair of scissors on a bed (p=0.000029)
+Captions for image 11232819_937586072939477_1440333351_n.jpg:
+  0) a wooden bench sitting in the middle of a park . (p=0.000655)
+  1) a wooden bench sitting in front of a building . (p=0.000516)
+  2) a wooden bench sitting in the middle of a forest . (p=0.000473)
+Captions for image 11263371_878570618851287_1272272930_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000119)
+  1) a close up of a stuffed animal on a table (p=0.000076)
+  2) a close up of a cake with a train on it (p=0.000008)
+Captions for image 11267869_1578716002404014_1228829703_n.jpg:
+  0) a bed with white sheets and pillows on it (p=0.000118)
+  1) a bed with white sheets and pillows on it . (p=0.000117)
+  2) a bed with white sheets and pillows on top of it . (p=0.000068)
+Captions for image 11264551_431675203677608_181600678_n.jpg:
+  0) a bunch of bananas that are sitting on a table . (p=0.000121)
+  1) a basket filled with lots of different types of fruit . (p=0.000103)
+  2) a basket filled with lots of different colored apples . (p=0.000054)
+Captions for image 11232881_911627932226269_1226413810_n.jpg:
+  0) a bench sitting in the middle of a lake . (p=0.000106)
+  1) a bench sitting in the middle of a flooded field . (p=0.000033)
+  2) a bench sitting in the middle of a flooded area . (p=0.000023)
+Captions for image 11256281_1580650622185631_757364540_n.jpg:
+  0) a brown dog sitting on top of a table . (p=0.000156)
+  1) a brown dog sitting on top of a wooden table . (p=0.000121)
+  2) a brown dog sitting on top of a table next to a cake . (p=0.000013)
+Captions for image 11260464_892874930754754_722273177_n.jpg:
+  0) a person with a tie on their head . (p=0.000054)
+  1) a person with a tie on their head (p=0.000033)
+  2) a person with a tie on their face . (p=0.000019)
+Captions for image 11254310_1588644638080791_124052765_n.jpg:
+  0) a close up of a stuffed animal on a bed (p=0.000345)
+  1) a close up of a stuffed animal on a chair (p=0.000109)
+  2) a close up of a teddy bear on a bed (p=0.000089)
+Captions for image 11240408_736137196484639_146851978_n.jpg:
+  0) a wooden bench sitting in a living room . (p=0.000341)
+  1) a wooden rocking chair sitting in a living room . (p=0.000231)
+  2) a wooden bench sitting in a living room next to a window . (p=0.000047)
+Captions for image 11241697_818861124863451_534064264_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000138)
+  1) a pair of scissors sitting on top of a bed . (p=0.000132)
+  2) a pair of scissors sitting on a table . (p=0.000100)
+Captions for image 11236091_644177485683948_1766469283_n.jpg:
+  0) a beach with chairs and a table with chairs (p=0.000004)
+  1) two chairs and a table with a umbrella (p=0.000004)
+  2) two chairs and a table are set up in the sand . (p=0.000003)
+Captions for image 11267592_894815513915620_193282636_n.jpg:
+  0) a close up of a pair of scissors (p=0.000500)
+  1) a close up of a person wearing a tie (p=0.000174)
+  2) a close up of a pair of scissors on a table (p=0.000064)
+Captions for image 11264560_943752732324158_1490289810_n.jpg:
+  0) a close up of a train on a train track (p=0.000554)
+  1) a close up of a train on a track (p=0.000115)
+  2) a close up of a train on a train track with a sky background (p=0.000003)
+Captions for image 11195681_373046969572237_246600575_n.jpg:
+  0) a woman holding a pair of scissors in her hands . (p=0.002029)
+  1) a woman is holding a pair of scissors . (p=0.001292)
+  2) a woman holding a pair of scissors in her hand . (p=0.001083)
+Captions for image 11243872_534891293317082_1897421276_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.001719)
+  1) a close up of a person with a pair of scissors (p=0.000402)
+  2) a close up of a pair of scissors (p=0.000327)
+Captions for image 11248748_876839132380407_160179993_n.jpg:
+  0) a black and white photo of a street sign (p=0.000387)
+  1) a black and white photo of a street sign . (p=0.000316)
+  2) a black and white photo of a bench and a building (p=0.000094)
+Captions for image 11257865_1603039436605203_1481166477_n.jpg:
+  0) a small dog is sitting on a couch . (p=0.000063)
+  1) a small dog is sitting on a chair . (p=0.000046)
+  2) a small dog is sitting on a couch (p=0.000044)
+Captions for image 11230488_1629919113888593_1244473089_n.jpg:
+  0) a woman in a white shirt holding a pair of scissors . (p=0.000027)
+  1) a woman in a white dress holding a pair of scissors . (p=0.000022)
+  2) a woman in a white shirt and a red tie (p=0.000007)
+Captions for image 11263549_352766988254809_875286943_n.jpg:
+  0) a bed with a wooden frame and a chair . (p=0.000003)
+  1) a bed with a wooden frame and a wooden headboard . (p=0.000003)
+  2) a bed with a wooden frame and a chair (p=0.000002)
+Captions for image 11236293_764962353620420_1352715576_n.jpg:
+  0) a cat that is sitting on a chair . (p=0.000675)
+  1) a cat that is laying down on a chair . (p=0.000555)
+  2) a cat that is laying down in a chair . (p=0.000424)
+Captions for image 11261960_1668776540017188_1382713840_n.jpg:
+  0) a woman in a dress holding an umbrella . (p=0.000239)
+  1) a woman in a dress holding an umbrella (p=0.000124)
+  2) a woman in a dress holding a parasol . (p=0.000094)
+Captions for image 11245665_442593715916774_1054632443_n.jpg:
+  0) a woman holding a pair of scissors in her hands . (p=0.000481)
+  1) a woman is holding a pair of scissors . (p=0.000372)
+  2) a woman is holding a pair of scissors (p=0.000232)
+Captions for image 11247567_768341263265161_856662951_n.jpg:
+  0) a little girl sitting on a couch with a teddy bear . (p=0.000503)
+  1) a little girl sitting on top of a couch . (p=0.000415)
+  2) a little girl sitting on a bed with a teddy bear . (p=0.000374)
+Captions for image 11235915_1598706000388379_1054043595_n.jpg:
+  0) a bunch of fruit that is in a bowl . (p=0.000223)
+  1) a bunch of fruit that is sitting in a bowl . (p=0.000167)
+  2) a bunch of fruit sitting on a table . (p=0.000089)
+Captions for image 11232596_1596645960577951_806127225_n.jpg:
+  0) a wooden bench sitting in the middle of a field . (p=0.000058)
+  1) a wooden bench sitting in the middle of a green field . (p=0.000041)
+  2) a wooden bench sitting in the middle of a park . (p=0.000038)
+Captions for image 11244840_1439175409731745_1347463416_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.001008)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000936)
+  2) a vase filled with flowers on top of a wooden table . (p=0.000330)
+Captions for image 11258229_1624568014446350_1357088466_n.jpg:
+  0) a living room filled with furniture and decor . (p=0.001493)
+  1) a living room filled with furniture and a fire place . (p=0.001300)
+  2) a living room filled with furniture and a large window . (p=0.000351)
+Captions for image 11263334_804257746318982_1242712099_n.jpg:
+  0) a close up of a pair of shoes (p=0.000250)
+  1) a close up of a luggage bag on a table (p=0.000114)
+  2) a close up of a luggage bag on a wooden floor (p=0.000060)
+Captions for image 11265860_464958690333807_265336813_n.jpg:
+  0) a man and woman sitting at a table with a cake . (p=0.000213)
+  1) a man and a woman are sitting at a table (p=0.000156)
+  2) a man and a woman sitting at a table with a cake . (p=0.000145)
+Captions for image 11250662_1597459783869253_1263149561_n.jpg:
+  0) a close up of a train on a train track (p=0.000175)
+  1) a close up of a train on a track (p=0.000014)
+  2) a close up of a train with many lights (p=0.000007)
+Captions for image 11245634_1569821046624966_648159330_n.jpg:
+  0) a close up of a traffic light with a sky background (p=0.000045)
+  1) a close up of a traffic light with a building in the background (p=0.000026)
+  2) a close up of a street light with a building in the background (p=0.000023)
+Captions for image 11241738_1448201168806879_457743337_n.jpg:
+  0) a white bed with a blue and white bedspread (p=0.000012)
+  1) a white bed with a blue and white striped bedspread . (p=0.000007)
+  2) a white bed with a blue and white striped bedspread (p=0.000002)
+Captions for image 11254400_1583412735251687_5976250_n.jpg:
+  0) a large clock mounted to the side of a wall . (p=0.000923)
+  1) a large clock mounted to the side of a building . (p=0.000620)
+  2) a large clock mounted to a wall next to a wall . (p=0.000054)
+Captions for image 11232826_458300230991519_416265216_n.jpg:
+  0) a bunch of glass vases sitting on a table (p=0.000035)
+  1) a bunch of glass vases sitting on top of a table . (p=0.000014)
+  2) a bunch of glass vases sitting on a table . (p=0.000013)
+Captions for image 11243679_821380807940532_497612648_n.jpg:
+  0) a pile of ties sitting on top of each other . (p=0.000213)
+  1) a pile of ties sitting on top of a table . (p=0.000107)
+  2) a pile of ties sitting on top of a wooden floor . (p=0.000097)
+Captions for image 11232612_1670054823226487_565483662_n.jpg:
+  0) a stop sign with graffiti written on it . (p=0.000471)
+  1) a stop sign with graffiti written on it (p=0.000345)
+  2) a stop sign with graffiti on it . (p=0.000160)
+Captions for image 11262733_903088916396586_1480072597_n.jpg:
+  0) a cake shaped like a train on a table . (p=0.000054)
+  1) a cake shaped like a train on a train track . (p=0.000015)
+  2) a cake shaped like a train on a table (p=0.000011)
+Captions for image 11245019_822270271188295_129207517_n.jpg:
+  0) a living room with a couch and a table (p=0.000211)
+  1) a living room filled with furniture and a large window . (p=0.000152)
+  2) a living room filled with furniture and a large window (p=0.000004)
+Captions for image 11236137_848128185262005_865987531_n.jpg:
+  0) a woman sitting in a chair with a teddy bear . (p=0.000047)
+  1) a woman sitting in a chair with a tie . (p=0.000039)
+  2) a woman sitting in a chair with a tie on . (p=0.000024)
+Captions for image 11256711_1034751796552782_1613638371_n.jpg:
+  0) a birthday cake with a train on it (p=0.000133)
+  1) a birthday cake with a train on it . (p=0.000105)
+  2) a birthday cake with a train on top of it . (p=0.000032)
+Captions for image 11240332_656557181143102_2100723857_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000088)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000067)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000053)
+Captions for image 11236047_1626018600955244_2018799516_n.jpg:
+  0) a close up of a pair of scissors (p=0.000073)
+  1) a close up of a pair of scissors on a table (p=0.000030)
+  2) a close up of a pair of shoes on a bed (p=0.000024)
+Captions for image 11226717_958117050918848_1129187904_n.jpg:
+  0) a man sitting on a bench next to a woman . (p=0.000112)
+  1) a man sitting on a bench next to a dog . (p=0.000095)
+  2) a man sitting on a bench in front of a building . (p=0.000063)
+Captions for image 11244823_1389808861347957_793318722_n.jpg:
+  0) a sign that reads `` <UNK> '' on a wall . (p=0.000004)
+  1) a sign that says `` <UNK> '' on it 's side . (p=0.000002)
+  2) a sign that says `` <UNK> '' on a wall . (p=0.000002)
+Captions for image 11254101_943393252348976_452359594_n.jpg:
+  0) a man sitting in a chair with a laptop . (p=0.000337)
+  1) a woman sitting in a chair with a laptop . (p=0.000315)
+  2) a woman sitting in a chair in front of a window . (p=0.000073)
+Captions for image 11264313_554549311353388_111407701_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000208)
+  1) a man in a suit and tie is smiling (p=0.000089)
+  2) a man in a suit and bow tie standing in front of a microphone . (p=0.000068)
+Captions for image 11235993_1424683987850490_2124331946_n.jpg:
+  0) a bedroom with a bed and a table (p=0.000020)
+  1) a bedroom with a bed , a table and a chair . (p=0.000004)
+  2) a bedroom with a bed , a table , and a chair . (p=0.000004)
+Captions for image 11205647_1446189632346833_1993553001_n.jpg:
+  0) a man wearing a hat and a hat . (p=0.001487)
+  1) a man wearing a hat and a tie . (p=0.000663)
+  2) a man wearing a hat and a tie (p=0.000187)
+Captions for image 11235979_1615960255345256_1732788826_n.jpg:
+  0) a close up of a vandalized stop sign (p=0.002168)
+  1) a close up of a stop sign with a sticker on it (p=0.000219)
+  2) a close up of a stop sign with graffiti on it (p=0.000211)
+Captions for image 11208447_479108902244231_2146476795_n.jpg:
+  0) a bunch of ties that are on a rack . (p=0.000132)
+  1) a bunch of ties that are on a wall . (p=0.000110)
+  2) a bunch of ties that are in a row . (p=0.000103)
+Captions for image 11259163_1427897004185576_165735587_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000759)
+  1) a close up of a street sign with a sticker on it (p=0.000070)
+  2) a close up of a street sign with a sign on it (p=0.000040)
+Captions for image 11205628_464433007056780_1302631406_n.jpg:
+  0) a bed sitting in a room next to a window . (p=0.000088)
+  1) a bed sitting in a room next to a wall . (p=0.000061)
+  2) a bed sitting in a room next to a wooden table . (p=0.000023)
+Captions for image 11263231_1581799882074739_852636624_n.jpg:
+  0) a table with a bunch of food on it (p=0.000083)
+  1) a table topped with lots of different colored vases . (p=0.000022)
+  2) a table topped with lots of different types of food . (p=0.000018)
+Captions for image 11242640_1582238228695604_1932582746_n.jpg:
+  0) a vase with flowers in it sitting on a table . (p=0.000018)
+  1) a vase with flowers in it sitting on a shelf . (p=0.000009)
+  2) a vase with flowers on a table (p=0.000009)
+Captions for image 11226747_1455035271456170_829029530_n.jpg:
+  0) a close up of a stop sign with a sky background (p=0.000353)
+  1) a close up of a sign with a sky background (p=0.000299)
+  2) a close up of a stop sign with a sign on it (p=0.000066)
+Captions for image 11208573_976045149165628_582147046_n.jpg:
+  0) a wooden bench sitting in front of a window . (p=0.000138)
+  1) a wooden bench sitting in front of a building . (p=0.000053)
+  2) a wooden bench in front of a window (p=0.000028)
+Captions for image 11256263_667566440040260_473170167_n.jpg:
+  0) a collage of photos with a sign that says <UNK> (p=0.000001)
+  1) a collage of photos with a sign that says <UNK> . (p=0.000001)
+  2) a collage of photos with a sign that reads `` <UNK> '' . (p=0.000000)
+Captions for image 11226837_1831558870403509_707047490_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000409)
+  1) a close up of a person holding a nintendo wii remote (p=0.000057)
+  2) a close up of a person holding a wii remote (p=0.000054)
+Captions for image 11230358_640431206058392_1715584941_n.jpg:
+  0) a row of wooden benches sitting next to each other . (p=0.000680)
+  1) a row of benches sitting next to each other . (p=0.000423)
+  2) a row of benches sitting next to each other on a sidewalk . (p=0.000040)
+Captions for image 11248751_652278204876223_1916418942_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000552)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000395)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000115)
+Captions for image 11240716_689073977881353_11654103_n.jpg:
+  0) a collage of photos of a person holding a tennis racket (p=0.000003)
+  1) a collage of photos of a person holding a sign (p=0.000001)
+  2) a collage of photos of a man holding a tennis racket (p=0.000001)
+Captions for image 11252573_799376210157654_1264586293_n.jpg:
+  0) a bed sitting in a bedroom next to a window . (p=0.000160)
+  1) a bed sitting in a room next to a window . (p=0.000141)
+  2) a bed sitting in a living room next to a window . (p=0.000085)
+Captions for image 11248309_367165330143805_745882920_n.jpg:
+  0) a stop sign with a sign on it (p=0.000012)
+  1) a stop sign with a sign on it . (p=0.000010)
+  2) a stop sign with a sign on the side of it . (p=0.000006)
+Captions for image 11247138_372238039634382_920260322_n.jpg:
+  0) a small wooden bench with a basket on it (p=0.000011)
+  1) a small wooden bench with a basket on it . (p=0.000009)
+  2) a small wooden bench with a basket on top . (p=0.000002)
+Captions for image 11202903_1447362968895992_1933366105_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.000589)
+  1) a living room with a couch and a table (p=0.000292)
+  2) a living room filled with furniture and a large window . (p=0.000272)
+Captions for image 11235970_1623568951192983_1802320988_n.jpg:
+  0) a living room filled with furniture and a large window . (p=0.000359)
+  1) a living room filled with furniture and a large window (p=0.000008)
+  2) a living room with a couch , chair , and a table . (p=0.000007)
+Captions for image 11232533_487371514748693_313747712_n.jpg:
+  0) a close up of a pair of scissors on a table (p=0.000064)
+  1) a close up of a stuffed animal on a table (p=0.000053)
+  2) a close up of a pair of scissors on a wooden table (p=0.000005)
+Captions for image 11246804_671641102941318_393095763_n.jpg:
+  0) a cat is laying in a basket on a bed . (p=0.000004)
+  1) a cat is laying in a basket on a table . (p=0.000003)
+  2) a cat is laying in a basket with a stuffed animal . (p=0.000003)
+Captions for image 11260517_1102563146426129_234412181_n.jpg:
+  0) a wooden bench sitting in front of a building . (p=0.000246)
+  1) a wooden bench sitting in the middle of a room . (p=0.000188)
+  2) a wooden bench sitting in the middle of a yard . (p=0.000155)
+Captions for image 11241726_1022510577777129_931010055_n.jpg:
+  0) a black and white photo of a bird (p=0.000200)
+  1) a black and white photo of a black and white bird (p=0.000107)
+  2) a black and white photo of a black and white cat (p=0.000073)
+Captions for image 11257778_419237224923543_1942689590_n.jpg:
+  0) a pink rose in a vase on a table . (p=0.000126)
+  1) a pink rose in a white vase on a table . (p=0.000067)
+  2) a pink rose in a vase on a table (p=0.000061)
+Captions for image 11230492_1581810742087526_1167458370_n.jpg:
+  0) a wooden bench sitting in front of a window . (p=0.000206)
+  1) a wooden bench sitting in a room next to a window . (p=0.000042)
+  2) a wooden bench sitting in front of a window (p=0.000024)
+Captions for image 11261597_668249729987927_1756670217_n.jpg:
+  0) a bunch of bananas that are on a table . (p=0.000189)
+  1) a pile of carrots sitting on top of a table . (p=0.000173)
+  2) a pile of carrots sitting on top of a cutting board . (p=0.000156)
+Captions for image 11256715_491529444356163_1450225838_n.jpg:
+  0) a toy train is sitting on a table . (p=0.000027)
+  1) a cake with a train on top of it (p=0.000013)
+  2) a toy train is sitting on a table (p=0.000009)
+Captions for image 11226725_1394961034164147_1782828631_n.jpg:
+  0) a close up of a keyboard and a mouse (p=0.000050)
+  1) a close up of a keyboard and a pair of scissors (p=0.000014)
+  2) a close up of a keyboard and a mouse on a table (p=0.000009)
+Captions for image 11246650_862949567111699_1784739109_n.jpg:
+  0) a close up of a pair of scissors (p=0.000194)
+  1) a close up of a person holding a pair of scissors (p=0.000180)
+  2) a close up of a person holding a frisbee (p=0.000152)
+Captions for image 11226690_1582943575293574_936241982_n.jpg:
+  0) a basket filled with lots of different types of vegetables . (p=0.000172)
+  1) a basket filled with lots of different types of fruit . (p=0.000143)
+  2) a basket filled with lots of green apples . (p=0.000138)
+Captions for image 11111335_1577707852517857_554047569_n.jpg:
+  0) a birthday cake with candles on a table (p=0.000025)
+  1) a birthday cake with candles on a table . (p=0.000021)
+  2) a birthday cake with lit candles on a table . (p=0.000017)
+Captions for image 11256325_471317569684892_1232850935_n.jpg:
+  0) a blue suitcase is sitting on the ground . (p=0.000018)
+  1) a blue suitcase is sitting on a wooden bench . (p=0.000011)
+  2) a blue suitcase is sitting on the floor . (p=0.000010)
+Captions for image 11230336_1604138059832566_1355761736_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000150)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000061)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000025)
+Captions for image 11240712_1641241096096095_381907630_n.jpg:
+  0) a woman in a white dress standing in a kitchen . (p=0.000007)
+  1) a woman in a white dress standing in a kitchen (p=0.000001)
+  2) a woman in a white dress standing in front of a table . (p=0.000000)
+Captions for image 11232507_435553909938956_819968501_n.jpg:
+  0) a small wooden bench with a wooden frame . (p=0.000001)
+  1) a small wooden bench with a wooden seat . (p=0.000001)
+  2) a small wooden bench with a wooden frame (p=0.000001)
+Captions for image 11251036_683336855127966_1626355179_n.jpg:
+  0) a cat is sitting in a basket on the floor . (p=0.000005)
+  1) a cat is sitting in a basket on a table . (p=0.000004)
+  2) a cat is sitting in the middle of a kitchen . (p=0.000003)
+Captions for image 11226713_879830618740234_1653436546_n.jpg:
+  0) a couch sitting in a living room next to a window . (p=0.000276)
+  1) a couch sitting in a living room next to a lamp . (p=0.000184)
+  2) a couch sitting in a living room next to a table . (p=0.000109)
+Captions for image 11245935_1601899426746304_1251539655_n.jpg:
+  0) a bed that has a bunch of pillows on it (p=0.000024)
+  1) a bed that has a bunch of pillows on it . (p=0.000005)
+  2) a bed that has a bunch of different colored ties on it (p=0.000003)
+Captions for image 11242016_834016600022933_1954069196_n.jpg:
+  0) a large brown teddy bear sitting on top of a couch . (p=0.000056)
+  1) a large brown teddy bear sitting on top of a chair . (p=0.000043)
+  2) a large brown teddy bear sitting on top of a wooden chair . (p=0.000040)
+Captions for image 11203276_1663795550516611_1693444544_n.jpg:
+  0) a bunch of doughnuts that are in a box (p=0.000123)
+  1) a bunch of doughnuts that are in a box . (p=0.000117)
+  2) a bunch of doughnuts that are on a table . (p=0.000115)
+Captions for image 11241338_1589059544703650_1356790405_n.jpg:
+  0) a bunch of vegetables that are on a table . (p=0.000600)
+  1) a bunch of vegetables that are sitting on a table . (p=0.000397)
+  2) a bunch of green vegetables on a table (p=0.000126)

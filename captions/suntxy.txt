@@ -1,0 +1,64 @@
+Captions for image 11282004_655450004585392_527598641_n.jpg:
+  0) a close up of a sign on a building (p=0.000075)
+  1) a close up of a sign that says <UNK> (p=0.000013)
+  2) a close up of a sign that says <UNK> . (p=0.000011)
+Captions for image 29717985_190162548457594_8955669650167824384_n.jpg:
+  0) a man sitting on a bench in a park . (p=0.000536)
+  1) a man sitting on a bench in a field . (p=0.000481)
+  2) a man sitting on a bench next to a tree . (p=0.000257)
+Captions for image 11240463_1441399326156247_18524590_n.jpg:
+  0) a laptop computer sitting on top of a table . (p=0.001446)
+  1) a laptop computer sitting on top of a wooden table . (p=0.000949)
+  2) a laptop computer sitting on top of a desk . (p=0.000582)
+Captions for image 11377584_668136109997064_816776761_n.jpg:
+  0) a close up of a cake on a table (p=0.000266)
+  1) a close up of a pair of scissors (p=0.000263)
+  2) a close up of a pair of scissors on a table (p=0.000104)
+Captions for image 11251829_1560829467512881_1328270874_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.011034)
+  1) a laptop computer sitting on top of a wooden desk . (p=0.010249)
+  2) an open laptop computer sitting on top of a wooden desk . (p=0.003326)
+Captions for image 29739741_2105654419713013_5416933841728176128_n.jpg:
+  0) a white plate topped with a sandwich and a salad . (p=0.000302)
+  1) a white plate topped with a sandwich and a bowl of soup . (p=0.000083)
+  2) a plate of food with a fork and a knife . (p=0.000043)
+Captions for image 13398830_932062703588595_187955317_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000455)
+  1) a sign that is on the side of a wall . (p=0.000036)
+  2) a sign that is on the side of the building . (p=0.000012)
+Captions for image 13395040_572075579632686_419629003_n.jpg:
+  0) a cat laying on top of a wooden table . (p=0.000111)
+  1) a cat laying on top of a wooden shelf . (p=0.000065)
+  2) a cat laying on top of a counter next to a sink . (p=0.000012)
+Captions for image 29715867_160008374827203_1894593817537937408_n.jpg:
+  0) a church with a steeple and a clock tower . (p=0.000119)
+  1) a church with a steeple and a clock on the top . (p=0.000046)
+  2) a large building with a clock tower in the middle of it . (p=0.000028)
+Captions for image 13402226_1742651089353629_819874881_n.jpg:
+  0) a brown dog laying on top of a grass covered field . (p=0.000487)
+  1) a brown bear laying on top of a grass covered field . (p=0.000316)
+  2) a brown dog laying on top of a grass covered field (p=0.000004)
+Captions for image 30087613_561269134247395_3823331401013395456_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.003465)
+  1) a white plate topped with meat and veggies . (p=0.001706)
+  2) a white plate topped with meat , vegetables and rice . (p=0.000178)
+Captions for image 11241382_1584339645172409_1767409298_n.jpg:
+  0) a birthday cake with a train on it (p=0.000017)
+  1) a birthday cake with a train on it . (p=0.000010)
+  2) a birthday cake with a dog on it (p=0.000007)
+Captions for image 11287550_963657543664459_1699625008_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000155)
+  1) a pair of scissors sitting on a table . (p=0.000070)
+  2) a pair of scissors sitting on top of a table (p=0.000040)
+Captions for image 13381335_1119032551496047_1390922274_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.002926)
+  1) a living room filled with furniture and a flat screen tv . (p=0.002043)
+  2) a living room filled with furniture and a tv . (p=0.001291)
+Captions for image 30078863_1627701894016800_4476874567033290752_n.jpg:
+  0) a white plate topped with a sandwich and salad . (p=0.000407)
+  1) a white plate topped with a salad and a sandwich . (p=0.000164)
+  2) a plate of food with a sandwich and salad . (p=0.000154)
+Captions for image 30079925_188508061872887_6365886511929360384_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.001891)
+  1) a table topped with plates of food and drinks . (p=0.001196)
+  2) a table topped with plates of food and a cup of coffee . (p=0.000138)

@@ -1,0 +1,56 @@
+Captions for image 11242754_1406442596347366_807726076_n.jpg:
+  0) a man with glasses is drinking a glass of wine . (p=0.000241)
+  1) a man with glasses is drinking a wine glass . (p=0.000068)
+  2) a man with glasses is drinking a glass of wine (p=0.000036)
+Captions for image 11201653_339500662913612_131349622_n.jpg:
+  0) a herd of sheep grazing on a lush green hillside . (p=0.000196)
+  1) a herd of sheep standing on top of a dirt field . (p=0.000141)
+  2) a herd of sheep standing on top of a lush green field . (p=0.000090)
+Captions for image 11189454_653105591500591_1351812594_n.jpg:
+  0) a plane flying over a body of water . (p=0.001494)
+  1) a plane flying over a body of water (p=0.000514)
+  2) a large body of water with a boat in the distance . (p=0.000231)
+Captions for image 11199428_1432307250408425_502291259_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.001110)
+  1) a boat floating on a lake next to a forest . (p=0.000128)
+  2) a boat floating on top of a lake next to a forest . (p=0.000059)
+Captions for image 11325433_1210920382267018_1654409158_a.jpg:
+  0) a man sitting on a bench with a surfboard . (p=0.000053)
+  1) a man sitting on a bench in front of a mountain . (p=0.000030)
+  2) a man sitting on a bench in the middle of a desert . (p=0.000015)
+Captions for image 1168377_555892167837045_88229057_n.jpg:
+  0) a man in a suit and tie standing in front of a building . (p=0.000169)
+  1) a man in a suit and tie standing next to a building . (p=0.000041)
+  2) a man in a suit and tie standing in front of a wall . (p=0.000040)
+Captions for image 1530780_845289738899142_575754421_n.jpg:
+  0) a train traveling down tracks next to a train station . (p=0.000859)
+  1) a train traveling down train tracks next to a forest . (p=0.000738)
+  2) a train traveling down tracks next to a lush green forest . (p=0.000322)
+Captions for image 11242739_829873247106903_1446556157_n.jpg:
+  0) a red and white train on a train track (p=0.000018)
+  1) a red and white train in front of a building . (p=0.000011)
+  2) a red and white train on a train track . (p=0.000009)
+Captions for image 11184600_349806601884498_1926763636_n.jpg:
+  0) a large clock tower towering over a city . (p=0.002154)
+  1) a large building with a clock on the top . (p=0.000377)
+  2) a large building with a clock on it (p=0.000304)
+Captions for image 11186996_778191025628535_569118987_n.jpg:
+  0) a group of boats sitting on top of a sandy beach . (p=0.000224)
+  1) a group of boats sitting on top of a beach . (p=0.000142)
+  2) a group of boats sitting on top of a beach next to the ocean . (p=0.000027)
+Captions for image 11191545_1440379029608898_1444901019_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.002907)
+  1) a boat floating on top of a lake next to a shore . (p=0.000213)
+  2) a boat floating on top of a lake next to a forest . (p=0.000174)
+Captions for image 11190091_837020146380455_1823064854_n.jpg:
+  0) a harbor filled with lots of small boats . (p=0.001116)
+  1) a harbor filled with lots of boats next to buildings . (p=0.000153)
+  2) a harbor filled with lots of boats next to a building . (p=0.000093)
+Captions for image 11192826_1076467462369428_953090494_n.jpg:
+  0) a black and white photo of a boat in the water . (p=0.001404)
+  1) a black and white photo of a sailboat in the water . (p=0.000657)
+  2) a black and white photo of a boat in the water (p=0.000564)
+Captions for image 11190741_1604519949814723_1667886881_n.jpg:
+  0) a large body of water with boats in it . (p=0.000100)
+  1) a large body of water with a bunch of boats in it (p=0.000090)
+  2) a large body of water with boats in the water . (p=0.000060)

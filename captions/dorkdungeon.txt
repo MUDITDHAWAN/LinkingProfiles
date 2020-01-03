@@ -1,0 +1,36 @@
+Captions for image 11208409_884554738282356_1429502417_n.jpg:
+  0) a sign that says `` <UNK> '' on a wall . (p=0.000000)
+  1) a wall with a clock on it and a sign . (p=0.000000)
+  2) a sign that says `` <UNK> '' on a wall (p=0.000000)
+Captions for image 11272879_1602900599956996_1004217640_n.jpg:
+  0) a sign that says `` <UNK> '' on a wall . (p=0.000006)
+  1) a sign that is on a wall with a sign on it . (p=0.000003)
+  2) a sign that says `` <UNK> '' on the side of a building . (p=0.000003)
+Captions for image 11256935_443354635832961_750832066_n.jpg:
+  0) a statue of a man in a suit and tie (p=0.000023)
+  1) a statue of a man in a suit and tie . (p=0.000020)
+  2) a man in a suit and tie standing in front of a mirror . (p=0.000003)
+Captions for image 11242147_1071952896167972_591177129_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000085)
+  1) a pair of scissors sitting on a table . (p=0.000040)
+  2) a pair of scissors sitting on a table (p=0.000026)
+Captions for image 11849398_1624582894488447_620156244_a.jpg:
+  0) a man in a suit and tie standing in the water . (p=0.000033)
+  1) a man in a suit and tie standing on a boat . (p=0.000016)
+  2) a man in a suit and tie standing in the water (p=0.000014)
+Captions for image 11241368_575799389227233_516063102_n.jpg:
+  0) a cat sitting under an umbrella on a table . (p=0.000113)
+  1) a cat sitting under an umbrella in a room . (p=0.000101)
+  2) a cat sitting under an umbrella next to a bike . (p=0.000036)
+Captions for image 16789232_763091250519840_6497933851220770816_n.jpg:
+  0) a row of parking meters sitting in front of a building . (p=0.000043)
+  1) a row of parking meters sitting on top of a beach . (p=0.000036)
+  2) a row of parking meters sitting in the middle of a parking lot . (p=0.000026)
+Captions for image 22802203_1615308055193122_6995394993716199424_n.jpg:
+  0) a group of women standing next to each other . (p=0.002000)
+  1) a group of people standing next to each other . (p=0.000978)
+  2) a group of people standing around each other . (p=0.000371)
+Captions for image 11375942_554000038072646_1879753102_n.jpg:
+  0) a book shelf with a clock on it . (p=0.000020)
+  1) a book shelf with a clock on it (p=0.000019)
+  2) a book shelf with a book and a clock . (p=0.000002)

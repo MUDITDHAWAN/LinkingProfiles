@@ -1,0 +1,688 @@
+Captions for image 26154754_143559759768885_9204331089621942272_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002261)
+  1) a city street filled with lots of traffic and tall buildings . (p=0.000054)
+  2) a city street filled with lots of cars and people . (p=0.000049)
+Captions for image 38868614_286021465537323_6549542002155847680_n.jpg:
+  0) a man in a suit and tie standing next to a tree . (p=0.000037)
+  1) a man in a suit and tie standing in front of a tree . (p=0.000036)
+  2) a man in a suit and tie standing in a forest . (p=0.000024)
+Captions for image 13549352_1800415366869739_830207404_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001181)
+  1) a city street filled with lots of traffic and traffic . (p=0.000062)
+  2) a city street filled with lots of traffic and people . (p=0.000051)
+Captions for image 33225649_1796685170374394_5990410536653684736_n.jpg:
+  0) a group of people walking down a street . (p=0.000068)
+  1) a group of people walking down a street with umbrellas . (p=0.000011)
+  2) a group of people walking down a street next to a traffic light . (p=0.000006)
+Captions for image 26272431_580597598941228_5280446232102174720_n.jpg:
+  0) a bird perched on top of a tree . (p=0.001029)
+  1) a bird perched on top of a tree branch . (p=0.001001)
+  2) a bird perched on top of a tree in a forest . (p=0.000091)
+Captions for image 26066180_324310631403178_6686754095455272960_n.jpg:
+  0) a tree with a bunch of birds on it (p=0.000202)
+  1) a tree with a bunch of birds in it (p=0.000100)
+  2) a tree with a bunch of birds sitting on it (p=0.000096)
+Captions for image 61824628_352339155428480_3715996528604580636_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000296)
+  1) a bunch of flowers that are sitting in a tree . (p=0.000108)
+  2) a bunch of flowers that are sitting in the grass . (p=0.000106)
+Captions for image 57379501_2620005828073375_8962737307836155113_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000516)
+  1) a close up of a flower in a tree (p=0.000277)
+  2) a close up of a flower in a vase (p=0.000174)
+Captions for image 58410837_135410650877247_5041496707383273960_n.jpg:
+  0) a bird perched on top of a tree . (p=0.000734)
+  1) a bird perched on top of a tree branch . (p=0.000552)
+  2) a bird perched on top of a tree in a forest . (p=0.000083)
+Captions for image 57160290_393190081272697_4913957742092417824_n.jpg:
+  0) a large brown bear sitting on top of a wooden bench . (p=0.000348)
+  1) a large brown bear standing next to a stone wall . (p=0.000343)
+  2) a large brown bear sitting on top of a wooden deck . (p=0.000130)
+Captions for image 62041696_376144319673419_8396512732141025153_n.jpg:
+  0) a bird perched on top of a tree branch . (p=0.008882)
+  1) a bird perched on top of a tree . (p=0.005952)
+  2) a bird perched on top of a tree branch (p=0.000754)
+Captions for image 53580580_1982662961861871_4940784860425521252_n.jpg:
+  0) a tall clock tower with a sky background (p=0.003636)
+  1) a tall clock tower with a clock on each of it 's sides . (p=0.000748)
+  2) a clock tower with a weather vane on top . (p=0.000485)
+Captions for image 54512985_126126395121841_3185638246327381689_n.jpg:
+  0) a cat sitting on a ledge looking out a window . (p=0.000129)
+  1) a cat sitting on a ledge looking out the window . (p=0.000103)
+  2) a cat sitting on a ledge looking out a window (p=0.000089)
+Captions for image 55912202_269382903938291_8482227950699002048_n.jpg:
+  0) a train traveling down tracks next to a train station . (p=0.001021)
+  1) a train traveling down train tracks next to a train station . (p=0.000683)
+  2) a train on a train track with a sky background (p=0.000579)
+Captions for image 51745169_847020448970420_4475157683244803134_n.jpg:
+  0) a dog that is standing in the street . (p=0.000294)
+  1) a dog that is sitting on the sidewalk . (p=0.000227)
+  2) a dog that is standing in the snow . (p=0.000209)
+Captions for image 50227285_399693390575691_8544369950395465057_n.jpg:
+  0) a cat is standing on the floor next to a door . (p=0.000045)
+  1) a cat is standing on the floor in front of a door . (p=0.000038)
+  2) a cat sitting on a wooden floor next to a door . (p=0.000033)
+Captions for image 45707224_479444439244732_3529551041978486149_n.jpg:
+  0) a tree in the middle of a forest . (p=0.000181)
+  1) a tree in the middle of a wooded area . (p=0.000077)
+  2) a tree in the middle of a wooded area (p=0.000026)
+Captions for image 46081691_2069797493088083_3330350647594106429_n.jpg:
+  0) a tall clock tower with a sky background (p=0.006408)
+  1) a tall clock tower with a clock on each of it 's sides . (p=0.002831)
+  2) a clock tower with a weather vane on top . (p=0.000713)
+Captions for image 44844620_1898295470220389_1973173181145778270_n.jpg:
+  0) a black and white photo of a car and a truck (p=0.000161)
+  1) a black and white photo of a truck and a car (p=0.000138)
+  2) a black and white photo of a truck and a car . (p=0.000088)
+Captions for image 43638138_770582286616413_5066530194630172305_n.jpg:
+  0) a train traveling down tracks next to a train station . (p=0.000345)
+  1) a train traveling down tracks next to a bridge . (p=0.000255)
+  2) a train on a train track near a train station (p=0.000239)
+Captions for image 42707381_2218441488444515_6619271522922729057_n.jpg:
+  0) a flock of birds flying over a forest . (p=0.000773)
+  1) a flock of birds flying through a cloudy sky . (p=0.000443)
+  2) a flock of birds flying over a lush green forest . (p=0.000214)
+Captions for image 47689772_537177263359379_1968446814110792251_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000099)
+  1) a train station with a train on the tracks (p=0.000033)
+  2) a train station with a train passing by . (p=0.000029)
+Captions for image 42827110_137547883885680_8324282270342542601_n.jpg:
+  0) a cat that is sitting on the ground . (p=0.000597)
+  1) a cat that is sitting on a bench . (p=0.000528)
+  2) a cat that is sitting on a bench (p=0.000082)
+Captions for image 44305555_1970243863273045_7914876669583411951_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.001661)
+  1) a black and white photo of a clock tower (p=0.000888)
+  2) a black and white photo of a clock on a building . (p=0.000244)
+Captions for image 41679776_552184305202395_3708662433064511675_n.jpg:
+  0) a vase filled with flowers sitting on top of a window sill . (p=0.000369)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000315)
+  2) a vase filled with flowers sitting on a window sill . (p=0.000309)
+Captions for image 41173543_344500019451016_7143195972943731505_n.jpg:
+  0) a black and white dog laying on top of a wooden floor . (p=0.000102)
+  1) a black and white dog laying on top of a bed . (p=0.000098)
+  2) a black and white dog laying on top of a wooden bench . (p=0.000085)
+Captions for image 47581234_315182532449576_4290984565688665495_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.002976)
+  1) a train traveling down tracks next to a river . (p=0.001112)
+  2) a train on a train track near a body of water (p=0.000782)
+Captions for image 39944279_140162250260544_1158686401121398780_n.jpg:
+  0) a view of a building with a clock on it . (p=0.000019)
+  1) a large building with a clock on the front of it . (p=0.000018)
+  2) a large building with a clock on the front (p=0.000009)
+Captions for image 38920067_1431983803612731_2881833084641083392_n.jpg:
+  0) a train traveling through a lush green countryside . (p=0.000139)
+  1) a train traveling through a lush green hillside . (p=0.000105)
+  2) a view of a mountain range with a mountain in the background . (p=0.000012)
+Captions for image 38097319_230331764336664_2391043138752872448_n.jpg:
+  0) a train traveling through a lush green countryside . (p=0.000593)
+  1) a train traveling through a lush green hillside . (p=0.000509)
+  2) a train on a train track near a body of water (p=0.000076)
+Captions for image 36581094_990947144425251_6672820547237183488_n.jpg:
+  0) a large mountain range with mountains in the background . (p=0.000241)
+  1) a large mountain range with mountains in the distance . (p=0.000062)
+  2) a large mountain range with mountains in the background (p=0.000052)
+Captions for image 43653375_2050552441664100_965772835447355000_n.jpg:
+  0) a tree in the middle of a forest . (p=0.000193)
+  1) a tree with a bird perched on top of it . (p=0.000164)
+  2) a tree with a bird perched on it (p=0.000100)
+Captions for image 40057396_922178331315851_7058895278619438288_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.000585)
+  1) a train traveling down train tracks next to a forest . (p=0.000476)
+  2) a train traveling down tracks next to a lush green forest . (p=0.000158)
+Captions for image 35990837_815115175353825_6426216023455694848_n.jpg:
+  0) a tall building with a clock on it (p=0.000645)
+  1) a large building with a clock on the front of it . (p=0.000279)
+  2) a large building with a clock on the top of it . (p=0.000254)
+Captions for image 35171282_205836916925239_6695632596014989312_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.000890)
+  1) a train traveling down train tracks next to a forest . (p=0.000793)
+  2) a train traveling down tracks next to a lush green forest . (p=0.000260)
+Captions for image 26286836_545581772476136_4780438792475508736_n.jpg:
+  0) a traffic light on a road with a sky background (p=0.000002)
+  1) a traffic light on a road near a building (p=0.000001)
+  2) a traffic light on a street with a building in the background (p=0.000001)
+Captions for image 31255816_784406988421053_8944859655570456576_n.jpg:
+  0) a wooden bench sitting in the middle of a forest . (p=0.000755)
+  1) a wooden bench sitting in a forest next to trees . (p=0.000074)
+  2) a wooden bench sitting in a forest next to a forest . (p=0.000065)
+Captions for image 33473468_893765070827992_6415691678543249408_n.jpg:
+  0) a train traveling down tracks next to a train station . (p=0.001035)
+  1) a train on a train track with a sky background (p=0.000769)
+  2) a train traveling down train tracks next to a train station . (p=0.000668)
+Captions for image 31326421_272702949937903_859136211028017152_n.jpg:
+  0) a plane flying in the sky with a sky background (p=0.000086)
+  1) an airplane flying in the sky over a tree . (p=0.000036)
+  2) an airplane flying in the sky over a city . (p=0.000032)
+Captions for image 31975901_2130600990504603_5915692803081371648_n.jpg:
+  0) a black and white photo of a city street . (p=0.000513)
+  1) a black and white photo of a city street (p=0.000407)
+  2) a black and white photo of a park with a bridge . (p=0.000026)
+Captions for image 30078554_1787155264684682_5745744091094712320_n.jpg:
+  0) a flock of birds flying over a traffic light . (p=0.000540)
+  1) a flock of birds flying over a forest . (p=0.000385)
+  2) a flock of birds flying over a street light . (p=0.000145)
+Captions for image 30829766_172209313598000_3028913977699598336_n.jpg:
+  0) a man sitting on a bench in front of a building . (p=0.000098)
+  1) a man sitting on a bench in front of a building (p=0.000023)
+  2) a large building with a clock on the wall . (p=0.000020)
+Captions for image 31043037_1920553281342039_1366017183171215360_n.jpg:
+  0) a boat in the middle of a lake surrounded by mountains . (p=0.000105)
+  1) a boat in the middle of a lake with mountains in the background . (p=0.000081)
+  2) a boat in the middle of a lake with a mountain in the background . (p=0.000026)
+Captions for image 28763020_556676598035751_822633786490486784_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000166)
+  1) a train station with a train on the tracks (p=0.000112)
+  2) a train is on the tracks in a train station . (p=0.000080)
+Captions for image 29403689_183386805622955_6717779444552957952_n.jpg:
+  0) a view of a city street with a traffic light . (p=0.000004)
+  1) a view of a city street with a traffic light on it . (p=0.000001)
+  2) a view of a city street with a traffic light on it (p=0.000000)
+Captions for image 28157262_1869612099997161_2845496188143140864_n.jpg:
+  0) a cat sitting on top of a wooden bench . (p=0.001317)
+  1) a cat sitting on top of a wooden chair . (p=0.001012)
+  2) a cat sitting on top of a wooden table . (p=0.000259)
+Captions for image 27878570_464802373917972_11625866584915968_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001808)
+  1) a large building with a clock tower on top of it . (p=0.000174)
+  2) a large building with a clock tower on top . (p=0.000135)
+Captions for image 28155474_346041595913265_6321115360518995968_n.jpg:
+  0) a view of a window from the outside . (p=0.000007)
+  1) a view of a window from the outside of a building . (p=0.000003)
+  2) a view of a window from the inside of a building . (p=0.000003)
+Captions for image 27576910_1964700907116200_8732780028829368320_n.jpg:
+  0) a view of a mountain range from a plane . (p=0.000097)
+  1) a view of a mountain range from the airplane . (p=0.000042)
+  2) a view of a mountain range from the plane . (p=0.000037)
+Captions for image 26305549_405785043168187_2150432190293344256_n.jpg:
+  0) a black and white photo of a train (p=0.001266)
+  1) a black and white photo of a train station . (p=0.001052)
+  2) a black and white photo of a train station (p=0.000998)
+Captions for image 26310413_143130696378948_5399657189751128064_n.jpg:
+  0) a dog standing on a sidewalk next to a fire hydrant . (p=0.000161)
+  1) a dog is standing on the side of the road . (p=0.000112)
+  2) a dog is standing on the side of the street . (p=0.000094)
+Captions for image 27579137_580409145624723_2441246581979086848_n.jpg:
+  0) an airplane flying over a large body of water . (p=0.000195)
+  1) a plane flying over a large body of water . (p=0.000160)
+  2) a plane flying over a large body of water (p=0.000048)
+Captions for image 13703007_1035785363204908_1161442354_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000324)
+  1) a fire hydrant in the middle of the woods . (p=0.000051)
+  2) a fire hydrant in the middle of a field . (p=0.000049)
+Captions for image 13721043_1116702408409080_968737357_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.000702)
+  1) a train traveling down train tracks next to a forest . (p=0.000632)
+  2) a train traveling down tracks next to a lush green field . (p=0.000313)
+Captions for image 14597498_326885477678847_8755394857003909120_n.jpg:
+  0) a cat standing on a sidewalk next to a fire hydrant . (p=0.000102)
+  1) a cat sitting on the ground next to a skateboard . (p=0.000098)
+  2) a cat sitting on the ground next to a fire hydrant . (p=0.000075)
+Captions for image 14547803_1718984808425876_752040621681672192_n.jpg:
+  0) a black and white photo of a boat in the water . (p=0.000220)
+  1) a black and white photo of a large body of water (p=0.000136)
+  2) a black and white photo of a large body of water . (p=0.000108)
+Captions for image 23161001_125779844775824_6052687622575226880_n.jpg:
+  0) a person walking on a beach with a surfboard . (p=0.000190)
+  1) a person walking on a beach with a surfboard (p=0.000176)
+  2) a person walking on a beach holding a surfboard . (p=0.000161)
+Captions for image 24274723_857701907742778_1957996086106783744_n.jpg:
+  0) a black and white cat sitting on top of a wooden bench . (p=0.000436)
+  1) a black and white cat sitting on a bench . (p=0.000285)
+  2) a black and white cat sitting on top of a bench . (p=0.000124)
+Captions for image 23594419_188028878435212_8471960211270139904_n.jpg:
+  0) a black and white photo of a kite flying in the sky . (p=0.000615)
+  1) a black and white photo of a kite flying in the sky (p=0.000455)
+  2) a black and white photo of a kite flying high in the sky . (p=0.000351)
+Captions for image 22426869_1161389050662774_3075799288106713088_n.jpg:
+  0) a bird perched on top of a tree branch . (p=0.007097)
+  1) a bird perched on top of a tree . (p=0.003059)
+  2) a bird perched on top of a tree branch (p=0.000603)
+Captions for image 26225125_929606140529335_8753699611937341440_n.jpg:
+  0) a black and white photo of a person holding an umbrella . (p=0.000055)
+  1) a black and white photo of a person holding an umbrella (p=0.000051)
+  2) a black and white photo of a bear in the woods . (p=0.000016)
+Captions for image 21568586_118871145443818_5470324812112986112_n.jpg:
+  0) a close up of a bird on a tree branch (p=0.000284)
+  1) a close up of a bird on a tree (p=0.000090)
+  2) a close up of a green plant with leaves (p=0.000035)
+Captions for image 21827126_1935023336720274_5855812553724133376_n.jpg:
+  0) a group of people standing on top of a lush green field . (p=0.001511)
+  1) a group of people standing on top of a grass covered field . (p=0.000333)
+  2) a group of people standing on top of a green field . (p=0.000196)
+Captions for image 21147234_2067851796573796_2764596497688297472_n.jpg:
+  0) a large building with a clock on the front . (p=0.000361)
+  1) a building with a clock on the front of it (p=0.000346)
+  2) a building with a clock on the front of it . (p=0.000301)
+Captions for image 22071505_864032310426585_4955991998696783872_n.jpg:
+  0) a plane flying in the sky with a sky background (p=0.000092)
+  1) a plane is flying in the sky over some trees . (p=0.000026)
+  2) a plane is flying in the sky over a building . (p=0.000021)
+Captions for image 21107960_169545646946261_1636494909005365248_n.jpg:
+  0) a vase with flowers sitting on a window sill . (p=0.000057)
+  1) a vase with flowers in it sitting on a window sill . (p=0.000040)
+  2) a vase with flowers sitting on a window sill (p=0.000026)
+Captions for image 20180611_128172537787557_6341396651357241344_n.jpg:
+  0) a group of horses standing next to each other . (p=0.000576)
+  1) a group of people standing next to a horse . (p=0.000183)
+  2) a group of horses standing next to each other in a barn . (p=0.000078)
+Captions for image 19765234_1696333770663468_5012237911152656384_n.jpg:
+  0) a building with a clock on the side of it (p=0.000318)
+  1) a building with a clock on the front of it (p=0.000296)
+  2) a building with a clock on the side of it . (p=0.000234)
+Captions for image 20067039_440996429618628_5818067019622252544_n.jpg:
+  0) a close up of a cat in a car (p=0.001768)
+  1) a close up of a cat wearing a tie (p=0.000639)
+  2) a close up of a cat wearing a hat (p=0.000376)
+Captions for image 20213756_1981123962116011_9148633829173362688_n.jpg:
+  0) a large building with a clock on it (p=0.000063)
+  1) a large building with a clock on it . (p=0.000050)
+  2) a large building with a clock on the top of it . (p=0.000011)
+Captions for image 19931470_1976272759326623_7174480076099026944_n.jpg:
+  0) a black and white photo of a mountain range . (p=0.002842)
+  1) a black and white photo of a snow capped mountain (p=0.000706)
+  2) a black and white photo of a mountain range (p=0.000651)
+Captions for image 20184430_438124439902763_4348925756118663168_n.jpg:
+  0) a large body of water with mountains in the background . (p=0.000148)
+  1) a large body of water with a mountain in the background (p=0.000080)
+  2) a large body of water with a mountain in the background . (p=0.000062)
+Captions for image 19623339_1065345356933560_8980094368970964992_n.jpg:
+  0) a flock of birds sitting on top of a tree . (p=0.000717)
+  1) a flock of birds flying over a forest . (p=0.000501)
+  2) a flock of birds sitting on top of a power line . (p=0.000112)
+Captions for image 19534702_1540510219326481_2270135475748470784_n.jpg:
+  0) a view of a park with a bench and trees . (p=0.000010)
+  1) a view of a park with a bench in the foreground . (p=0.000003)
+  2) a view of a park with a bench in the middle . (p=0.000001)
+Captions for image 19425126_1412617392150049_7034864613590040576_n.jpg:
+  0) a car that is parked in front of a house . (p=0.000133)
+  1) a car that is parked in front of a tree . (p=0.000105)
+  2) a car parked in a parking lot next to a fire hydrant . (p=0.000078)
+Captions for image 19051771_306664119774171_8960284158735679488_n.jpg:
+  0) a close up of a bird on a tree branch (p=0.000035)
+  1) a close up of a frisbee in a field (p=0.000034)
+  2) a close up of a bird on a tree (p=0.000029)
+Captions for image 19761253_467307750294382_101540422811123712_n.jpg:
+  0) a tall clock tower with a sky background (p=0.005865)
+  1) a tall clock tower with a sky in the background (p=0.001134)
+  2) a clock tower with a sky in the background (p=0.000670)
+Captions for image 19227429_115528415717083_8357047485092331520_n.jpg:
+  0) a flock of birds flying over a forest . (p=0.001280)
+  1) a flock of birds sitting on top of a tree . (p=0.001190)
+  2) a flock of birds flying through a cloudy sky . (p=0.000963)
+Captions for image 18949625_1724545617843538_5064323499242291200_n.jpg:
+  0) a tall clock tower with a sky background (p=0.004918)
+  1) a tall clock tower with a sky in the background (p=0.001203)
+  2) a large clock tower with a clock on each of it 's sides . (p=0.000281)
+Captions for image 18644786_1327568803964501_8917530666996858880_n.jpg:
+  0) a group of people sitting around a table . (p=0.003419)
+  1) a group of people sitting around a table with laptops . (p=0.000395)
+  2) a group of people sitting around a table with a laptop . (p=0.000188)
+Captions for image 18808933_447940938901784_8221075009548845056_n.jpg:
+  0) a birthday cake with a train on it (p=0.000037)
+  1) a birthday cake with a train on it . (p=0.000026)
+  2) a cake shaped like a bird on a table . (p=0.000008)
+Captions for image 18879470_709128429268876_2997451572729872384_n.jpg:
+  0) a view of a harbor with several boats docked . (p=0.000018)
+  1) a view of a harbor with several boats in the water . (p=0.000008)
+  2) a view of a harbor with boats docked in the water . (p=0.000005)
+Captions for image 19428673_103973496900467_330764360701968384_n.jpg:
+  0) a red brick building with a clock on it . (p=0.000026)
+  1) a brick building with a clock on the side of it . (p=0.000015)
+  2) a red brick building with a clock on it (p=0.000010)
+Captions for image 18580415_1034603166671648_1756969080960581632_n.jpg:
+  0) a large clock tower towering over a city . (p=0.004248)
+  1) a large clock tower towering over a city at night . (p=0.000569)
+  2) a clock tower in the middle of a city . (p=0.000467)
+Captions for image 18580720_1857348894590095_372041388713312256_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.001079)
+  1) a train traveling down train tracks near a forest . (p=0.000796)
+  2) a train traveling down train tracks next to a forest . (p=0.000721)
+Captions for image 18299176_108802163024733_3088413250572779520_n.jpg:
+  0) a teddy bear sitting on top of a book . (p=0.000147)
+  1) a teddy bear sitting on top of a book shelf . (p=0.000065)
+  2) a teddy bear sitting on top of a book (p=0.000026)
+Captions for image 18252179_541866259534170_4169142793089843200_n.jpg:
+  0) a man walking down a street next to a tall building . (p=0.000357)
+  1) a man walking down a street next to a building . (p=0.000221)
+  2) a man walking down a street next to a street . (p=0.000035)
+Captions for image 18380380_294476434297881_2391697657409044480_n.jpg:
+  0) a tree in the middle of a forest . (p=0.000231)
+  1) a tree with a bird perched on top of it . (p=0.000187)
+  2) a tree in the middle of a forest (p=0.000087)
+Captions for image 18013158_1931169527094425_5141961561467781120_n.jpg:
+  0) a cat laying on the ground next to a shoe (p=0.000054)
+  1) a cat laying on the ground next to a shoe . (p=0.000046)
+  2) a cat laying on the ground next to a wall (p=0.000028)
+Captions for image 18096142_819171101570170_6587636639789481984_n.jpg:
+  0) a bridge over a river with a bridge in the background . (p=0.000221)
+  1) a bridge over a river with a bridge in the background (p=0.000066)
+  2) a bridge over a body of water with a bridge in the background . (p=0.000062)
+Captions for image 18298878_244726422600768_4703944853703098368_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.001895)
+  1) a train traveling down train tracks next to a forest . (p=0.001581)
+  2) a train traveling down tracks next to a lush green field . (p=0.000877)
+Captions for image 18012111_232356750577744_7390628840755691520_n.jpg:
+  0) a large clock tower towering over a city . (p=0.002022)
+  1) a large clock tower towering over a city at night . (p=0.000369)
+  2) a large clock tower towering over a city at dusk . (p=0.000057)
+Captions for image 17818089_451425081870281_132397061298454528_n.jpg:
+  0) a large building with a clock on the top . (p=0.000574)
+  1) a large building with a clock on it (p=0.000484)
+  2) a large clock tower with a clock on it 's side . (p=0.000304)
+Captions for image 17439256_1884211191820015_1300417205606809600_n.jpg:
+  0) a tall clock tower with a sky background (p=0.003754)
+  1) a tall clock tower with a clock on each of it 's sides . (p=0.001561)
+  2) a large clock tower with a clock on each of it 's sides . (p=0.001042)
+Captions for image 17663637_396177767430939_4777140223232442368_n.jpg:
+  0) a cat sitting on top of a wooden bench . (p=0.000562)
+  1) a cat sitting on top of a wooden chair . (p=0.000112)
+  2) a cat sitting on top of a wooden table . (p=0.000077)
+Captions for image 17882527_1673130296315808_3743616524531793920_n.jpg:
+  0) a man standing in a kitchen next to a window . (p=0.000466)
+  1) a man standing in front of a window in a kitchen . (p=0.000286)
+  2) a man standing in front of a window in a house . (p=0.000112)
+Captions for image 17077752_1816340435286714_2671531235058122752_n.jpg:
+  0) a cat that is sitting on top of a book . (p=0.000129)
+  1) a cat that is sitting on top of a banana . (p=0.000048)
+  2) a cat that is sitting on top of a sign . (p=0.000036)
+Captions for image 17077055_746215778866713_5651019424900055040_n.jpg:
+  0) a cat sitting on the ground in front of a building . (p=0.000061)
+  1) a cat sitting on the ground in front of a door . (p=0.000053)
+  2) a cat sitting on the ground in front of a house . (p=0.000050)
+Captions for image 17125936_1490628724326666_6103601818464419840_n.jpg:
+  0) a bird perched on top of a tree branch . (p=0.010855)
+  1) a bird perched on top of a tree . (p=0.002158)
+  2) a bird perched on top of a tree branch (p=0.000940)
+Captions for image 17125902_263565540763631_6963757113562628096_n.jpg:
+  0) a large building with a clock on it . (p=0.000452)
+  1) a large building with a clock on it (p=0.000385)
+  2) a large building with a clock on the top . (p=0.000338)
+Captions for image 16907004_613929415476083_1563825479696252928_n.jpg:
+  0) a train traveling down tracks next to a train station . (p=0.000711)
+  1) a train on a train track near a train station (p=0.000395)
+  2) a train traveling down tracks next to a loading platform . (p=0.000336)
+Captions for image 16906466_1351078158287142_3096849841947410432_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.000580)
+  1) a book shelf filled with lots of different types of books . (p=0.000175)
+  2) a book shelf filled with different types of books . (p=0.000167)
+Captions for image 16789969_1817349805180995_871612897749368832_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001147)
+  1) a large body of water with a clock tower on top of it . (p=0.000060)
+  2) a large body of water with a clock tower in the background . (p=0.000041)
+Captions for image 16230451_600864956790235_3601816834929590272_n.jpg:
+  0) a view of a sunset over a body of water . (p=0.000060)
+  1) a view of a sunset from the water . (p=0.000039)
+  2) a view of a sunset over a body of water (p=0.000012)
+Captions for image 16229154_261944240903444_8640066085934071808_n.jpg:
+  0) a bird perched on top of a tree branch . (p=0.004031)
+  1) a bird perched on top of a tree . (p=0.002082)
+  2) a bird perched on top of a tree in a forest . (p=0.000500)
+Captions for image 16123707_1275710012508525_5095885036352176128_n.jpg:
+  0) a pair of shoes sitting on top of a skateboard . (p=0.000940)
+  1) a close up of a pair of shoes on a skate board (p=0.000276)
+  2) a close up of a pair of shoes on the ground (p=0.000263)
+Captions for image 16465212_1707977872549425_7502483563103649792_n.jpg:
+  0) a train traveling down tracks next to a train station . (p=0.000649)
+  1) a train traveling down train tracks next to a train station . (p=0.000342)
+  2) a train traveling down tracks next to a lush green hillside . (p=0.000156)
+Captions for image 15802713_1790016931250416_3765659370436689920_n.jpg:
+  0) a person holding a skateboard in their hands . (p=0.000101)
+  1) a person holding a skateboard in their hands (p=0.000022)
+  2) a person holding a skateboard in front of a book . (p=0.000011)
+Captions for image 15877229_379163635768784_8629387328357400576_n.jpg:
+  0) a cat that is laying down on the ground . (p=0.000858)
+  1) a cat that is laying down on a rock . (p=0.000691)
+  2) a cat that is laying down on some rocks . (p=0.000265)
+Captions for image 16230090_104583903373757_7524809906914852864_n.jpg:
+  0) a dog sitting in a doorway of a building . (p=0.000090)
+  1) a dog sitting in a doorway of a building (p=0.000031)
+  2) a dog sitting on the floor of a building . (p=0.000022)
+Captions for image 15538201_1823169321231206_4399725048747786240_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000313)
+  1) a sign that is on the side of a wall . (p=0.000038)
+  2) a sign that is on the side of a building (p=0.000010)
+Captions for image 15803317_1034693320009163_7602346762530979840_n.jpg:
+  0) a black and white cat sitting on a bench . (p=0.000543)
+  1) a black and white cat sitting on a wooden bench . (p=0.000468)
+  2) a black and white cat is sitting on a bench . (p=0.000303)
+Captions for image 15538280_1223490984406906_3013233893915492352_n.jpg:
+  0) a view of a mountain range with mountains in the background . (p=0.000214)
+  1) a view of a mountain range with mountains in the distance . (p=0.000062)
+  2) a view of a mountain range with a mountain in the background . (p=0.000043)
+Captions for image 15276713_537499329791017_6881591657590947840_n.jpg:
+  0) a view of a mountain range from a plane . (p=0.000277)
+  1) a view of a mountain range with a mountain in the background . (p=0.000075)
+  2) a view of a mountain range from a plane (p=0.000047)
+Captions for image 15534609_1311715105566194_1219004970934730752_n.jpg:
+  0) a large mountain range with mountains in the background . (p=0.000226)
+  1) a large mountain range with mountains in the distance . (p=0.000063)
+  2) a large mountain range with mountains in the background (p=0.000058)
+Captions for image 15251605_635253676646955_509651273293758464_n.jpg:
+  0) a cat sitting on a chair in a room . (p=0.000385)
+  1) a cat sitting on a chair in a living room . (p=0.000381)
+  2) a cat sitting on a chair in a living room (p=0.000202)
+Captions for image 14607156_2168505590040317_3458052957998678016_n.jpg:
+  0) a dog laying on the ground next to a tree . (p=0.000058)
+  1) a dog laying on the ground next to a bench . (p=0.000051)
+  2) a dog laying on the ground next to a tree (p=0.000047)
+Captions for image 15276543_583021451906346_8740433634781036544_n.jpg:
+  0) a view of a mountain range from a plane . (p=0.000087)
+  1) a view of a mountain range with a mountain in the background . (p=0.000042)
+  2) a view of a mountain range with a mountain range in the background . (p=0.000026)
+Captions for image 15338501_1769472870044126_2760729669912231936_n.jpg:
+  0) a bunch of trash that are in the snow . (p=0.000021)
+  1) a bunch of trash that are in the dirt . (p=0.000017)
+  2) a bunch of trash that are on a sidewalk . (p=0.000012)
+Captions for image 14701224_191923174546959_8027415423798476800_n.jpg:
+  0) a man walking down a street next to a tall building . (p=0.000045)
+  1) a man walking down a street next to a building . (p=0.000043)
+  2) a man walking down a street past a tall building . (p=0.000042)
+Captions for image 14717461_637123379798758_6889406268981641216_n.jpg:
+  0) a person sitting on a bench in front of a building . (p=0.000112)
+  1) a man sitting on a bench in front of a building . (p=0.000097)
+  2) a person sitting on a bench in front of a building (p=0.000063)
+Captions for image 14719695_1425816867446558_7465841083977564160_n.jpg:
+  0) a birthday cake that has been decorated with flowers . (p=0.000005)
+  1) a birthday cake that has been made to look like a train . (p=0.000002)
+  2) a birthday cake that has been decorated with flowers (p=0.000001)
+Captions for image 14701241_1761084387479939_3157249030728187904_n.jpg:
+  0) a group of people standing on top of a hill . (p=0.000236)
+  1) a group of people standing on top of a lush green hillside . (p=0.000223)
+  2) a group of people standing on top of a lush green field . (p=0.000151)
+Captions for image 14565112_168725373591368_8392714564260593664_n.jpg:
+  0) a group of people standing outside of a farmers market . (p=0.000384)
+  1) a group of people shopping at a fruit market . (p=0.000242)
+  2) a group of people shopping at a fruit stand . (p=0.000204)
+Captions for image 14676748_100827637061085_3794344331725242368_n.jpg:
+  0) a man in a suit and tie holding a cell phone . (p=0.000011)
+  1) a man in a suit and tie holding a cell phone (p=0.000007)
+  2) a man in a suit and tie holding up a cell phone . (p=0.000005)
+Captions for image 14591141_147361059070301_4944205899766956032_n.jpg:
+  0) a cat sitting on the ground looking at the camera . (p=0.000068)
+  1) a cat sitting on the ground looking at the camera (p=0.000058)
+  2) a cat sitting on the ground next to a pair of shoes . (p=0.000019)
+Captions for image 13736115_731017323704689_2132014500_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000069)
+  1) a train station with a train on the tracks (p=0.000033)
+  2) a train station with a train passing by . (p=0.000028)
+Captions for image 14540661_636055723243120_2876179571944718336_n.jpg:
+  0) a blue and white umbrella sitting on top of a table . (p=0.000032)
+  1) a blue and white umbrella sitting on top of a wooden table . (p=0.000008)
+  2) a blue and white umbrella sitting on a table . (p=0.000006)
+Captions for image 14607018_163575754097485_6021331702729670656_n.jpg:
+  0) a bird is sitting on a wooden bench . (p=0.000167)
+  1) a bird is sitting on a wooden bench (p=0.000041)
+  2) a bird sitting on a wooden bench in a garden . (p=0.000021)
+Captions for image 14596773_1810181755933448_416629119250333696_n.jpg:
+  0) a cat sitting on the ground next to a bench . (p=0.000045)
+  1) a cat sitting on the ground next to a wooden bench . (p=0.000034)
+  2) a cat sitting on the ground next to a rock . (p=0.000028)
+Captions for image 14596681_1684627778531321_8821913545252798464_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.000832)
+  1) a train traveling down tracks next to a lush green field . (p=0.000385)
+  2) a train traveling down tracks next to a lush green hillside . (p=0.000344)
+Captions for image 14719775_864773856990291_917520600585469952_n.jpg:
+  0) a tall clock tower with a sky background (p=0.005528)
+  1) a tall clock tower with a clock on each of it 's sides . (p=0.001493)
+  2) a large clock tower with a clock on each of it 's sides . (p=0.000885)
+Captions for image 14374337_159686697820506_3481578886175653888_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000014)
+  1) a train station with a train on the tracks (p=0.000009)
+  2) a train station with a train passing by (p=0.000005)
+Captions for image 14498879_156537124802658_6661299495034159104_n.jpg:
+  0) a group of birds sitting on top of a wooden fence . (p=0.000021)
+  1) a group of birds sitting on top of a wooden structure . (p=0.000021)
+  2) a group of birds sitting on top of a metal fence . (p=0.000011)
+Captions for image 14280439_1778514982416420_467262830_n.jpg:
+  0) a group of people standing in a field with umbrellas . (p=0.000188)
+  1) a group of people standing in a field . (p=0.000178)
+  2) a group of people standing in a park with umbrellas . (p=0.000075)
+Captions for image 14351015_1749303275318073_1116944496_n.jpg:
+  0) a tall clock tower with a sky background (p=0.007143)
+  1) a tall clock tower with a sky in the background (p=0.001545)
+  2) a clock tower with a weather vane on top . (p=0.000553)
+Captions for image 14359337_1873905062830643_645283382_n.jpg:
+  0) a kite flying in the sky over a city . (p=0.000065)
+  1) a kite flying high in the sky with a sky background (p=0.000055)
+  2) a kite flying in the sky over a city (p=0.000039)
+Captions for image 14280373_669660929875634_625481341_n.jpg:
+  0) a large body of water with a bridge in the background . (p=0.000354)
+  1) a large body of water with a bridge over it . (p=0.000329)
+  2) a large body of water with a bridge in the background (p=0.000320)
+Captions for image 13584308_272766646413828_392595241_n.jpg:
+  0) a cat sitting on a bench next to a wall . (p=0.000011)
+  1) a cat sitting on a bench next to a street . (p=0.000010)
+  2) a cat sitting on a bench next to a wall (p=0.000008)
+Captions for image 14262863_1821382851414468_1077747931_n.jpg:
+  0) a close up of a bottle of beer next to a fire hydrant (p=0.000004)
+  1) a close up of a bottle of beer next to a bottle (p=0.000004)
+  2) a close up of a bottle of water with a bottle (p=0.000004)
+Captions for image 14240961_513827512143198_1947350113_n.jpg:
+  0) a large bridge spanning the width of a river . (p=0.004233)
+  1) a large bridge spanning the width of a river (p=0.000235)
+  2) a bridge over a river with a bridge in the background . (p=0.000103)
+Captions for image 14240874_1241459162571190_233695721_n.jpg:
+  0) a large clock tower with a sky background (p=0.000184)
+  1) a large building with a clock on it (p=0.000085)
+  2) a large building with a clock on it . (p=0.000050)
+Captions for image 14145521_680201675477427_1462375780_n.jpg:
+  0) a brown and white dog sitting on top of a red chair . (p=0.000195)
+  1) a brown and white dog sitting on top of a wooden bench . (p=0.000052)
+  2) a brown and white dog sitting on top of a red couch . (p=0.000046)
+Captions for image 14031701_854430451359191_2100356280_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000190)
+  1) a clock tower in the middle of a cloudy sky . (p=0.000058)
+  2) a clock tower in the middle of a city (p=0.000056)
+Captions for image 14134746_1071088866262390_1269502142_n.jpg:
+  0) a large building with a clock on it (p=0.000605)
+  1) a large building with a clock on the front . (p=0.000560)
+  2) a building with a clock on the front of it (p=0.000536)
+Captions for image 14052593_1079227302161719_1749963525_n.jpg:
+  0) a cat that is laying down on the ground . (p=0.001535)
+  1) a cat that is laying down on a sidewalk . (p=0.000423)
+  2) a cat that is laying down on a street . (p=0.000186)
+Captions for image 14334688_840646279370389_1473810231_n.jpg:
+  0) a wooden bench sitting in the middle of a forest . (p=0.000458)
+  1) a wooden bench sitting in front of a tree . (p=0.000068)
+  2) a wooden bench sitting in a forest next to a forest . (p=0.000031)
+Captions for image 14033732_323779451289655_1622984480_n.jpg:
+  0) a gray and white cat is sitting on the ground . (p=0.000118)
+  1) a gray and white cat sitting on top of a car . (p=0.000087)
+  2) a gray and white cat sitting on top of a wooden bench . (p=0.000055)
+Captions for image 13739426_1235782919811650_1632045767_n.jpg:
+  0) a black and white cat sitting on a wooden chair . (p=0.000836)
+  1) a black and white cat sitting on top of a wooden chair . (p=0.000625)
+  2) a black and white cat sitting on a wooden bench . (p=0.000548)
+Captions for image 13643015_1101470466602164_111773083_n.jpg:
+  0) a boat sitting on top of a lush green field . (p=0.000944)
+  1) a boat sitting on top of a grass covered field . (p=0.000299)
+  2) a boat sitting on top of a lush green hillside . (p=0.000207)
+Captions for image 14031703_490280457836889_1608693711_n.jpg:
+  0) a train on a train track with a sky background (p=0.001007)
+  1) a train traveling down tracks next to a train station . (p=0.000728)
+  2) a train traveling down tracks next to a lush green field . (p=0.000214)
+Captions for image 14073195_116833068767201_1310354032_n.jpg:
+  0) a large building with a clock on it . (p=0.000180)
+  1) a large building with a clock on it (p=0.000171)
+  2) a large building with a large clock tower . (p=0.000119)
+Captions for image 13725748_1745220395766923_1725409165_n.jpg:
+  0) a cat sitting on top of a wooden bench . (p=0.000218)
+  1) a cat sitting on top of a white toilet . (p=0.000210)
+  2) a cat sitting on top of a white toilet seat . (p=0.000066)
+Captions for image 13739560_140801726360550_1081852695_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.001359)
+  1) a large clock mounted to the side of a wall . (p=0.001088)
+  2) a clock on a wall in a room (p=0.000231)
+Captions for image 13628305_1842368499318254_1338170546_n.jpg:
+  0) a view of a city from the inside of a building . (p=0.000003)
+  1) a view of a city with a clock tower in the center . (p=0.000001)
+  2) a view of a city from the inside of a building (p=0.000000)
+Captions for image 13556982_1403139763045987_572767340_n.jpg:
+  0) a view of a mountain range with a mountain in the background . (p=0.000039)
+  1) a view of a mountain range with a mountain range in the background . (p=0.000035)
+  2) a view of a mountain range from the top of a mountain . (p=0.000022)
+Captions for image 13561950_1819185114982286_283124680_n.jpg:
+  0) a truck is parked on the side of the road . (p=0.000176)
+  1) a truck is parked on the side of a road . (p=0.000122)
+  2) a truck is parked on the side of the road (p=0.000057)
+Captions for image 13714019_1052459344832682_1003126495_n.jpg:
+  0) a man standing in a field with a kite . (p=0.000121)
+  1) a man standing in a field next to a mountain . (p=0.000064)
+  2) a man is standing in a field with a kite . (p=0.000046)
+Captions for image 13712797_1781707158733006_1170410290_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.002942)
+  1) a black and white picture of a clock tower . (p=0.001001)
+  2) a black and white photo of a clock tower (p=0.000957)
+Captions for image 13703200_573731902807357_908978904_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.004865)
+  1) a train traveling over a bridge over water . (p=0.001619)
+  2) a train on a bridge over a body of water (p=0.001118)
+Captions for image 13703018_304522789898776_543456174_n.jpg:
+  0) a black and white photo of a train station . (p=0.000850)
+  1) a black and white photo of a train station (p=0.000499)
+  2) a black and white photo of a city street (p=0.000383)
+Captions for image 13702936_1200499166639672_1355945459_n.jpg:
+  0) a man sitting on a bench in front of a building . (p=0.000127)
+  1) a man standing in front of a wooden fence . (p=0.000126)
+  2) a man sitting on a bench in a park . (p=0.000058)
+Captions for image 13768253_1135130149843454_1578566803_n.jpg:
+  0) a boat that is sitting in the water . (p=0.001076)
+  1) a boat that is sitting on the ground . (p=0.000130)
+  2) a boat that is sitting in the water (p=0.000043)
+Captions for image 13743480_266931443678596_745790816_n.jpg:
+  0) a cat and a dog are laying on the ground . (p=0.000017)
+  1) a cat and a dog on a bench (p=0.000014)
+  2) a cat and a dog are laying on a bench . (p=0.000008)
+Captions for image 13696361_274675089566420_1077497235_n.jpg:
+  0) a cat laying on top of a wooden floor . (p=0.000957)
+  1) a black and white cat laying on the ground . (p=0.000954)
+  2) a black and white cat laying on the ground (p=0.000557)
+Captions for image 13721327_1246860958681535_638713632_n.jpg:
+  0) a bus is parked in front of a building . (p=0.000012)
+  1) a train station with a train on the tracks . (p=0.000006)
+  2) a bus is parked in front of a store . (p=0.000006)
+Captions for image 13687044_632930240217659_453523332_n.jpg:
+  0) a small boat is sitting in the water . (p=0.000015)
+  1) a small boat is sitting in the water (p=0.000010)
+  2) a small boat sitting on top of a beach . (p=0.000007)
+Captions for image 13658431_1800798990150925_1223277051_n.jpg:
+  0) a black and white cat sitting on a window sill . (p=0.000736)
+  1) a black and white cat sitting in a window sill . (p=0.000424)
+  2) a black and white cat sitting on top of a wooden bench . (p=0.000315)
+Captions for image 13735855_1775195392725957_904792623_n.jpg:
+  0) a close up of a book on a table (p=0.000158)
+  1) a close up of a person holding a book (p=0.000062)
+  2) a close up of a person holding a nintendo wii remote (p=0.000046)
+Captions for image 13741076_1211004508940533_215276523_n.jpg:
+  0) a boat traveling down a river next to a forest . (p=0.000094)
+  1) a boat floating on top of a river next to a bridge . (p=0.000053)
+  2) a boat floating on top of a river next to a forest . (p=0.000041)
+Captions for image 13671297_1561003994202921_1322666656_n.jpg:
+  0) a large building with a clock tower in the middle of it . (p=0.000016)
+  1) a train station with a train passing by (p=0.000015)
+  2) a large building with a clock tower on top of it . (p=0.000013)
+Captions for image 13628201_407050106130593_1586234775_n.jpg:
+  0) a plane flying high in the sky with a sky background (p=0.000019)
+  1) a plane flying high in the sky over a city . (p=0.000011)
+  2) a plane flying high in the sky with clouds in the background (p=0.000008)

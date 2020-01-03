@@ -1,0 +1,628 @@
+Captions for image 12816976_965786050184750_196764872_n.jpg:
+  0) a person walking down a street with a clock . (p=0.000131)
+  1) a man walking down a street with a clock . (p=0.000068)
+  2) a man walking down a street with a clock on his head . (p=0.000006)
+Captions for image 12905033_264254420572677_263976719_a.jpg:
+  0) a man in a suit and tie standing in front of a building . (p=0.000048)
+  1) a man in a suit and tie sitting on a bench . (p=0.000042)
+  2) a man in a suit and tie standing on a bridge . (p=0.000036)
+Captions for image 16585553_1438707746201309_2921448913791614976_n.jpg:
+  0) a man riding a snowboard down a snow covered slope . (p=0.000605)
+  1) a man riding a skateboard down a street . (p=0.000398)
+  2) a man riding a skateboard on top of a wooden bench . (p=0.000109)
+Captions for image 1538459_1630051793882458_509566747_n.jpg:
+  0) a group of people standing in a room . (p=0.002415)
+  1) a group of people standing in a living room . (p=0.001745)
+  2) a group of people standing in a living room playing nintendo wii (p=0.000376)
+Captions for image 20347319_1883805821880331_5315414992537780224_n.jpg:
+  0) a group of bikes parked next to each other . (p=0.000127)
+  1) a group of bikes parked next to a building . (p=0.000109)
+  2) a group of bikes parked next to each other on a sidewalk . (p=0.000032)
+Captions for image 11191415_654126388050827_1390509827_n.jpg:
+  0) a blue bus parked next to a building . (p=0.000063)
+  1) a blue truck parked next to a building . (p=0.000058)
+  2) a blue and white bus parked next to a building . (p=0.000055)
+Captions for image 54511814_404383500345771_2690315482376026804_n.jpg:
+  0) a group of people sitting on top of a lush green field . (p=0.000659)
+  1) a group of people standing around a lush green field . (p=0.000343)
+  2) a group of people sitting on top of a grass covered field . (p=0.000193)
+Captions for image 46635534_299050240706746_2760435220183569903_n.jpg:
+  0) a tall building with a clock on it . (p=0.000256)
+  1) a tall building with a clock on it (p=0.000195)
+  2) a large building with a clock on it . (p=0.000145)
+Captions for image 43778885_197604687808654_3428646763750807080_n.jpg:
+  0) a statue of a man holding a skateboard . (p=0.000360)
+  1) a statue of a man holding a skateboard (p=0.000098)
+  2) a statue of a man sitting on a bench next to a statue . (p=0.000011)
+Captions for image 43714489_2355314157875594_5208040333957115901_n.jpg:
+  0) a man and a woman eating hot dogs . (p=0.000350)
+  1) a man and a woman eating a hot dog . (p=0.000113)
+  2) a man and a woman eating a hot dog (p=0.000043)
+Captions for image 19050966_1365857473450316_7317441769103163392_n.jpg:
+  0) a man standing next to a fire hydrant . (p=0.001431)
+  1) a man standing in front of a fire hydrant . (p=0.001061)
+  2) a man standing next to a fire hydrant in a forest . (p=0.000165)
+Captions for image 60180244_2183581365044943_9074274611281289002_n.jpg:
+  0) a man and a woman on a boat in the water . (p=0.000518)
+  1) a man and a woman in a boat in the water . (p=0.000113)
+  2) a man and a woman on a boat in a river . (p=0.000112)
+Captions for image 43985287_1758241467621901_3037993134903520119_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.001191)
+  1) a red stop sign sitting on the side of a building . (p=0.000515)
+  2) a red stop sign sitting on the side of a street . (p=0.000490)
+Captions for image 43755730_308330799752644_8937539364404509903_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001239)
+  1) a large building with a clock on the top . (p=0.000218)
+  2) a large building with a clock tower in the center . (p=0.000163)
+Captions for image 42724969_929549843911003_931262007154318079_n.jpg:
+  0) a bicycle parked in front of a building . (p=0.000969)
+  1) a bicycle parked in front of a building (p=0.000214)
+  2) a bicycle parked in front of a building with a clock on it . (p=0.000018)
+Captions for image 42999326_322337145216368_6871476083235332595_n.jpg:
+  0) a man in a suit and tie holding a sign . (p=0.000002)
+  1) a man in a suit and tie standing in front of a sign . (p=0.000001)
+  2) a man in a suit and tie holding a sign (p=0.000001)
+Captions for image 42571053_242409446440384_4113647759609880689_n.jpg:
+  0) a man standing in a field holding a kite . (p=0.000215)
+  1) a man standing in a field holding a frisbee . (p=0.000154)
+  2) a man standing in a field with a frisbee . (p=0.000102)
+Captions for image 43820665_293234121284311_9026730257881084683_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000434)
+  1) a tall building with a clock on it (p=0.000303)
+  2) a large building with a clock tower on top of it . (p=0.000260)
+Captions for image 43912955_340472496687758_903502533968390855_n.jpg:
+  0) a woman is holding a pair of scissors . (p=0.000100)
+  1) a woman is holding a pair of scissors (p=0.000091)
+  2) a man is holding a cell phone in his hand . (p=0.000043)
+Captions for image 43090970_298459850880960_5307178977345084282_n.jpg:
+  0) a view of a lake with a mountain in the background . (p=0.000016)
+  1) a view of a lake with a mountain in the distance . (p=0.000007)
+  2) a view of a lake with a boat in the distance . (p=0.000007)
+Captions for image 44247333_371419926759251_3981627708913493339_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000537)
+  1) a large building with a clock tower on top of it . (p=0.000318)
+  2) a large building with a clock tower in the middle . (p=0.000221)
+Captions for image 25038378_112460026248644_7762729293859258368_n.jpg:
+  0) a bird perched on top of a tree branch . (p=0.003764)
+  1) a bird perched on top of a tree . (p=0.002214)
+  2) a bird perched on a tree branch in a forest . (p=0.000782)
+Captions for image 27581217_171944566672535_602877236420280320_n.jpg:
+  0) a group of people standing on top of a train . (p=0.000279)
+  1) a group of people standing on top of a bridge . (p=0.000213)
+  2) a group of people standing on a dock next to a boat . (p=0.000054)
+Captions for image 43985526_2088199624536305_7838142796682371457_n.jpg:
+  0) a statue of a man riding a horse in front of a building . (p=0.000298)
+  1) a statue of a man riding a horse on a street . (p=0.000150)
+  2) a statue of a man riding a horse on a city street (p=0.000117)
+Captions for image 27894203_145960159549533_899908537432408064_n.jpg:
+  0) a large jetliner flying over a lush green field . (p=0.000608)
+  1) a large jetliner flying over a lush green hillside . (p=0.000217)
+  2) a large jetliner flying over a bridge over a river . (p=0.000114)
+Captions for image 25022388_1564313150311237_4904352004874174464_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000438)
+  1) a group of people standing in front of a tall building . (p=0.000281)
+  2) a group of people walking down a street next to a building . (p=0.000107)
+Captions for image 25012810_1968385520078462_1309235310336409600_n.jpg:
+  0) a large clock tower in the middle of a city . (p=0.000131)
+  1) a large clock tower sitting in the middle of a park . (p=0.000120)
+  2) a large clock tower in the middle of a park . (p=0.000119)
+Captions for image 43218022_489161481596907_2926336777219458215_n.jpg:
+  0) a tall building with a clock on it (p=0.000310)
+  1) a large building with a clock on the top . (p=0.000251)
+  2) a tall building with a clock on the top of it . (p=0.000165)
+Captions for image 12819015_1673398572920209_2100472004_n.jpg:
+  0) a man in a suit and tie standing on a bridge . (p=0.000132)
+  1) a man in a suit and tie standing on a bridge (p=0.000060)
+  2) a man in a suit and tie standing in front of a building . (p=0.000033)
+Captions for image 13108732_1688638054736418_884243940_n.jpg:
+  0) a man holding a glass of wine in his hand . (p=0.000643)
+  1) a man holding a glass of wine in his hands . (p=0.000323)
+  2) a man holding a glass of wine in his hand (p=0.000132)
+Captions for image 27580823_225220901385069_7446074240027066368_n.jpg:
+  0) a man sitting on a bench next to a train . (p=0.000094)
+  1) a man sitting on a bench in front of a train . (p=0.000055)
+  2) a man sitting on a bench looking out the window . (p=0.000034)
+Captions for image 43638146_173245700245174_4364662169769239833_n.jpg:
+  0) a large clock on the wall of a building . (p=0.000043)
+  1) a large clock on the wall of a building (p=0.000031)
+  2) a large clock on a wall in a room . (p=0.000029)
+Captions for image 17493606_196171004206709_6431258237751787520_n.jpg:
+  0) a man sitting on a toilet in a bathroom . (p=0.000654)
+  1) a man sitting on a toilet in a room . (p=0.000396)
+  2) a man sitting on a toilet in a restroom . (p=0.000117)
+Captions for image 17125719_345436455850967_4219485247227559936_n.jpg:
+  0) a man riding a skateboard down the side of a ramp . (p=0.004434)
+  1) a man riding a skateboard down a street . (p=0.001580)
+  2) a young man riding a skateboard down a street . (p=0.000904)
+Captions for image 18299594_416061202105755_4540624496024879104_n.jpg:
+  0) a man sitting on top of a bench next to a lake . (p=0.000363)
+  1) a man sitting on top of a bench next to a river . (p=0.000334)
+  2) a man sitting on top of a bench near a river . (p=0.000283)
+Captions for image 27581951_417521425349325_573941758279286784_n.jpg:
+  0) a man standing in a room with a clock . (p=0.000022)
+  1) a man standing in a room next to a piano . (p=0.000015)
+  2) a man standing in a room next to a table . (p=0.000012)
+Captions for image 16583205_244413246012889_6911421300678328320_n.jpg:
+  0) a close up of a person wearing a motorcycle helmet (p=0.000092)
+  1) a close up of a person wearing a helmet (p=0.000059)
+  2) a close up of a person wearing a motorcycle (p=0.000028)
+Captions for image 16110555_1187702614684274_3617456825193988096_n.jpg:
+  0) a man standing in a living room holding a game controller . (p=0.000337)
+  1) a man standing in a living room holding a wii controller . (p=0.000307)
+  2) a man standing in a living room holding a nintendo wii controller . (p=0.000256)
+Captions for image 13671799_110318892754404_413710932_n.jpg:
+  0) a black and white photo of a beach with people on it . (p=0.000296)
+  1) a black and white photo of a beach with people on it (p=0.000127)
+  2) a black and white photo of a beach with people walking on it . (p=0.000089)
+Captions for image 13743580_898844616888959_233787971_n.jpg:
+  0) a black and white photo of a car parked in a parking lot . (p=0.000149)
+  1) a black and white photo of a car parked in a parking lot (p=0.000087)
+  2) a black and white photo of a car and a car . (p=0.000077)
+Captions for image 13724629_865555190242600_375966630_n.jpg:
+  0) a black and white photo of a man and a woman (p=0.000429)
+  1) a black and white photo of a man and a woman . (p=0.000354)
+  2) a black and white photo of a group of people . (p=0.000319)
+Captions for image 13743543_805338299568344_2081293293_n.jpg:
+  0) a black and white photo of a street sign . (p=0.000464)
+  1) a black and white photo of a street sign (p=0.000347)
+  2) a black and white photo of a street light (p=0.000177)
+Captions for image 13694838_1763806617194711_1868796135_n.jpg:
+  0) a man standing in a field with a frisbee . (p=0.000378)
+  1) a man standing in a field with a kite . (p=0.000302)
+  2) a man is standing in a field with a kite . (p=0.000121)
+Captions for image 13743654_1658764624449855_1714035853_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.000311)
+  1) a black and white photo of a building (p=0.000167)
+  2) a black and white photo of a building with a clock (p=0.000139)
+Captions for image 13735834_622953624578471_1699991304_n.jpg:
+  0) a woman is walking down the street talking on a cell phone . (p=0.000054)
+  1) a woman is walking down the street talking on her cell phone . (p=0.000037)
+  2) a woman is walking down the street talking on a phone . (p=0.000026)
+Captions for image 13628176_860651200745796_1127398042_n.jpg:
+  0) a man and woman sitting on a bench . (p=0.001864)
+  1) a woman sitting on a bench next to a man . (p=0.000285)
+  2) a man and woman sitting on a bench in front of a building . (p=0.000187)
+Captions for image 13734500_876212439150191_1099386252_n.jpg:
+  0) a large elephant standing on top of a dirt field . (p=0.000790)
+  1) a large elephant standing next to a stone wall . (p=0.000645)
+  2) a large elephant standing next to a wooden fence . (p=0.000485)
+Captions for image 13385922_512310972286752_1880510031_n.jpg:
+  0) a woman sitting on a bench in front of a building . (p=0.001085)
+  1) a woman sitting on a bench in front of a store . (p=0.000687)
+  2) a woman sitting on a bench in front of a building (p=0.000174)
+Captions for image 13423463_659221557564927_1249319287_n.jpg:
+  0) a building with a clock on the top of it . (p=0.000486)
+  1) a large building with a clock on the top . (p=0.000464)
+  2) a large building with a clock on it (p=0.000401)
+Captions for image 13437404_1303387499675686_116593368_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000476)
+  1) a large building with a clock on it (p=0.000363)
+  2) a large building with a clock on the front of it . (p=0.000335)
+Captions for image 13725590_506463982890869_60332392_n.jpg:
+  0) a black and white photo of a city street . (p=0.005739)
+  1) a black and white photo of a city street (p=0.004648)
+  2) a black and white photo of a busy city street . (p=0.001987)
+Captions for image 13397664_200324807029984_1433742880_n.jpg:
+  0) a tall building with a clock on it (p=0.000389)
+  1) a large building with a clock on the top of it . (p=0.000249)
+  2) a large building with a clock on the front of it . (p=0.000208)
+Captions for image 13402587_192833414450243_38431817_n.jpg:
+  0) a large building with a clock on the front . (p=0.000656)
+  1) a large building with a clock on it (p=0.000631)
+  2) a very tall building with a clock on it 's side . (p=0.000506)
+Captions for image 13285250_287321324935215_2063184309_n.jpg:
+  0) a black and white photo of a group of people (p=0.000179)
+  1) a black and white photo of a group of people . (p=0.000164)
+  2) a black and white photo of a group of people posing for a picture . (p=0.000038)
+Captions for image 13320109_602818439886188_240423260_n.jpg:
+  0) a group of people sitting around a table . (p=0.000296)
+  1) a group of people sitting on top of a wooden bench . (p=0.000074)
+  2) a group of people sitting on top of a bench . (p=0.000046)
+Captions for image 13267414_627071627447475_180322362_n.jpg:
+  0) a room with a bed and a television . (p=0.000027)
+  1) a room with a bed and a tv (p=0.000020)
+  2) a room with a bed and a television (p=0.000015)
+Captions for image 13129249_1163124967054927_490980139_n.jpg:
+  0) a man in a suit is holding a cell phone . (p=0.000147)
+  1) a man in a suit and tie holding a cell phone . (p=0.000074)
+  2) a man in a suit and tie holding up a cell phone . (p=0.000027)
+Captions for image 13188167_745573518916999_627426040_n.jpg:
+  0) a group of people sitting around a table eating food . (p=0.005837)
+  1) a group of people sitting around a table eating pizza . (p=0.005219)
+  2) a group of people sitting around a table with food . (p=0.003405)
+Captions for image 13129451_1724580767810919_1096040154_n.jpg:
+  0) a pile of luggage sitting on top of a floor . (p=0.000697)
+  1) a pile of luggage sitting on top of a wooden floor . (p=0.000528)
+  2) a pile of luggage sitting on the floor next to a wall . (p=0.000045)
+Captions for image 13129353_1602133053431266_553576284_n.jpg:
+  0) a cake with a candle on top of it . (p=0.000035)
+  1) a cake with a candle on top of it (p=0.000024)
+  2) a wedding cake with a candle on top of it . (p=0.000011)
+Captions for image 13117891_1686289481633980_1413859422_n.jpg:
+  0) a park area with benches and a bench . (p=0.000018)
+  1) a park area with benches and trees in the background . (p=0.000006)
+  2) a park area with benches and a bench (p=0.000005)
+Captions for image 13129611_269387776728003_97155006_n.jpg:
+  0) a group of people walking down a rain soaked street . (p=0.001476)
+  1) a group of people walking down a street holding umbrellas . (p=0.001230)
+  2) a group of people walking down a street with umbrellas . (p=0.000816)
+Captions for image 13129942_1705822899682218_1428218736_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000590)
+  1) a large building with a clock tower on top of it . (p=0.000202)
+  2) a large building with a clock tower on top . (p=0.000098)
+Captions for image 12976164_1004717646273839_612154551_n.jpg:
+  0) a man flying through the air while riding a snowboard . (p=0.001479)
+  1) a man flying through the air while riding a skateboard . (p=0.001169)
+  2) a man flying a kite in the sky . (p=0.000449)
+Captions for image 10175252_1708018532800187_258107372_n.jpg:
+  0) a person standing on a beach with a surfboard . (p=0.000399)
+  1) a person walking on a beach with a surfboard . (p=0.000275)
+  2) a person walking on a beach with a surfboard (p=0.000248)
+Captions for image 11906303_498207670346718_374308414_n.jpg:
+  0) a person on a skateboard on a ramp . (p=0.000626)
+  1) a person on a skate board on a ramp (p=0.000158)
+  2) a person on a skate board on a ramp . (p=0.000146)
+Captions for image 1389450_1743752629190736_977099648_n.jpg:
+  0) a group of teddy bears sitting on a table . (p=0.000463)
+  1) a group of teddy bears sitting on top of a table . (p=0.000419)
+  2) a group of teddy bears sitting on a table (p=0.000223)
+Captions for image 10354513_457311334463250_362516462_n.jpg:
+  0) a man sitting on top of a snow covered slope . (p=0.002503)
+  1) a man sitting on top of a snow covered mountain . (p=0.000986)
+  2) a man sitting on top of a snow covered ski slope . (p=0.000339)
+Captions for image 12717083_442348839295626_989198478_n.jpg:
+  0) a group of people standing next to each other . (p=0.001656)
+  1) a group of people standing next to each other on a beach . (p=0.000604)
+  2) a group of people standing on top of a beach . (p=0.000536)
+Captions for image 12716677_1723456061220693_204638724_n.jpg:
+  0) a man riding a skateboard down the side of a ramp . (p=0.001635)
+  1) a man riding a skateboard down a ramp . (p=0.000773)
+  2) a man riding a skateboard down a sidewalk . (p=0.000420)
+Captions for image 12729457_195949580764441_1257894452_n.jpg:
+  0) a person holding a surf board near a body of water (p=0.000374)
+  1) a person holding a surf board on a beach (p=0.000369)
+  2) a person holding a surf board on a beach . (p=0.000103)
+Captions for image 12747793_608654972621769_569985800_n.jpg:
+  0) a black and white photo of a person on a surfboard in the water . (p=0.000051)
+  1) a black and white photo of a person on a surf board . (p=0.000038)
+  2) a black and white photo of a person on a surfboard (p=0.000036)
+Captions for image 11142923_1573126149626757_2115472577_n.jpg:
+  0) a woman is sitting on a bench by the water . (p=0.000106)
+  1) a woman is sitting on a bench by the water (p=0.000068)
+  2) a woman is sitting on a bench by the ocean . (p=0.000029)
+Captions for image 12748316_843997219045788_1888435485_n.jpg:
+  0) a plane flying in the sky over a city . (p=0.000070)
+  1) a plane flying in the sky over a building . (p=0.000048)
+  2) a plane flying in the sky over a city (p=0.000039)
+Captions for image 12749791_470880306434620_270734929_n.jpg:
+  0) a man taking a picture of himself in a mirror . (p=0.001211)
+  1) a man taking a picture of himself in a mirror (p=0.000571)
+  2) a man taking a picture of himself in the mirror (p=0.000254)
+Captions for image 12728470_566287356880925_464329694_n.jpg:
+  0) a group of people standing on top of a snow covered slope . (p=0.001856)
+  1) a group of men standing on top of a snow covered slope . (p=0.001127)
+  2) a group of people standing on top of a snow covered field . (p=0.000692)
+Captions for image 12558548_965133286910265_109968194_n.jpg:
+  0) a black and white photo of a group of people (p=0.000794)
+  1) a black and white photo of a group of people . (p=0.000728)
+  2) a black and white photo of a man and a woman (p=0.000351)
+Captions for image 12519344_238029483198335_1652471324_n.jpg:
+  0) a woman standing in front of a christmas tree . (p=0.000360)
+  1) a woman standing in a room with a christmas tree . (p=0.000099)
+  2) a woman standing in front of a christmas tree (p=0.000053)
+Captions for image 12292702_478292332357946_760127928_n.jpg:
+  0) a very tall clock tower with a clock on each of it 's sides . (p=0.001831)
+  1) a very tall clock tower with a clock on it 's side . (p=0.000661)
+  2) a large clock tower with a clock on it 's side . (p=0.000364)
+Captions for image 12071119_1502927386673453_912533784_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000509)
+  1) a man with a beard wearing a tie . (p=0.000241)
+  2) a man wearing a tie and a hat (p=0.000142)
+Captions for image 1209726_1533084217018575_982775520_n.jpg:
+  0) a group of people standing around a living room . (p=0.000404)
+  1) a group of people standing in a room with a lot of luggage . (p=0.000004)
+  2) a group of people standing in a room with a bunch of luggage . (p=0.000003)
+Captions for image 11337193_861117907299449_2062371422_n.jpg:
+  0) a large body of water with a bridge in the background . (p=0.000235)
+  1) a large body of water with a bridge in the background (p=0.000093)
+  2) a large body of water next to a bridge . (p=0.000074)
+Captions for image 12093267_1494214914207506_1324700373_n.jpg:
+  0) a woman sitting on a boat in the water . (p=0.000688)
+  1) a man and a woman sitting on a boat . (p=0.000522)
+  2) a woman sitting on a boat in the water (p=0.000295)
+Captions for image 11242006_1431365090502079_36369443_n.jpg:
+  0) a group of women standing next to each other . (p=0.002779)
+  1) a group of people standing next to each other . (p=0.001943)
+  2) a group of women standing next to each other in a room . (p=0.000231)
+Captions for image 1516027_731232766987368_1026682217_n.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.015078)
+  1) a person on a surfboard in the water . (p=0.006716)
+  2) a man riding a surfboard on top of a wave . (p=0.002569)
+Captions for image 11821797_428901847301539_1289538309_n.jpg:
+  0) a group of people standing on top of a stage . (p=0.000049)
+  1) a group of people standing on top of a building . (p=0.000023)
+  2) a group of people standing on top of a skateboard ramp . (p=0.000021)
+Captions for image 11199411_568166659988349_1013753769_n.jpg:
+  0) a group of people sitting on top of a wooden bench . (p=0.001428)
+  1) a group of people sitting on top of a bench . (p=0.000782)
+  2) a group of people sitting on a wooden bench . (p=0.000638)
+Captions for image 11909431_1040606029291075_750860208_n.jpg:
+  0) a man riding a skateboard down a street . (p=0.000663)
+  1) a man riding a skateboard down the side of a street . (p=0.000176)
+  2) a man riding a skateboard down the side of a road . (p=0.000162)
+Captions for image 11375367_1001297969889558_29110486_n.jpg:
+  0) a woman standing next to a fire hydrant . (p=0.000417)
+  1) a woman standing next to a red fire hydrant . (p=0.000353)
+  2) a woman is standing outside of a building (p=0.000212)
+Captions for image 11352075_994484020611492_912151217_n.jpg:
+  0) a group of people standing next to each other . (p=0.003873)
+  1) a group of men standing next to each other . (p=0.003492)
+  2) a group of people standing around a table . (p=0.000290)
+Captions for image 11202993_100935166922736_2013823056_n.jpg:
+  0) a painting of a man holding a pair of scissors . (p=0.000020)
+  1) a painting of a man holding a pair of scissors (p=0.000010)
+  2) a painting of a man in a suit and tie . (p=0.000009)
+Captions for image 11375144_678541112276551_1021088806_n.jpg:
+  0) a tall clock tower with a sky background (p=0.007425)
+  1) a tall clock tower with a clock on each of it 's sides . (p=0.001286)
+  2) a large clock tower with a clock on each of it 's sides . (p=0.000756)
+Captions for image 11380915_742585609183480_910782910_n.jpg:
+  0) a group of people sitting on a bench . (p=0.001981)
+  1) a group of people sitting together on a bench . (p=0.001063)
+  2) a group of people sitting together on a bench (p=0.000411)
+Captions for image 11358193_100554316959399_21482621_n.jpg:
+  0) a black and white photo of a man and a woman (p=0.000197)
+  1) a black and white photo of a man in a suit and tie (p=0.000191)
+  2) a black and white photo of a man in a suit (p=0.000185)
+Captions for image 11381003_440005989504547_256055755_n.jpg:
+  0) a person holding an umbrella in a park . (p=0.000072)
+  1) a person holding an umbrella in a field . (p=0.000063)
+  2) a person holding an umbrella in the air . (p=0.000062)
+Captions for image 11208194_120738541596023_1973895222_n.jpg:
+  0) a group of men standing next to each other . (p=0.001065)
+  1) a man and a woman standing next to each other . (p=0.000344)
+  2) a group of men standing next to each other on a beach . (p=0.000165)
+Captions for image 11378105_393185600873479_1059802370_n.jpg:
+  0) a hand holding a piece of chocolate cake . (p=0.002241)
+  1) a person holding a piece of chocolate cake . (p=0.001335)
+  2) a hand holding a piece of chocolate cake with a fork . (p=0.000045)
+Captions for image 11380295_1435169583457334_1539253673_n.jpg:
+  0) a group of people sitting around a table . (p=0.002786)
+  1) a group of people sitting at a table with wine glasses . (p=0.000708)
+  2) a group of people sitting around a table with wine glasses . (p=0.000577)
+Captions for image 11420770_667635503342985_1530951197_n.jpg:
+  0) a man holding a nintendo wii game controller . (p=0.002710)
+  1) a man holding a nintendo wii game controller next to a woman . (p=0.000042)
+  2) a man holding a nintendo wii game controller in a room . (p=0.000040)
+Captions for image 11312506_496185467195414_615400776_n.jpg:
+  0) a man standing next to a train on a train track . (p=0.000669)
+  1) a man is standing in front of a train . (p=0.000461)
+  2) a woman standing next to a train on a train track . (p=0.000400)
+Captions for image 11325427_1439611066346142_2127778103_n.jpg:
+  0) a close up of a mirror on a wall (p=0.000120)
+  1) a close up of a mirror on a building (p=0.000018)
+  2) a close up of a mirror with a reflection of a mirror (p=0.000017)
+Captions for image 11246103_647213422072820_1915456995_n.jpg:
+  0) a man in a suit and tie holding a teddy bear . (p=0.000019)
+  1) a man in a suit and tie holding a teddy bear (p=0.000008)
+  2) a man in a suit and tie is holding a teddy bear . (p=0.000007)
+Captions for image 11199650_436443889871122_242846769_n.jpg:
+  0) a man in a suit standing in front of a mirror . (p=0.000318)
+  1) a man in a suit and tie standing in front of a mirror . (p=0.000133)
+  2) a man in a suit standing in front of a mirror (p=0.000110)
+Captions for image 11242500_855091237860238_922354034_n.jpg:
+  0) a woman sitting at a table with a plate of food . (p=0.002609)
+  1) a woman sitting at a table eating a sandwich . (p=0.001187)
+  2) a woman sitting at a table with a plate of food (p=0.000331)
+Captions for image 10890997_835564229871645_1034305662_n.jpg:
+  0) a teddy bear sitting on top of a sign . (p=0.000060)
+  1) a teddy bear sitting on top of a wall . (p=0.000040)
+  2) a teddy bear sitting on top of a wooden bench . (p=0.000024)
+Captions for image 11098515_792727207484854_262919392_n.jpg:
+  0) a man standing in front of a mirror in a room . (p=0.000191)
+  1) a man standing in front of a mirror in a living room . (p=0.000142)
+  2) a man standing in front of a mirror in a bedroom . (p=0.000120)
+Captions for image 11201524_832810120132839_279253501_n.jpg:
+  0) a couple of people that are standing in a room (p=0.000283)
+  1) a man and a woman are standing together . (p=0.000186)
+  2) a man and a woman are standing together (p=0.000104)
+Captions for image 11116676_292415927549088_894868447_n.jpg:
+  0) a group of men standing next to each other . (p=0.002138)
+  1) a group of people standing next to each other . (p=0.001045)
+  2) a group of men standing next to each other in a room . (p=0.000065)
+Captions for image 11116887_817738754974634_1734481181_n.jpg:
+  0) a man sitting at a table with a plate of food . (p=0.002845)
+  1) a man sitting at a table eating a sandwich . (p=0.001578)
+  2) a man sitting at a table with a plate of food in front of him . (p=0.001104)
+Captions for image 1517179_811797738898881_147128906_n.jpg:
+  0) a man with a hat and sunglasses is holding a cell phone . (p=0.000001)
+  1) a man in a blue shirt and tie holding a camera . (p=0.000001)
+  2) a man in a blue shirt and tie holding a camera (p=0.000000)
+Captions for image 11077963_1627932917425653_934319155_n.jpg:
+  0) a black and white photo of a man in a suit and tie (p=0.000604)
+  1) a black and white photo of a man in a suit (p=0.000432)
+  2) a black and white photo of a man in a suit and tie . (p=0.000303)
+Captions for image 10946675_946563955354844_1628116204_n.jpg:
+  0) a man is standing in front of a train . (p=0.000013)
+  1) a man is standing in front of a train (p=0.000011)
+  2) a man is standing in front of a large train . (p=0.000002)
+Captions for image 927999_405730116269846_1773937188_n.jpg:
+  0) a statue of a man sitting on top of a bench . (p=0.000031)
+  1) a statue of a man is sitting on a bench (p=0.000020)
+  2) a statue of a man sitting on top of a wooden bench . (p=0.000014)
+Captions for image 10995234_316865768522908_216332915_n.jpg:
+  0) a woman is standing in front of a stop sign . (p=0.000074)
+  1) a woman is standing in front of a sign (p=0.000062)
+  2) a woman is standing in front of a stop sign (p=0.000049)
+Captions for image 10950401_767171926711145_451935318_n.jpg:
+  0) a man in a suit and tie holding a book . (p=0.000023)
+  1) a man in a suit and tie with a hat on . (p=0.000007)
+  2) a man in a suit and tie holding a book (p=0.000007)
+Captions for image 10735464_1519031728339253_1508028772_n.jpg:
+  0) a group of people standing around a large building . (p=0.000048)
+  1) a group of people standing in a room with umbrellas . (p=0.000011)
+  2) a group of people standing around a large building (p=0.000001)
+Captions for image 10914430_321617494715665_975258903_n.jpg:
+  0) a black and white photo of a man in a suit . (p=0.000241)
+  1) a black and white photo of a man in a suit (p=0.000166)
+  2) a black and white photo of a man in a suit and tie (p=0.000117)
+Captions for image 10919602_392181867629372_1243314184_n.jpg:
+  0) a stop sign with a street sign attached to it . (p=0.000088)
+  1) a stop sign with a street sign on it . (p=0.000050)
+  2) a stop sign with a street sign on it (p=0.000031)
+Captions for image 10932183_755335134542973_649464437_n.jpg:
+  0) a man riding a skateboard down the side of a ramp . (p=0.001088)
+  1) a man riding a skateboard on top of a cement bench . (p=0.000183)
+  2) a man riding a skateboard down the side of a cement ramp . (p=0.000164)
+Captions for image 10903680_861452967208557_2029689197_n.jpg:
+  0) a group of people riding horses on a beach . (p=0.004437)
+  1) a group of people riding on the backs of horses . (p=0.002513)
+  2) a group of people riding horses on a sandy beach . (p=0.001639)
+Captions for image 10932163_921842371173164_1292069806_n.jpg:
+  0) a man sitting on a bench looking at the water . (p=0.000521)
+  1) a man sitting on a bench looking at the ocean . (p=0.000457)
+  2) a man sitting on a bench looking at the water (p=0.000247)
+Captions for image 10914391_945622852129453_311257652_n.jpg:
+  0) a white boat sitting on top of a sandy beach . (p=0.000138)
+  1) a white surfboard sitting on top of a sandy beach . (p=0.000127)
+  2) a white boat sitting on top of a beach next to the ocean . (p=0.000042)
+Captions for image 10919212_893319847366700_1014804937_n.jpg:
+  0) a group of people sitting on top of a bench . (p=0.000914)
+  1) a group of people sitting on top of a beach . (p=0.000896)
+  2) a group of people sitting on a bench next to a body of water . (p=0.000225)
+Captions for image 10914430_763523467061539_1411748195_n.jpg:
+  0) a man sitting on a motorcycle with a helmet on . (p=0.000033)
+  1) a man is sitting on a motorcycle with a dog . (p=0.000023)
+  2) a man sitting on a motorcycle with a helmet on (p=0.000012)
+Captions for image 10903689_1572772109603825_1096084537_n.jpg:
+  0) a man in a hat is holding a surfboard . (p=0.000011)
+  1) a man in a hat is holding a kite . (p=0.000008)
+  2) a man in a hat is holding a surfboard (p=0.000006)
+Captions for image 10899557_1520319024924123_1134884183_n.jpg:
+  0) a large body of water next to a body of water . (p=0.000064)
+  1) a large body of water next to a large body of water . (p=0.000035)
+  2) a large body of water with a bird flying over it . (p=0.000021)
+Captions for image 10864692_672254969550315_1708427797_n.jpg:
+  0) a man in a suit and tie holding a glass of wine . (p=0.000021)
+  1) a man in a suit and tie holding a glass (p=0.000008)
+  2) a man in a suit and tie holding a glass of wine (p=0.000007)
+Captions for image 10864759_749070838518625_898947249_n.jpg:
+  0) a man and a woman are cutting a cake (p=0.000574)
+  1) a man and a woman are cutting a cake . (p=0.000406)
+  2) a man and a woman standing next to a cake . (p=0.000401)
+Captions for image 10808427_390925484365921_1911361088_n.jpg:
+  0) a black and white photo of a group of people (p=0.002845)
+  1) a black and white photo of a group of people . (p=0.002352)
+  2) a black and white picture of a group of people . (p=0.000633)
+Captions for image 10755941_717836674965045_1903172276_n.jpg:
+  0) a person standing next to a parking meter . (p=0.000118)
+  1) a person standing next to a fire hydrant . (p=0.000045)
+  2) a person standing next to a parking meter (p=0.000037)
+Captions for image 10731762_1545296925686907_161304446_n.jpg:
+  0) a group of people sitting on benches in a park . (p=0.000140)
+  1) a group of people sitting on a bench in a park . (p=0.000116)
+  2) a group of people sitting on a bench in front of a building . (p=0.000113)
+Captions for image 914459_303839466490572_351579898_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.001913)
+  1) a red stop sign sitting in the middle of a field . (p=0.000576)
+  2) a red stop sign sitting in the middle of a lush green field . (p=0.000261)
+Captions for image 1517352_810611352294390_992726389_n.jpg:
+  0) a person holding a skateboard in front of a building . (p=0.000095)
+  1) a person is holding a skateboard on a sidewalk . (p=0.000078)
+  2) a person holding a skateboard in front of a wall . (p=0.000061)
+Captions for image 1389073_1592373180992746_1658764004_n.jpg:
+  0) a man in a black jacket is standing on a hill (p=0.000028)
+  1) a man in a suit and tie standing in front of a mountain . (p=0.000021)
+  2) a man in a suit and tie standing on a mountain . (p=0.000016)
+Captions for image 10735308_341584372689547_1946149856_n.jpg:
+  0) a black and white photo of people on a beach (p=0.000604)
+  1) a black and white photo of people on a beach . (p=0.000596)
+  2) a black and white photo of people on a bench (p=0.000444)
+Captions for image 10724861_925131154182667_2123343983_n.jpg:
+  0) a plane flying over a grassy field with mountains in the background . (p=0.000016)
+  1) a plane flying over a field of grass and trees . (p=0.000007)
+  2) a plane flying over a grassy field with mountains in the background (p=0.000003)
+Captions for image 1941152_284933835029813_788614275_n.jpg:
+  0) a view of a lake with a mountain in the background . (p=0.000012)
+  1) a view of a lake with a boat in the distance . (p=0.000008)
+  2) a view of a beach with a boat in the distance . (p=0.000007)
+Captions for image 10691807_1479240032355508_823869544_n.jpg:
+  0) a couple of men standing next to each other . (p=0.006565)
+  1) a man and a woman standing next to each other . (p=0.001748)
+  2) a couple of men standing next to each other in a room . (p=0.000600)
+Captions for image 10684067_1543228062576679_848838047_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000056)
+  1) a train traveling down tracks next to a lush green hillside . (p=0.000027)
+  2) a train traveling down tracks next to a river . (p=0.000026)
+Captions for image 10707177_820552344655113_1633939365_n.jpg:
+  0) a black and white photo of a city street (p=0.000409)
+  1) a black and white photo of people walking down a street (p=0.000148)
+  2) a black and white photo of people walking down a street . (p=0.000103)
+Captions for image 10561036_1510011502565705_1446628090_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000436)
+  1) a train traveling over a bridge over water . (p=0.000154)
+  2) a train traveling over a bridge over a lake . (p=0.000057)
+Captions for image 923722_1466384400292400_1264626045_n.jpg:
+  0) a row of motorcycles parked next to each other . (p=0.003264)
+  1) a row of motorcycles parked in a garage . (p=0.000300)
+  2) a row of motorcycles parked next to each other in a garage . (p=0.000084)
+Captions for image 10375806_485525971581145_1823440082_n.jpg:
+  0) a person sitting on the beach with a surfboard . (p=0.000098)
+  1) a person sitting on a beach with a surfboard . (p=0.000085)
+  2) a person sitting on the beach with a surfboard (p=0.000044)
+Captions for image 917183_1450325201884207_1916853007_n.jpg:
+  0) a woman sitting on a surfboard in the water . (p=0.001812)
+  1) a woman sitting on a surfboard in the ocean . (p=0.001601)
+  2) a woman is sitting on a surfboard in the water . (p=0.000864)
+Captions for image 10520219_685809758174080_2114901791_n.jpg:
+  0) a man in a suit and tie holding a cell phone . (p=0.000011)
+  1) a man in a suit and tie holding a cell phone (p=0.000006)
+  2) a man in a suit and tie is holding a cell phone . (p=0.000005)
+Captions for image 10533017_260374677488930_840919875_n.jpg:
+  0) a large building with a clock on it (p=0.000319)
+  1) a large building with a clock on top (p=0.000203)
+  2) a large building with a clock on the top of it . (p=0.000139)
+Captions for image 10246177_1418959075032614_961873131_n.jpg:
+  0) a group of people sitting on top of a wooden dock . (p=0.000146)
+  1) a group of people sitting on top of a dock . (p=0.000138)
+  2) a group of people sitting on a dock next to a boat . (p=0.000054)
+Captions for image 10326481_322089717943071_289377066_n.jpg:
+  0) a bench sitting in the middle of a lake . (p=0.000118)
+  1) a bench sitting in the middle of a flooded area . (p=0.000024)
+  2) a bench sitting in the middle of a lake next to a forest . (p=0.000015)
+Captions for image 11208276_825921894156427_362050143_n.jpg:
+  0) a man riding a paddle board on top of a river . (p=0.001028)
+  1) a man riding a motorcycle down a river . (p=0.000802)
+  2) a man riding a paddle board on top of a lake . (p=0.000780)
+Captions for image 1516398_1482436265302092_1426831509_n.jpg:
+  0) a man standing on top of a snow covered slope . (p=0.002731)
+  1) a man standing on top of a snow covered mountain . (p=0.000682)
+  2) a man standing on top of a snow covered slope holding a snowboard . (p=0.000209)
+Captions for image 11247115_846873838738211_1703218869_n.jpg:
+  0) a group of people standing next to each other . (p=0.004849)
+  1) a group of people standing in a room . (p=0.001621)
+  2) a group of people standing next to each other in a room . (p=0.001258)
+Captions for image 11251220_912614225446993_1465913770_n.jpg:
+  0) a person is standing in the snow with a snowboard . (p=0.000205)
+  1) a person is standing in the snow with skis . (p=0.000175)
+  2) a person is standing in the snow on a snowboard . (p=0.000080)
+Captions for image 11312242_839523246124685_70459955_n.jpg:
+  0) a man standing in front of a tall building . (p=0.000303)
+  1) a tall building with a clock on it . (p=0.000102)
+  2) a tall building with a clock on it (p=0.000072)
+Captions for image 11324931_576021172537068_1921557322_n.jpg:
+  0) a woman is standing outside of a building (p=0.000211)
+  1) a woman is standing outside of a building . (p=0.000203)
+  2) a woman standing next to a wall with a cell phone . (p=0.000011)
+Captions for image 11330655_703666933095207_761542020_n.jpg:
+  0) a man holding a surf board in his hands . (p=0.000133)
+  1) a man holding a surf board in his hands (p=0.000056)
+  2) a man standing next to a surfboard on a beach . (p=0.000038)
+Captions for image 11375395_1658597701044237_122415281_n.jpg:
+  0) a person holding a hot dog in their hand . (p=0.001527)
+  1) a person holding a hot dog in a bun . (p=0.000403)
+  2) a person holding a hot dog with mustard and ketchup . (p=0.000331)
+Captions for image 11350794_889792864414013_886184258_n.jpg:
+  0) a man riding a skateboard down a street . (p=0.000238)
+  1) a man riding a skateboard down a sidewalk . (p=0.000116)
+  2) a man riding a skateboard on top of a ramp . (p=0.000088)

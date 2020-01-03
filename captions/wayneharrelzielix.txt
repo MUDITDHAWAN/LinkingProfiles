@@ -1,0 +1,4 @@
+Captions for image 11351769_115313775482498_2067778424_a.jpg:
+  0) a person wearing a suit and tie with a clock (p=0.000006)
+  1) a person wearing a suit and tie with a <UNK> (p=0.000003)
+  2) a person wearing a suit and tie with a clock . (p=0.000002)

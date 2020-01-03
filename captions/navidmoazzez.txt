@@ -1,0 +1,60 @@
+Captions for image 12751245_540829129408546_7262858_n.jpg:
+  0) a man standing on a beach holding a surfboard . (p=0.001484)
+  1) a man standing on top of a sandy beach . (p=0.001165)
+  2) a man standing on a beach holding a frisbee . (p=0.000839)
+Captions for image 14310871_312861385743495_126238950_a.jpg:
+  0) a woman wearing a blue shirt and tie . (p=0.000151)
+  1) a woman wearing a blue shirt and a tie . (p=0.000142)
+  2) a woman wearing a blue shirt and a red tie . (p=0.000074)
+Captions for image 14716398_1842075449345098_5314795426325463040_n.jpg:
+  0) a view of a pool from the ceiling . (p=0.000008)
+  1) a view of a pool from the ceiling (p=0.000002)
+  2) a view of a pool from the water 's edge . (p=0.000002)
+Captions for image 13745079_1176249299104096_641494261_n.jpg:
+  0) a view of a beach with a surfboard and a bench . (p=0.000001)
+  1) a view of a beach with a surfboard and a bicycle . (p=0.000000)
+  2) a view of a beach , with a surfboard and a chair . (p=0.000000)
+Captions for image 1170980_1038530592854650_2018712039_n.jpg:
+  0) a man and a woman sitting at a table . (p=0.000382)
+  1) a man and a woman are sitting at a table . (p=0.000172)
+  2) a man and a woman sitting at a table with wine glasses . (p=0.000121)
+Captions for image 27891756_153717498603564_2319087481468747776_n.jpg:
+  0) a man in a suit and tie standing in a room . (p=0.000395)
+  1) a man in a suit and tie is smiling . (p=0.000360)
+  2) a man in a suit and tie standing in front of a mirror . (p=0.000158)
+Captions for image 28429453_196665660925418_4811896056369381376_n.jpg:
+  0) a group of people standing next to each other . (p=0.005052)
+  1) a group of men standing next to each other . (p=0.003606)
+  2) a group of people posing for a picture . (p=0.002465)
+Captions for image 29401750_199570057485932_3832154264566759424_n.jpg:
+  0) a man standing on a beach holding a surfboard . (p=0.003655)
+  1) a man standing on a beach with a surfboard . (p=0.001636)
+  2) a man in a suit and tie standing on a beach . (p=0.000255)
+Captions for image 29096157_1270395219759482_1940584593631477760_n.jpg:
+  0) a person on a snowboard in the snow . (p=0.003574)
+  1) a person on a snowboard on the snow . (p=0.000291)
+  2) a person on a snowboard on a snowy slope . (p=0.000253)
+Captions for image 28156859_155202751856309_8589810531869655040_n.jpg:
+  0) a man in a suit and tie standing on a beach . (p=0.000302)
+  1) a man in a suit and tie standing on a sidewalk . (p=0.000295)
+  2) a man wearing a suit and tie standing on a sidewalk . (p=0.000225)
+Captions for image 16229377_402031220130980_6868587677734666240_n.jpg:
+  0) a room filled with lots of furniture and clutter . (p=0.000032)
+  1) a room filled with lots of furniture and a window . (p=0.000024)
+  2) a room filled with lots of furniture and a table . (p=0.000017)
+Captions for image 15803667_1658894967736835_5378162068140589056_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000468)
+  1) a couple of people that are standing in a room (p=0.000059)
+  2) a couple of people that are standing in front of a mirror (p=0.000027)
+Captions for image 27881482_149727542410408_7040284531605110784_n.jpg:
+  0) a man in a suit and tie standing in front of a mountain . (p=0.000059)
+  1) a man in a suit and tie standing in the snow . (p=0.000056)
+  2) a man in a suit and tie standing next to a tree . (p=0.000047)
+Captions for image 14583327_135290890267898_718710082031845376_n.jpg:
+  0) a group of people standing next to each other . (p=0.001869)
+  1) a group of people standing around a table . (p=0.001121)
+  2) a group of people are posing for a picture . (p=0.000959)
+Captions for image 14547655_885867174879971_4615687003801911296_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000988)
+  1) a man and a woman are standing together . (p=0.000126)
+  2) a man and a woman standing next to each other in a room . (p=0.000069)

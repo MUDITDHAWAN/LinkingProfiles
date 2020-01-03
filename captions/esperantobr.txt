@@ -1,0 +1,872 @@
+Captions for image 50082648_275393273154424_3429313044211141693_n.jpg:
+  0) a man in a suit and tie holding an umbrella . (p=0.000031)
+  1) a man in a suit and tie holding an umbrella (p=0.000010)
+  2) a man in a suit and tie holding a pink umbrella . (p=0.000004)
+Captions for image 20837472_111839166152376_3427657964071157760_a.jpg:
+  0) a man wearing a tie and a hat . (p=0.000284)
+  1) a man wearing a tie and a hat (p=0.000080)
+  2) a man in a suit and tie holding a beer . (p=0.000013)
+Captions for image 58410363_2250552198606975_930713905849892561_n.jpg:
+  0) a bunch of cars that are on a street . (p=0.000168)
+  1) a bunch of cars that are on a street (p=0.000101)
+  2) a bunch of cars that are parked in a lot (p=0.000096)
+Captions for image 31752442_1873977092900898_3949159670609870848_n.jpg:
+  0) a close up of a pair of scissors (p=0.000915)
+  1) a close up of a person holding a pair of scissors (p=0.000205)
+  2) a close up of a pair of scissors on a table (p=0.000081)
+Captions for image 62711616_427962534454997_6588988720315973799_n.jpg:
+  0) a man holding a pair of scissors in his hands . (p=0.003063)
+  1) a man holding a pair of scissors in his hand . (p=0.001392)
+  2) a man holding a pair of scissors in his hands (p=0.000441)
+Captions for image 60704606_2471427066473353_1762882048710599776_n.jpg:
+  0) a small dog is sitting on a chair . (p=0.000268)
+  1) a small dog is sitting on a chair (p=0.000190)
+  2) a small dog is sitting on a couch (p=0.000142)
+Captions for image 65769251_156452625489806_6191507607663763184_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000425)
+  1) a bunch of flowers that are in a glass vase . (p=0.000168)
+  2) a bunch of flowers that are in a vase (p=0.000115)
+Captions for image 65121131_129326701617684_617968337237488590_n.jpg:
+  0) a person holding a soccer ball in front of a soccer ball . (p=0.000028)
+  1) a man holding a soccer ball in front of a soccer ball . (p=0.000023)
+  2) a person holding a soccer ball in front of a tv . (p=0.000011)
+Captions for image 65166476_684737315283294_7620161609309262394_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000543)
+  1) a man in a suit and tie is smiling (p=0.000244)
+  2) a man in a suit and tie standing in a room . (p=0.000218)
+Captions for image 61794775_539550803246268_1449581653396709059_n.jpg:
+  0) a red and white fire hydrant sitting in a room . (p=0.000012)
+  1) a red and white fire hydrant sitting on top of a table . (p=0.000011)
+  2) a red and white fire hydrant sitting on a table . (p=0.000010)
+Captions for image 65870928_700104063766377_7354802514918409994_n.jpg:
+  0) a dog sitting on a couch looking out a window . (p=0.000283)
+  1) a dog sitting on a couch looking out the window . (p=0.000248)
+  2) a dog sitting on a couch looking out the window (p=0.000190)
+Captions for image 64842734_897956740549792_2021703171995829922_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000136)
+  1) a man with a beard and a tie . (p=0.000068)
+  2) a man wearing a tie and a hat (p=0.000044)
+Captions for image 65302630_183665885980419_3680268857482517957_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000359)
+  1) a close up of a stop sign with a sky background (p=0.000134)
+  2) a close up of a stop sign with a sticker on it (p=0.000068)
+Captions for image 32025138_1837968546507762_6199524698930282496_n.jpg:
+  0) a man in a suit and tie with a hat . (p=0.000004)
+  1) a man in a suit and tie with a hat on . (p=0.000003)
+  2) a man in a suit and tie with a <UNK> (p=0.000002)
+Captions for image 64877466_122967898924161_6141561841835781919_n.jpg:
+  0) a car driving down a road next to a road . (p=0.000034)
+  1) a car driving down a road next to a traffic light . (p=0.000031)
+  2) a car driving down a road next to a highway . (p=0.000027)
+Captions for image 64415630_2054116634894155_5951614392926132386_n.jpg:
+  0) a group of people standing around a tv . (p=0.000018)
+  1) a group of people standing in front of a tv . (p=0.000009)
+  2) a group of people standing in front of a building . (p=0.000004)
+Captions for image 61293941_2382189738771867_5888919863217896278_n.jpg:
+  0) a person holding a doughnut in their hand . (p=0.002224)
+  1) a person holding a doughnut in their hands . (p=0.001048)
+  2) a person holding a doughnut in their left hand . (p=0.000632)
+Captions for image 61665517_120592849181608_6564566248531152793_n.jpg:
+  0) a bottle of beer sitting next to a bottle of beer . (p=0.000745)
+  1) a bottle of beer sitting next to a bottle of wine . (p=0.000378)
+  2) a bottle of beer and a glass of wine . (p=0.000337)
+Captions for image 62454521_172800260406618_4741490094716432819_n.jpg:
+  0) a person flying a kite in a field . (p=0.000903)
+  1) a person flying a kite in a cloudy sky . (p=0.000875)
+  2) a person flying a kite in a field (p=0.000517)
+Captions for image 62547840_442308386554883_6018804830163114305_n.jpg:
+  0) a man holding a cell phone up to his ear . (p=0.001099)
+  1) a man holding a cell phone in his hand . (p=0.000753)
+  2) a man holding a cell phone in his hands . (p=0.000682)
+Captions for image 61568567_2384919491791697_6318117013439593777_n.jpg:
+  0) a black and white photo of a man in a suit . (p=0.001081)
+  1) a black and white photo of a man in a suit and tie (p=0.000951)
+  2) a black and white photo of a man wearing a suit and tie (p=0.000914)
+Captions for image 61705460_2431509067083591_1039749777997769373_n.jpg:
+  0) a plane is flying in the sky over the clouds . (p=0.000018)
+  1) a plane is flying in the sky over a mountain . (p=0.000014)
+  2) a plane is flying in the sky with a sky background (p=0.000013)
+Captions for image 61099176_181756166151119_2421711412098199826_n.jpg:
+  0) a white plate topped with a slice of pizza . (p=0.001234)
+  1) a white plate topped with a piece of food . (p=0.000436)
+  2) a white plate topped with a slice of pizza and a fork . (p=0.000058)
+Captions for image 64580338_1036144520108781_5677773249475831808_n.jpg:
+  0) a view of a street with a tree in the background . (p=0.000003)
+  1) a view of a street with a tree in the middle . (p=0.000001)
+  2) a view of a street with a tree in the middle of it . (p=0.000001)
+Captions for image 61555595_482078022531299_4288004271429767456_n.jpg:
+  0) a close up of a pair of scissors (p=0.000315)
+  1) a close up of a pair of scissors on a table (p=0.000084)
+  2) a close up of a cell phone on a table (p=0.000075)
+Captions for image 61497938_442598679632732_4836643690998822040_n.jpg:
+  0) a woman holding a tennis racket in her hands . (p=0.000119)
+  1) a woman holding a tennis racket in her hand . (p=0.000101)
+  2) a woman holding a tennis racquet in her hand . (p=0.000094)
+Captions for image 61848428_114630343104380_8403861808389287386_n.jpg:
+  0) a man in a suit and tie holding a glass of wine . (p=0.000005)
+  1) a man in a suit and tie holding a bottle of wine . (p=0.000004)
+  2) a man in a suit and tie holding a bottle of beer . (p=0.000004)
+Captions for image 60713409_2042450142725347_2894412904604166510_n.jpg:
+  0) a man in a white shirt and black shorts is playing a video game . (p=0.000001)
+  1) a man in a white shirt and black shorts is playing a game of tennis . (p=0.000000)
+  2) a man in a white shirt and black shorts is playing a video game (p=0.000000)
+Captions for image 60282123_2395955257162487_5976327192756955102_n.jpg:
+  0) a group of people standing next to each other . (p=0.000296)
+  1) a man and a woman standing next to each other . (p=0.000153)
+  2) a group of people standing next to each other in front of a building . (p=0.000020)
+Captions for image 59794722_397000737813029_7225747209694881479_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000633)
+  1) a sign that is on top of a pole . (p=0.000140)
+  2) a sign that is on the side of a wall . (p=0.000087)
+Captions for image 57511891_469714100475244_7462013860047881285_n.jpg:
+  0) a sign that says `` <UNK> '' in front of a building . (p=0.000000)
+  1) a sign that says `` <UNK> '' in front of a store . (p=0.000000)
+  2) a sign that says `` <UNK> '' on the side of a building . (p=0.000000)
+Captions for image 61350653_2019846961456965_8087877180470498489_n.jpg:
+  0) a bottle of beer sitting next to a bottle of beer . (p=0.000078)
+  1) a bottle of beer and a bottle of beer . (p=0.000049)
+  2) a bottle of beer sitting next to a bottle of soda . (p=0.000030)
+Captions for image 58669842_437122060181522_368141547850332859_n.jpg:
+  0) a man and a woman posing for a picture . (p=0.001260)
+  1) a man and a woman pose for a picture . (p=0.000851)
+  2) a man and a woman pose for a picture (p=0.000312)
+Captions for image 58657630_135764554158166_6971965942626182901_n.jpg:
+  0) a man in a white shirt and black tie (p=0.000014)
+  1) a man in a suit and tie is standing in a room . (p=0.000001)
+  2) a man in a suit and tie is standing in front of a television . (p=0.000001)
+Captions for image 58994674_2366220393704001_6841246800606960452_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000213)
+  1) a man in a suit and tie is smiling (p=0.000074)
+  2) a man in a suit and tie holding a camera . (p=0.000059)
+Captions for image 60371711_197509141225006_5807341107174184660_n.jpg:
+  0) a cup of coffee sitting next to a cup of coffee . (p=0.000747)
+  1) a cup of coffee and a donut on a plate . (p=0.000468)
+  2) a cup of coffee sitting next to a plate of food . (p=0.000215)
+Captions for image 56494482_505225550010267_6817336201291816027_n.jpg:
+  0) a birthday cake with a train on it (p=0.000030)
+  1) a birthday cake with a train on it . (p=0.000029)
+  2) a birthday cake with a train on the top of it . (p=0.000003)
+Captions for image 40756319_297828954140602_6329968585196175360_n.jpg:
+  0) a young man is holding a video game controller . (p=0.000148)
+  1) a young man is holding a toothbrush in his mouth . (p=0.000124)
+  2) a young man is holding a video game remote . (p=0.000050)
+Captions for image 58409741_2340322059363459_3739172035632583869_n.jpg:
+  0) a view of a bridge over a body of water . (p=0.000114)
+  1) a view of a bridge over a body of water (p=0.000010)
+  2) a view of a bridge over a river with a boat in the water . (p=0.000000)
+Captions for image 59551559_382020312653976_2980339450136031615_n.jpg:
+  0) a close up of a clock on a wall (p=0.000121)
+  1) a close up of a clock on a pole (p=0.000099)
+  2) a black and white photo of a clock and a sign (p=0.000004)
+Captions for image 57987875_2394624267427024_1087294398038246802_n.jpg:
+  0) a woman in a black jacket holding a white frisbee . (p=0.000005)
+  1) a woman in a black jacket is holding a cellphone (p=0.000005)
+  2) a woman in a black jacket is holding a white frisbee (p=0.000003)
+Captions for image 57422064_1577344355743544_4419562128991679565_n.jpg:
+  0) a group of men standing next to each other . (p=0.001859)
+  1) a group of people standing next to each other . (p=0.001614)
+  2) a group of people standing around a table . (p=0.000502)
+Captions for image 57234199_311832326377185_9179658666628085210_n.jpg:
+  0) a view of a body of water with boats in it . (p=0.000029)
+  1) a view of a body of water with boats in the water . (p=0.000017)
+  2) a view of a body of water with a boat in the background . (p=0.000015)
+Captions for image 57194669_356528678309491_4096694483124650247_n.jpg:
+  0) a small boat in a body of water (p=0.001110)
+  1) a large body of water with a boat in it . (p=0.000049)
+  2) a large body of water with a boat floating in it . (p=0.000036)
+Captions for image 57172626_1688758694765017_3705183007912075254_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000055)
+  1) a group of people standing in front of a large building . (p=0.000025)
+  2) a group of people standing in front of a building (p=0.000006)
+Captions for image 47193178_593769147760277_382437319385282496_n.jpg:
+  0) a group of people standing next to each other . (p=0.004856)
+  1) a group of people posing for a picture . (p=0.001894)
+  2) a group of people posing for a picture (p=0.000969)
+Captions for image 56739409_615312402322273_2932771106613394817_n.jpg:
+  0) a sign that says `` <UNK> '' on it . (p=0.000006)
+  1) a sign that reads `` <UNK> '' on a wall . (p=0.000004)
+  2) a sign that says `` <UNK> '' on it 's side . (p=0.000003)
+Captions for image 57059903_1469263273214712_2754969395582042356_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.000341)
+  1) a book shelf filled with lots of different types of books . (p=0.000045)
+  2) a book shelf filled with lots of different books . (p=0.000043)
+Captions for image 53543371_1680443525596123_7658290574453366277_n.jpg:
+  0) a man and a woman in a hospital bed . (p=0.000036)
+  1) a man and a woman in a hospital room . (p=0.000019)
+  2) a man and a woman in a hospital bed (p=0.000014)
+Captions for image 53586726_416336629181165_9076386333543924804_n.jpg:
+  0) a shelf filled with lots of different types of books . (p=0.000237)
+  1) a shelf filled with lots of different types of items . (p=0.000096)
+  2) a shelf filled with lots of different colored ties . (p=0.000059)
+Captions for image 53472949_2104875042933476_5954169871664114794_n.jpg:
+  0) a close up of a nintendo wii game system (p=0.000100)
+  1) a close up of a nintendo wii remote (p=0.000097)
+  2) a close up of a nintendo wii game console (p=0.000073)
+Captions for image 54510881_299743580696777_203813320621473842_n.jpg:
+  0) a view of a city street with a street light . (p=0.000004)
+  1) a view of a city street with a clock tower . (p=0.000004)
+  2) a view of a city street from the top of a building . (p=0.000003)
+Captions for image 53544430_342515693049476_2121317725412272510_n.jpg:
+  0) a man in a suit and tie standing in front of a crowd . (p=0.000005)
+  1) a man in a suit and tie standing in front of a store . (p=0.000004)
+  2) a man in a suit and tie standing in front of a crowd of people . (p=0.000003)
+Captions for image 53241121_2356688651029832_266670778735724551_n.jpg:
+  0) a man wearing a suit and tie with a woman . (p=0.000006)
+  1) a man in a suit and tie with a <UNK> (p=0.000004)
+  2) a man in a suit and tie holding a small child . (p=0.000004)
+Captions for image 53236620_2121801694576502_6322438347310965538_n.jpg:
+  0) a piece of chocolate cake on a plate . (p=0.000774)
+  1) a chocolate cake on a plate with a fork . (p=0.000380)
+  2) a piece of chocolate cake on a plate (p=0.000366)
+Captions for image 53088418_2290090934602021_2130657904689488054_n.jpg:
+  0) a cup of coffee and a banana on a table . (p=0.000848)
+  1) a cup of coffee sitting next to a banana . (p=0.000726)
+  2) a cup of coffee sitting next to a cup of coffee . (p=0.000446)
+Captions for image 53470937_2076348582481097_6453411047092175713_n.jpg:
+  0) a television screen with a clock on it (p=0.000014)
+  1) a television screen with a clock on it . (p=0.000008)
+  2) a television with a picture of a man on it . (p=0.000003)
+Captions for image 54247770_254557528780561_4209852460786266753_n.jpg:
+  0) a collage of photos of a man holding a teddy bear . (p=0.000001)
+  1) a collage of photos of a man holding a frisbee . (p=0.000001)
+  2) a collage of photos of a man holding a teddy bear (p=0.000001)
+Captions for image 52417468_2296264557275857_3593301146447876562_n.jpg:
+  0) a stop sign that has a bunch of stickers on it (p=0.000046)
+  1) a stop sign that has a sign on it . (p=0.000030)
+  2) a stop sign that has a bunch of stickers on it . (p=0.000021)
+Captions for image 52130339_310814663125932_7989509778568358792_n.jpg:
+  0) a man in a suit and tie holding a cell phone . (p=0.000083)
+  1) a man in a suit and tie holding a microphone . (p=0.000071)
+  2) a man in a suit and tie holding a cell phone (p=0.000029)
+Captions for image 52915161_611834439278708_3510445737417250349_n.jpg:
+  0) a woman in a white shirt and a red tie (p=0.000014)
+  1) a woman in a white shirt and a pink tie (p=0.000012)
+  2) a woman in a pink shirt and a pink tie (p=0.000006)
+Captions for image 52357989_402983530265832_5469883534666771210_n.jpg:
+  0) a man in a suit and tie holding a microphone . (p=0.000013)
+  1) a man in a suit and tie holding a microphone (p=0.000006)
+  2) a man in a suit and tie is holding a microphone . (p=0.000005)
+Captions for image 52845398_295032544744791_6915818819762195551_n.jpg:
+  0) a man in a suit and tie holding a teddy bear . (p=0.000016)
+  1) a man in a suit and tie standing in front of a christmas tree . (p=0.000007)
+  2) a man in a suit and tie holding a teddy bear (p=0.000006)
+Captions for image 52127388_391048248295741_6070356015932060685_n.jpg:
+  0) a close up of a box of doughnuts (p=0.000722)
+  1) a close up of a box of doughnuts on a table (p=0.000188)
+  2) a close up of a box of donuts (p=0.000152)
+Captions for image 52348588_1542661152532293_4347156246654888689_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000255)
+  1) a man in a suit and tie is smiling (p=0.000088)
+  2) a man in a suit and tie looking at the camera . (p=0.000078)
+Captions for image 51902636_2180091288723744_4484267114706380676_n.jpg:
+  0) a room with a window and a bed (p=0.000001)
+  1) a room with a large window and a window (p=0.000001)
+  2) a room with a large window and a window . (p=0.000001)
+Captions for image 51147024_485692051960720_1895949070688362610_n.jpg:
+  0) a group of men standing next to each other . (p=0.000395)
+  1) a group of people standing next to each other . (p=0.000363)
+  2) a group of men standing next to each other on a field . (p=0.000048)
+Captions for image 51978531_2182786972032408_2956032110315400830_n.jpg:
+  0) a close up of a sign with a sign on it (p=0.000057)
+  1) a close up of a sign with a sign (p=0.000025)
+  2) a black and white photo of a sign on a building (p=0.000019)
+Captions for image 51861603_567411860412181_4800653756074352259_n.jpg:
+  0) a man holding a toothbrush in his mouth . (p=0.003957)
+  1) a man with a toothbrush in his mouth . (p=0.001196)
+  2) a man holding a toothbrush in his mouth (p=0.001189)
+Captions for image 51503829_289927355016228_5790761139496439420_n.jpg:
+  0) a black and white photo of a clock on a wall . (p=0.000048)
+  1) a black and white photo of a clock on a wall (p=0.000033)
+  2) a black and white photo of a clock on a table . (p=0.000021)
+Captions for image 50666182_398262237590315_6968299140857601480_n.jpg:
+  0) a woman wearing a tie and a white shirt . (p=0.000059)
+  1) a woman wearing a tie and a red tie . (p=0.000027)
+  2) a young woman wearing a tie and a hat . (p=0.000022)
+Captions for image 51315421_376884859797582_1108387424612268312_n.jpg:
+  0) a woman wearing a tie and a hat . (p=0.000106)
+  1) a woman wearing a hat and a tie . (p=0.000101)
+  2) a woman wearing a tie and a hat (p=0.000029)
+Captions for image 54511109_337389993561357_4078358574751494179_n.jpg:
+  0) a tray of food that includes rice and vegetables . (p=0.000024)
+  1) a tray of food that includes a sandwich and chips . (p=0.000003)
+  2) a tray of food that includes rice and vegetables (p=0.000001)
+Captions for image 50919740_2587095927981473_721408684130201801_n.jpg:
+  0) a man standing in front of a tv holding a microphone . (p=0.000259)
+  1) a man standing in front of a tv holding a nintendo wii controller . (p=0.000146)
+  2) a man standing in front of a tv holding a wii controller . (p=0.000136)
+Captions for image 50748525_360081297920647_2134127010603752757_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000533)
+  1) a close up of a sign with a sticker on it (p=0.000066)
+  2) a close up of a street sign with a sticker on it (p=0.000033)
+Captions for image 50343640_781326775554844_2055674935185187333_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.001742)
+  1) a person holding a cell phone in their hands . (p=0.001015)
+  2) a person holding a smart phone in their hand . (p=0.000937)
+Captions for image 50673647_472898149908674_820080517241355523_n.jpg:
+  0) a close up of a pair of scissors (p=0.000834)
+  1) a close up of a pair of scissors on a table (p=0.000360)
+  2) a pair of scissors and a pair of scissors . (p=0.000148)
+Captions for image 52893390_398457210979949_5199775133670357626_n.jpg:
+  0) a man holding a teddy bear in his right hand . (p=0.000170)
+  1) a man holding a teddy bear in his left hand . (p=0.000167)
+  2) a man holding a teddy bear in front of a mirror . (p=0.000071)
+Captions for image 51528433_924078081131777_5536855733670460613_n.jpg:
+  0) a close up of a sign with a sign on it (p=0.000005)
+  1) a close up of a sign that says `` <UNK> '' (p=0.000002)
+  2) a close up of a sign with a picture of a bird on it (p=0.000001)
+Captions for image 50341045_1887420724660646_1077933528409846264_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.004990)
+  1) a piece of cake on a plate with a fork (p=0.002017)
+  2) a piece of chocolate cake on a plate with a fork . (p=0.001150)
+Captions for image 49858364_2224859817560679_2791349723012983172_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000078)
+  1) a close up of a person holding a nintendo wii remote (p=0.000049)
+  2) a close up of a person holding a nintendo wii game controller (p=0.000015)
+Captions for image 53765096_107877040245919_6957870084216651878_n.jpg:
+  0) a display case filled with lots of donuts . (p=0.002035)
+  1) a display case filled with different types of donuts . (p=0.002018)
+  2) a display case filled with lots of different flavored donuts . (p=0.002003)
+Captions for image 49858170_2099221280158259_3827441930917384482_n.jpg:
+  0) a close up of a cup of coffee (p=0.001060)
+  1) a close up of a cup of coffee on a table (p=0.000978)
+  2) a close up of a cup and a cup (p=0.000394)
+Captions for image 50075657_247277016186462_4372336318092072221_n.jpg:
+  0) a sign that is on the side of a road . (p=0.000089)
+  1) a sign that is on top of a pole . (p=0.000087)
+  2) a sign that is on top of a rock . (p=0.000057)
+Captions for image 49857586_2328820260685016_4221748073514090536_n.jpg:
+  0) a man in a suit and tie standing next to a woman . (p=0.000181)
+  1) a man in a suit and tie standing in front of a crowd . (p=0.000053)
+  2) a man in a suit and tie standing next to a woman (p=0.000051)
+Captions for image 50163157_514862405701825_3766715576178953042_n.jpg:
+  0) a man holding a stuffed animal in his hands . (p=0.000070)
+  1) a man holding a teddy bear in his hands . (p=0.000063)
+  2) a man holding a teddy bear in his hands (p=0.000017)
+Captions for image 49783512_376758289553218_8944447709513539928_n.jpg:
+  0) a close up of an orange on a plate (p=0.000191)
+  1) a close up of an orange on a blue surface (p=0.000082)
+  2) a close up of a red apple on a table (p=0.000080)
+Captions for image 50574481_300406107486838_3635836652276791218_n.jpg:
+  0) a television that is on top of a table . (p=0.000066)
+  1) a television that is sitting on a table . (p=0.000062)
+  2) a television that is sitting on top of a table . (p=0.000038)
+Captions for image 50601133_377947199451656_3741785087350261036_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000657)
+  1) a man in a suit and tie standing in a room . (p=0.000372)
+  2) a man in a suit and tie is smiling (p=0.000261)
+Captions for image 50262142_370222463791009_4532177723072928056_n.jpg:
+  0) a close up of a computer keyboard and a mouse (p=0.000020)
+  1) a close up of a computer keyboard and a mouse . (p=0.000011)
+  2) a close up of a nintendo wii with a digital camera (p=0.000003)
+Captions for image 49679203_325164158094060_317225552839523451_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000099)
+  1) a close up of a person holding a wii remote (p=0.000061)
+  2) a close up of a person holding a nintendo wii (p=0.000059)
+Captions for image 49745803_228384454616163_8180651407666095990_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.000338)
+  1) a red stop sign sitting on top of a pole . (p=0.000104)
+  2) a red stop sign sitting on the side of a street . (p=0.000102)
+Captions for image 49612938_279205076083861_1566693454936160475_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000110)
+  1) a man in a suit and tie is smiling (p=0.000060)
+  2) a man in a suit and tie standing in front of a building . (p=0.000018)
+Captions for image 50122762_220144892265363_6759009102535516831_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000462)
+  1) a close up of a person holding a pair of scissors (p=0.000204)
+  2) a close up of a stop sign with a sticker on it (p=0.000116)
+Captions for image 47694891_550575905408256_4318935884569542136_n.jpg:
+  0) a teddy bear sitting on top of a laptop . (p=0.000050)
+  1) a teddy bear sitting on top of a piece of luggage . (p=0.000044)
+  2) a teddy bear sitting on top of a laptop computer . (p=0.000043)
+Captions for image 47695078_168657680765426_4386133797461865346_n.jpg:
+  0) a collage of photos of a man and a woman . (p=0.000004)
+  1) a collage of photos with a sign on a wall (p=0.000004)
+  2) a collage of photos of a man and a woman (p=0.000004)
+Captions for image 46399776_2152107525054795_5428385112107631540_n.jpg:
+  0) a close up of a stop sign with a sky background (p=0.005044)
+  1) a close up of a vandalized stop sign (p=0.001485)
+  2) a close up of a stop sign on a street (p=0.000316)
+Captions for image 47585211_963865843799011_8561536454446734627_n.jpg:
+  0) a man in a suit and tie standing in front of a sign . (p=0.000023)
+  1) a man in a suit and tie standing in a room . (p=0.000010)
+  2) a man in a suit and tie standing in front of a sign (p=0.000009)
+Captions for image 46051988_526906874479376_1770504702182504669_n.jpg:
+  0) a pan filled with lots of different types of food . (p=0.000286)
+  1) a pan filled with lots of different kinds of food . (p=0.000133)
+  2) a pan filled with lots of food on top of a stove . (p=0.000096)
+Captions for image 47422370_2450673454960476_4539001587833109587_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000557)
+  1) a man in a suit and tie is smiling (p=0.000220)
+  2) a man in a suit and tie holding a microphone . (p=0.000105)
+Captions for image 46342543_352485145534237_1918709351557556840_n.jpg:
+  0) a bunch of different colored scissors on a table . (p=0.000011)
+  1) a bunch of different colored scissors sitting on a table . (p=0.000008)
+  2) a bunch of different colored scissors sitting on a table (p=0.000008)
+Captions for image 45798713_2364792310416186_2958839955317691369_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000537)
+  1) a close up of a person holding a baseball bat (p=0.000345)
+  2) a close up of a person holding a pair of skis (p=0.000161)
+Captions for image 47584372_357519488137880_8239341727505548877_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.001113)
+  1) a glass of wine sitting on a table next to a wine glass . (p=0.000060)
+  2) a glass of wine sitting on a table next to a bottle of wine . (p=0.000057)
+Captions for image 47197072_148367096148183_1045832424938912569_n.jpg:
+  0) a man holding a snowboard in his hands . (p=0.000039)
+  1) a man holding a skateboard in front of a building . (p=0.000012)
+  2) a man holding a snowboard in his hands (p=0.000010)
+Captions for image 46399766_215042402737687_7255134513857507256_n.jpg:
+  0) a close up of a sandwich on a plate (p=0.003320)
+  1) a close up of a plate of food with a sandwich (p=0.000850)
+  2) a close up of a plate of food (p=0.000711)
+Captions for image 47151768_372189476876262_4200021151843079062_n.jpg:
+  0) a white plate topped with a slice of pizza . (p=0.005851)
+  1) a white plate topped with a piece of pizza . (p=0.001484)
+  2) a plate with a slice of pizza on it (p=0.001172)
+Captions for image 43543348_128271084847968_8558125533385015902_n.jpg:
+  0) a bottle of beer and a cell phone on a table . (p=0.000037)
+  1) a bottle of beer sitting next to a cell phone . (p=0.000036)
+  2) a bottle of beer sitting next to a book . (p=0.000033)
+Captions for image 46388179_494662587692139_8074565583265973944_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.001369)
+  1) a person holding a remote control in their hand . (p=0.001132)
+  2) a person 's hand holding a remote control . (p=0.001082)
+Captions for image 47185002_984984108556304_5998069913606782317_n.jpg:
+  0) a piece of cake sitting on top of a white plate . (p=0.002131)
+  1) a piece of cake on a plate with a fork . (p=0.001675)
+  2) a piece of cake sitting on a plate with a fork . (p=0.000947)
+Captions for image 46746019_367821183990592_6398125721128789025_n.jpg:
+  0) a white plate topped with a piece of cake . (p=0.001866)
+  1) a piece of cake on a plate with a fork . (p=0.001498)
+  2) a white plate topped with a piece of food . (p=0.000947)
+Captions for image 46580267_1091441807696042_6959011724329085471_n.jpg:
+  0) a blender filled with lots of different types of food . (p=0.000059)
+  1) a blender filled with lots of different types of fruit . (p=0.000024)
+  2) a blender filled with lots of food and a bottle of wine . (p=0.000004)
+Captions for image 46541526_720310845021095_5854297141406673959_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000716)
+  1) a cup of coffee sitting next to a keyboard . (p=0.000501)
+  2) a cup of coffee sitting on a table (p=0.000227)
+Captions for image 46098110_497644534076299_1317872298784869860_n.jpg:
+  0) a man holding a cell phone in his hand . (p=0.000211)
+  1) a man holding up a smart phone in a store . (p=0.000138)
+  2) a man holding up a smart phone in front of a tv . (p=0.000092)
+Captions for image 47388541_352472565574637_5272704013121142751_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.002623)
+  1) a table topped with plates of food and drinks . (p=0.001037)
+  2) a table topped with plates of food and drinks (p=0.000053)
+Captions for image 44856243_331270447461108_1507466902012176380_n.jpg:
+  0) a birthday cake with a train on it (p=0.000079)
+  1) a birthday cake with a train on it . (p=0.000058)
+  2) a birthday cake with a train on the table . (p=0.000007)
+Captions for image 45335613_311117213064995_8240917109698213730_n.jpg:
+  0) a man in a suit and tie standing in front of a sign . (p=0.000015)
+  1) a man in a suit and tie standing in front of a microphone . (p=0.000014)
+  2) a man in a suit and tie standing in front of a poster . (p=0.000009)
+Captions for image 44910231_580849229011806_8595521860307251669_n.jpg:
+  0) a collage of photos with a sign on a wall (p=0.000003)
+  1) a collage of photos with a sign and a sign (p=0.000003)
+  2) a collage of photos with a sign on a wall . (p=0.000001)
+Captions for image 47305106_125248938501133_5600513162764869911_n.jpg:
+  0) a group of people standing next to each other . (p=0.005040)
+  1) a group of people posing for a picture . (p=0.002230)
+  2) a group of people posing for a picture (p=0.001324)
+Captions for image 46507156_302202643737110_57485717940385085_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000147)
+  1) a man with a beard and a tie (p=0.000089)
+  2) a man in a suit and tie is smiling (p=0.000045)
+Captions for image 46319709_517862075397956_8821125740701931369_n.jpg:
+  0) a white plate with a cake on top of it . (p=0.000175)
+  1) a white plate with a cake on it (p=0.000094)
+  2) a white plate with a cake on it . (p=0.000063)
+Captions for image 45626738_262511124439138_7282061813083251367_n.jpg:
+  0) a close up of a person holding a sign (p=0.000029)
+  1) a close up of a person holding a wii remote (p=0.000022)
+  2) a close up of a person holding a nintendo wii remote (p=0.000020)
+Captions for image 45755326_256303285067547_622299024165407703_n.jpg:
+  0) a black and white photo of a street sign . (p=0.000471)
+  1) a black and white photo of a street sign (p=0.000245)
+  2) a black and white photo of a sign on a pole . (p=0.000024)
+Captions for image 32153771_377480072769940_9109334182630260736_n.jpg:
+  0) a cell phone sitting on top of a book . (p=0.000257)
+  1) a cell phone sitting on top of a book bag . (p=0.000093)
+  2) a cell phone sitting on a table next to a book . (p=0.000038)
+Captions for image 41361954_235741517113337_2759066830460524958_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.002013)
+  1) a close up of a vandalized street sign (p=0.001324)
+  2) a close up of a street sign on a pole (p=0.001322)
+Captions for image 44785522_628655694282508_5196345559824743213_n.jpg:
+  0) a statue of a man in a suit and tie . (p=0.000065)
+  1) a statue of a man in a suit and tie (p=0.000060)
+  2) a statue of a man with a hat on . (p=0.000015)
+Captions for image 46065267_264092737634328_5648554252026472243_n.jpg:
+  0) a black and white photo of a sign on a building (p=0.000043)
+  1) a black and white photo of a sign on a building . (p=0.000017)
+  2) a black and white photo of a sign on a street (p=0.000006)
+Captions for image 44559288_959523007574088_7933951054204120848_n.jpg:
+  0) a collage of photos of a man and a woman (p=0.000004)
+  1) a collage of pictures of a man and a woman . (p=0.000004)
+  2) a collage of photos of a man and a woman . (p=0.000004)
+Captions for image 44501594_497400847410704_229375972880529293_n.jpg:
+  0) a plate of food that is on a table . (p=0.000224)
+  1) a plate of food that is sitting on a table . (p=0.000102)
+  2) a plate of food that is on a table (p=0.000101)
+Captions for image 42995303_187479452196260_4869290439104515366_n.jpg:
+  0) a man in a red hat is holding a snowboard . (p=0.000002)
+  1) a man in a red shirt is holding a skateboard (p=0.000001)
+  2) a man in a red shirt is holding a skateboard . (p=0.000001)
+Captions for image 44000160_319497982181049_6306626555285429322_n.jpg:
+  0) a collage of pictures of a man in a suit . (p=0.000003)
+  1) a collage of pictures of a man in a suit and tie . (p=0.000001)
+  2) a collage of pictures of a man in a suit and tie (p=0.000001)
+Captions for image 43778819_459630374564360_2138909880397054231_n.jpg:
+  0) a white bowl filled with lots of food . (p=0.000395)
+  1) a white bowl filled with lots of different types of food . (p=0.000138)
+  2) a white bowl filled with lots of different types of vegetables . (p=0.000056)
+Captions for image 43914839_322723645220343_3883403954908871665_n.jpg:
+  0) a dog sitting on the floor in front of a window . (p=0.000122)
+  1) a dog sitting on the floor in front of a door . (p=0.000088)
+  2) a dog sitting on the floor looking out the window (p=0.000064)
+Captions for image 42926720_2197849907156826_4069925118221865374_n.jpg:
+  0) a woman sitting on a couch with a dog . (p=0.000567)
+  1) a woman sitting on a couch holding a dog . (p=0.000525)
+  2) a woman sitting on a couch with a dog in her lap . (p=0.000305)
+Captions for image 44521442_1802878103155157_5692260385129897997_n.jpg:
+  0) a close up of a pair of scissors (p=0.000396)
+  1) a close up of a pair of scissors on a table (p=0.000038)
+  2) a close up of a street sign with a sticker on it (p=0.000018)
+Captions for image 43371543_954205488097018_8741930984565414183_n.jpg:
+  0) a close up of a pan of food (p=0.000361)
+  1) a close up of a pan of food on a stove (p=0.000332)
+  2) a close up of a plate of food (p=0.000330)
+Captions for image 43913744_732785983733951_1768266983170164252_n.jpg:
+  0) a man in a white shirt and tie holding a white controller . (p=0.000000)
+  1) a man in a white shirt holding up a white and black tie . (p=0.000000)
+  2) a man in a white shirt holding up a white and blue sign . (p=0.000000)
+Captions for image 43539204_258206481553380_2320988991268576920_n.jpg:
+  0) a man in a suit and tie holding up a sign . (p=0.000001)
+  1) a man in a suit and tie holding up a sign (p=0.000000)
+  2) a man in a suit and tie holding a box of donuts . (p=0.000000)
+Captions for image 43778908_282084245755018_7459126196190284328_n.jpg:
+  0) a man in a suit and tie holding a sign . (p=0.000005)
+  1) a man in a suit and tie holding up a sign . (p=0.000003)
+  2) a man in a suit and tie holding a sign (p=0.000002)
+Captions for image 43818066_320607342066527_3229845970513167373_n.jpg:
+  0) a couple of people standing next to each other . (p=0.000785)
+  1) a couple of people that are standing in front of a sign (p=0.000057)
+  2) a couple of people standing next to each other on a street . (p=0.000040)
+Captions for image 43817506_2178928519013969_6749794716217130281_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.000092)
+  1) a red stop sign sitting on top of a pole . (p=0.000082)
+  2) a red stop sign sitting on top of a metal pole . (p=0.000074)
+Captions for image 43915374_1744949395617351_1553940591202999549_n.jpg:
+  0) a close up of a nintendo wii with a remote (p=0.000010)
+  1) a close up of a tv with a picture of a person on it (p=0.000001)
+  2) a close up of a tv with a picture of a person (p=0.000001)
+Captions for image 42825103_2053329458052905_7709861136535300082_n.jpg:
+  0) a birthday cake that has a train on it . (p=0.000060)
+  1) a birthday cake that has a train on it (p=0.000016)
+  2) a birthday cake that has been made to look like a train . (p=0.000014)
+Captions for image 44276102_1698517723610421_2408145866497467_n.jpg:
+  0) a close up of a keyboard and a mouse (p=0.000855)
+  1) a close up of a computer keyboard and mouse . (p=0.000112)
+  2) a close up of a computer keyboard and mouse (p=0.000065)
+Captions for image 42080543_486559821856250_9056243238421029497_n.jpg:
+  0) a picture of a computer on a desk . (p=0.000039)
+  1) a picture of a book on a desk . (p=0.000034)
+  2) a picture of a book on a desk (p=0.000004)
+Captions for image 43529814_297416731104944_8256666589967824186_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.000941)
+  1) a plate of food that includes rice and meat . (p=0.000219)
+  2) a plate of food that includes rice , meat and vegetables . (p=0.000086)
+Captions for image 41866910_308741016577934_5383082762791475992_n.jpg:
+  0) a close up of a keyboard and a mouse (p=0.000125)
+  1) a close up of a sign on a wall (p=0.000103)
+  2) a close up of a keyboard and a sign (p=0.000050)
+Captions for image 41741233_304260046829200_4460858250134588153_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000444)
+  1) a close up of a pair of scissors on a table (p=0.000388)
+  2) a pair of scissors sitting on top of a table (p=0.000028)
+Captions for image 43779270_253228762029729_7355777794249595424_n.jpg:
+  0) a close up of a keyboard and a mouse (p=0.000292)
+  1) a close up of a keyboard and a monitor (p=0.000074)
+  2) a close up of a person holding a pair of scissors (p=0.000056)
+Captions for image 41706649_185042739105889_562322796505053658_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.002438)
+  1) a red stop sign sitting on top of a metal pole . (p=0.000244)
+  2) a red stop sign sitting on the side of a street . (p=0.000149)
+Captions for image 41192709_1517600158341377_6973950344311974169_n.jpg:
+  0) a white plate topped with a cut in half sandwich . (p=0.000340)
+  1) a white plate topped with a sandwich next to a cup of coffee . (p=0.000190)
+  2) a white plate topped with a sandwich and a cup of coffee . (p=0.000177)
+Captions for image 41502993_686874801699714_5228025310965423074_n.jpg:
+  0) a collage of photos with a television screen (p=0.000023)
+  1) a picture of a man in a suit and tie . (p=0.000002)
+  2) a collage of photos with a television and a laptop (p=0.000002)
+Captions for image 41597468_722745661391554_3404408324174308127_n.jpg:
+  0) a collage of photos with a man and a woman (p=0.000041)
+  1) a collage of photos with a man in a suit and tie (p=0.000009)
+  2) a collage of photos with a man holding a cell phone (p=0.000009)
+Captions for image 43650746_189405405312283_8560286405420380457_n.jpg:
+  0) a close up of a pair of scissors (p=0.000458)
+  1) a close up of a keyboard and a mouse (p=0.000347)
+  2) a close up of a pair of scissors on a table (p=0.000041)
+Captions for image 40784464_325239158034545_8595801603154716791_n.jpg:
+  0) a close up of a pair of scissors (p=0.000630)
+  1) a close up of a person holding a pair of scissors (p=0.000316)
+  2) a close up of a pair of scissors on a table (p=0.000043)
+Captions for image 40533016_472219383282715_7125422482627103878_n.jpg:
+  0) a plate of food on a wooden table . (p=0.000283)
+  1) a plate of food on a wooden table (p=0.000136)
+  2) a plate of food on a table with a fork (p=0.000015)
+Captions for image 32686052_475770222877598_5002493858718679040_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.006398)
+  1) a person holding a smart phone in their hand . (p=0.003149)
+  2) a person holding a cell phone in their hand (p=0.001645)
+Captions for image 40974128_942417465969215_2627620455632336516_n.jpg:
+  0) a woman in a white shirt and black tie (p=0.000008)
+  1) a woman in a white shirt and a black tie (p=0.000007)
+  2) a woman in a white shirt and a black tie . (p=0.000002)
+Captions for image 44370114_337082253768151_4255110343065040624_n.jpg:
+  0) a close up of a keyboard and a mouse (p=0.000395)
+  1) a close up of a keyboard and a monitor (p=0.000053)
+  2) a black and white photo of a keyboard (p=0.000019)
+Captions for image 40308011_2182390718716320_7047259301579085414_n.jpg:
+  0) a man wearing a hat and a hat . (p=0.000236)
+  1) a man wearing a hat and a tie . (p=0.000213)
+  2) a man wearing a hat and glasses holding a cell phone . (p=0.000036)
+Captions for image 40019240_561247750977187_2820863798161352696_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000629)
+  1) a man in a suit and tie standing in a room . (p=0.000505)
+  2) a man in a suit and tie is smiling (p=0.000274)
+Captions for image 40503547_1057212441124109_6484482291505695022_n.jpg:
+  0) a close up of a vandalized stop sign (p=0.002481)
+  1) a close up of a stop sign with a sky background (p=0.001291)
+  2) a close up of a stop sign with a sticker on it (p=0.000174)
+Captions for image 40405429_1114139238735910_7039842975340175135_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000621)
+  1) a close up of a cell phone on a table (p=0.000069)
+  2) a close up of a cell phone on a car (p=0.000063)
+Captions for image 44344971_2081594158819396_8991785250386954867_n.jpg:
+  0) a man is taking a picture of himself in a mirror . (p=0.000244)
+  1) a man is taking a picture of himself in the mirror . (p=0.000168)
+  2) a man is taking a picture of himself in a mirror (p=0.000094)
+Captions for image 39356440_485799525225829_7826990491462795264_n.jpg:
+  0) a picture of a man in a suit and tie . (p=0.000005)
+  1) a picture of a man in a suit and tie (p=0.000003)
+  2) a sign that says `` <UNK> '' on it 's side . (p=0.000002)
+Captions for image 39506609_741757662836431_7405811369758425088_n.jpg:
+  0) a group of colorful kites flying in the sky . (p=0.000365)
+  1) a group of colorful kites hanging from a ceiling . (p=0.000216)
+  2) a group of colorful kites flying in the air . (p=0.000104)
+Captions for image 39511945_471799523297947_3724588462200848384_n.jpg:
+  0) a plate of food and a glass of wine . (p=0.000094)
+  1) a plate of food and a glass of wine (p=0.000078)
+  2) a plate of food and a glass of wine on a table . (p=0.000017)
+Captions for image 39576227_225342314995568_1864240102541099008_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000226)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000067)
+  2) a pair of scissors sitting on a table . (p=0.000059)
+Captions for image 39127110_832958033758452_8091474934032760832_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.002957)
+  1) a red stop sign sitting on the side of a street . (p=0.000451)
+  2) a stop sign with a sticker on it (p=0.000435)
+Captions for image 33195939_237642780153656_8157008799165579264_n.jpg:
+  0) a man holding a nintendo wii game controller . (p=0.008005)
+  1) a man holding a nintendo wii controller in his right hand . (p=0.000477)
+  2) a man holding a nintendo wii controller in his hands . (p=0.000470)
+Captions for image 39505192_695577890776766_7706375822537392128_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.011177)
+  1) a person holding a cell phone in their hand (p=0.002682)
+  2) a person holding a cell phone in their hands . (p=0.002031)
+Captions for image 38669193_295461754545543_2203388578707275776_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.002611)
+  1) a close up of a vandalized street sign (p=0.000982)
+  2) a close up of a street sign on a pole (p=0.000627)
+Captions for image 38472114_279919959477884_2309257980660416512_n.jpg:
+  0) a pair of shoes sitting on top of a skateboard . (p=0.001045)
+  1) a pair of shoes sitting on the ground . (p=0.000376)
+  2) a pair of shoes sitting on top of a bed . (p=0.000202)
+Captions for image 38789842_345988542608009_1730645823403851776_n.jpg:
+  0) a man wearing a hat and sunglasses sitting in a car . (p=0.000059)
+  1) a man in a hat and sunglasses sitting in a car . (p=0.000028)
+  2) a man wearing a hat and sunglasses sitting in a car (p=0.000023)
+Captions for image 39309321_249882228993468_7575585358180515840_n.jpg:
+  0) a statue of a man holding a skateboard . (p=0.000572)
+  1) a statue of a man on a skateboard . (p=0.000393)
+  2) a statue of a man holding a skateboard (p=0.000115)
+Captions for image 37982652_248573575776424_3503074969858867200_n.jpg:
+  0) a cake shaped like a teddy bear on a table . (p=0.000008)
+  1) a cake shaped like a teddy bear on a table (p=0.000005)
+  2) a cake shaped like a teddy bear with a hat on it . (p=0.000000)
+Captions for image 37728510_257387878208359_3292175832058953728_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000893)
+  1) a sign that is on a brick wall . (p=0.000427)
+  2) a sign that is on the side of a wall . (p=0.000227)
+Captions for image 38510474_511189275977040_392975055019048960_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000156)
+  1) a close up of a sign on a wall (p=0.000072)
+  2) a close up of a sign on a pole (p=0.000067)
+Captions for image 39121582_2175633182665300_2424232069035982848_n.jpg:
+  0) a man riding a skateboard up the side of a ramp . (p=0.008168)
+  1) a man riding a skateboard down the side of a ramp . (p=0.005150)
+  2) a man riding a snowboard down a snow covered slope . (p=0.003836)
+Captions for image 38489789_292578324809720_746849676963086336_n.jpg:
+  0) a piece of chocolate cake on a white plate . (p=0.003137)
+  1) a piece of cake on a plate with a fork . (p=0.002785)
+  2) a piece of chocolate cake on a plate (p=0.001725)
+Captions for image 37787786_504742326629892_1986761960284225536_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000916)
+  1) a close up of a sign with a sky background (p=0.000178)
+  2) a close up of a street sign with a building in the background (p=0.000088)
+Captions for image 37786417_670116210011481_977629775994552320_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.000798)
+  1) a person holding a cell phone in their hands . (p=0.000408)
+  2) a person is holding a cell phone in their hand . (p=0.000248)
+Captions for image 37977002_1084813261676832_3267759823449489408_n.jpg:
+  0) a man holding a nintendo wii game controller . (p=0.002851)
+  1) a man holding a nintendo wii game controller in a living room . (p=0.000090)
+  2) a man holding a nintendo wii game controller in a room . (p=0.000061)
+Captions for image 39918914_295983534466000_2973627994729349120_n.jpg:
+  0) a man wearing a mask and holding a skateboard . (p=0.000086)
+  1) a man wearing a mask and holding a pair of scissors . (p=0.000065)
+  2) a man wearing a mask and holding a baseball bat . (p=0.000049)
+Captions for image 37302772_221762428414966_2988824576865075200_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.001979)
+  1) a red stop sign sitting next to a street sign . (p=0.000591)
+  2) a red stop sign sitting on top of a metal pole . (p=0.000517)
+Captions for image 37059974_510264559396598_5114116790271606784_n.jpg:
+  0) a room with a window and a window (p=0.000003)
+  1) a room with a window and a vase with flowers . (p=0.000001)
+  2) a room with a window and a vase with flowers in it . (p=0.000000)
+Captions for image 37036124_426464167873585_856711856608247808_n.jpg:
+  0) a black and white photo of a man wearing a hat . (p=0.000300)
+  1) a black and white photo of a man wearing a hat (p=0.000214)
+  2) a black and white photo of a man in a suit (p=0.000148)
+Captions for image 37385903_646754419021770_3915038603574509568_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002699)
+  1) a white plate topped with meat , potatoes and vegetables . (p=0.000698)
+  2) a white plate topped with meat , potatoes and veggies . (p=0.000569)
+Captions for image 38733183_1650532191739816_2289420334174044160_n.jpg:
+  0) a man wearing a hat and tie standing next to a woman . (p=0.000002)
+  1) a man wearing a hat and tie standing next to a man . (p=0.000001)
+  2) a man wearing a hat and a hat holding a pair of scissors . (p=0.000000)
+Captions for image 36995187_280700476015198_8169985402900316160_n.jpg:
+  0) a close up of a sign on a building (p=0.000288)
+  1) a close up of a sign on a wall (p=0.000084)
+  2) a close up of a street sign with a building in the background (p=0.000070)
+Captions for image 37165128_1712260212162744_532366062537146368_n.jpg:
+  0) a large jetliner flying through a blue sky . (p=0.007909)
+  1) a large jetliner flying through a cloudy blue sky . (p=0.006088)
+  2) a large jetliner flying through a cloudy sky . (p=0.002854)
+Captions for image 39122475_708079139540923_7053366890319577088_n.jpg:
+  0) a close up of a person holding a soccer ball (p=0.000313)
+  1) a close up of a red and white cake (p=0.000106)
+  2) a close up of a stop sign with a person (p=0.000017)
+Captions for image 37013406_502431416851756_2400403629132480512_n.jpg:
+  0) a group of teddy bears sitting on top of a table . (p=0.000246)
+  1) a group of stuffed animals sitting on top of a table . (p=0.000235)
+  2) a group of teddy bears sitting on a table . (p=0.000145)
+Captions for image 36619708_959256657532236_1217120811731648512_n.jpg:
+  0) a blender filled with lots of different types of food . (p=0.000041)
+  1) a bottle of wine and a bottle of wine . (p=0.000039)
+  2) a bottle of beer and a bottle of wine . (p=0.000029)
+Captions for image 34821018_201513813886504_6138630360549818368_n.jpg:
+  0) a glass jar filled with water and a bottle of water . (p=0.000007)
+  1) a glass jar filled with water and a bottle of wine . (p=0.000006)
+  2) a glass jar filled with water and a bottle . (p=0.000005)
+Captions for image 36161094_1869391869792356_2604926647463313408_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.001801)
+  1) a large clock mounted to the side of a wall . (p=0.000539)
+  2) a large clock mounted to the side of a building (p=0.000014)
+Captions for image 35616416_428633304285164_6055638823453327360_n.jpg:
+  0) a man is holding a baseball bat in his hand . (p=0.000112)
+  1) a man is holding a baseball bat in his hands . (p=0.000102)
+  2) a man is holding a baseball bat in his hand (p=0.000065)
+Captions for image 37066872_221795685327336_7446186282838917120_n.jpg:
+  0) a birthday cake with a train on it (p=0.000021)
+  1) a birthday cake with a teddy bear on top of it . (p=0.000010)
+  2) a birthday cake with a teddy bear on top . (p=0.000005)
+Captions for image 35616543_133147680835474_8458785029722472448_n.jpg:
+  0) a black and white photo of a man in a suit (p=0.000348)
+  1) a black and white photo of a man in a suit . (p=0.000319)
+  2) a black and white photo of a man in a suit and tie (p=0.000317)
+Captions for image 34982532_611306229256724_3422847093893496832_n.jpg:
+  0) a red stop sign sitting on top of a metal pole . (p=0.000299)
+  1) a red stop sign sitting on the side of a road . (p=0.000288)
+  2) a red stop sign sitting on the side of a street . (p=0.000048)
+Captions for image 35564715_184850462179628_7863460033730707456_n.jpg:
+  0) a man wearing a helmet and holding a baseball bat . (p=0.000661)
+  1) a man wearing a helmet and holding a skateboard . (p=0.000087)
+  2) a man wearing a helmet and holding a baseball bat (p=0.000080)
+Captions for image 33861154_1749324118494343_1422790792488943616_n.jpg:
+  0) a man with a tennis racket and a ball . (p=0.000160)
+  1) a man with a tennis racket and a tennis ball . (p=0.000148)
+  2) a man with a tennis racket and a ball (p=0.000081)
+Captions for image 34587015_176810536324979_4206225729702068224_n.jpg:
+  0) a birthday cake with candles on top of it . (p=0.000037)
+  1) a birthday cake with candles on top of it (p=0.000026)
+  2) a birthday cake with candles on a table (p=0.000013)
+Captions for image 35156105_865253510336108_829562127084683264_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.001118)
+  1) a laptop computer sitting on top of a table . (p=0.000790)
+  2) a laptop computer sitting on top of a wooden desk . (p=0.000486)
+Captions for image 35523496_464840357286039_132926639355985920_n.jpg:
+  0) a man wearing a hat and a bow tie . (p=0.001489)
+  1) a man wearing a hat and a hat . (p=0.001117)
+  2) a man wearing a hat and a bow tie (p=0.000362)
+Captions for image 35155992_914944225372386_9221532502361899008_n.jpg:
+  0) a cup of coffee and a banana on a table . (p=0.001175)
+  1) a cup of coffee sitting next to a plate of food . (p=0.000543)
+  2) a cup of coffee and a banana on a table (p=0.000242)
+Captions for image 34921371_461939940910609_4536946921687744512_n.jpg:
+  0) a man with a beard wearing a tie . (p=0.000051)
+  1) a man with a beard wearing a white shirt and tie . (p=0.000017)
+  2) a man with a beard wearing a tie and glasses . (p=0.000009)
+Captions for image 34477852_2092904447599486_8164649649064378368_n.jpg:
+  0) a young boy wearing a tie standing in a kitchen . (p=0.000026)
+  1) a young boy wearing a tie standing in a room . (p=0.000017)
+  2) a young boy wearing a tie standing in front of a refrigerator . (p=0.000010)
+Captions for image 33916810_177048616341708_5210991371065753600_n.jpg:
+  0) a close up of a vandalized stop sign (p=0.000965)
+  1) a close up of a stop sign with a sky background (p=0.000239)
+  2) a close up of a stop sign with a sticker on it (p=0.000231)
+Captions for image 33190653_649693842031044_1540934858786734080_n.jpg:
+  0) an airplane is parked on the runway at the airport . (p=0.000037)
+  1) an airplane is parked on the runway at the airport (p=0.000009)
+  2) an airplane is parked on the runway in front of a mountain range . (p=0.000002)
+Captions for image 34728968_704631733040422_3417782464163086336_n.jpg:
+  0) a hot dog with mustard and ketchup on it . (p=0.000153)
+  1) a hot dog with mustard and a soda (p=0.000104)
+  2) a hot dog with mustard and ketchup on a table . (p=0.000103)
+Captions for image 33721612_1813914688651637_2153625889319944192_n.jpg:
+  0) a group of people standing next to each other . (p=0.001617)
+  1) a group of people standing around each other . (p=0.000751)
+  2) a group of people standing next to each other on a stage . (p=0.000214)
+Captions for image 34070146_205679459920342_1153300157513596928_n.jpg:
+  0) a poster of a man on a cell phone . (p=0.000010)
+  1) a poster of a man on a cell phone (p=0.000003)
+  2) a poster of a man in a car mirror . (p=0.000001)
+Captions for image 32276203_211519479659250_4266923289860898816_n.jpg:
+  0) a close up of a motorcycle parked on a city street (p=0.000119)
+  1) a close up of a motorcycle parked on a street (p=0.000085)
+  2) a close up of a number of motorcycles parked on a street (p=0.000044)
+Captions for image 32247564_360531594351592_1906818806290841600_n.jpg:
+  0) a man in a suit and tie holding a book . (p=0.000031)
+  1) a man in a suit is holding a book . (p=0.000028)
+  2) a man in a suit and tie holding a book (p=0.000012)
+Captions for image 32761376_458591141247774_5792573571221946368_n.jpg:
+  0) a laptop computer sitting on top of a wooden table . (p=0.000532)
+  1) a laptop computer sitting on top of a table . (p=0.000494)
+  2) a laptop computer sitting on top of a desk . (p=0.000213)
+Captions for image 32344030_377919569361626_6342484626702860288_n.jpg:
+  0) a black and white dog laying on top of a bed . (p=0.000473)
+  1) a black and white dog laying on top of a couch . (p=0.000346)
+  2) a black and white dog laying on top of a bed next to a stuffed animal . (p=0.000007)
+Captions for image 33210235_383356165485803_1108214489943113728_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000283)
+  1) a person is holding a pair of scissors (p=0.000161)
+  2) a person holding a pair of scissors in a room . (p=0.000095)
+Captions for image 33130614_309997382871066_7831477731559735296_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000592)
+  1) a person holding a cell phone in their hand . (p=0.000540)
+  2) a person holding a cell phone in their hands . (p=0.000341)

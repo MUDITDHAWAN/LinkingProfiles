@@ -1,0 +1,592 @@
+Captions for image 1391133_893709680728001_1514540822_a.jpg:
+  0) a statue of a bear sitting on top of a table . (p=0.000019)
+  1) a statue of a bear sitting on top of a wooden table . (p=0.000007)
+  2) a statue of a bear sitting on top of a table next to a vase . (p=0.000001)
+Captions for image 14726263_1089471714481772_8911347340019761152_n.jpg:
+  0) a white box with a sticker on it (p=0.000006)
+  1) a white box with a sticker on it . (p=0.000005)
+  2) a sign that says `` <UNK> '' on a brick wall . (p=0.000000)
+Captions for image 14533638_1177581305614652_8885990699212734464_n.jpg:
+  0) a computer mouse sitting on top of a desk . (p=0.000590)
+  1) a computer mouse sitting on top of a keyboard . (p=0.000489)
+  2) a computer mouse sitting on top of a desk next to a keyboard . (p=0.000106)
+Captions for image 14582366_1088791951189895_8180503374081294336_n.jpg:
+  0) a nintendo wii game controller sitting on top of a table . (p=0.000328)
+  1) a nintendo wii game system sitting on top of a table . (p=0.000293)
+  2) a nintendo wii game system sitting on a table . (p=0.000186)
+Captions for image 46572446_711569429229965_1530880778864918356_n.jpg:
+  0) a close up of a pair of scissors (p=0.001217)
+  1) a close up of a person holding a pair of scissors (p=0.001048)
+  2) a close up of a pair of scissors on a table (p=0.000205)
+Captions for image 49678896_2264554530493239_3935307730699381641_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000138)
+  1) a close up of a book on a desk (p=0.000089)
+  2) a close up of a book on a table (p=0.000070)
+Captions for image 51791781_376511633128720_1341409593573235011_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000097)
+  1) a pair of scissors sitting on top of a piece of paper . (p=0.000069)
+  2) a pair of scissors sitting on top of a box . (p=0.000036)
+Captions for image 14540391_1776729579258291_6704584875522916352_n.jpg:
+  0) a collage of photos with a vase with flowers (p=0.000026)
+  1) a collage of photos with a collage of pictures (p=0.000019)
+  2) a collage of photos with a collage of photos (p=0.000009)
+Captions for image 11363977_1668731630046814_139753686_n.jpg:
+  0) a bunch of different colored vases on a table (p=0.000018)
+  1) a bunch of different colored vases on a table . (p=0.000017)
+  2) a bunch of different colored vases sitting on a table (p=0.000017)
+Captions for image 45263382_2069315523090863_7601834615639187521_n.jpg:
+  0) a sign on a pole on a sidewalk . (p=0.000040)
+  1) a sign on a pole on a street . (p=0.000031)
+  2) a sign on a pole on a city street . (p=0.000026)
+Captions for image 37549377_1347147552085598_1806613439703941120_n.jpg:
+  0) a book is sitting on top of a book . (p=0.000091)
+  1) a book is sitting on top of a book (p=0.000053)
+  2) a book with a book on top of it . (p=0.000025)
+Captions for image 42003644_2072741973039316_8355699355512248817_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000566)
+  1) a pair of scissors sitting on a table next to a book . (p=0.000016)
+  2) a pair of scissors sitting on top of a table next to a book . (p=0.000016)
+Captions for image 61251865_2332514213737029_6956733047817112113_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.001345)
+  1) a computer keyboard sitting on top of a desk . (p=0.001241)
+  2) a laptop computer sitting on top of a wooden desk . (p=0.000701)
+Captions for image 44787189_2352165538158169_1036152917319619768_n.jpg:
+  0) a cup of coffee and a donut on a table . (p=0.000900)
+  1) a cup of coffee sitting next to a cup of coffee . (p=0.000686)
+  2) a cup of coffee and a donut on a table (p=0.000215)
+Captions for image 43408245_2031797263571651_1837983428319667837_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000159)
+  1) a pair of scissors sitting on top of a piece of paper . (p=0.000043)
+  2) a pair of scissors sitting on a table next to a book . (p=0.000005)
+Captions for image 37317118_900035890179947_6178349500843687936_n.jpg:
+  0) a woman holding a book in front of her face . (p=0.000039)
+  1) a woman holding a book in front of a book . (p=0.000012)
+  2) a woman holding a teddy bear in front of a mirror . (p=0.000007)
+Captions for image 37028530_197467767587568_4249307653295046656_n.jpg:
+  0) a man holding a surfboard in his hands . (p=0.000069)
+  1) a man holding a surfboard in front of his face . (p=0.000027)
+  2) a man holding a surfboard in his hands (p=0.000016)
+Captions for image 36598418_2108858936001650_7148067315718815744_n.jpg:
+  0) a book and a book on a table . (p=0.000536)
+  1) a book and a book on a bed . (p=0.000341)
+  2) a book and a book on a table (p=0.000103)
+Captions for image 34349928_1737495953005106_3614987244768591872_n.jpg:
+  0) a group of people flying kites in the sky . (p=0.000500)
+  1) a group of kites flying in the sky above a beach . (p=0.000083)
+  2) a group of kites flying in the sky over a beach . (p=0.000074)
+Captions for image 34391363_837554023103294_2935808544240304128_n.jpg:
+  0) a person holding a surf board on a beach (p=0.000909)
+  1) a person holding a surf board on the beach (p=0.000316)
+  2) a man holding a surfboard on a beach . (p=0.000245)
+Captions for image 32006511_396167060883155_2392095448690065408_n.jpg:
+  0) a wooden bench sitting in the middle of a forest . (p=0.000747)
+  1) a wooden bench sitting in front of a tree . (p=0.000478)
+  2) a wooden bench sitting in the middle of a lush green field . (p=0.000163)
+Captions for image 29402762_966115690223105_1139977761666891776_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000092)
+  1) a car is parked on the side of the street . (p=0.000051)
+  2) a car is parked on the side of a road . (p=0.000042)
+Captions for image 30602199_965688156912338_6400610888725823488_n.jpg:
+  0) a stack of books sitting on top of a shelf . (p=0.000182)
+  1) a stack of books sitting on top of a table . (p=0.000167)
+  2) a stack of books sitting on top of a wooden shelf . (p=0.000086)
+Captions for image 29403869_176232983188933_2016294245605834752_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000573)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000388)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000203)
+Captions for image 32178295_384088285407267_5030218207621808128_n.jpg:
+  0) a close up of a pair of scissors (p=0.000530)
+  1) a close up of a pair of scissors on a bed (p=0.000095)
+  2) a close up of a pair of shoes on a bed (p=0.000065)
+Captions for image 29087247_965077773667614_4072082137132564480_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000698)
+  1) a red fire hydrant sitting in the middle of a forest . (p=0.000693)
+  2) a fire hydrant in the middle of a field . (p=0.000092)
+Captions for image 28430446_183533428925281_8181555924536655872_n.jpg:
+  0) a bottle of beer sitting next to a bottle of beer . (p=0.000298)
+  1) a bottle of beer sitting next to a plate of food . (p=0.000139)
+  2) a bottle of beer sitting next to a bottle of wine . (p=0.000088)
+Captions for image 25014823_150784995645844_3850832394437263360_n.jpg:
+  0) a collage of photos of a person holding a cell phone (p=0.000003)
+  1) a collage of photos of a person holding a cell phone . (p=0.000002)
+  2) a collage of photos of a person holding a sign (p=0.000002)
+Captions for image 24126510_1721956357874799_7303697444259233792_n.jpg:
+  0) a close up of a pair of scissors (p=0.001161)
+  1) a pair of scissors sitting on top of a table . (p=0.000630)
+  2) a close up of a pair of scissors on a table (p=0.000511)
+Captions for image 24274780_111044339683235_296750788108091392_n.jpg:
+  0) a man in a suit is talking on a cell phone . (p=0.000372)
+  1) a man in a suit and tie sitting on a bench . (p=0.000098)
+  2) a man in a suit and tie sitting in a chair . (p=0.000072)
+Captions for image 23733897_648076415580700_3633962607850815488_n.jpg:
+  0) a woman holding a book in her hand . (p=0.000019)
+  1) a woman holding a book in her hand (p=0.000006)
+  2) a woman holding a book in front of a book . (p=0.000002)
+Captions for image 24175702_2058142897740696_4240335410779127808_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.003649)
+  1) a pile of books sitting on top of a table . (p=0.001199)
+  2) a pile of books sitting on top of a shelf . (p=0.000626)
+Captions for image 22344247_1616667908399831_5167895828131479552_n.jpg:
+  0) a book sitting on top of a table . (p=0.000159)
+  1) a book sitting on top of a table next to a book . (p=0.000074)
+  2) a book sitting on a table next to a book . (p=0.000056)
+Captions for image 32362619_377661769413826_852606829945946112_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.004905)
+  1) a book shelf filled with lots of books and books . (p=0.000305)
+  2) a book shelf filled with books on top of a table . (p=0.000268)
+Captions for image 24274922_507636322926537_4793149228496977920_n.jpg:
+  0) a black and white photo of a bird flying in the sky . (p=0.000169)
+  1) a black and white photo of a bird flying in the sky (p=0.000121)
+  2) a black and white photo of a bird on a tree . (p=0.000086)
+Captions for image 21910921_119775625394051_2000496969344090112_n.jpg:
+  0) a close up of a pair of scissors (p=0.001089)
+  1) a close up of a person holding a pair of scissors (p=0.000537)
+  2) a close up of a pair of scissors on a bed (p=0.000089)
+Captions for image 21480198_2350727161819476_3040853922357968896_n.jpg:
+  0) a laptop computer sitting on top of a wooden table . (p=0.000289)
+  1) a laptop computer sitting on top of a wooden bench . (p=0.000242)
+  2) a book sitting on top of a wooden bench . (p=0.000231)
+Captions for image 21041934_338518526570991_289551151609675776_n.jpg:
+  0) a close up of a pair of scissors (p=0.000852)
+  1) a close up of a pair of scissors on a table (p=0.000514)
+  2) a pair of scissors sitting on top of a table . (p=0.000141)
+Captions for image 24331666_135493770491263_8880516978142347264_n.jpg:
+  0) a close up of a pair of scissors (p=0.001151)
+  1) a black and white photo of a pair of scissors . (p=0.000252)
+  2) a black and white photo of a pair of scissors (p=0.000236)
+Captions for image 20987486_148776339041239_8410666720104022016_n.jpg:
+  0) a book is sitting on top of a bed . (p=0.000081)
+  1) a stuffed animal is sitting on a book . (p=0.000080)
+  2) a stuffed animal is sitting on a book (p=0.000070)
+Captions for image 20633610_249117405597746_4888933347159441408_n.jpg:
+  0) a picture of a clock on a wall . (p=0.000024)
+  1) a picture of a person holding a cell phone . (p=0.000012)
+  2) a picture of a clock on a book . (p=0.000008)
+Captions for image 20590242_312880002507349_1445934636080300032_n.jpg:
+  0) a smart phone sitting on top of a table . (p=0.001316)
+  1) a smart phone sitting on top of a wooden table . (p=0.000725)
+  2) a smart phone sitting on top of a table next to a book . (p=0.000073)
+Captions for image 20582954_156530831565734_2414942857933619200_n.jpg:
+  0) a book on a bed with a book (p=0.000018)
+  1) a table with a book and a book on it (p=0.000014)
+  2) a book on a table with a book (p=0.000011)
+Captions for image 24254375_2391346067757868_8227193164692193280_n.jpg:
+  0) a book is sitting on top of a book . (p=0.000195)
+  1) a book is sitting on top of a desk . (p=0.000084)
+  2) a book is sitting on top of a book (p=0.000070)
+Captions for image 20184714_1860678434260110_2024758792922595328_n.jpg:
+  0) a white plate topped with a piece of cake . (p=0.000437)
+  1) a white plate topped with a cake and a cup of coffee . (p=0.000167)
+  2) a white plate topped with a piece of cake and a cup of coffee . (p=0.000112)
+Captions for image 20225174_154842495066674_9076482583373545472_n.jpg:
+  0) a close up of a pair of scissors (p=0.000425)
+  1) a close up of a pair of scissors on a table (p=0.000053)
+  2) a close up of a stuffed animal on a bed (p=0.000048)
+Captions for image 19985543_281725235629282_9206865541233377280_n.jpg:
+  0) an open book is laying on a bed . (p=0.000026)
+  1) an open book is laying on a bed (p=0.000016)
+  2) an open book on a bed with a blanket (p=0.000003)
+Captions for image 19534882_1887218241528544_3544587091495092224_n.jpg:
+  0) a laptop computer sitting on top of a wooden table . (p=0.005540)
+  1) a laptop computer sitting on top of a table . (p=0.004262)
+  2) a laptop computer sitting on top of a wooden bench . (p=0.002965)
+Captions for image 18888949_314726232311365_6308062430920441856_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.000647)
+  1) a bottle of wine sitting on top of a table next to a bottle . (p=0.000027)
+  2) a bottle of wine sitting on top of a table next to a book . (p=0.000026)
+Captions for image 18809622_1748666388758307_4520381172697530368_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000409)
+  1) a bottle of wine and a bottle of wine . (p=0.000330)
+  2) a bottle of wine and a bottle of wine on a table . (p=0.000149)
+Captions for image 19534204_1338997219548802_1085109739144085504_n.jpg:
+  0) a bed with a book and a book on it (p=0.000022)
+  1) a bed with a book and a bag on it (p=0.000020)
+  2) a bed with a book and a book on it . (p=0.000008)
+Captions for image 18580770_497585157239634_1106608867959111680_n.jpg:
+  0) a hot dog and a drink on a table . (p=0.000319)
+  1) a bottle of beer and a sandwich on a table . (p=0.000136)
+  2) a hot dog and a drink on a table (p=0.000082)
+Captions for image 18579734_111717152746024_8683003462402703360_n.jpg:
+  0) a black and white photo of a <UNK> (p=0.000039)
+  1) a black and white photo of a sign on a wall (p=0.000024)
+  2) a black and white photo of a sign on a wall . (p=0.000023)
+Captions for image 18013505_214355912395055_4419469374184751104_n.jpg:
+  0) a book and a book on a table . (p=0.000265)
+  1) a pair of scissors sitting on top of a table . (p=0.000179)
+  2) a book and a book on a table (p=0.000059)
+Captions for image 24177770_702641736604278_3220484847839477760_n.jpg:
+  0) a bed sitting in a room next to a window . (p=0.000306)
+  1) a bed sitting in a bedroom next to a window . (p=0.000277)
+  2) a bed sitting in a room next to a wall . (p=0.000058)
+Captions for image 18443697_221671528334477_5627060851782451200_n.jpg:
+  0) a book sitting on top of a wooden bench . (p=0.000759)
+  1) a book sitting on top of a wooden table . (p=0.000480)
+  2) a book sitting on top of a table next to a book . (p=0.000066)
+Captions for image 17495109_1896837900529817_4887997795908190208_n.jpg:
+  0) a close up of a book on a table (p=0.000122)
+  1) a close up of a book on a desk (p=0.000056)
+  2) a close up of a book on a book (p=0.000016)
+Captions for image 15876767_238045466619321_9095860861632774144_n.jpg:
+  0) a vase of flowers sitting on a table . (p=0.000189)
+  1) a vase of flowers sitting on a table (p=0.000106)
+  2) a table with a vase with flowers on it (p=0.000066)
+Captions for image 16788499_2053599901401008_2992753471213535232_n.jpg:
+  0) a laptop computer sitting on top of a bed . (p=0.001932)
+  1) a laptop computer sitting on top of a table . (p=0.000699)
+  2) a book sitting on top of a bed next to a book . (p=0.000567)
+Captions for image 17818891_283085085480410_8507661323759255552_n.jpg:
+  0) a bunch of green vegetables sitting on a table . (p=0.000040)
+  1) a bunch of green vegetables sitting on a table (p=0.000035)
+  2) a bunch of green vegetables sitting on top of a table . (p=0.000026)
+Captions for image 15538936_1816552445266809_7659927683966435328_n.jpg:
+  0) a book and a book on a table . (p=0.000166)
+  1) a book and a book on a table (p=0.000041)
+  2) a book and a book are on a table . (p=0.000018)
+Captions for image 24175298_145659666203268_701432296183431168_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000214)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000063)
+  2) a pair of scissors sitting on top of a table (p=0.000026)
+Captions for image 15802611_232052937241060_7992755230993285120_n.jpg:
+  0) a book sitting on top of a book . (p=0.000294)
+  1) a book sitting on top of a book shelf . (p=0.000264)
+  2) a book sitting on top of a book shelf filled with books . (p=0.000103)
+Captions for image 14582324_1803800496565257_2063147528441823232_n.jpg:
+  0) a woman holding a pair of scissors in her hands . (p=0.000132)
+  1) a woman holding a kite in her hand . (p=0.000120)
+  2) a woman holding a pair of scissors in her hand . (p=0.000089)
+Captions for image 14566668_171730446626343_246302265458032640_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000622)
+  1) a cup of coffee sitting on a table next to a keyboard . (p=0.000068)
+  2) a cup of coffee sitting on top of a table next to a keyboard . (p=0.000063)
+Captions for image 15099412_728399493990445_8370578345766682624_n.jpg:
+  0) a cup of coffee sitting next to a keyboard . (p=0.001433)
+  1) a cup of coffee sitting next to a laptop computer . (p=0.001061)
+  2) a cup of coffee sitting on top of a table . (p=0.000681)
+Captions for image 14677302_1251711951567153_2177994215202488320_n.jpg:
+  0) a close up of a bird on a power line (p=0.000296)
+  1) a close up of a bird on a tree branch (p=0.000167)
+  2) a close up of a bird with a bird on it (p=0.000071)
+Captions for image 15048254_986967958113697_3133997989048090624_n.jpg:
+  0) a book on a table with a book (p=0.000004)
+  1) a book on a bed with a book (p=0.000003)
+  2) a book on a bed with a book on it (p=0.000003)
+Captions for image 14488113_198965833881853_6070963945370288128_n.jpg:
+  0) a cup of coffee sitting next to a laptop computer . (p=0.001664)
+  1) a cup of coffee sitting next to a laptop . (p=0.001053)
+  2) a cup of coffee sitting on top of a table . (p=0.000444)
+Captions for image 15035574_1902771926617667_4597151574219816960_n.jpg:
+  0) a book and a book on a table . (p=0.000090)
+  1) a book is sitting on top of a book . (p=0.000068)
+  2) a book is sitting on top of a book (p=0.000028)
+Captions for image 15101662_540202816149980_3523401619846725632_n.jpg:
+  0) a cup of coffee and a banana on a table . (p=0.000073)
+  1) a cup of coffee sitting next to a plate of food . (p=0.000023)
+  2) a cup of coffee and a banana on a table (p=0.000022)
+Captions for image 14693858_1845709858999340_4340291707917565952_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000169)
+  1) a cup of coffee sitting on a table next to a book . (p=0.000014)
+  2) a cup of coffee sitting on top of a table next to a book . (p=0.000014)
+Captions for image 24178111_147259709331992_6434622541469319168_n.jpg:
+  0) a close up of a pair of scissors (p=0.000421)
+  1) a pair of scissors sitting on top of a table . (p=0.000283)
+  2) a close up of a pair of scissors on a table (p=0.000189)
+Captions for image 14714639_563725020488422_2353739745764311040_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000223)
+  1) a close up of a bottle of wine on a table (p=0.000187)
+  2) a close up of a bottle of wine and a bottle (p=0.000024)
+Captions for image 14730682_198252257279083_6725066526585520128_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000165)
+  1) a close up of a person holding a pair of scissors (p=0.000151)
+  2) a close up of a book on a table (p=0.000142)
+Captions for image 14718257_1258891860798504_2903067175319240704_n.jpg:
+  0) a book on a table next to a book . (p=0.000064)
+  1) a book on a table next to a book (p=0.000057)
+  2) a book on a table next to a keyboard (p=0.000036)
+Captions for image 14719808_1810037545948698_2770437189354389504_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000278)
+  1) a pair of scissors sitting on top of a desk . (p=0.000109)
+  2) a pair of scissors sitting on a table . (p=0.000076)
+Captions for image 14716638_317334288629063_8916495176151597056_n.jpg:
+  0) a teddy bear sitting in the middle of a forest . (p=0.000161)
+  1) a teddy bear sitting in a tree in a forest . (p=0.000160)
+  2) a teddy bear sitting in the middle of a tree . (p=0.000131)
+Captions for image 13702937_1149553798451287_1341702299_n.jpg:
+  0) a wooden bench sitting next to a body of water . (p=0.000528)
+  1) a wooden bench sitting next to a lake . (p=0.000367)
+  2) a wooden bench next to a body of water . (p=0.000326)
+Captions for image 12519634_215959775445353_1040227511_n.jpg:
+  0) a book sitting on top of a wooden bench . (p=0.000788)
+  1) a book sitting on top of a grass covered field . (p=0.000445)
+  2) a book sitting on top of a wooden table . (p=0.000173)
+Captions for image 12976669_478132059036605_1252493217_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.003424)
+  1) a laptop computer sitting on top of a table . (p=0.003175)
+  2) a laptop computer sitting on top of a wooden desk . (p=0.001130)
+Captions for image 14482059_137167433412121_6462831208064614400_n.jpg:
+  0) a close up of a book on a desk (p=0.000208)
+  1) a close up of a book on a table (p=0.000126)
+  2) a close up of a book on a book (p=0.000058)
+Captions for image 14553355_1730610670536172_7727793102160658432_n.jpg:
+  0) a book with a pair of scissors on top of it . (p=0.000022)
+  1) a book with a pair of scissors on it . (p=0.000011)
+  2) a book with a pair of scissors on it (p=0.000006)
+Captions for image 14487171_1689790688006689_6321463725316374528_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000096)
+  1) a close up of a person laying on a bed (p=0.000091)
+  2) a close up of a person holding a pair of scissors (p=0.000067)
+Captions for image 14350861_1167426789967854_2042394452625981440_n.jpg:
+  0) a sign that says `` <UNK> '' on a street corner . (p=0.000002)
+  1) a sign that reads `` <UNK> '' on a street corner . (p=0.000002)
+  2) a sign that says `` <UNK> '' on the side of a building . (p=0.000001)
+Captions for image 14272231_1612640949035338_1753520904_n.jpg:
+  0) a book is sitting on top of a book . (p=0.000212)
+  1) a book and a book on a desk . (p=0.000211)
+  2) a book is sitting on top of a book (p=0.000125)
+Captions for image 14156414_535602949968239_2120260968_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000175)
+  1) a close up of a stop sign with a sign on it (p=0.000014)
+  2) a close up of a stop sign with a sign (p=0.000007)
+Captions for image 14359521_648205598676556_59787881_n.jpg:
+  0) a book is sitting on top of a book . (p=0.000762)
+  1) a book and a book on a desk . (p=0.000282)
+  2) a book is sitting on top of a book (p=0.000281)
+Captions for image 14278900_754767377996349_1914745228_n.jpg:
+  0) a book sitting on top of a wooden bench . (p=0.000215)
+  1) a book sitting on top of a wooden table . (p=0.000179)
+  2) a book sitting on top of a wooden bench (p=0.000010)
+Captions for image 14350385_972522776191777_5978787509042151424_n.jpg:
+  0) a cup of coffee and a cell phone . (p=0.000114)
+  1) a cup of coffee and a banana on a table . (p=0.000114)
+  2) a cup of coffee sitting next to a banana . (p=0.000087)
+Captions for image 14294712_892971307502563_569699749_n.jpg:
+  0) a close up of a pair of scissors (p=0.002630)
+  1) a close up of a pair of scissors on a table (p=0.000628)
+  2) a pair of scissors sitting on top of a table . (p=0.000409)
+Captions for image 14134980_305703639796172_757492444_n.jpg:
+  0) a table topped with a laptop computer and a cup of coffee . (p=0.000254)
+  1) a table topped with a laptop computer and a keyboard . (p=0.000114)
+  2) a table topped with a laptop computer next to a cup of coffee . (p=0.000041)
+Captions for image 14099858_1742311169352601_1093522884_n.jpg:
+  0) a brown teddy bear sitting on top of a table . (p=0.001475)
+  1) a brown teddy bear sitting on top of a book . (p=0.001379)
+  2) a brown teddy bear sitting on top of a wooden table . (p=0.000528)
+Captions for image 14027317_235886346812229_1143490747_n.jpg:
+  0) a cup of coffee sitting next to a laptop computer . (p=0.001566)
+  1) a cup of coffee sitting on a table next to a laptop . (p=0.000204)
+  2) a cup of coffee sitting next to a laptop computer (p=0.000157)
+Captions for image 13687131_325091374503987_1081887609_n.jpg:
+  0) a book sitting on top of a wooden table . (p=0.000619)
+  1) a book sitting on top of a bed next to a book . (p=0.000515)
+  2) a book sitting on top of a table next to a book . (p=0.000174)
+Captions for image 13687399_1635976096713018_175658283_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000055)
+  1) a sign that is on the side of a street . (p=0.000022)
+  2) a sign that is on the side of a wall . (p=0.000021)
+Captions for image 14063315_1732599680323217_712945806_n.jpg:
+  0) a coffee cup sitting on top of a table . (p=0.000379)
+  1) a coffee cup sitting on a table next to a book . (p=0.000057)
+  2) a coffee cup sitting on top of a table next to a book . (p=0.000028)
+Captions for image 13706983_593752714139713_592272210_n.jpg:
+  0) a man holding a skateboard in his hands . (p=0.000034)
+  1) a man holding a skateboard in his hand . (p=0.000028)
+  2) a man holding a skateboard in his hands (p=0.000009)
+Captions for image 14073361_688234321330918_1794984905_n.jpg:
+  0) a pile of books sitting on top of a shelf . (p=0.000487)
+  1) a pile of books sitting on top of a table . (p=0.000395)
+  2) a pile of books sitting on top of a wooden shelf . (p=0.000140)
+Captions for image 13658668_1861931550696746_567400504_n.jpg:
+  0) a close up of a pair of scissors (p=0.000691)
+  1) a close up of a person holding a pair of scissors (p=0.000131)
+  2) a close up of a pair of scissors on a table (p=0.000087)
+Captions for image 14063378_313162235700942_350914166_n.jpg:
+  0) a black and white photo of a person on a beach (p=0.000246)
+  1) a black and white photo of a person on a beach . (p=0.000207)
+  2) a black and white photo of a man on a beach . (p=0.000204)
+Captions for image 13714227_1644970639165342_1436734863_n.jpg:
+  0) a building with a clock on the front of it . (p=0.000151)
+  1) a building with a clock on the front of it (p=0.000142)
+  2) a large building with a clock on it . (p=0.000138)
+Captions for image 13651752_1362503630446305_1611832530_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000324)
+  1) a cup of coffee sitting next to a laptop computer . (p=0.000248)
+  2) a cup of coffee sitting next to a keyboard . (p=0.000247)
+Captions for image 14033671_665492610293944_1252822227_n.jpg:
+  0) a close up of a pair of scissors (p=0.001228)
+  1) a close up of a book on a bed (p=0.000410)
+  2) a close up of a pair of scissors on a table (p=0.000175)
+Captions for image 13735945_1764042840547412_1097434995_n.jpg:
+  0) a laptop computer sitting on top of a wooden table . (p=0.004987)
+  1) a laptop computer sitting on top of a table . (p=0.001966)
+  2) a laptop computer sitting on top of a wooden bench . (p=0.001255)
+Captions for image 13687045_814186282015102_454653267_n.jpg:
+  0) a woman sitting at a table with a cup of coffee . (p=0.000540)
+  1) a woman sitting at a table with a plate of food . (p=0.000509)
+  2) a woman sitting at a table with a coffee cup . (p=0.000288)
+Captions for image 13731406_1570596789913123_1607995550_n.jpg:
+  0) a table with a plate of food on it (p=0.000231)
+  1) a table with a plate of food and a cup of coffee (p=0.000159)
+  2) a table topped with a cup of coffee and a laptop computer . (p=0.000084)
+Captions for image 13774446_835104946620236_1163565917_n.jpg:
+  0) a close up of a book on a desk (p=0.000093)
+  1) a close up of a book on a table (p=0.000081)
+  2) a close up of a keyboard and a mouse (p=0.000068)
+Captions for image 13731296_1781340028746479_27810512_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.003246)
+  1) a book shelf filled with books and a clock . (p=0.000667)
+  2) a book shelf filled with lots of books and books . (p=0.000173)
+Captions for image 13658622_990103531085372_648478482_n.jpg:
+  0) a clock on the side of a building (p=0.000458)
+  1) a clock on the side of a building . (p=0.000419)
+  2) a clock on a pole on a city street (p=0.000365)
+Captions for image 13671349_1237435829635535_1408320397_n.jpg:
+  0) a poster of a man in a suit and tie . (p=0.000015)
+  1) a poster of a man in a suit and tie (p=0.000010)
+  2) a poster of a man with a tie on . (p=0.000006)
+Captions for image 13827323_832624880203417_1507646388_n.jpg:
+  0) a collage of photos with a variety of items . (p=0.000010)
+  1) a collage of photos with a variety of different items . (p=0.000007)
+  2) a collage of photos with a variety of items (p=0.000006)
+Captions for image 13743189_281794148844395_1479163889_n.jpg:
+  0) a black and white photo of a man and a woman (p=0.001388)
+  1) a black and white photo of a man and a woman . (p=0.000803)
+  2) a black and white photo of a man and woman (p=0.000478)
+Captions for image 13741374_312061039136345_1765023649_n.jpg:
+  0) a collage of photos with a sign and a sign (p=0.000002)
+  1) a collage of photos with a sign that reads `` <UNK> '' . (p=0.000001)
+  2) a collage of photos with a sign and a sign . (p=0.000001)
+Captions for image 13743307_629766170521690_949923846_n.jpg:
+  0) a laptop computer sitting on top of a table . (p=0.002063)
+  1) a laptop computer sitting on top of a wooden table . (p=0.001849)
+  2) a laptop computer sitting on top of a table next to a cup of coffee . (p=0.000114)
+Captions for image 13712088_491131557747034_86660055_n.jpg:
+  0) a collage of photos with a sign and a sign (p=0.000002)
+  1) a collage of photos with a sign that reads `` <UNK> '' . (p=0.000001)
+  2) a collage of photos with a sign and a sign . (p=0.000001)
+Captions for image 12328389_674553549349093_1111160202_n.jpg:
+  0) a book sitting on top of a bed . (p=0.001336)
+  1) a book sitting on top of a bed next to a book . (p=0.000670)
+  2) a book sitting on top of a bed with a book . (p=0.000162)
+Captions for image 13712317_282363235460464_899482974_n.jpg:
+  0) a bird is flying in the air near a building . (p=0.000004)
+  1) a bird is flying in the air near a building (p=0.000002)
+  2) a bird is flying in the air above a building . (p=0.000001)
+Captions for image 13627977_113735842394318_636020214_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001779)
+  1) a group of people walking down a street . (p=0.000467)
+  2) a group of people walking down a street next to tall buildings . (p=0.000170)
+Captions for image 13557204_1716367135278524_339193845_n.jpg:
+  0) a laptop computer sitting on top of a wooden table . (p=0.002919)
+  1) a laptop computer sitting on top of a table . (p=0.002316)
+  2) a laptop computer sitting on top of a table next to a cup of coffee . (p=0.000213)
+Captions for image 13556912_303003333369767_283637806_n.jpg:
+  0) a picture of a person holding a book . (p=0.000008)
+  1) a picture of a man in a suit and tie . (p=0.000006)
+  2) a picture of a man in a suit and tie (p=0.000003)
+Captions for image 13702977_822515677884284_971327650_n.jpg:
+  0) a white box with a bunch of stickers on it (p=0.000003)
+  1) a white box with a bunch of stickers on it . (p=0.000001)
+  2) a sign that says `` <UNK> '' on it . (p=0.000000)
+Captions for image 13525363_469399153258495_1865922314_n.jpg:
+  0) a white surfboard sitting on top of a sandy beach . (p=0.000551)
+  1) a white surfboard sitting on top of a beach . (p=0.000390)
+  2) a white surfboard sitting on the side of a road . (p=0.000096)
+Captions for image 13473285_166777723737437_1069919300_n.jpg:
+  0) a laptop computer sitting on top of a table . (p=0.001426)
+  1) a laptop computer sitting on top of a wooden table . (p=0.001002)
+  2) a laptop computer sitting on top of a desk . (p=0.000699)
+Captions for image 13402342_1648097695512104_2089829032_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.001181)
+  1) a cup of coffee sitting on a table next to a laptop . (p=0.000125)
+  2) a cup of coffee sitting next to a laptop computer (p=0.000104)
+Captions for image 13534584_1055168564565108_1073070863_n.jpg:
+  0) a bowl of cereal and a banana on a table . (p=0.000080)
+  1) a table with a plate of food on it (p=0.000075)
+  2) a bowl of cereal and a banana on a table (p=0.000030)
+Captions for image 13398566_154754331608816_291738961_n.jpg:
+  0) a book is sitting on top of a book . (p=0.000036)
+  1) a book is sitting on top of a book (p=0.000021)
+  2) a book is sitting on a book shelf . (p=0.000018)
+Captions for image 13413219_292648154413533_911733114_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.005972)
+  1) a book shelf filled with books and books . (p=0.003495)
+  2) a book shelf filled with books and a clock . (p=0.002133)
+Captions for image 13320137_1710100102577325_551315093_n.jpg:
+  0) a book is sitting on top of a book . (p=0.000123)
+  1) a book is sitting on top of a book (p=0.000056)
+  2) a book is sitting on top of a desk . (p=0.000044)
+Captions for image 11386473_1180113295353330_1569796888_n.jpg:
+  0) a glass of wine sitting next to a glass of wine . (p=0.000192)
+  1) a glass of wine sitting on a table next to a wine glass . (p=0.000061)
+  2) a glass of wine sitting on a table next to a glass of wine . (p=0.000048)
+Captions for image 13320178_587045878142347_1987059218_n.jpg:
+  0) a sign that says `` <UNK> '' on a beach . (p=0.000003)
+  1) a sign that says `` <UNK> '' on the side of the road . (p=0.000001)
+  2) a sign that says `` <UNK> '' is on a beach . (p=0.000001)
+Captions for image 13320237_813769195425833_2107312792_n.jpg:
+  0) a bowl of cereal and a banana on a table . (p=0.000300)
+  1) a bowl of cereal and a banana on a plate . (p=0.000117)
+  2) a bowl of cereal and a banana on a table (p=0.000101)
+Captions for image 13269396_1075882575819172_713455635_n.jpg:
+  0) a man holding a pair of scissors in his hands . (p=0.000294)
+  1) a man holding a pair of scissors in his hand . (p=0.000154)
+  2) a man holding a pair of scissors in his hands (p=0.000053)
+Captions for image 13267329_1756515331257690_1951338033_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.000990)
+  1) a book shelf filled with lots of different items . (p=0.000204)
+  2) a book shelf filled with lots of books and books . (p=0.000046)
+Captions for image 13248810_635670819930318_1995646718_n.jpg:
+  0) a book is sitting on top of a book . (p=0.000014)
+  1) a book is sitting on top of a book (p=0.000009)
+  2) a book is sitting on a table next to a book . (p=0.000008)
+Captions for image 13266669_1091013524271115_892086988_n.jpg:
+  0) a close up of a book on a bed (p=0.000417)
+  1) a close up of a person holding a book (p=0.000086)
+  2) a close up of a book and a book (p=0.000048)
+Captions for image 13258920_679502805532497_1756693193_n.jpg:
+  0) a cup of coffee sitting next to a laptop computer . (p=0.000781)
+  1) a cup of coffee sitting on top of a table . (p=0.000423)
+  2) a cup of coffee sitting on a table next to a laptop . (p=0.000076)
+Captions for image 13167463_1745726235709669_222152123_n.jpg:
+  0) a blue and white umbrella sitting on a beach . (p=0.000106)
+  1) a blue and white umbrella on a beach . (p=0.000105)
+  2) a blue and white surfboard sitting on a beach . (p=0.000034)
+Captions for image 13129887_864263230386036_327085123_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000353)
+  1) a cup of coffee sitting on a table next to a plate of food . (p=0.000033)
+  2) a cup of coffee sitting on top of a table next to a cup of coffee . (p=0.000028)
+Captions for image 13116673_1610204645937104_1021968109_n.jpg:
+  0) a book sitting on top of a grass covered field . (p=0.000214)
+  1) a book sitting on top of a grass covered ground . (p=0.000114)
+  2) a book sitting on top of a piece of luggage . (p=0.000059)
+Captions for image 13113962_640297439452428_1176069212_n.jpg:
+  0) a collage of pictures of a man holding a tennis racket . (p=0.000009)
+  1) a collage of photos of a man holding a tennis racket . (p=0.000008)
+  2) a collage of photos of a man holding a tennis racket (p=0.000008)
+Captions for image 13166719_1023407007740451_1808958889_n.jpg:
+  0) a surfboard sitting on top of a sandy beach . (p=0.001414)
+  1) a surfboard sitting on top of a beach . (p=0.000309)
+  2) a surfboard sitting on top of a beach next to the ocean . (p=0.000182)
+Captions for image 13098910_1877941049098900_11019723_n.jpg:
+  0) a piece of paper sitting on top of a rock . (p=0.000017)
+  1) a piece of paper sitting on top of a bed . (p=0.000017)
+  2) a piece of paper sitting on top of a piece of paper . (p=0.000011)
+Captions for image 13118251_461899484017890_1116610697_n.jpg:
+  0) a book sitting on top of a wooden bench . (p=0.001899)
+  1) a book sitting on top of a wooden table . (p=0.000380)
+  2) a book sitting on top of a wooden bench next to a book . (p=0.000022)
+Captions for image 12965692_597346970440838_95914542_n.jpg:
+  0) a white surfboard sitting on top of a sandy beach . (p=0.000203)
+  1) a white surfboard sitting on top of a beach . (p=0.000133)
+  2) a white surfboard sitting on the side of a road . (p=0.000017)
+Captions for image 13118083_657502924399110_699886511_n.jpg:
+  0) a group of men standing next to each other . (p=0.000376)
+  1) a group of people standing next to each other . (p=0.000376)
+  2) a group of men standing next to each other in a field . (p=0.000046)
+Captions for image 12959902_236357360086018_608647772_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000044)
+  1) a person holding a cell phone in their hand . (p=0.000023)
+  2) a person holding a pair of scissors in their hands (p=0.000017)
+Captions for image 12519428_1713961188841763_178514547_n.jpg:
+  0) a cup of coffee sitting on top of a beach . (p=0.000156)
+  1) a cup of coffee sitting on top of a table . (p=0.000105)
+  2) a bottle of beer sitting on top of a table next to a plate . (p=0.000005)

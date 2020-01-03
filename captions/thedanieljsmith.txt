@@ -1,0 +1,28 @@
+Captions for image 11311119_655328027832765_913976738_n.jpg:
+  0) a man in a suit and tie holding a sign . (p=0.000012)
+  1) a man wearing a mask and holding a skateboard . (p=0.000010)
+  2) a man in a suit and tie holding a sign (p=0.000004)
+Captions for image 11351702_1438209063164319_1529414355_n.jpg:
+  0) a man is standing in front of a television . (p=0.000029)
+  1) a person is standing in front of a television . (p=0.000027)
+  2) a man is standing in front of a television (p=0.000021)
+Captions for image 11324370_1431199520520295_1248369157_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.003962)
+  1) a close up of a vandalized street sign (p=0.001529)
+  2) a close up of a street sign on a pole (p=0.000796)
+Captions for image 11325014_422546791253767_1392306660_n.jpg:
+  0) a close up of a keyboard and a mouse (p=0.000309)
+  1) a close up of a computer keyboard and a mouse (p=0.000072)
+  2) a close up of a computer keyboard and a mouse . (p=0.000047)
+Captions for image 11887022_113527948996005_1397265121_a.jpg:
+  0) a man in a suit and tie standing in a room . (p=0.000359)
+  1) a man in a suit and tie sitting in a chair . (p=0.000356)
+  2) a man in a suit and tie sitting in a chair (p=0.000148)
+Captions for image 1527552_409887772474891_1273341004_n.jpg:
+  0) a close up of a stop sign with a sky background (p=0.000134)
+  1) a close up of a stop sign on a pole (p=0.000111)
+  2) a close up of a street sign with a sky background (p=0.000093)
+Captions for image 1741555_619943081375557_1984214472_n.jpg:
+  0) a sign that reads `` <UNK> '' on a wall . (p=0.000005)
+  1) a sign that reads `` <UNK> '' on the side of a building . (p=0.000004)
+  2) a sign that says `` <UNK> '' on a wall . (p=0.000003)

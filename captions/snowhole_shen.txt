@@ -1,0 +1,20 @@
+Captions for image 10354555_765604043460381_439884637_n.jpg:
+  0) a group of people sitting at tables with laptops . (p=0.000601)
+  1) a group of people sitting around a table with laptops . (p=0.000288)
+  2) a group of people sitting at a table with laptops . (p=0.000170)
+Captions for image 11176543_890164151004274_84617355_n.jpg:
+  0) a car that is parked in a parking lot . (p=0.000297)
+  1) a car is parked on the side of the road . (p=0.000164)
+  2) a car that is parked in a parking lot (p=0.000149)
+Captions for image 11374596_1633034013575463_1397651025_n.jpg:
+  0) a woman walking down a sidewalk next to a train . (p=0.000041)
+  1) a man walking down a sidewalk next to a traffic light . (p=0.000026)
+  2) a man walking down a sidewalk next to a train . (p=0.000023)
+Captions for image 11950495_1630629310511737_218281300_a.jpg:
+  0) a woman in a dress holding a teddy bear . (p=0.000042)
+  1) a woman in a dress holding a pair of scissors . (p=0.000037)
+  2) a woman in a dress holding a teddy bear (p=0.000018)
+Captions for image 38225649_1836311313071547_4133674661101699072_n.jpg:
+  0) a group of people standing on top of a lush green field . (p=0.001015)
+  1) a group of sheep grazing in a field . (p=0.000337)
+  2) a group of people standing on top of a grass covered field . (p=0.000187)

@@ -1,0 +1,524 @@
+Captions for image 11282734_820888611327114_1474870591_n.jpg:
+  0) a stuffed animal is sitting on a table (p=0.000064)
+  1) a stuffed animal is sitting on a table . (p=0.000053)
+  2) a teddy bear sitting on a table next to a book . (p=0.000003)
+Captions for image 11821275_669122259856408_1060653335_a.jpg:
+  0) a man in a suit and tie holding a book . (p=0.000012)
+  1) a man in a suit and tie holding a teddy bear . (p=0.000010)
+  2) a man in a suit and tie holding a book (p=0.000005)
+Captions for image 924451_1379507925691881_904908229_n.jpg:
+  0) a black and white bird standing on a rock . (p=0.000049)
+  1) a black and white duck standing next to a body of water . (p=0.000040)
+  2) a black and white duck standing next to a pond . (p=0.000040)
+Captions for image 11348348_798258743621617_384068959_n.jpg:
+  0) a large giraffe standing next to a wooden fence . (p=0.000271)
+  1) a large giraffe standing next to a fence . (p=0.000171)
+  2) a giraffe standing in a fenced in area . (p=0.000125)
+Captions for image 19050178_1876732112581649_3012390143295225856_n.jpg:
+  0) a white teddy bear sitting on top of a table . (p=0.000296)
+  1) a white teddy bear sitting on top of a chair . (p=0.000226)
+  2) a white teddy bear sitting on a chair . (p=0.000207)
+Captions for image 18580724_662246537316536_5660472355860774912_n.jpg:
+  0) a man sitting on a bench next to a bicycle . (p=0.000322)
+  1) a couple of people sitting on a bench next to a lake . (p=0.000302)
+  2) a man sitting on a bench next to a bike . (p=0.000250)
+Captions for image 18299441_398644427201898_1895092974342111232_n.jpg:
+  0) a brown teddy bear sitting on top of a rock . (p=0.000098)
+  1) a brown teddy bear sitting on a rock . (p=0.000061)
+  2) a brown teddy bear laying on top of a rock . (p=0.000034)
+Captions for image 60596427_466293827249182_4154032448191755993_n.jpg:
+  0) a black and white photo of a man holding a skateboard . (p=0.000198)
+  1) a black and white photo of a man holding a baseball bat . (p=0.000154)
+  2) a black and white photo of a man holding a tennis racket . (p=0.000103)
+Captions for image 47584369_128306368183044_7791053713974999685_n.jpg:
+  0) a woman sitting on the floor holding a cell phone . (p=0.000100)
+  1) a woman sitting on the floor with her legs crossed . (p=0.000054)
+  2) a woman sitting on the floor holding a cell phone (p=0.000047)
+Captions for image 50890090_258034731818395_7095209748087084420_n.jpg:
+  0) a tennis court with a crowd of people watching . (p=0.000129)
+  1) a tennis court with a crowd of people watching (p=0.000066)
+  2) a tennis court with a crowd of people on a court . (p=0.000021)
+Captions for image 54446482_1156723151176700_6829759592952421676_n.jpg:
+  0) a view of a park with a tree and a bench . (p=0.000001)
+  1) a view of a park with a bench in the middle . (p=0.000000)
+  2) a view of a park with a bench in the middle of it . (p=0.000000)
+Captions for image 49858608_2343208245959160_5995242423308174290_n.jpg:
+  0) a close up of a pair of shoes on a skate board (p=0.000315)
+  1) a close up of a pair of shoes on a skateboard (p=0.000277)
+  2) a close up of a pair of shoes on a bed (p=0.000204)
+Captions for image 43447318_155252205435562_890545821543957869_n.jpg:
+  0) a group of people walking down a street . (p=0.000034)
+  1) a group of people walking down a street next to trees . (p=0.000009)
+  2) a group of people walking down a street next to a forest . (p=0.000004)
+Captions for image 45364185_1945181912445067_3104315532275201585_n.jpg:
+  0) a large clock tower towering over a city . (p=0.003258)
+  1) a clock tower in the middle of a city . (p=0.000715)
+  2) a clock tower in the middle of a city (p=0.000401)
+Captions for image 44267060_252400248959211_144518667572949289_n.jpg:
+  0) a fire hydrant in the middle of a field . (p=0.000404)
+  1) a fire hydrant in the middle of a park . (p=0.000238)
+  2) a fire hydrant in the middle of a grassy area . (p=0.000101)
+Captions for image 44738336_138342053803047_4659232923465614470_n.jpg:
+  0) a close up of a stuffed animal on a table (p=0.000043)
+  1) a close up of a person holding a pair of scissors (p=0.000036)
+  2) a close up of a stuffed animal on a pole (p=0.000012)
+Captions for image 49847793_314943532482955_268027164713464852_n.jpg:
+  0) a pair of shoes and a pair of shoes . (p=0.000999)
+  1) a pair of shoes and a pair of shoes (p=0.000541)
+  2) a close up of a pair of shoes on a bed (p=0.000161)
+Captions for image 42078490_1869164036503162_4289179451672264147_n.jpg:
+  0) a person is riding a boat in the water . (p=0.000019)
+  1) a person is riding a boat in the water (p=0.000018)
+  2) a boat is floating in the water near a bridge . (p=0.000008)
+Captions for image 39486327_393796471150189_6851062351446147072_n.jpg:
+  0) a man and a woman sitting on the grass . (p=0.000126)
+  1) a man and a woman are sitting on the grass . (p=0.000077)
+  2) a man and a woman are sitting on the grass (p=0.000028)
+Captions for image 41812836_2251635975080285_3560371348225212224_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000439)
+  1) a fire hydrant in the middle of a field . (p=0.000243)
+  2) a fire hydrant in the middle of a grassy area . (p=0.000154)
+Captions for image 50163134_110003056766982_4209231519142855365_n.jpg:
+  0) a pair of shoes sitting on top of a skateboard . (p=0.001675)
+  1) a close up of a pair of shoes (p=0.000570)
+  2) a close up of a pair of shoes on a skateboard (p=0.000235)
+Captions for image 35166384_2010116582395683_895454256914497536_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.000596)
+  1) a boat floating on top of a lake next to a forest . (p=0.000114)
+  2) a boat floating on top of a lake next to a shore . (p=0.000014)
+Captions for image 25022861_317393135425455_634152831787466752_n.jpg:
+  0) a man in a suit and tie holding a beer . (p=0.000093)
+  1) a man in a suit and tie holding a glass . (p=0.000043)
+  2) a man in a suit and tie holding a glass of beer . (p=0.000027)
+Captions for image 40105427_226894551324874_6473882098787680256_n.jpg:
+  0) a little girl sitting on a bench in the woods . (p=0.000023)
+  1) a little girl sitting on a bench in the grass . (p=0.000018)
+  2) a little girl sitting on a bench in the woods (p=0.000012)
+Captions for image 42003869_468565006983449_2634158893767420887_n.jpg:
+  0) a person flying a kite in a park . (p=0.000543)
+  1) a man flying a kite in a park . (p=0.000539)
+  2) a person flying a kite in a field . (p=0.000346)
+Captions for image 35166449_1852794458111006_6483618119632814080_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000178)
+  1) a fire hydrant in the middle of a flooded area . (p=0.000148)
+  2) a fire hydrant in the middle of a flooded street . (p=0.000123)
+Captions for image 44311405_556159611521353_175009589976627424_n.jpg:
+  0) a close up of a person wearing a tie (p=0.000867)
+  1) a close up of a pair of scissors (p=0.000624)
+  2) a close up of a person wearing a shirt and tie (p=0.000402)
+Captions for image 25015846_1755659371404443_5430244340515471360_n.jpg:
+  0) a man in a suit and tie sitting on a bench . (p=0.000030)
+  1) a man in a suit and tie sitting on a toilet . (p=0.000020)
+  2) a man in a suit and tie sitting in a chair . (p=0.000018)
+Captions for image 25007923_162461394509632_2498172237434060800_n.jpg:
+  0) a view of a clock tower in the distance . (p=0.000053)
+  1) a view of a large clock tower in the distance . (p=0.000038)
+  2) a view of a clock tower in the middle of a city . (p=0.000010)
+Captions for image 23823543_191979378033451_8635029188807491584_n.jpg:
+  0) a woman and a young girl sitting on a bed . (p=0.000053)
+  1) a woman and a young girl pose for a picture . (p=0.000032)
+  2) a woman and a young girl are sitting on a bed . (p=0.000020)
+Captions for image 25024344_1751870998166025_2269576086322937856_n.jpg:
+  0) a man in a suit and tie sitting at a table . (p=0.000100)
+  1) a man wearing a hat and a hat (p=0.000059)
+  2) a man in a suit and tie sitting in a chair . (p=0.000034)
+Captions for image 41804112_749005385445398_2767325336602997725_n.jpg:
+  0) a tree in the middle of a forest . (p=0.000116)
+  1) a tree in the middle of a wooded area . (p=0.000071)
+  2) a tree in the middle of a forest (p=0.000039)
+Captions for image 23507383_379354275852062_7949353108998455296_n.jpg:
+  0) a man sitting on a bench with a skateboard . (p=0.000069)
+  1) a man is sitting on a bench with a skateboard . (p=0.000031)
+  2) a person sitting on a bench with a bag (p=0.000031)
+Captions for image 25016309_405069683256277_1016047193305382912_n.jpg:
+  0) a man in a baseball cap is holding a baseball bat . (p=0.000166)
+  1) a man in a suit and tie holding a baseball bat . (p=0.000106)
+  2) a man in a suit and tie holding a baseball glove . (p=0.000049)
+Captions for image 25005717_635731116779179_3461015321496780800_n.jpg:
+  0) a man and a woman sitting on a bench . (p=0.000455)
+  1) a man and a woman are sitting on a bench . (p=0.000197)
+  2) a man and a woman are sitting on a bench (p=0.000111)
+Captions for image 22857935_371215523300078_8446137781259862016_n.jpg:
+  0) a man in a red shirt and tie standing next to a tree . (p=0.000008)
+  1) a man in a red shirt and tie standing in front of a tree . (p=0.000007)
+  2) a man in a red shirt and tie standing in a field . (p=0.000005)
+Captions for image 42003562_350752362337401_6284327735258622599_n.jpg:
+  0) a tree in the middle of a forest . (p=0.000141)
+  1) a tree in the middle of a park . (p=0.000115)
+  2) a tree in a park next to a tree . (p=0.000100)
+Captions for image 22582034_2001169103453852_587612308469972992_n.jpg:
+  0) a woman in a dress holding a pair of scissors . (p=0.000045)
+  1) a woman in a white dress holding a pair of scissors . (p=0.000024)
+  2) a woman in a dress holding a pair of scissors (p=0.000018)
+Captions for image 22426977_481611902211728_354991893261582336_n.jpg:
+  0) a reflection of a man in a mirror (p=0.000153)
+  1) a reflection of a person in a mirror (p=0.000135)
+  2) a reflection of a person in a mirror . (p=0.000113)
+Captions for image 21827105_1919278918398697_8137851346649874432_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.001313)
+  1) a boat floating on a lake next to a forest . (p=0.000439)
+  2) a boat floating on top of a lake next to a forest . (p=0.000226)
+Captions for image 25007231_1765943793707855_4580167349386084352_n.jpg:
+  0) a dog laying on a bed with a blanket . (p=0.000266)
+  1) a dog laying on a bed with a blanket (p=0.000177)
+  2) a dog laying on a bed with a pillow (p=0.000128)
+Captions for image 21372161_741509756035878_6083966555132002304_n.jpg:
+  0) a boat floating on a lake next to a forest . (p=0.000232)
+  1) a view of a river with a bridge in the background . (p=0.000031)
+  2) a view of a river with a bridge in the distance . (p=0.000027)
+Captions for image 20398993_1391646030956621_6356587675805286400_n.jpg:
+  0) a close up of a stop sign with a sky background (p=0.001451)
+  1) a close up of a street sign with a sky background (p=0.001274)
+  2) a close up of a red and white clock (p=0.000157)
+Captions for image 21041920_1896434237350025_2169233121868775424_n.jpg:
+  0) a crowd of people standing around a large crowd of people . (p=0.000106)
+  1) a crowd of people standing around a large group of people . (p=0.000074)
+  2) a crowd of people standing around a large group of soccer balls . (p=0.000023)
+Captions for image 20393655_139096930016000_7277660008186118144_n.jpg:
+  0) a man in a suit and tie sitting in a chair . (p=0.000186)
+  1) a man in a suit and tie standing in a room . (p=0.000178)
+  2) a man in a suit and tie standing in front of a window . (p=0.000127)
+Captions for image 25011319_1708727289180110_4866872294888177664_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000493)
+  1) a cup of coffee sitting on top of a wooden table . (p=0.000227)
+  2) a cup of coffee sitting on a table next to a cup . (p=0.000018)
+Captions for image 20398189_1710973842543448_592938785176551424_n.jpg:
+  0) a white and black dog is sitting on a bench (p=0.000040)
+  1) a white and brown dog laying on top of a wooden bench . (p=0.000032)
+  2) a white and black dog is sitting on a bench . (p=0.000024)
+Captions for image 18949789_1894658284155064_3733285058010677248_n.jpg:
+  0) a decorative vase with flowers on a table . (p=0.000014)
+  1) a vase with a flower on top of it . (p=0.000014)
+  2) a vase with a flower on top of it (p=0.000009)
+Captions for image 18950262_780023185492665_8772112729440780288_n.jpg:
+  0) a teddy bear sitting on top of a table . (p=0.000044)
+  1) a teddy bear sitting on top of a wooden table . (p=0.000044)
+  2) a teddy bear sitting on top of a wooden chair . (p=0.000029)
+Captions for image 20398947_1719874178313783_207218183323516928_n.jpg:
+  0) a dog sitting on a couch next to a woman . (p=0.000011)
+  1) a dog sitting on a couch next to a person . (p=0.000011)
+  2) a dog sitting on a couch next to a person (p=0.000010)
+Captions for image 17662938_1447519241947041_5447594427843346432_n.jpg:
+  0) a woman sitting on a train with luggage . (p=0.000157)
+  1) a woman sitting on a train with a suitcase . (p=0.000038)
+  2) a woman sitting on a train with luggage (p=0.000021)
+Captions for image 18644987_676141585923969_7460278500033822720_n.jpg:
+  0) a pair of scissors sitting on top of a wooden table . (p=0.000222)
+  1) a pair of scissors sitting on top of a piece of paper . (p=0.000194)
+  2) a pair of scissors sitting on a piece of paper . (p=0.000174)
+Captions for image 18947589_1951261568480921_3372106307308879872_n.jpg:
+  0) a teddy bear sitting on top of a book . (p=0.000209)
+  1) a teddy bear sitting on top of a book bag . (p=0.000054)
+  2) a teddy bear sitting on a chair next to a book . (p=0.000023)
+Captions for image 15535251_612348462282758_4748496875882020864_n.jpg:
+  0) a living room filled with furniture and a tv . (p=0.000656)
+  1) a living room filled with furniture and a flat screen tv . (p=0.000447)
+  2) a living room filled with furniture and a fire place . (p=0.000314)
+Captions for image 15875704_1860310634212603_2125340338515083264_n.jpg:
+  0) a man holding a banana in his right hand . (p=0.003259)
+  1) a man holding a banana up to his face . (p=0.001752)
+  2) a man is holding a banana in his hand . (p=0.001617)
+Captions for image 15877137_1106209019501783_2117655920468033536_n.jpg:
+  0) a bottle of beer is sitting on a table . (p=0.000219)
+  1) a bottle of beer is sitting on a table (p=0.000144)
+  2) a bottle of beer and a glass of wine (p=0.000086)
+Captions for image 18721800_488510091540674_7626161187956195328_n.jpg:
+  0) a park bench in the middle of a park . (p=0.000942)
+  1) a park bench sitting in the middle of a park . (p=0.000392)
+  2) a park bench in the middle of a park (p=0.000282)
+Captions for image 17267319_1339113606179008_1445305367536861184_n.jpg:
+  0) a close up of a pair of scissors (p=0.000143)
+  1) a close up of a pair of shoes on a bed (p=0.000028)
+  2) a close up of a pair of scissors on a table (p=0.000016)
+Captions for image 17662179_726231144222536_136695829640511488_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000031)
+  1) a man with a tie and a hat . (p=0.000015)
+  2) a man wearing a tie and a hat (p=0.000011)
+Captions for image 17438888_1130175607108302_5749762355122667520_n.jpg:
+  0) a wooden bench sitting in front of a building . (p=0.000058)
+  1) a wooden bench sitting next to a red chair . (p=0.000045)
+  2) a wooden bench sitting in front of a red wall . (p=0.000016)
+Captions for image 17334086_284566215298527_8874362169748094976_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000290)
+  1) a man in a suit and tie standing in a field . (p=0.000254)
+  2) a man in a suit and tie is smiling (p=0.000219)
+Captions for image 18645883_1912491795700561_7856308067074310144_n.jpg:
+  0) a house with a wooden fence and a bench . (p=0.000003)
+  1) a house with a bench and a tree (p=0.000001)
+  2) a house with a wooden fence and a bench (p=0.000001)
+Captions for image 17077678_790649101091081_2433725720581636096_n.jpg:
+  0) a large building with a large clock tower . (p=0.000067)
+  1) a large building with a clock tower in the middle . (p=0.000035)
+  2) a large building with a clock tower in the center . (p=0.000025)
+Captions for image 17126550_262555720822131_7960627939316334592_n.jpg:
+  0) a black and white photo of a group of people (p=0.000231)
+  1) a black and white photo of a man and a woman (p=0.000218)
+  2) a black and white photo of a man and woman (p=0.000127)
+Captions for image 17126695_664017133770390_6077410798655766528_n.jpg:
+  0) a clock on the side of a building (p=0.000562)
+  1) a building with a clock on the side of it (p=0.000285)
+  2) a clock on the side of a brick building . (p=0.000234)
+Captions for image 17126932_693776527475827_6120798468085645312_n.jpg:
+  0) a tall building with a clock on it (p=0.000046)
+  1) a tall building with a clock on the top of it . (p=0.000038)
+  2) a tall building with a clock on the front of it . (p=0.000022)
+Captions for image 18723772_132855910599694_7800686539784060928_n.jpg:
+  0) a park bench in the middle of a park . (p=0.000534)
+  1) a park bench in the middle of a park (p=0.000181)
+  2) a park bench in the middle of a field . (p=0.000108)
+Captions for image 17127314_1654035501566002_647426415330852864_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000541)
+  1) a person holding a pair of scissors (p=0.000330)
+  2) a man holding a pair of scissors in his hands . (p=0.000316)
+Captions for image 17126653_1712165749073802_4993227930634027008_n.jpg:
+  0) a young boy is holding a tennis racket . (p=0.000113)
+  1) a young boy holding a baseball bat in his hands . (p=0.000066)
+  2) a young boy is holding a tennis racket (p=0.000027)
+Captions for image 16464225_1218414918208415_5729360891099480064_n.jpg:
+  0) a man in a suit and tie standing in front of a sign . (p=0.000034)
+  1) a man in a suit and tie standing next to a sign . (p=0.000030)
+  2) a man in a suit and tie holding a sign . (p=0.000028)
+Captions for image 16465171_629630223909984_3244351925268774912_n.jpg:
+  0) a man wearing a tie and a shirt . (p=0.000215)
+  1) a man in a suit and tie is smiling . (p=0.000127)
+  2) a man in a suit and tie is smiling (p=0.000051)
+Captions for image 16228934_1784549508460547_4650153828589502464_n.jpg:
+  0) a young boy wearing a tie and a hat . (p=0.000105)
+  1) a young boy wearing a hat and a tie . (p=0.000078)
+  2) a young boy wearing a tie and a shirt . (p=0.000036)
+Captions for image 16123859_246543319102812_3925779771320958976_n.jpg:
+  0) a woman in a red shirt and a black tie (p=0.000011)
+  1) a woman in a red shirt and a red tie (p=0.000010)
+  2) a woman in a red shirt and a red tie . (p=0.000005)
+Captions for image 14727557_1792051387716220_7026504111856025600_n.jpg:
+  0) a dog laying on a bed in a room . (p=0.000056)
+  1) a dog laying on the floor in front of a fireplace . (p=0.000021)
+  2) a dog laying on a bed in a room (p=0.000016)
+Captions for image 18723541_291742834582727_2571296018448515072_n.jpg:
+  0) a park bench in the middle of a park . (p=0.000366)
+  1) a park bench sitting in the middle of a park . (p=0.000299)
+  2) a park bench sitting in the middle of a forest . (p=0.000275)
+Captions for image 15803234_554862338052633_311446993668931584_n.jpg:
+  0) a dog sitting on a chair in a room . (p=0.000098)
+  1) a dog sitting on a chair in front of a tv . (p=0.000077)
+  2) a dog sitting on a chair in front of a television . (p=0.000061)
+Captions for image 15802449_442579726130231_7971391977763635200_n.jpg:
+  0) a close up of a person holding a stuffed animal (p=0.000488)
+  1) a close up of a stuffed animal wearing a hat (p=0.000443)
+  2) a close up of a teddy bear wearing a hat (p=0.000253)
+Captions for image 11263295_1584161608503439_149290783_n.jpg:
+  0) a restaurant with tables and chairs and tables (p=0.000118)
+  1) a restaurant with tables and chairs and tables . (p=0.000094)
+  2) a restaurant with tables , chairs , and tables . (p=0.000030)
+Captions for image 15802964_1309425395799262_7548248398147616768_n.jpg:
+  0) a group of people walking down a street . (p=0.000410)
+  1) a group of people walking down a street next to tall buildings . (p=0.000354)
+  2) a group of people walking down a street next to a tall building . (p=0.000091)
+Captions for image 13694723_1738547993100039_786099182_n.jpg:
+  0) a bench sitting in the middle of a park . (p=0.000376)
+  1) a bench sitting in the middle of a lush green park . (p=0.000073)
+  2) a bench sitting in the middle of a field . (p=0.000072)
+Captions for image 12729651_218040921875494_1090023057_n.jpg:
+  0) two teddy bears are sitting on a table . (p=0.000317)
+  1) two teddy bears sitting on a table next to each other . (p=0.000119)
+  2) two teddy bears are sitting on a table (p=0.000097)
+Captions for image 12748208_1574503226207967_2134595790_n.jpg:
+  0) a young boy wearing a tie and a shirt . (p=0.000224)
+  1) a young boy wearing a tie and a red shirt . (p=0.000099)
+  2) a young boy wearing a tie and a shirt (p=0.000027)
+Captions for image 12750022_1085629794810246_133041687_n.jpg:
+  0) a black and white photo of a group of horses . (p=0.000100)
+  1) a black and white photo of a group of horses (p=0.000073)
+  2) a black and white photo of a horse and a horse (p=0.000020)
+Captions for image 12230959_1657872177793089_405718787_n.jpg:
+  0) a man with a beard and a beard is smiling . (p=0.000019)
+  1) a man in a red shirt and a tie (p=0.000012)
+  2) a man in a red shirt and tie sitting on a couch . (p=0.000011)
+Captions for image 11208284_873202776049817_1708285789_n.jpg:
+  0) a dog laying on a blanket on a couch . (p=0.000056)
+  1) a dog laying on a bed next to a person . (p=0.000029)
+  2) a dog laying on a bed next to a book . (p=0.000028)
+Captions for image 11333632_1677523069147115_1925797122_n.jpg:
+  0) a man sitting on the ground with a cell phone . (p=0.000037)
+  1) a man sitting on the ground with a skateboard . (p=0.000036)
+  2) a man sitting on a bench with his feet up . (p=0.000014)
+Captions for image 12224510_1517364571922012_1785419827_n.jpg:
+  0) a man and woman standing next to each other . (p=0.000410)
+  1) a man standing next to a woman in a kitchen . (p=0.000303)
+  2) a man and woman standing next to each other in a room . (p=0.000051)
+Captions for image 12751111_1107906069251533_969563293_n.jpg:
+  0) a bunch of books that are on a shelf . (p=0.000216)
+  1) a bunch of books are stacked on a shelf (p=0.000058)
+  2) a bunch of books on a shelf in a room (p=0.000027)
+Captions for image 11311892_1463475530611576_755671187_n.jpg:
+  0) a group of people standing next to a fire hydrant . (p=0.000039)
+  1) a group of people standing next to each other near a building . (p=0.000008)
+  2) a group of people standing next to a fire hydrant (p=0.000005)
+Captions for image 11375999_1627639727448675_834309632_n.jpg:
+  0) a large brown bear laying on top of a rock . (p=0.000245)
+  1) a large brown bear sitting on top of a wooden fence . (p=0.000209)
+  2) a large brown bear laying on top of a wooden fence . (p=0.000132)
+Captions for image 11378576_372263012979598_389661437_n.jpg:
+  0) a group of giraffe standing next to each other . (p=0.002073)
+  1) a group of giraffe standing next to each other on a field . (p=0.000653)
+  2) a group of giraffe standing next to each other in a field . (p=0.000382)
+Captions for image 11241418_1650295455191410_1572675767_n.jpg:
+  0) a man sitting at a table with a plate of food . (p=0.002418)
+  1) a man sitting at a table with a glass of wine . (p=0.001142)
+  2) a man sitting at a table with a plate of food (p=0.000458)
+Captions for image 11055943_342784679244542_1344977159_n.jpg:
+  0) a car driving down a street at night . (p=0.000296)
+  1) a car driving down a street next to a traffic light . (p=0.000230)
+  2) a car driving down a street next to tall buildings . (p=0.000141)
+Captions for image 11093010_1622269264663053_981016005_n.jpg:
+  0) a man in a suit and tie standing in a room . (p=0.000577)
+  1) a man in a suit and tie standing next to a woman . (p=0.000125)
+  2) a man in a suit and tie standing in a room (p=0.000124)
+Captions for image 11033010_799832210063845_934105782_n.jpg:
+  0) a view of a city skyline from a plane . (p=0.000006)
+  1) a view of a city street with a clock tower . (p=0.000002)
+  2) a view of a city street with a traffic light . (p=0.000002)
+Captions for image 924470_1023590614373653_1472870757_n.jpg:
+  0) a man in a suit and tie looking at his cell phone . (p=0.000073)
+  1) a man in a suit and tie holding a cell phone . (p=0.000071)
+  2) a man in a suit and tie looking at his cell phone (p=0.000038)
+Captions for image 10946320_1545559889025975_749155742_n.jpg:
+  0) a picture of a book on a bed . (p=0.000024)
+  1) a picture of a book on a table . (p=0.000014)
+  2) a picture of a book on a bed (p=0.000006)
+Captions for image 11258665_401493843369290_1078482703_n.jpg:
+  0) a bunch of items that are on a table . (p=0.000288)
+  1) a bunch of items that are sitting on a table . (p=0.000145)
+  2) a bunch of items that are on a table (p=0.000098)
+Captions for image 10995033_1415566868739634_352876272_n.jpg:
+  0) a man wearing a hat and a tie . (p=0.000178)
+  1) a man wearing a tie and a hat . (p=0.000177)
+  2) a man wearing a hat and a hat . (p=0.000102)
+Captions for image 10725065_1405325606432905_1278624223_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000725)
+  1) a clock tower in the middle of a city (p=0.000397)
+  2) a large building with a clock on the top of it . (p=0.000259)
+Captions for image 11282606_1007848592604684_1457003778_n.jpg:
+  0) a bed sitting in a bedroom next to a window . (p=0.001550)
+  1) a bed sitting in a room next to a window . (p=0.000847)
+  2) a bed sitting in a bedroom next to a lamp . (p=0.000206)
+Captions for image 10932272_869446766432666_1818873641_n.jpg:
+  0) a man sitting at a table with a glass of wine . (p=0.001763)
+  1) a man sitting at a table with a glass of wine (p=0.000431)
+  2) a man and a woman sitting at a table with wine glasses . (p=0.000313)
+Captions for image 10890831_423697437783050_1469723774_n.jpg:
+  0) a close up of a pair of shoes on a bed (p=0.000247)
+  1) a close up of a pair of shoes on a skateboard (p=0.000170)
+  2) a close up of a pair of shoes on a skateboard . (p=0.000090)
+Captions for image 10919706_1534033466873235_7660211_n.jpg:
+  0) a black and white cat laying on top of a bed . (p=0.000493)
+  1) a black and white cat laying on a bed . (p=0.000355)
+  2) a black and white cat laying on a bed (p=0.000133)
+Captions for image 10838685_1525969384325643_1892926366_n.jpg:
+  0) a group of people sitting on benches in a park . (p=0.000289)
+  1) a group of people sitting on benches in a park (p=0.000041)
+  2) a group of people sitting on a bench in front of a building . (p=0.000021)
+Captions for image 10864775_1614208488807200_1789447250_n.jpg:
+  0) a table with chairs and a table with chairs (p=0.000034)
+  1) a table with chairs and a table with a umbrella . (p=0.000014)
+  2) a table with chairs and a table with a umbrella (p=0.000011)
+Captions for image 10860042_324231854436755_1765384757_n.jpg:
+  0) a park bench sitting in the middle of a park . (p=0.000512)
+  1) a park bench sitting in the middle of a forest . (p=0.000511)
+  2) a park bench in the middle of a park . (p=0.000480)
+Captions for image 10852980_1018846568131778_844937385_n.jpg:
+  0) a dog laying on the ground next to a bench . (p=0.000144)
+  1) a dog laying on the ground next to a fire hydrant . (p=0.000111)
+  2) a dog laying on the ground next to a shoe . (p=0.000099)
+Captions for image 10748354_378459112329306_2067592523_n.jpg:
+  0) a young boy is standing in front of a mirror . (p=0.000074)
+  1) a young boy is standing in front of a window . (p=0.000057)
+  2) a young boy is standing in front of a door . (p=0.000049)
+Captions for image 10808497_802850429776812_663247906_n.jpg:
+  0) a man wearing a hat and a hat . (p=0.000790)
+  1) a man wearing a hat and a tie . (p=0.000435)
+  2) a man wearing a hat and a hat (p=0.000257)
+Captions for image 10632035_710295689042152_562147240_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.000779)
+  1) a boat floating on top of a lake next to a forest . (p=0.000262)
+  2) a boat floating on top of a lake near a forest . (p=0.000206)
+Captions for image 10691830_290447257824180_1498817299_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.000978)
+  1) a boat floating on top of a lake next to a shore . (p=0.000055)
+  2) a boat floating on top of a lake next to a forest . (p=0.000046)
+Captions for image 10693715_349547301874386_2076144503_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.001576)
+  1) a boat floating on a lake next to a forest . (p=0.000321)
+  2) a boat floating on top of a lake next to a forest . (p=0.000249)
+Captions for image 10617049_525183257611970_1703375262_n.jpg:
+  0) a bunch of boats that are sitting in the water . (p=0.000779)
+  1) a bunch of boats that are in the water . (p=0.000735)
+  2) a bunch of boats are docked in a harbor (p=0.000208)
+Captions for image 10643894_814135345274106_1576074381_n.jpg:
+  0) a man and a woman standing next to a boat . (p=0.000221)
+  1) a couple of people that are standing in a boat (p=0.000150)
+  2) a couple of people that are standing in a boat . (p=0.000087)
+Captions for image 10666054_1554762894746692_236375815_n.jpg:
+  0) a boat is parked on the side of the road . (p=0.000014)
+  1) a boat is parked on the side of a river . (p=0.000007)
+  2) a boat is parked on the side of the street . (p=0.000006)
+Captions for image 10617199_844906682200029_1463397184_n.jpg:
+  0) a group of boats floating on top of a body of water . (p=0.000528)
+  1) a group of boats floating on top of a lake . (p=0.000428)
+  2) a group of boats floating on top of a river . (p=0.000397)
+Captions for image 10598350_1511697069062200_249235270_n.jpg:
+  0) a man is holding a white frisbee in his hands . (p=0.000128)
+  1) a man is holding a white frisbee in his hand . (p=0.000085)
+  2) a man in a white shirt holding a white frisbee . (p=0.000077)
+Captions for image 10004157_1467774800159174_1092672025_n.jpg:
+  0) a street sign on the side of a road . (p=0.000502)
+  1) a street sign on the side of the road . (p=0.000251)
+  2) a street sign on the side of the road (p=0.000121)
+Captions for image 917133_266133736903453_213350450_n.jpg:
+  0) a couple of women standing next to each other . (p=0.003612)
+  1) a woman and a man standing next to each other . (p=0.000395)
+  2) a couple of women standing next to each other holding a cake . (p=0.000031)
+Captions for image 1517117_308911299277912_364096275_n.jpg:
+  0) a group of people standing next to each other . (p=0.000410)
+  1) a group of people standing around a table . (p=0.000064)
+  2) a group of people standing next to each other holding wii controllers . (p=0.000043)
+Captions for image 891321_454541001347485_1181974237_n.jpg:
+  0) a woman holding a teddy bear in her arms . (p=0.000131)
+  1) a woman holding a teddy bear in her hand . (p=0.000103)
+  2) a woman holding a teddy bear in her hands . (p=0.000084)
+Captions for image 10311104_572646022849305_556844722_n.jpg:
+  0) a room filled with lots of wooden furniture . (p=0.000308)
+  1) a room filled with lots of wooden tables . (p=0.000196)
+  2) a room filled with lots of furniture and a window . (p=0.000020)
+Captions for image 10249157_644755312245306_2116269433_n.jpg:
+  0) a bunch of cupcakes that are on a plate . (p=0.000221)
+  1) a bunch of cupcakes that are sitting on a table . (p=0.000194)
+  2) a bunch of cupcakes that are on a plate (p=0.000126)
+Captions for image 11327114_355526401303959_203448714_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.001136)
+  1) a close up of a person with a tie (p=0.000323)
+  2) a close up of a person wearing a tie (p=0.000268)
+Captions for image 11324991_1447982622167620_628402167_n.jpg:
+  0) a man sitting on a bed holding a book . (p=0.000160)
+  1) a man sitting on a bed with a book . (p=0.000080)
+  2) a man sitting on a bed holding a book (p=0.000019)
+Captions for image 11325735_109668656033010_1280735075_n.jpg:
+  0) a close up of a person laying on a bed (p=0.001046)
+  1) a close up of a persons feet on a bed (p=0.000745)
+  2) a close up of a person laying on a bed . (p=0.000132)
+Captions for image 11261132_502383523246711_690788354_n.jpg:
+  0) a bike parked next to a wooden fence . (p=0.000148)
+  1) a bike parked next to a metal fence . (p=0.000095)
+  2) a bike is parked next to a fence . (p=0.000053)
+Captions for image 11280146_433957453444746_3701759_n.jpg:
+  0) a sign that says `` <UNK> '' on a street corner . (p=0.000003)
+  1) a sign that says `` <UNK> '' on the side of the road . (p=0.000002)
+  2) a sign that says `` <UNK> '' on the side of a road . (p=0.000001)
+Captions for image 11262566_908961875833998_871023881_n.jpg:
+  0) a bath room with a toilet a sink and a bath tub (p=0.000823)
+  1) a bath room with a toilet a sink and a mirror (p=0.000702)
+  2) a bath room with a toilet a bath tub and a sink (p=0.000665)
+Captions for image 11348290_378947458980399_1176306368_n.jpg:
+  0) a man in a suit and tie taking a selfie . (p=0.000083)
+  1) a man in a suit and tie is brushing his teeth . (p=0.000066)
+  2) a man in a suit and tie taking a selfie (p=0.000066)

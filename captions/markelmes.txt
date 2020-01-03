@@ -1,0 +1,832 @@
+Captions for image 14099652_1072966292756618_982686525_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.014398)
+  1) a laptop computer sitting on top of a wooden desk . (p=0.008044)
+  2) a laptop computer sitting on top of a table . (p=0.004144)
+Captions for image 923771_574700495986069_1603521663_a.jpg:
+  0) a woman is holding a cell phone to her ear . (p=0.000192)
+  1) a woman is holding a cell phone in her hand . (p=0.000150)
+  2) a woman is holding a cell phone to her ear (p=0.000096)
+Captions for image 33721618_222460798350430_3993456112169910272_n.jpg:
+  0) a blue motorcycle parked in a parking space . (p=0.000270)
+  1) a blue motorcycle parked in a parking lot . (p=0.000198)
+  2) a blue motorcycle parked in front of a building . (p=0.000075)
+Captions for image 39256753_651946351854201_4086702420556513280_n.jpg:
+  0) a car is parked in a parking lot . (p=0.000337)
+  1) a car parked in a parking lot with a surfboard . (p=0.000028)
+  2) a car is parked in a parking lot with a surfboard . (p=0.000006)
+Captions for image 13285235_1035998593151250_533012373_n.jpg:
+  0) a large clock tower towering over a city . (p=0.003111)
+  1) a clock tower in the middle of a city . (p=0.000993)
+  2) a clock tower in the middle of a city street . (p=0.000634)
+Captions for image 13402488_576078442517372_374234135_n.jpg:
+  0) a sign that reads `` <UNK> '' on the side of a building . (p=0.000003)
+  1) a sign that reads `` <UNK> '' on a street corner . (p=0.000003)
+  2) a sign that reads `` <UNK> '' on the side of the building . (p=0.000001)
+Captions for image 43345227_1124679254375282_2424296574884414069_n.jpg:
+  0) a group of people sitting around a table . (p=0.010568)
+  1) a group of people sitting at a table with wine glasses . (p=0.002032)
+  2) a group of people sitting around a table with food . (p=0.001513)
+Captions for image 50243477_304180076874565_7272616836799492892_n.jpg:
+  0) a black and white cat laying on top of a bed . (p=0.005232)
+  1) a black and white cat sitting on a bed . (p=0.005166)
+  2) a black and white cat laying on a bed . (p=0.004891)
+Captions for image 17663286_170050800182870_9021084059375239168_n.jpg:
+  0) a black and white cat laying on top of a couch . (p=0.001600)
+  1) a black and white cat laying on top of a bed . (p=0.001424)
+  2) a black and white cat laying on a couch . (p=0.000610)
+Captions for image 58410701_1259747777512621_8044711187069783531_n.jpg:
+  0) a man and a woman pose for a picture . (p=0.000450)
+  1) a man and a woman standing next to each other . (p=0.000441)
+  2) a man and a woman are posing for a picture . (p=0.000363)
+Captions for image 65245133_1063436313851788_1552676519564566497_n.jpg:
+  0) a car parked in a parking lot next to a car . (p=0.000095)
+  1) a car parked in a parking lot next to a parking meter . (p=0.000041)
+  2) a car parked in a parking lot next to a parked car . (p=0.000020)
+Captions for image 43388270_1902837799803310_7026318446465726099_n.jpg:
+  0) a man and woman pose for a picture . (p=0.000971)
+  1) a man and a woman pose for a picture . (p=0.000589)
+  2) a man and woman pose for a picture (p=0.000414)
+Captions for image 41953372_1693587084097675_9113295008478797733_n.jpg:
+  0) a group of people standing around each other . (p=0.002526)
+  1) a group of people standing next to each other . (p=0.002496)
+  2) a group of people standing next to each other in front of a building . (p=0.000042)
+Captions for image 59498032_113689883171699_6063924417580749992_n.jpg:
+  0) a car parked on the side of the road . (p=0.000346)
+  1) a car parked on the side of the road (p=0.000154)
+  2) a car parked on the side of the road with a surfboard strapped to it . (p=0.000009)
+Captions for image 41912128_2174871309503693_1532437350705305930_n.jpg:
+  0) a large mountain range with mountains in the background . (p=0.000241)
+  1) a mountain range with a mountain in the background . (p=0.000075)
+  2) a large mountain range with mountains in the background (p=0.000063)
+Captions for image 41361245_1530387287060780_1716523901573163420_n.jpg:
+  0) a man standing in front of a wooden fence . (p=0.000076)
+  1) a man standing in front of a fence next to a forest . (p=0.000004)
+  2) a man standing in front of a fence next to a train . (p=0.000002)
+Captions for image 40110648_568863813532958_6906599173391384576_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000296)
+  1) a car is parked on the side of the street . (p=0.000283)
+  2) a car is parked on the side of a street . (p=0.000168)
+Captions for image 37158549_1009444649233562_8567767896418156544_n.jpg:
+  0) a bus driving down a street next to tall buildings . (p=0.000138)
+  1) a bus driving down a street next to a tall building . (p=0.000126)
+  2) a car driving down a street next to a tall building . (p=0.000092)
+Captions for image 41345946_849479175441438_4446246294188065265_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.000798)
+  1) a train traveling down train tracks near a forest . (p=0.000650)
+  2) a train traveling down train tracks next to a forest . (p=0.000582)
+Captions for image 41132800_242583839762659_5911976447138454641_n.jpg:
+  0) a group of people riding on the backs of elephants . (p=0.000995)
+  1) a group of elephants standing in a river . (p=0.000253)
+  2) a group of people riding on top of a river . (p=0.000137)
+Captions for image 41646445_344201696318501_1403242587674177666_n.jpg:
+  0) a man is sitting on a bench in the woods . (p=0.000044)
+  1) a man is sitting on a bench in the snow . (p=0.000020)
+  2) a man is sitting on a bench in the woods (p=0.000018)
+Captions for image 38531090_321706051733142_286804661757804544_n.jpg:
+  0) a car parked on the side of a road next to a surfboard . (p=0.000020)
+  1) a car parked on the side of a road next to a fire hydrant . (p=0.000012)
+  2) a car parked on the side of a road next to a pile of surfboards . (p=0.000003)
+Captions for image 33102677_591264271257311_5510131385056100352_n.jpg:
+  0) a man and a woman standing in front of a cake . (p=0.000064)
+  1) a man and a woman standing next to a cake . (p=0.000054)
+  2) a man and a woman sitting at a table with a cake . (p=0.000040)
+Captions for image 41318625_304412573694180_613028285008870070_n.jpg:
+  0) a black and white photo of a brick building (p=0.000108)
+  1) a black and white photo of a building with a clock (p=0.000014)
+  2) a black and white photo of a building with a clock . (p=0.000008)
+Captions for image 41258674_2203437806612282_4967186541265305179_n.jpg:
+  0) a car driving down a road next to a forest . (p=0.000099)
+  1) a car driving down a road next to a road . (p=0.000064)
+  2) a car driving down a road with a herd of cattle . (p=0.000017)
+Captions for image 41315045_288570285074596_1101808530183274432_n.jpg:
+  0) a young boy wearing a hat and sunglasses . (p=0.000131)
+  1) a young boy wearing a helmet and holding a baseball bat . (p=0.000103)
+  2) a young boy wearing a hat and a hat . (p=0.000044)
+Captions for image 33313388_237872480100377_9181834600681308160_n.jpg:
+  0) a bride and groom are cutting their wedding cake . (p=0.002768)
+  1) a bride and groom pose for a picture . (p=0.002715)
+  2) a bride and groom pose for a picture (p=0.000794)
+Captions for image 38649673_234659653885977_7716676068941234176_n.jpg:
+  0) a car with a surfboard strapped to the back . (p=0.000217)
+  1) a car with a surfboard strapped to the back of it . (p=0.000180)
+  2) a car parked in a parking lot next to a parking meter . (p=0.000169)
+Captions for image 42002528_173950336857717_8940650500688494361_n.jpg:
+  0) a train crossing a bridge over a river . (p=0.000292)
+  1) a train crossing a bridge over a city . (p=0.000109)
+  2) a large building with a clock on it . (p=0.000064)
+Captions for image 41796417_142010680082315_5367406514296582744_n.jpg:
+  0) a large metal object sitting on top of a rock . (p=0.000002)
+  1) a large metal object sitting on top of a wooden table . (p=0.000001)
+  2) a large metal object sitting on top of a stone slab . (p=0.000001)
+Captions for image 41579261_288763231723384_4364089500610078345_n.jpg:
+  0) a view of a boat in the water . (p=0.000015)
+  1) a view from a window of a boat in the water . (p=0.000004)
+  2) a view from a window of a boat in a river . (p=0.000001)
+Captions for image 33049101_456019348180257_4278073128040529920_n.jpg:
+  0) a woman sitting on a couch with a cat on her lap . (p=0.000168)
+  1) a man and a woman sitting on a couch playing a video game . (p=0.000055)
+  2) a woman sitting on a couch with a cat on her lap (p=0.000046)
+Captions for image 32897441_2001457410183546_4450424290113748992_n.jpg:
+  0) a man sitting in a car holding a cell phone . (p=0.000018)
+  1) a man sitting in a car holding a cell phone (p=0.000003)
+  2) a man sitting in a car seat with a cell phone . (p=0.000002)
+Captions for image 41732578_515953385497189_6978682438435902216_n.jpg:
+  0) a wooden bench sitting in the middle of a forest . (p=0.000294)
+  1) a bench sitting in the middle of a forest . (p=0.000267)
+  2) a bench sitting in the middle of a lush green forest . (p=0.000130)
+Captions for image 41544232_471428533377769_4872553825682091813_n.jpg:
+  0) a large group of people on a street . (p=0.000040)
+  1) a group of people standing around a small boat . (p=0.000034)
+  2) a group of people standing around a small boat on a river . (p=0.000001)
+Captions for image 33477684_2153942294621964_1024561661027024896_n.jpg:
+  0) a couple of people sitting at a table . (p=0.002254)
+  1) a man and woman sitting at a table with wine glasses . (p=0.000533)
+  2) a man and a woman sitting at a table with wine glasses . (p=0.000265)
+Captions for image 14718371_1811472969138732_4986459118010105856_n.jpg:
+  0) a microwave oven sitting on top of a counter . (p=0.008520)
+  1) a microwave oven sitting on top of a wooden counter . (p=0.001933)
+  2) a microwave oven sitting on top of a table . (p=0.001695)
+Captions for image 41775333_256631925057074_874200605335849902_n.jpg:
+  0) a train traveling through a lush green countryside . (p=0.000583)
+  1) a train traveling through a lush green forest . (p=0.000272)
+  2) a train traveling down tracks next to a lush green field . (p=0.000080)
+Captions for image 41926970_2045086912468718_6290986513295973526_n.jpg:
+  0) a train traveling through a lush green countryside . (p=0.000399)
+  1) a train traveling through a lush green hillside . (p=0.000169)
+  2) a train traveling over a bridge over a river . (p=0.000112)
+Captions for image 33649688_233760417216838_4942503220111998976_n.jpg:
+  0) a close up of a motorcycle parked in a parking lot (p=0.000440)
+  1) a close up of a motorcycle parked on a street (p=0.000343)
+  2) a close up of a parked motorcycle (p=0.000297)
+Captions for image 14727700_1698480823776174_3522760170776035328_n.jpg:
+  0) a car parked on the side of the road . (p=0.000470)
+  1) a car parked on the side of the road (p=0.000185)
+  2) a car parked on the side of a road with a surfboard . (p=0.000024)
+Captions for image 41512200_686399621743891_9037587961716180988_n.jpg:
+  0) a man sitting on a bench with a cell phone . (p=0.000143)
+  1) a man sitting on a bench in the rain . (p=0.000131)
+  2) a man sitting on a bench in the rain (p=0.000043)
+Captions for image 41204191_552608721835750_1200606878889548645_n.jpg:
+  0) a red brick building with a white door (p=0.000013)
+  1) a brick building with a window and a door (p=0.000006)
+  2) a brick building with a window and a door . (p=0.000006)
+Captions for image 31113890_188663338424154_4782429574241714176_n.jpg:
+  0) a group of people standing next to each other . (p=0.000979)
+  1) a bride and groom stand next to a wedding cake . (p=0.000242)
+  2) a bride and groom stand next to a wedding cake (p=0.000052)
+Captions for image 40864163_307906536660819_6502906719507834513_n.jpg:
+  0) a white sheep standing on top of a lush green hillside . (p=0.000991)
+  1) a white sheep standing on a lush green hillside . (p=0.000650)
+  2) a white sheep standing on top of a lush green field . (p=0.000393)
+Captions for image 33437798_133094374228461_6811574860213387264_n.jpg:
+  0) a group of people sitting on a bench . (p=0.001089)
+  1) a group of people sitting on a bench next to each other . (p=0.000260)
+  2) a group of people sitting on a bench next to a boat . (p=0.000077)
+Captions for image 30830926_621085868234916_4295739535414788096_n.jpg:
+  0) a group of people standing next to each other . (p=0.001350)
+  1) a man and a woman standing next to each other . (p=0.000930)
+  2) a group of people standing next to each other in a room . (p=0.000100)
+Captions for image 41322551_526042124522546_6697791164159938012_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.000798)
+  1) a train traveling down train tracks near a forest . (p=0.000650)
+  2) a train traveling down train tracks next to a forest . (p=0.000582)
+Captions for image 41436597_285990865458572_8522198968958223691_n.jpg:
+  0) a house with a tree in the background (p=0.000005)
+  1) a large building with a clock tower on top of it . (p=0.000005)
+  2) a house with a tree in the background . (p=0.000004)
+Captions for image 30605440_1643226182381783_8413832596332478464_n.jpg:
+  0) a bride and groom are cutting their wedding cake . (p=0.001962)
+  1) a bride and groom standing next to each other . (p=0.001371)
+  2) a bride and groom standing next to a wedding cake . (p=0.000652)
+Captions for image 31104027_169877390396411_6307754236952182784_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000089)
+  1) a close up of a stop sign with a sky background (p=0.000046)
+  2) a close up of a stop sign with a sign on it (p=0.000020)
+Captions for image 41192706_1168864179932938_6706215062565447170_n.jpg:
+  0) a wooden bench sitting in the middle of a field . (p=0.001394)
+  1) a bench sitting in the middle of a field . (p=0.001284)
+  2) a wooden bench sitting in the middle of a lush green field . (p=0.001118)
+Captions for image 31118248_1808864302742725_2822463047333838848_n.jpg:
+  0) a car that is parked on the side of the road . (p=0.000251)
+  1) a car that is parked on the side of the street . (p=0.000136)
+  2) a car that is parked next to a parking meter (p=0.000115)
+Captions for image 41336762_246932392636664_991783523446153310_n.jpg:
+  0) a car parked in a parking lot next to a car . (p=0.000090)
+  1) a car parked in a parking lot next to a parking meter . (p=0.000060)
+  2) a black and white photo of a car parked in a parking lot . (p=0.000029)
+Captions for image 41581664_755342561477360_2926959926505568637_n.jpg:
+  0) a couple of people that are standing in the dirt . (p=0.000291)
+  1) a couple of people that are standing on a rock (p=0.000177)
+  2) a couple of people that are standing in the grass . (p=0.000165)
+Captions for image 30080217_1033812926769774_5589527008028655616_n.jpg:
+  0) a group of people standing around a cake . (p=0.000045)
+  1) a group of people standing in front of a christmas tree . (p=0.000019)
+  2) a group of people standing around a table with a cake . (p=0.000006)
+Captions for image 29715242_1973357309658735_6180016957471850496_n.jpg:
+  0) a group of people sitting around a table . (p=0.011776)
+  1) a group of people sitting around a table with food . (p=0.001514)
+  2) a group of people sitting around a table with wine glasses . (p=0.001344)
+Captions for image 28157935_181164435827690_6793295359142526976_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000126)
+  1) a car is parked on the side of a road . (p=0.000075)
+  2) a car is parked on the side of the road (p=0.000039)
+Captions for image 29417392_311266906069650_8494176363400396800_n.jpg:
+  0) a group of men standing next to each other . (p=0.005956)
+  1) a group of people standing next to each other . (p=0.004338)
+  2) a group of people standing around each other . (p=0.000984)
+Captions for image 27893625_172564980196077_599585547714822144_n.jpg:
+  0) a black and white cat is sitting in a field (p=0.000781)
+  1) a black and white cat is sitting in the grass . (p=0.000741)
+  2) a black and white cat is sitting in the woods . (p=0.000701)
+Captions for image 27578745_411041322685069_1980555534973009920_n.jpg:
+  0) a group of people standing next to each other . (p=0.001697)
+  1) a group of people standing around a table . (p=0.000571)
+  2) a group of people standing next to each other in a room . (p=0.000151)
+Captions for image 27575306_275277946339947_4828489572323164160_n.jpg:
+  0) a man and a woman posing for a picture . (p=0.000832)
+  1) a man and a woman are posing for a picture . (p=0.000241)
+  2) a man and a woman posing for a picture (p=0.000213)
+Captions for image 27581986_169419347022512_4506644832197804032_n.jpg:
+  0) a kitchen counter with a blender and a bowl of fruit . (p=0.000007)
+  1) a table with a blender and a bowl of fruit . (p=0.000006)
+  2) a table with a blender and a bowl of fruit (p=0.000006)
+Captions for image 26155343_174319373180968_2503115298115158016_n.jpg:
+  0) a man and woman standing next to each other . (p=0.002160)
+  1) a man and a woman standing next to each other . (p=0.001385)
+  2) a man and woman standing next to each other in a room . (p=0.000244)
+Captions for image 22801903_124254485004896_2754682721031684096_n.jpg:
+  0) a close up of a red apple on a table (p=0.000159)
+  1) a close up of an orange on a table (p=0.000153)
+  2) a close up of an orange and a red apple (p=0.000032)
+Captions for image 24175412_1661746480559721_7647057702794821632_n.jpg:
+  0) a television with a picture of a man on it . (p=0.000005)
+  1) a television with a picture of a man on it (p=0.000002)
+  2) a television with a picture of a man on a laptop . (p=0.000000)
+Captions for image 22344731_1837974929821957_89070706821693440_n.jpg:
+  0) a black and white cat sitting on a table . (p=0.000655)
+  1) a black and white cat sitting on top of a table . (p=0.000595)
+  2) a black and white cat sitting on top of a wooden table . (p=0.000238)
+Captions for image 21985277_1930646917204913_5032859964696166400_n.jpg:
+  0) a black and white photo of a car parked in a parking lot . (p=0.000054)
+  1) a black and white photo of a car parked in a parking lot (p=0.000022)
+  2) a black and white photo of a car parked on a street . (p=0.000021)
+Captions for image 21984497_337025466767546_1517884422144131072_n.jpg:
+  0) a black and white cat sitting on top of a table . (p=0.000047)
+  1) a black and white cat sitting on a table (p=0.000011)
+  2) a black and white cat sitting on a table next to a bottle . (p=0.000002)
+Captions for image 21689107_851380998360010_9204140019411845120_n.jpg:
+  0) a cat sitting on top of a refrigerator . (p=0.001515)
+  1) a cat sitting on top of a refrigerator in a kitchen . (p=0.000477)
+  2) a cat sitting on top of a kitchen counter . (p=0.000394)
+Captions for image 24174914_2015678685373887_5529074024782495744_n.jpg:
+  0) a street sign on a pole near a building (p=0.000069)
+  1) a street sign on a pole in front of a building (p=0.000030)
+  2) a street sign on a pole in front of a building . (p=0.000025)
+Captions for image 22802204_156278385109641_2081194946659876864_n.jpg:
+  0) a car parked in a parking lot next to a car . (p=0.000084)
+  1) a black and white photo of a car parked in a parking lot . (p=0.000024)
+  2) a black and white photo of a car parked in a parking lot (p=0.000009)
+Captions for image 21436104_127087334692786_813736997960024064_n.jpg:
+  0) a black and white cat sitting on top of a car . (p=0.000237)
+  1) a black and white photo of a car parked in a parking lot . (p=0.000065)
+  2) a black and white photo of a car parked in a driveway . (p=0.000025)
+Captions for image 21042059_113175879366164_4141909221509693440_n.jpg:
+  0) a computer monitor sitting on top of a desk . (p=0.001848)
+  1) a computer monitor sitting on top of a wooden desk . (p=0.001316)
+  2) a computer monitor sitting on top of a wooden table . (p=0.000791)
+Captions for image 19984417_108425263146973_9183410063404957696_n.jpg:
+  0) a close up of a car parked in a parking lot (p=0.000097)
+  1) a close up of a car parked in a car (p=0.000048)
+  2) a close up of a car seat with a car in the background (p=0.000014)
+Captions for image 19228670_448717072161336_5821633904062234624_n.jpg:
+  0) a large body of water with a bridge in the background . (p=0.000109)
+  1) a large body of water with a bridge in the background (p=0.000060)
+  2) a large body of water with a boat in the distance . (p=0.000050)
+Captions for image 19121673_1522997487771271_2596306424761942016_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002175)
+  1) a white plate topped with a piece of cake . (p=0.000883)
+  2) a white plate topped with meat , potatoes and vegetables . (p=0.000305)
+Captions for image 19227874_321766491585722_1550917260430802944_n.jpg:
+  0) a man standing on the side of a road . (p=0.000095)
+  1) a man standing on the side of a road next to a river . (p=0.000029)
+  2) a man standing on the side of a road next to a train . (p=0.000023)
+Captions for image 19984276_1410673169018824_4289281068537741312_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000548)
+  1) a close up of a cell phone on a table (p=0.000328)
+  2) a close up of a cell phone on a desk (p=0.000137)
+Captions for image 21149138_169660636938962_3709413462275784704_n.jpg:
+  0) a car parked in front of a parking meter . (p=0.000659)
+  1) a car is parked in front of a parking meter . (p=0.000390)
+  2) a car is parked in front of a parking meter (p=0.000100)
+Captions for image 19227129_315068055586561_3473181731190734848_n.jpg:
+  0) a car is parked in a parking lot . (p=0.000214)
+  1) a car is parked in front of a house . (p=0.000085)
+  2) a car is parked in front of a house (p=0.000058)
+Captions for image 19121951_140828259816798_5465192987619229696_n.jpg:
+  0) a man on a boat in the water . (p=0.000511)
+  1) a man is sitting on a boat in the water . (p=0.000344)
+  2) a man on a boat in the water (p=0.000227)
+Captions for image 19051776_456244358070075_3787039528657616896_n.jpg:
+  0) a woman and a man standing next to each other . (p=0.000412)
+  1) a woman and a man pose for a picture . (p=0.000308)
+  2) a woman and a man pose for a picture (p=0.000157)
+Captions for image 19984504_484440581902890_7543436260954603520_n.jpg:
+  0) a close up of a luggage bag on the ground (p=0.000268)
+  1) a close up of a luggage bag on a luggage bag (p=0.000247)
+  2) a close up of a luggage bag on a bed (p=0.000214)
+Captions for image 19050938_1494389620620198_4421005774180843520_n.jpg:
+  0) a man and woman sitting on a beach . (p=0.000444)
+  1) a woman sitting on a beach next to a man . (p=0.000257)
+  2) a woman sitting on a beach next to a dog . (p=0.000094)
+Captions for image 18251599_606932509516710_3414216868213293056_n.jpg:
+  0) a table with a variety of donuts on it . (p=0.000006)
+  1) a table with a variety of donuts on it (p=0.000003)
+  2) a plate of food with a variety of donuts . (p=0.000002)
+Captions for image 18949696_1078987188903107_1244509513235562496_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000267)
+  1) a car is parked on the side of a road . (p=0.000126)
+  2) a car is parked on the side of the road (p=0.000081)
+Captions for image 18161596_819817528168243_4817369064475197440_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.002050)
+  1) a man and a woman posing for a picture . (p=0.002005)
+  2) a man and a woman posing for a picture (p=0.000436)
+Captions for image 13385750_309974892667666_928069679_n.jpg:
+  0) a bear is laying down on a rock (p=0.000027)
+  1) a bear is sitting on a rock in a zoo . (p=0.000005)
+  2) a bear is standing on a rock in a zoo . (p=0.000005)
+Captions for image 17881048_398364713896364_4689020559609036800_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000680)
+  1) a man and a woman are standing together . (p=0.000156)
+  2) a man and a woman are standing together (p=0.000105)
+Captions for image 17438308_1269532083155057_4698051222270115840_n.jpg:
+  0) a car parked in a parking lot next to a car . (p=0.000115)
+  1) a car parked in a parking lot next to a building . (p=0.000040)
+  2) a black and white photo of a car parked in a parking lot . (p=0.000017)
+Captions for image 16908804_1930338150585852_5718585350729760768_n.jpg:
+  0) a woman sitting at a table with a plate of food . (p=0.007948)
+  1) a woman sitting at a table with a plate of food (p=0.001064)
+  2) a woman is sitting at a table with a plate of food . (p=0.000786)
+Captions for image 17587068_673652426129443_859578012838920192_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000433)
+  1) a car is parked on the side of a road . (p=0.000252)
+  2) a car is parked on the side of the street . (p=0.000165)
+Captions for image 16789149_418435465161364_1094888894345773056_n.jpg:
+  0) a car parked next to a parking meter . (p=0.000523)
+  1) a car parked next to a parking meter (p=0.000190)
+  2) a car is parked on the side of the road . (p=0.000175)
+Captions for image 17586791_457960217880521_8832205674168451072_n.jpg:
+  0) an old car is parked in a parking lot . (p=0.000267)
+  1) a blue car parked in front of a building . (p=0.000108)
+  2) an old car is parked in a parking lot (p=0.000038)
+Captions for image 16464395_1845961072349676_8877936871028555776_n.jpg:
+  0) a group of people standing next to each other . (p=0.002116)
+  1) a group of people standing around a table . (p=0.000700)
+  2) a group of people standing next to each other in a room . (p=0.000147)
+Captions for image 16463916_376501196040129_773221738233200640_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000415)
+  1) a car is parked on the side of the street . (p=0.000228)
+  2) a car is parked on the side of a road . (p=0.000177)
+Captions for image 16464252_1239668776121207_6888914954787749888_n.jpg:
+  0) a black and white photo of a classic car . (p=0.000090)
+  1) a black and white photo of a car parked in a parking lot . (p=0.000030)
+  2) a black and white photo of a car parked in a parking lot (p=0.000014)
+Captions for image 17596558_1878685949014003_6405613280085147648_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000256)
+  1) a car is parked on the side of a road . (p=0.000131)
+  2) a car is parked on the side of the road (p=0.000109)
+Captions for image 16124122_1142508315846745_3585123705799311360_n.jpg:
+  0) a woman sitting at a table with a glass of wine . (p=0.001461)
+  1) a woman sitting at a table with a plate of food . (p=0.000830)
+  2) a woman sitting at a table with a glass of wine (p=0.000242)
+Captions for image 16122615_1879892175564130_643605131387994112_n.jpg:
+  0) a collage of photos with a clock and a sign (p=0.000006)
+  1) a collage of photos of a man holding a sign . (p=0.000003)
+  2) a collage of photos of a man holding a sign (p=0.000002)
+Captions for image 15276565_1258241544232740_792299656544518144_n.jpg:
+  0) a row of urinals in a public restroom . (p=0.003498)
+  1) a row of urinals in a public restroom (p=0.001818)
+  2) a row of urinals mounted to a wall . (p=0.001398)
+Captions for image 17587419_274201663021195_557283426974040064_n.jpg:
+  0) a red car is parked in a parking lot . (p=0.000084)
+  1) a red car is parked on the side of the road . (p=0.000035)
+  2) a red car is parked in a parking lot (p=0.000025)
+Captions for image 14719275_565668970296840_6866537930362454016_n.jpg:
+  0) a tv sitting on top of a wooden dresser . (p=0.000444)
+  1) a tv sitting on top of a wooden stand . (p=0.000390)
+  2) a tv sitting on top of a wooden shelf . (p=0.000382)
+Captions for image 15338364_949561715175360_3137140285906092032_n.jpg:
+  0) a man in a suit is sitting in a car (p=0.000030)
+  1) a man in a suit is sitting in a car . (p=0.000021)
+  2) a man in a suit and tie standing in front of a car . (p=0.000006)
+Captions for image 16230173_1216526721775778_2456981405121380352_n.jpg:
+  0) a black car parked in front of a parking meter . (p=0.000211)
+  1) a car parked in a parking lot next to a car . (p=0.000076)
+  2) a car parked in a parking lot next to a parking meter . (p=0.000053)
+Captions for image 14693726_1802334076711574_2724640790595764224_n.jpg:
+  0) a red car is parked on the side of the road . (p=0.000178)
+  1) a red car is parked on the side of a road . (p=0.000090)
+  2) a red car is parked on the side of the street . (p=0.000073)
+Captions for image 14719779_1693912917591907_6463217020681846784_n.jpg:
+  0) a large building with a clock on it (p=0.000104)
+  1) a large building with a clock on the front . (p=0.000073)
+  2) a large building with a clock on the side of it . (p=0.000053)
+Captions for image 17587520_235563956850672_743620149319303168_n.jpg:
+  0) an old car is parked in a parking lot . (p=0.000224)
+  1) a car parked in a parking lot next to a car . (p=0.000056)
+  2) a car parked in a parking lot next to a parking meter . (p=0.000040)
+Captions for image 14712123_365923473748308_6117812443612708864_n.jpg:
+  0) a red car is parked in a parking lot . (p=0.000232)
+  1) a red car is parked on the side of the road . (p=0.000164)
+  2) a red car is parked on the side of a road . (p=0.000093)
+Captions for image 14714527_330412810672527_141785739548426240_n.jpg:
+  0) a group of people sitting around a table . (p=0.001426)
+  1) a group of people sitting at a table with wine glasses . (p=0.000280)
+  2) a group of people sitting at a table with drinks . (p=0.000161)
+Captions for image 14719087_1787590134828769_7488140902070747136_n.jpg:
+  0) a stop sign with graffiti written on it . (p=0.000309)
+  1) a stop sign with graffiti written on it (p=0.000254)
+  2) a stop sign with graffiti on it . (p=0.000118)
+Captions for image 14659274_341345392886549_1948115659871223808_n.jpg:
+  0) a man standing in front of a building . (p=0.000230)
+  1) a man standing in front of a building with a fire hydrant . (p=0.000020)
+  2) a man standing in front of a building with a kite . (p=0.000016)
+Captions for image 14701103_218960831856960_2059566560804077568_n.jpg:
+  0) a stuffed animal is sitting on top of a book . (p=0.000025)
+  1) a stuffed animal is sitting on a laptop . (p=0.000019)
+  2) a stuffed animal is sitting on a laptop (p=0.000016)
+Captions for image 14607064_1766481820284364_8747363126426468352_n.jpg:
+  0) a woman sitting on a bench in front of a store . (p=0.000016)
+  1) a woman sitting on a bench in front of a building . (p=0.000009)
+  2) a woman sitting on a bench in front of a bus . (p=0.000008)
+Captions for image 14718050_184259952022845_4797187610151747584_n.jpg:
+  0) a man and a woman pose for a picture with a cat . (p=0.000102)
+  1) a man and a woman sitting on a couch with a cat . (p=0.000045)
+  2) a man and a woman pose for a picture with a cat (p=0.000035)
+Captions for image 14730581_337088753318979_639575249473503232_n.jpg:
+  0) a man standing next to a woman in a forest . (p=0.000281)
+  1) a man standing next to a woman on a cell phone . (p=0.000196)
+  2) a man standing next to a woman in a park . (p=0.000127)
+Captions for image 14726179_1805118803100413_6914545412644798464_n.jpg:
+  0) a black and white cat laying on top of a bed . (p=0.003360)
+  1) a black and white cat laying on a bed . (p=0.003015)
+  2) a black and white cat laying on top of a couch . (p=0.002458)
+Captions for image 14726163_970488633056298_109501063089881088_n.jpg:
+  0) a group of people standing next to each other . (p=0.004022)
+  1) a group of people standing around each other . (p=0.001600)
+  2) a group of people standing next to each other in a field . (p=0.000497)
+Captions for image 14733651_979352072188325_159176581820973056_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003541)
+  1) a city street filled with lots of tall buildings . (p=0.001961)
+  2) a city street filled with lots of traffic and buildings . (p=0.000128)
+Captions for image 14722966_1786614134954520_7938481601879474176_n.jpg:
+  0) a group of people standing next to each other . (p=0.001429)
+  1) a group of people sitting on a bench . (p=0.000165)
+  2) a group of people standing next to each other on a field . (p=0.000112)
+Captions for image 14712161_312576655795838_6990458938126761984_n.jpg:
+  0) a group of people standing around a bunch of bananas . (p=0.000530)
+  1) a group of people standing around a table filled with bananas . (p=0.000165)
+  2) a group of people standing around a bunch of bananas (p=0.000104)
+Captions for image 14719185_119336738540368_7473290185061433344_n.jpg:
+  0) a plate of food on a table (p=0.000149)
+  1) a plate of food on a table with a drink (p=0.000039)
+  2) a plate of food on a table with a fork (p=0.000014)
+Captions for image 14574234_1776891815861564_3579518275261825024_n.jpg:
+  0) a man in a hat is holding a kite . (p=0.000008)
+  1) a man in a hat is holding a kite (p=0.000006)
+  2) a man in a hat and sunglasses is holding an umbrella . (p=0.000002)
+Captions for image 14709471_346906918995184_6976544167505690624_n.jpg:
+  0) a man in a suit and tie standing next to a woman . (p=0.000020)
+  1) a man in a suit and tie holding a cell phone . (p=0.000016)
+  2) a man in a suit and tie holding a cell phone (p=0.000007)
+Captions for image 14701352_1605786673059933_8077781543205994496_n.jpg:
+  0) a woman holding a cell phone in her hand . (p=0.001517)
+  1) a woman holding a cell phone to her ear . (p=0.000877)
+  2) a woman holding a cell phone to her ear (p=0.000463)
+Captions for image 14705216_1590434064599181_9199896591723397120_n.jpg:
+  0) a group of people sitting on a bench . (p=0.000166)
+  1) a group of people are sitting on a bench . (p=0.000039)
+  2) a group of people are sitting on a bench (p=0.000018)
+Captions for image 11821275_528232384019928_2100941018_n.jpg:
+  0) a man in a suit is holding a cell phone . (p=0.000038)
+  1) a man in a suit is holding a cell phone (p=0.000009)
+  2) a man in a suit and tie holding a cell phone . (p=0.000009)
+Captions for image 14449108_1229516287111019_8375276554657202176_n.jpg:
+  0) a woman is talking on her cell phone . (p=0.001306)
+  1) a woman is talking on a cell phone . (p=0.001076)
+  2) a woman is talking on a cell phone (p=0.000694)
+Captions for image 14719239_326053244427586_6069991096623038464_n.jpg:
+  0) a man standing on top of a wooden bench . (p=0.000004)
+  1) a man standing on top of a bridge over a river . (p=0.000004)
+  2) a man standing on top of a bridge next to a river . (p=0.000003)
+Captions for image 14718041_1756137327981504_8468340863804637184_n.jpg:
+  0) a man and woman are playing a video game . (p=0.000524)
+  1) a man and woman playing a video game . (p=0.000498)
+  2) a man and woman are playing a video game (p=0.000321)
+Captions for image 14733376_322827301425977_4634482064157048832_n.jpg:
+  0) a woman sitting on a boat in the water . (p=0.000495)
+  1) a woman sitting on a boat in the ocean . (p=0.000458)
+  2) a woman is sitting on a boat in the water . (p=0.000238)
+Captions for image 14693736_1729061194085131_5841923028920827904_n.jpg:
+  0) a view of a beach with a sunset in the background . (p=0.000016)
+  1) a view of a beach with a boat in the distance . (p=0.000009)
+  2) a view of a beach with a boat in the water . (p=0.000005)
+Captions for image 14540368_210592376036858_602686269289398272_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000159)
+  1) a man wearing a tie and a shirt . (p=0.000088)
+  2) a man wearing a tie and a hat (p=0.000036)
+Captions for image 14723207_603566683147939_4892958139537686528_n.jpg:
+  0) a man sitting on a bench looking at the ocean . (p=0.002939)
+  1) a man sitting on a bench looking at the water . (p=0.001736)
+  2) a man sitting on a bench looking at the ocean (p=0.001100)
+Captions for image 14717383_1204718992955341_3048114916759175168_n.jpg:
+  0) a man and a woman posing for a picture . (p=0.000645)
+  1) a man and a woman posing for a picture (p=0.000245)
+  2) a man and a woman posing for a photo . (p=0.000183)
+Captions for image 14714551_177247312732046_6781318482060378112_n.jpg:
+  0) a group of boats that are sitting in the water . (p=0.000449)
+  1) a group of boats that are in the water . (p=0.000165)
+  2) a group of boats that are sitting on the water . (p=0.000042)
+Captions for image 14659434_358228207860831_2856231703712628736_n.jpg:
+  0) a man and a woman pose for a picture . (p=0.000292)
+  1) a man and a woman pose for a picture (p=0.000135)
+  2) a man and a woman pose for a photo . (p=0.000062)
+Captions for image 14723099_1227629043963681_5676989266777866240_n.jpg:
+  0) a person walking down a street holding an umbrella . (p=0.000079)
+  1) a person walking down a street holding an umbrella (p=0.000023)
+  2) a person walking down a street holding a red umbrella . (p=0.000013)
+Captions for image 14624762_677935952371059_1320736893452681216_n.jpg:
+  0) a cat is eating a piece of cake . (p=0.000114)
+  1) a cat is eating a piece of food . (p=0.000072)
+  2) a small kitten is eating a piece of broccoli . (p=0.000069)
+Captions for image 14719626_909054392561329_1372550622997381120_n.jpg:
+  0) a bridge over a body of water next to a bridge . (p=0.000035)
+  1) a bridge over a body of water next to a river . (p=0.000032)
+  2) a bridge over a body of water with a clock tower . (p=0.000015)
+Captions for image 14704974_1595335437438991_8989489103124824064_n.jpg:
+  0) a woman sitting on a bench with a cell phone . (p=0.000069)
+  1) a woman is sitting on a bench in the sun . (p=0.000033)
+  2) a woman sitting on a bench with a cell phone in her hand . (p=0.000024)
+Captions for image 14659395_1589999824641886_7177358936842960896_n.jpg:
+  0) a man and a woman are brushing their teeth . (p=0.000098)
+  1) a woman in a white shirt is brushing her teeth (p=0.000066)
+  2) a man and a woman are brushing their teeth (p=0.000060)
+Captions for image 14701281_1623713067927274_8496537001980329984_n.jpg:
+  0) a large jetliner flying over a lush green field . (p=0.000227)
+  1) a large jetliner flying over a lush green forest . (p=0.000200)
+  2) a large jetliner flying over a lush green hillside . (p=0.000167)
+Captions for image 14582333_539976462867593_7584482511783198720_n.jpg:
+  0) a man riding on the back of a brown horse . (p=0.001349)
+  1) a woman sitting on top of a horse . (p=0.001273)
+  2) a man riding on the back of a horse . (p=0.000780)
+Captions for image 11372499_847865981947466_638540353_n.jpg:
+  0) a pizza sitting on top of a white plate . (p=0.006527)
+  1) a pizza sitting on top of a white plate on a table . (p=0.003785)
+  2) a pizza sitting on top of a white plate on top of a table . (p=0.001306)
+Captions for image 14659422_620024001537034_1430436676089413632_n.jpg:
+  0) a man and a woman pose for a picture . (p=0.000823)
+  1) a man and a woman are posing for a picture . (p=0.000479)
+  2) a man and a woman pose for a picture (p=0.000307)
+Captions for image 14705181_681280015368279_4512138056714682368_n.jpg:
+  0) a large cathedral with a clock on it 's face . (p=0.000321)
+  1) a large cathedral with a clock on it 's side . (p=0.000204)
+  2) a large church with a clock on the front of it . (p=0.000084)
+Captions for image 14730732_1603659733264155_6255978651012038656_n.jpg:
+  0) a black and white photo of people walking on a bridge (p=0.000079)
+  1) a black and white photo of people walking on a bridge . (p=0.000057)
+  2) a black and white photo of people walking on a pier . (p=0.000014)
+Captions for image 14714379_229654830784284_2457294718690656256_n.jpg:
+  0) a black and white cat sitting on a window sill . (p=0.000088)
+  1) a black and white photo of a cat looking out a window . (p=0.000027)
+  2) a black and white cat sitting on a window sill (p=0.000018)
+Captions for image 14659411_1696220947360661_869245859668164608_n.jpg:
+  0) a couple of women standing next to each other . (p=0.006892)
+  1) a group of people standing next to each other . (p=0.002549)
+  2) a group of people posing for a picture . (p=0.001076)
+Captions for image 14718186_1714699842190147_1519510659971153920_n.jpg:
+  0) a woman sitting at a table with a cake . (p=0.002234)
+  1) a woman sitting at a table in front of a cake . (p=0.001185)
+  2) a woman sitting at a table with a birthday cake . (p=0.000957)
+Captions for image 14736166_578259702362103_4674950727783677952_n.jpg:
+  0) a group of people standing next to each other . (p=0.002116)
+  1) a group of people standing around a table . (p=0.000700)
+  2) a group of people standing next to each other in a room . (p=0.000147)
+Captions for image 14701237_1732011440454960_1747193490581749760_n.jpg:
+  0) a group of people standing around a red truck . (p=0.000108)
+  1) a group of people standing next to a red fire truck . (p=0.000079)
+  2) a group of people riding on the back of a truck . (p=0.000063)
+Captions for image 14714676_703867753095696_5566527239115243520_n.jpg:
+  0) a man and woman pose for a picture . (p=0.001066)
+  1) a man and a woman pose for a picture . (p=0.000703)
+  2) a man and woman pose for a picture (p=0.000465)
+Captions for image 14730484_981080085335854_2592117607582662656_n.jpg:
+  0) a table with a plate of food and a glass of wine (p=0.000146)
+  1) a glass of wine and a plate of food on a table . (p=0.000106)
+  2) a table with a plate of food and a glass of wine . (p=0.000074)
+Captions for image 14359606_1635426566787892_4369043202544500736_n.jpg:
+  0) a woman sitting at a table with a glass of wine . (p=0.000938)
+  1) a woman is sitting at a table with a glass of wine . (p=0.000196)
+  2) a woman sitting at a table in front of a glass of wine . (p=0.000130)
+Captions for image 13652228_188726638207784_1687263455_n.jpg:
+  0) a bathroom with a toilet and a sink (p=0.000116)
+  1) a bathroom with a toilet and a sink . (p=0.000084)
+  2) a bathroom with a toilet , sink and a window . (p=0.000024)
+Captions for image 14026585_986446594808325_1766654176_n.jpg:
+  0) a white toilet sitting next to a brick wall . (p=0.000314)
+  1) a white toilet sitting in a bathroom next to a window . (p=0.000099)
+  2) a white toilet sitting in a bathroom next to a wall . (p=0.000088)
+Captions for image 13774796_494688167392317_291462744_n.jpg:
+  0) a close up of a sign on a wall (p=0.000215)
+  1) a close up of a street sign with a sky background (p=0.000142)
+  2) a close up of a sign on a building (p=0.000127)
+Captions for image 14736367_157623554699594_2625219148166201344_n.jpg:
+  0) a woman in a bathing suit in a bath tub . (p=0.000018)
+  1) a woman in a bathing suit in a bath tub (p=0.000017)
+  2) a woman in a bathing suit in the water with a frisbee . (p=0.000002)
+Captions for image 13422892_1619879768340415_588779706_n.jpg:
+  0) a black and white cat laying on top of a bed . (p=0.001624)
+  1) a black and white cat laying on top of a couch . (p=0.001473)
+  2) a black and white cat laying on a couch . (p=0.001273)
+Captions for image 13381076_1399466556737220_1230977642_n.jpg:
+  0) a woman in a black dress holding a white frisbee . (p=0.000003)
+  1) a woman in a red dress is holding a tennis racket . (p=0.000001)
+  2) a woman in a black dress holding a white clock (p=0.000001)
+Captions for image 13320292_1761938900688553_155289069_n.jpg:
+  0) a bench sitting in the middle of a lake . (p=0.000184)
+  1) a bench sitting on the side of a river . (p=0.000097)
+  2) a bench sitting in the middle of a flooded area . (p=0.000035)
+Captions for image 13534445_238273876558686_1558740776_n.jpg:
+  0) a woman standing next to a parking meter . (p=0.001214)
+  1) a woman standing next to a parked car . (p=0.000738)
+  2) a woman standing next to a car on a street . (p=0.000548)
+Captions for image 13408796_151476108600755_1686463091_n.jpg:
+  0) a man riding a bike down a street next to tall buildings . (p=0.000027)
+  1) a man riding a bike down a street next to a tall building . (p=0.000018)
+  2) a man riding a bike down a street next to a car . (p=0.000014)
+Captions for image 13414372_1000398103406865_769612333_n.jpg:
+  0) a woman sitting at a table with a plate of food . (p=0.008914)
+  1) a woman sitting at a table with a plate of food (p=0.001331)
+  2) a woman is sitting at a table with a plate of food . (p=0.001159)
+Captions for image 11417474_735255539933345_1726933543_n.jpg:
+  0) a man riding a skateboard up the side of a ramp . (p=0.010057)
+  1) a man riding a skateboard down the side of a ramp . (p=0.005044)
+  2) a man riding a skateboard down a ramp . (p=0.001074)
+Captions for image 12362123_1789946317899648_1339022223_n.jpg:
+  0) a woman in a white shirt and tie (p=0.000050)
+  1) a woman in a white shirt and black tie (p=0.000041)
+  2) a woman in a white shirt and a tie (p=0.000023)
+Captions for image 13269371_476236962586147_372285483_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000415)
+  1) a man and a woman standing next to each other in a parking lot . (p=0.000044)
+  2) a man and a woman standing next to each other on a street . (p=0.000038)
+Captions for image 13320089_890951751038468_1768055621_n.jpg:
+  0) a red stop sign sitting on the side of a building . (p=0.000289)
+  1) a red stop sign sitting on the side of a road . (p=0.000124)
+  2) a red stop sign sitting on the side of a street . (p=0.000112)
+Captions for image 13355546_1727701654168227_185769333_n.jpg:
+  0) a view of a city street at night . (p=0.000301)
+  1) a city street at night with cars parked on it . (p=0.000027)
+  2) a city street at night with cars parked on it (p=0.000024)
+Captions for image 13381193_1087806864591662_734338596_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001001)
+  1) a city street filled with lots of tall buildings . (p=0.000244)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000057)
+Captions for image 13277693_194011527662907_1993521951_n.jpg:
+  0) a man in a suit talking on a cell phone . (p=0.000201)
+  1) a man in a suit talking on a cell phone (p=0.000069)
+  2) a man in a black shirt talking on a cell phone . (p=0.000063)
+Captions for image 13391339_1720711148216527_1980333131_n.jpg:
+  0) a woman is talking on her cell phone . (p=0.001085)
+  1) a woman is talking on a cell phone . (p=0.001003)
+  2) a woman is talking on a cell phone (p=0.000780)
+Captions for image 13126894_995016537249539_725842748_n.jpg:
+  0) a group of people standing next to each other . (p=0.000758)
+  1) a group of people standing next to each other on a stage . (p=0.000128)
+  2) a group of people standing next to each other in a room . (p=0.000116)
+Captions for image 13269383_194196304309287_195822670_n.jpg:
+  0) a harbor filled with lots of small boats . (p=0.000535)
+  1) a harbor filled with lots of boats next to buildings . (p=0.000096)
+  2) a harbor filled with lots of boats next to a bridge . (p=0.000067)
+Captions for image 12818931_744567795676380_812116411_n.jpg:
+  0) a living room filled with furniture and a flat screen tv . (p=0.007687)
+  1) a living room filled with furniture and a tv . (p=0.006478)
+  2) a living room filled with furniture and a tv (p=0.000312)
+Captions for image 13385650_1544182322557540_42056872_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001050)
+  1) a large clock tower towering over a city at night . (p=0.000417)
+  2) a large clock tower towering over a city with tall buildings . (p=0.000059)
+Captions for image 12783867_1702844916666108_776095297_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000026)
+  1) a person holding a pair of scissors in their hand . (p=0.000019)
+  2) a person holding a pair of scissors in their hands (p=0.000007)
+Captions for image 12751278_1021715134549801_1893964262_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000776)
+  1) a man wearing a suit and tie sitting in a car . (p=0.000410)
+  2) a man in a suit and tie sitting in a car (p=0.000320)
+Captions for image 13385758_1823576017870316_878881598_n.jpg:
+  0) a group of boats floating on top of a river . (p=0.000370)
+  1) a group of boats floating on a river next to a bridge . (p=0.000059)
+  2) a group of boats floating on top of a river next to a bridge . (p=0.000040)
+Captions for image 12394128_477050349148733_847215933_n.jpg:
+  0) a table topped with plates and glasses of wine . (p=0.000650)
+  1) a table topped with plates of food and glasses of wine . (p=0.000277)
+  2) a table topped with glasses of wine and a plate of food . (p=0.000077)
+Captions for image 12331895_1642163096050589_1555056848_n.jpg:
+  0) a group of people standing next to each other . (p=0.002441)
+  1) a group of people standing around a table . (p=0.000901)
+  2) a group of people standing next to each other in a room . (p=0.000252)
+Captions for image 12301258_1212861032062609_638573367_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000237)
+  1) a man in a suit and tie holding a glass of wine . (p=0.000116)
+  2) a man in a suit and tie holding a glass . (p=0.000113)
+Captions for image 11939363_104079433291729_1195344659_n.jpg:
+  0) a woman wearing a tie and a hat . (p=0.000073)
+  1) a woman wearing a tie and a hat (p=0.000026)
+  2) a woman in a red shirt and a red tie (p=0.000020)
+Captions for image 12224625_160223550998525_1157522414_n.jpg:
+  0) a close up of a sandwich on a plate (p=0.006228)
+  1) a close up of a sandwich on a plate on a table (p=0.000809)
+  2) a close up of a plate of food with a sandwich (p=0.000691)
+Captions for image 11259753_1682970341937733_1148259363_n.jpg:
+  0) a teddy bear sitting on top of a book shelf . (p=0.000239)
+  1) a teddy bear sitting on top of a table . (p=0.000210)
+  2) a teddy bear sitting on top of a book shelf filled with books . (p=0.000021)
+Captions for image 12080578_483036751876048_958163606_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.000726)
+  1) a city street filled with lots of tall buildings . (p=0.000443)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000043)
+Captions for image 12145019_615112245295701_1440779569_n.jpg:
+  0) a woman wearing a tie and a red tie . (p=0.000035)
+  1) a woman in a red shirt and a black tie (p=0.000014)
+  2) a woman wearing a tie and a red tie (p=0.000009)
+Captions for image 1516714_1605906919678054_1098327509_n.jpg:
+  0) a black and white photo of a clock (p=0.000214)
+  1) a black and white photo of a sign on a wall (p=0.000088)
+  2) a black and white photo of a sign on a building (p=0.000076)
+Captions for image 12132929_1177980258882905_1057608331_n.jpg:
+  0) a black and white cat sitting on a couch . (p=0.001074)
+  1) a black and white cat is sitting on a couch . (p=0.000618)
+  2) a black and white cat is sitting on the ground . (p=0.000484)
+Captions for image 12135251_1631056543815624_204234077_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000236)
+  1) a close up of a black and silver fire hydrant . (p=0.000090)
+  2) a close up of a black and silver blender . (p=0.000058)
+Captions for image 12142494_181465808863519_1257516626_n.jpg:
+  0) a woman holding a glass of wine in her hand . (p=0.000490)
+  1) a woman holding a glass of wine in her hand (p=0.000089)
+  2) a woman holding a glass of wine in front of her . (p=0.000059)
+Captions for image 11348246_821338077985548_564494383_n.jpg:
+  0) a close up of a cake on a table (p=0.000209)
+  1) a close up of a cake on a plate (p=0.000033)
+  2) a close up of a plate with a cake (p=0.000016)
+Captions for image 11249193_909497672418974_185227222_n.jpg:
+  0) a view of a street light and a traffic light . (p=0.000003)
+  1) a view of a city street from a plane . (p=0.000002)
+  2) a view of a city street from a night sky . (p=0.000001)
+Captions for image 11809540_898118746947059_122932600_n.jpg:
+  0) a black and white cat sitting on a window sill . (p=0.002478)
+  1) a black and white cat sitting in a window sill . (p=0.002406)
+  2) a black and white cat is sitting on a window sill . (p=0.000954)
+Captions for image 11363965_453073161516098_1345441743_n.jpg:
+  0) a stop sign that has a sticker on it . (p=0.000065)
+  1) a stop sign that has a sticker on it (p=0.000039)
+  2) a stop sign that has a sign on it . (p=0.000035)
+Captions for image 11918042_1680254155552562_309297532_n.jpg:
+  0) a young man riding a skateboard down a street . (p=0.001080)
+  1) a young man riding a skateboard across a street . (p=0.000285)
+  2) a young man riding a skateboard down a sidewalk . (p=0.000217)
+Captions for image 12534419_435399733324073_544394692_n.jpg:
+  0) a woman riding a horse on a city street . (p=0.000391)
+  1) a woman riding a horse in front of a crowd . (p=0.000177)
+  2) a woman riding a horse in front of a building . (p=0.000159)
+Captions for image 10666262_979042385479898_369272997_n.jpg:
+  0) a slice of pizza sitting on top of a white plate . (p=0.002653)
+  1) a slice of pizza on a plate with a fork . (p=0.000648)
+  2) a piece of cake on a plate with a fork . (p=0.000507)
+Captions for image 11374056_914040178633775_15141822_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.005040)
+  1) a white plate topped with meat and veggies . (p=0.002441)
+  2) a white plate topped with meat , potatoes and vegetables . (p=0.000671)
+Captions for image 11373600_1660607954172440_1532471816_n.jpg:
+  0) a man riding a skateboard up the side of a ramp . (p=0.007309)
+  1) a man riding a skateboard down a street . (p=0.002170)
+  2) a man riding a skateboard on top of a ramp . (p=0.000764)
+Captions for image 11426717_1471516036478778_684582226_n.jpg:
+  0) a black and white cat sitting in a bathroom sink . (p=0.010704)
+  1) a black and white cat is sitting in a bathroom sink . (p=0.003448)
+  2) a black and white cat is sitting in a sink (p=0.001958)
+Captions for image 11378945_476920085812876_867143926_n.jpg:
+  0) a desktop computer monitor sitting on top of a desk . (p=0.009551)
+  1) a desktop computer monitor sitting on top of a wooden desk . (p=0.001846)
+  2) a desktop computer monitor sitting on top of a computer desk . (p=0.000439)
+Captions for image 11351698_378287055705633_1880468755_n.jpg:
+  0) a desk with a computer and a printer (p=0.000055)
+  1) a desk with a computer and a printer . (p=0.000055)
+  2) a desk with a computer and a printer on it (p=0.000028)
+Captions for image 11327029_937320162986253_1430470702_n.jpg:
+  0) a car parked next to a parking meter . (p=0.000814)
+  1) a close up of a car parked in a parking lot (p=0.000251)
+  2) a car parked next to a parking meter (p=0.000249)
+Captions for image 10326644_490992964382313_1015970912_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.001655)
+  1) a man and a woman posing for a picture . (p=0.001394)
+  2) a man and a woman posing for a picture (p=0.000420)

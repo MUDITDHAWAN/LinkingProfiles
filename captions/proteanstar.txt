@@ -1,0 +1,12 @@
+Captions for image 11325970_484124808432704_1164656548_a.jpg:
+  0) a man in a suit and tie standing in a field . (p=0.001025)
+  1) a man in a suit and tie standing in a field (p=0.000215)
+  2) a man in a suit and tie standing on a field . (p=0.000119)
+Captions for image 11378093_1632119600337876_671065945_n.jpg:
+  0) a view of a beach with a boat in the distance . (p=0.000013)
+  1) a view of a beach with a boat in the water . (p=0.000007)
+  2) a view of a beach with a large body of water in the background . (p=0.000004)
+Captions for image 61395803_476703849804557_1386267946741690645_n.jpg:
+  0) a view of the ocean from the top of a mountain . (p=0.000003)
+  1) a view of the ocean from the top of a boat . (p=0.000003)
+  2) a view of a large body of water with a mountain in the background . (p=0.000002)

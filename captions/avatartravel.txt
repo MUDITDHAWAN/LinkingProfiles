@@ -1,0 +1,16 @@
+Captions for image 11376714_1575325869396397_371822106_n.jpg:
+  0) a man wearing a tie and a white shirt . (p=0.000055)
+  1) a man wearing a tie and a hat . (p=0.000053)
+  2) a man wearing a tie and a shirt . (p=0.000046)
+Captions for image 11261110_119493975049280_1777620902_n.jpg:
+  0) a statue of a man sitting on a bench . (p=0.000009)
+  1) a statue of a man sitting on top of a wooden bench . (p=0.000008)
+  2) a statue of a man sitting on a bench (p=0.000008)
+Captions for image 11272918_884519344951081_505574424_n.jpg:
+  0) a group of people riding on the backs of horses . (p=0.003891)
+  1) a group of people riding horses on a beach . (p=0.002244)
+  2) a group of people riding horses on a dirt field . (p=0.000481)
+Captions for image 11875354_1493761647589137_1254837716_a.jpg:
+  0) a stop sign that has been altered to say stop . (p=0.000001)
+  1) a stop sign that has been altered to say war (p=0.000000)
+  2) a stop sign that has been altered to say `` <UNK> '' . (p=0.000000)

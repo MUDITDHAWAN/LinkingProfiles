@@ -1,0 +1,32 @@
+Captions for image 10268951_642232349164317_531672347_n.jpg:
+  0) a red frisbee with a yellow frisbee in it 's mouth . (p=0.000012)
+  1) a yellow frisbee with a red and white frisbee . (p=0.000006)
+  2) a red frisbee with a yellow frisbee in its mouth . (p=0.000006)
+Captions for image 1172179_1408032736126384_929432214_n.jpg:
+  0) a view of a city skyline at night . (p=0.000125)
+  1) a bridge over a river with a clock tower . (p=0.000036)
+  2) a bridge over a river with a bridge in the background . (p=0.000021)
+Captions for image 10009913_757712300913265_1270202974_n.jpg:
+  0) a large building with a clock on it (p=0.000097)
+  1) a large building with a clock tower on top of it . (p=0.000065)
+  2) a large building with a clock tower in the middle of it . (p=0.000047)
+Captions for image 10249213_702735836456908_2094889773_n.jpg:
+  0) a close up of a person holding a frisbee (p=0.000215)
+  1) a close up of a person holding a pair of scissors (p=0.000173)
+  2) a close up of a stop sign with a sticker on it (p=0.000024)
+Captions for image 11848922_677813752353797_44716608_a.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000073)
+  1) a close up of a person holding an orange (p=0.000065)
+  2) a close up of a person holding a pair of orange scissors (p=0.000022)
+Captions for image 925395_633188446751243_1197094217_n.jpg:
+  0) a stop sign with graffiti written on it . (p=0.000609)
+  1) a stop sign with graffiti written on it (p=0.000486)
+  2) a stop sign with graffiti on it . (p=0.000166)
+Captions for image 927942_249374168600511_1665148112_n.jpg:
+  0) a close up of a stop sign with a sky background (p=0.000284)
+  1) a close up of a stop sign with a sign on it (p=0.000043)
+  2) a close up of a stop sign with a street sign (p=0.000025)
+Captions for image 917050_629624070441051_923515442_n.jpg:
+  0) a fire hydrant spewing water onto a city street (p=0.000515)
+  1) a fire hydrant spewing water onto a street . (p=0.000280)
+  2) a fire hydrant is spraying water onto a street . (p=0.000280)

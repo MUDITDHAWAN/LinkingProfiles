@@ -1,0 +1,156 @@
+Captions for image 10843844_414703538687692_1436047326_n.jpg:
+  0) a small dog is sitting on the floor . (p=0.000127)
+  1) a small dog is sitting on a chair . (p=0.000068)
+  2) a white dog is sitting on a chair . (p=0.000053)
+Captions for image 1515802_1573565146194905_685764376_a.jpg:
+  0) a man in a suit and tie standing in front of a building . (p=0.000021)
+  1) a man in a suit and tie standing next to a tree . (p=0.000019)
+  2) a man in a suit and tie standing in front of a tree . (p=0.000013)
+Captions for image 10986160_1389083511411108_1191039869_n.jpg:
+  0) a beach with a lot of people on it (p=0.000033)
+  1) a beach with a bunch of umbrellas on the beach . (p=0.000021)
+  2) a beach with a bunch of people on it (p=0.000020)
+Captions for image 26072452_137918400213849_5902321934233763840_n.jpg:
+  0) a stop sign with a sign on it (p=0.000009)
+  1) a stop sign with a sign on top of it . (p=0.000007)
+  2) a stop sign with a sign on top of it (p=0.000006)
+Captions for image 25023669_154987921798465_3093222763540774912_n.jpg:
+  0) a black and white photo of a person sitting on a bench (p=0.000093)
+  1) a black and white photo of a man sitting on a bench . (p=0.000093)
+  2) a black and white photo of a person sitting on a bench . (p=0.000071)
+Captions for image 10838666_859979250708328_483766538_n.jpg:
+  0) a red and white fire hydrant sitting in the middle of a forest . (p=0.000060)
+  1) a red and white fire hydrant sitting in the middle of a field . (p=0.000023)
+  2) a red and white fire hydrant sitting in a field . (p=0.000014)
+Captions for image 25021792_158627428093703_4939728662648848384_n.jpg:
+  0) a man in a suit and tie holding a camera . (p=0.000042)
+  1) a man in a suit and tie holding a cell phone . (p=0.000028)
+  2) a man in a suit and tie holding a camera (p=0.000025)
+Captions for image 25035790_169225323834665_8115838539746246656_n.jpg:
+  0) a sign that says `` <UNK> '' on the side of a building . (p=0.000001)
+  1) a sign that says `` <UNK> '' on a building . (p=0.000001)
+  2) a sign that says `` <UNK> '' on a street corner . (p=0.000001)
+Captions for image 11330720_772162679565277_1811920400_n.jpg:
+  0) a man laying on the ground with a skateboard . (p=0.000156)
+  1) a man laying on top of a skateboard in a park . (p=0.000062)
+  2) a man laying on top of a skateboard on a ramp . (p=0.000042)
+Captions for image 11085160_973644159320415_1616376800_n.jpg:
+  0) a couple of benches sitting next to a body of water . (p=0.000122)
+  1) a couple of benches sitting on top of a beach . (p=0.000101)
+  2) a couple of benches sitting on top of a sandy beach . (p=0.000072)
+Captions for image 10852602_429450900564070_1090478883_n.jpg:
+  0) a man riding a kiteboard over a body of water . (p=0.000343)
+  1) a man riding a kiteboard on top of a body of water . (p=0.000283)
+  2) a man on a surfboard in the water . (p=0.000262)
+Captions for image 10724851_838289749574697_1211095400_n.jpg:
+  0) a couple of boats that are sitting in the water . (p=0.000668)
+  1) a couple of boats that are in the water . (p=0.000421)
+  2) a couple of boats sitting on top of a beach . (p=0.000291)
+Captions for image 11015577_1555047541423834_224095251_n.jpg:
+  0) a plate of food with meat and vegetables . (p=0.000532)
+  1) a plate of food with meat and vegetables on it . (p=0.000107)
+  2) a plate of food with meat and vegetables (p=0.000090)
+Captions for image 11008305_839277659477651_1965940089_n.jpg:
+  0) a bird sitting on a rock in the ocean . (p=0.000696)
+  1) a black bird standing on a rock in the ocean . (p=0.000582)
+  2) a bird is standing on a rock in the water . (p=0.000508)
+Captions for image 10724245_556412251162121_1705542284_n.jpg:
+  0) a group of people sitting around a table . (p=0.002763)
+  1) a group of people sitting around a table with food . (p=0.000449)
+  2) a group of people sitting around a table with a laptop . (p=0.000281)
+Captions for image 10554079_1552694578324185_258765759_n.jpg:
+  0) a bird is swimming in a body of water . (p=0.000334)
+  1) a bird is swimming in a body of water (p=0.000073)
+  2) a bird is swimming in the water with a fish . (p=0.000038)
+Captions for image 11018559_613014865464875_664108408_n.jpg:
+  0) a man riding a boat on top of a body of water . (p=0.000298)
+  1) a man riding a small boat in the ocean . (p=0.000147)
+  2) a man riding a small boat in the water . (p=0.000125)
+Captions for image 11055809_1607622599456721_1565329610_n.jpg:
+  0) a sailboat in the water with a lighthouse in the background . (p=0.000210)
+  1) a sailboat in the water with a sail in the background . (p=0.000030)
+  2) a sailboat in the water with a sail boat in the background . (p=0.000028)
+Captions for image 10358325_944330625601170_1446064221_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.000840)
+  1) a boat floating on top of a lake next to a shore . (p=0.000088)
+  2) a boat floating on top of a lake next to a forest . (p=0.000070)
+Captions for image 11055800_1032318703464082_897441972_n.jpg:
+  0) a couple of people standing on top of a sandy beach . (p=0.000154)
+  1) a couple of people standing on top of a beach . (p=0.000143)
+  2) a couple of people standing on a beach next to a body of water . (p=0.000046)
+Captions for image 11049151_380217815499286_200618472_n.jpg:
+  0) a bird that is sitting on a ledge . (p=0.000421)
+  1) a bird that is sitting on a branch . (p=0.000279)
+  2) a bird that is sitting on top of a branch . (p=0.000059)
+Captions for image 11024306_1561740854106758_663179275_n.jpg:
+  0) a large body of water with a sky background (p=0.000583)
+  1) a large body of water with a boat in the distance . (p=0.000126)
+  2) a large body of water with a boat in the background . (p=0.000077)
+Captions for image 10890876_654362144686143_672470378_n.jpg:
+  0) a stop sign with a sign on it (p=0.000012)
+  1) a stop sign with a sign on top of it . (p=0.000009)
+  2) a stop sign with a sign on top of it (p=0.000009)
+Captions for image 10903189_397835760394163_1919137122_n.jpg:
+  0) a person flying a kite in the sky . (p=0.000319)
+  1) a person flying a kite in a blue sky . (p=0.000285)
+  2) a person is flying a kite in the sky . (p=0.000224)
+Captions for image 10895049_312074965659585_2016305421_n.jpg:
+  0) a woman and a young girl posing for a picture . (p=0.000068)
+  1) a woman and a young girl pose for a picture . (p=0.000040)
+  2) a woman and a young girl posing for a picture (p=0.000020)
+Captions for image 10890628_396922470456480_1093959070_n.jpg:
+  0) a group of women standing next to each other . (p=0.001446)
+  1) a group of people standing next to each other . (p=0.001082)
+  2) a group of people standing around each other . (p=0.000363)
+Captions for image 10881903_1526613760950507_1041427618_n.jpg:
+  0) a group of people standing next to each other . (p=0.004518)
+  1) a group of people posing for a picture . (p=0.002003)
+  2) a group of people posing for a picture (p=0.001298)
+Captions for image 10859994_1590516404514954_989613340_n.jpg:
+  0) a group of people standing next to each other . (p=0.005851)
+  1) a group of people posing for a picture . (p=0.002327)
+  2) a group of people posing for a picture (p=0.001636)
+Captions for image 11055974_859191624127391_1085658846_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.000840)
+  1) a boat floating on top of a lake next to a shore . (p=0.000088)
+  2) a boat floating on top of a lake next to a forest . (p=0.000070)
+Captions for image 10881887_713570168741810_347035368_n.jpg:
+  0) a group of people standing next to each other . (p=0.001589)
+  1) a group of people walking down a street . (p=0.001363)
+  2) a group of people standing next to a fire hydrant . (p=0.000708)
+Captions for image 10890549_317166511806128_729278731_n.jpg:
+  0) a close up of a stuffed animal on a table (p=0.000068)
+  1) a close up of a stuffed animal near a tree (p=0.000022)
+  2) a close up of a stuffed animal on a wooden surface (p=0.000020)
+Captions for image 11356999_1622945907974375_2047581797_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000180)
+  1) a man in a suit and tie is smiling (p=0.000069)
+  2) a man in a suit and tie holding a cell phone . (p=0.000065)
+Captions for image 10903184_1529635030654012_509895372_n.jpg:
+  0) a dog laying on top of a bed . (p=0.000682)
+  1) a dog laying on top of a bed next to pillows . (p=0.000149)
+  2) a dog laying on top of a bed next to a pillow . (p=0.000126)
+Captions for image 10894978_1374485876187476_725533787_n.jpg:
+  0) a group of people standing next to each other . (p=0.006743)
+  1) a group of people standing around each other . (p=0.003608)
+  2) a group of people posing for a picture . (p=0.002449)
+Captions for image 10895428_812109485519958_1151289818_n.jpg:
+  0) a group of teddy bears sitting on top of a table . (p=0.000307)
+  1) a group of stuffed animals sitting on top of a table . (p=0.000290)
+  2) a group of teddy bears sitting on a table . (p=0.000163)
+Captions for image 10852926_756493037765620_711286506_n.jpg:
+  0) a tall clock tower with a sky background (p=0.001685)
+  1) a clock tower in the middle of a city . (p=0.000813)
+  2) a clock tower in the middle of a city (p=0.000311)
+Captions for image 10899180_711375105636595_1390804862_n.jpg:
+  0) a man in a suit and tie standing next to a sign . (p=0.000054)
+  1) a man in a suit and tie standing in front of a sign . (p=0.000039)
+  2) a man in a suit and tie holding a sign . (p=0.000034)
+Captions for image 10864698_536250153144522_199127955_n.jpg:
+  0) a man sitting on a couch holding a nintendo wii game controller . (p=0.001257)
+  1) a man sitting on a couch holding a nintendo wii controller . (p=0.000830)
+  2) a man sitting on a couch holding a wii remote . (p=0.000583)
+Captions for image 10848247_690467097740512_2010612280_n.jpg:
+  0) a man and a woman holding a dog . (p=0.000159)
+  1) a man and a woman are holding a dog . (p=0.000054)
+  2) a man and a woman sitting on a couch with a dog . (p=0.000032)

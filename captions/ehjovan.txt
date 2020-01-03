@@ -1,0 +1,724 @@
+Captions for image 11232665_451787434984207_374281278_n.jpg:
+  0) a bird is sitting on a wooden bench . (p=0.000115)
+  1) a bird is sitting on a wooden bench (p=0.000025)
+  2) a bird sitting on the ground next to a pair of shoes . (p=0.000007)
+Captions for image 64310864_580675865790731_7654051309712048128_n.jpg:
+  0) a man in a white shirt and a tie (p=0.000106)
+  1) a man in a white shirt and a tie . (p=0.000058)
+  2) a man with a beard wearing a tie and a hat . (p=0.000015)
+Captions for image 61231024_144122503369119_7888173882205199842_n.jpg:
+  0) a close up of a pair of scissors (p=0.001059)
+  1) a close up of a person holding a pair of scissors (p=0.000680)
+  2) a close up of a pair of scissors on a bed (p=0.000127)
+Captions for image 65309977_150009666123908_1589780493226855790_n.jpg:
+  0) a man in a white shirt brushing his teeth . (p=0.000354)
+  1) a man in a white shirt brushing his teeth (p=0.000248)
+  2) a man in a white shirt and tie brushing his teeth . (p=0.000038)
+Captions for image 66026600_705107513243636_698351712114148816_n.jpg:
+  0) a picture of a man in a suit and tie . (p=0.000126)
+  1) a picture of a man in a suit . (p=0.000071)
+  2) a picture of a man in a suit and tie (p=0.000053)
+Captions for image 62489468_696981260730446_4693518629949193424_n.jpg:
+  0) a woman holding a donut in her hands . (p=0.000438)
+  1) a woman holding a donut in her hand . (p=0.000414)
+  2) a woman holding a donut in her hand (p=0.000096)
+Captions for image 65395621_2324746607638850_4225363625373613262_n.jpg:
+  0) a woman in a dress holding a surfboard . (p=0.000112)
+  1) a woman holding a surfboard in her hands . (p=0.000093)
+  2) a woman in a white dress holding a surfboard . (p=0.000031)
+Captions for image 64708954_2030474730593128_9090931578654730698_n.jpg:
+  0) a collage of photos with a person holding a cell phone (p=0.000021)
+  1) a collage of photos with a person holding a sign (p=0.000018)
+  2) a collage of photos with a man holding a cell phone (p=0.000016)
+Captions for image 66495533_186776452334343_8419806700030951373_n.jpg:
+  0) a man in a car talking on a cell phone . (p=0.000854)
+  1) a man in a car talking on a cell phone (p=0.000259)
+  2) a man in a car talking on his cell phone . (p=0.000188)
+Captions for image 64718819_625860874563858_7011116761348658800_n.jpg:
+  0) a man wearing a hat and a tie . (p=0.000460)
+  1) a man wearing a hat and a hat . (p=0.000407)
+  2) a man wearing a hat and a tie (p=0.000125)
+Captions for image 64915056_391061854867720_7885499837436506894_n.jpg:
+  0) a man with a beard wearing a tie . (p=0.000086)
+  1) a man with a beard wearing a red tie . (p=0.000063)
+  2) a man with a beard wearing a tie (p=0.000040)
+Captions for image 62148123_2398509573547042_5368011862356583826_n.jpg:
+  0) a black and white photo of a man in a suit . (p=0.000030)
+  1) a black and white photo of a man in a suit (p=0.000022)
+  2) a black and white photo of a man holding a frisbee . (p=0.000018)
+Captions for image 65191524_246509766325296_9034085986244638498_n.jpg:
+  0) a sign that reads `` <UNK> '' on a pole . (p=0.000002)
+  1) a sign that reads `` <UNK> '' on a street corner . (p=0.000001)
+  2) a sign that says `` <UNK> '' on the side of the road . (p=0.000001)
+Captions for image 64818650_367442997306342_1576280469180232642_n.jpg:
+  0) a man and a woman sitting on a couch . (p=0.000280)
+  1) a man and a woman are sitting on a couch . (p=0.000130)
+  2) a man and a woman are sitting on a couch (p=0.000079)
+Captions for image 66285636_153717745784788_2106660406532256029_n.jpg:
+  0) a close up of a vandalized stop sign (p=0.000707)
+  1) a close up of a street sign with a sky background (p=0.000381)
+  2) a close up of a street sign with a sign on it (p=0.000022)
+Captions for image 64835334_170591450639524_759083177976640251_n.jpg:
+  0) a man in a suit and tie standing in front of a microphone . (p=0.000035)
+  1) a man in a suit and tie standing in a room . (p=0.000033)
+  2) a man in a suit and tie standing in front of a clock . (p=0.000015)
+Captions for image 65261045_688246778254791_5923501031215025664_n.jpg:
+  0) a television screen with a clock on it (p=0.000065)
+  1) a television screen with a clock on it . (p=0.000047)
+  2) a television with a picture of a man on it . (p=0.000018)
+Captions for image 65520789_173605770336335_6472760694896504819_n.jpg:
+  0) a man in a suit and tie holding a microphone . (p=0.000029)
+  1) a man in a suit and tie holding a cell phone . (p=0.000016)
+  2) a man in a suit and tie holding a microphone (p=0.000014)
+Captions for image 66088245_658657244602289_3779152930121539390_n.jpg:
+  0) a close up of a baseball player holding a bat (p=0.000746)
+  1) a close up of a person holding a baseball glove (p=0.000506)
+  2) a close up of a baseball player with a glove (p=0.000457)
+Captions for image 65314611_141675113600992_5403079486500048180_n.jpg:
+  0) a young boy wearing a hat and tie . (p=0.000622)
+  1) a young boy wearing a hat and a tie . (p=0.000396)
+  2) a young boy wearing a hat and a hat . (p=0.000379)
+Captions for image 64877467_1048718982000452_5807241701856647326_n.jpg:
+  0) a man in a suit and tie is smiling (p=0.000074)
+  1) a man in a suit and tie holding a glass of wine . (p=0.000038)
+  2) a man in a suit and tie standing in a field . (p=0.000030)
+Captions for image 65395353_2326055114326714_7690159380104012073_n.jpg:
+  0) a man sitting on a bench in a park . (p=0.002023)
+  1) a man sitting on a bench next to a tree . (p=0.000943)
+  2) a man sitting on a bench in a park (p=0.000546)
+Captions for image 65107678_154310809042780_8577905371799183578_n.jpg:
+  0) a red and white kite flying in a blue sky . (p=0.000091)
+  1) a red and white kite flying in the sky (p=0.000071)
+  2) a red and white kite flying in the sky . (p=0.000068)
+Captions for image 64735756_463963001003640_4270890078096460577_n.jpg:
+  0) a man holding a tennis racquet on a tennis court . (p=0.001800)
+  1) a man holding a tennis racquet on top of a tennis court . (p=0.001140)
+  2) a man holding a tennis racquet on a court . (p=0.000363)
+Captions for image 65027171_124606552101696_2806988882112646003_n.jpg:
+  0) a man standing on a beach holding a surfboard . (p=0.002966)
+  1) a man standing on a beach holding a white frisbee . (p=0.001392)
+  2) a man holding a surfboard on a beach . (p=0.001277)
+Captions for image 64789840_128610785017859_6257002803684143127_n.jpg:
+  0) a young boy and a woman posing for a picture . (p=0.000038)
+  1) a young boy and a woman posing for a picture (p=0.000007)
+  2) a young boy and a woman posing for a photo . (p=0.000006)
+Captions for image 65548210_494680571337881_3902635899009397346_n.jpg:
+  0) a close up of a stuffed animal on a tree (p=0.000071)
+  1) a close up of a statue of a giraffe (p=0.000045)
+  2) a close up of a stuffed animal on a tree branch (p=0.000013)
+Captions for image 66307719_453885125444252_4147290857737192957_n.jpg:
+  0) a black and white photo of a clock on a wall . (p=0.000065)
+  1) a black and white photo of a clock on a wall (p=0.000049)
+  2) a black and white photo of a clock on a building . (p=0.000011)
+Captions for image 65587952_146592246453357_845501306391938817_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000155)
+  1) a pair of scissors sitting on top of a table (p=0.000037)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000024)
+Captions for image 66311927_460716421152368_7920059845223871044_n.jpg:
+  0) a stop sign with graffiti written on it . (p=0.001356)
+  1) a stop sign with graffiti written on it (p=0.000886)
+  2) a stop sign with graffiti on it . (p=0.000412)
+Captions for image 61656287_659240274542110_1940294912784039309_n.jpg:
+  0) a close up of a person holding a tennis racket (p=0.000774)
+  1) a close up of a person holding a frisbee (p=0.000240)
+  2) a close up of a tennis player with a racket (p=0.000144)
+Captions for image 64410960_1106047432902374_4321124805733324883_n.jpg:
+  0) a woman in a white shirt and a red tie (p=0.000011)
+  1) a woman in a white shirt and a tie (p=0.000006)
+  2) a woman in a white shirt and a black tie (p=0.000005)
+Captions for image 65724298_858313824555698_670254891110831864_n.jpg:
+  0) a man in a suit and tie holding a microphone . (p=0.000060)
+  1) a man in a suit and tie holding a microphone (p=0.000033)
+  2) a man in a suit and tie is holding a microphone . (p=0.000023)
+Captions for image 65522945_149205232829323_8668108338089060412_n.jpg:
+  0) a group of people standing next to each other . (p=0.001114)
+  1) a group of people standing around each other . (p=0.000635)
+  2) a group of people standing next to each other in a room . (p=0.000074)
+Captions for image 65175815_2395199760759922_6115585585830306729_n.jpg:
+  0) a man in a suit is holding a tennis racket . (p=0.000140)
+  1) a man in a suit is holding a tennis racket (p=0.000139)
+  2) a man in a suit and tie holding a tennis racquet . (p=0.000116)
+Captions for image 65262728_667535840376012_1522008033704854439_n.jpg:
+  0) a woman wearing a red and white striped tie . (p=0.000019)
+  1) a woman wearing a red and white striped shirt and tie . (p=0.000004)
+  2) a woman wearing a red and white striped tie (p=0.000003)
+Captions for image 65078979_397879900852568_5820294675718312747_n.jpg:
+  0) a black and white photo of a plane flying in the sky . (p=0.000057)
+  1) a black and white photo of a plane flying in the sky (p=0.000055)
+  2) a black and white photo of a plane flying in the air (p=0.000009)
+Captions for image 64303036_1430748650397881_1466474437820673475_n.jpg:
+  0) a man taking a selfie in a bathroom mirror . (p=0.003915)
+  1) a man taking a picture of himself in a mirror . (p=0.001883)
+  2) a man taking a picture of himself in a bathroom mirror . (p=0.001183)
+Captions for image 65299695_145008129910840_8200871969273166565_n.jpg:
+  0) a woman in a white shirt and black tie (p=0.000006)
+  1) a woman in a white shirt and a black tie (p=0.000004)
+  2) a woman in a white shirt and a tie (p=0.000004)
+Captions for image 65259605_175192226840162_8321253463206390963_n.jpg:
+  0) a man in a suit and tie holding a tennis racket . (p=0.000061)
+  1) a man in a suit and tie holding a tennis racquet . (p=0.000043)
+  2) a man in a suit and tie holding a tennis racket (p=0.000035)
+Captions for image 66443748_454904275288998_2365089044097559416_n.jpg:
+  0) a group of people standing next to each other . (p=0.000284)
+  1) a group of people standing in front of a clock . (p=0.000086)
+  2) a group of people standing on top of a street . (p=0.000053)
+Captions for image 64333532_146510453126640_7271285276363231226_n.jpg:
+  0) a man sitting on a couch holding a wii remote . (p=0.000744)
+  1) a man sitting on a couch holding a wii controller . (p=0.000571)
+  2) a man sitting on a couch holding a nintendo wii game controller . (p=0.000532)
+Captions for image 64884704_113938159885911_4846160161787150685_n.jpg:
+  0) a group of people standing next to each other . (p=0.003859)
+  1) a group of people standing in a room . (p=0.001569)
+  2) a group of people standing next to each other in a room . (p=0.000749)
+Captions for image 64935281_1661222084009671_4573088085278547691_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.003465)
+  1) a person holding a pair of scissors in their hands . (p=0.001507)
+  2) a man holding a pair of scissors in his hands . (p=0.000703)
+Captions for image 65493238_2488592731191779_6244495864713066777_n.jpg:
+  0) a man sitting on a couch holding a cell phone . (p=0.000451)
+  1) a man sitting on a couch holding a remote . (p=0.000263)
+  2) a man sitting on a couch holding a cell phone (p=0.000159)
+Captions for image 62751082_778245962571895_4225207400594823031_n.jpg:
+  0) a couple of women standing next to each other . (p=0.002386)
+  1) a group of people standing next to each other . (p=0.001883)
+  2) a group of people standing next to each other holding wii controllers . (p=0.000322)
+Captions for image 62590768_1877195605713608_7545254747891729385_n.jpg:
+  0) a stop sign with a sticker on it (p=0.000083)
+  1) a stop sign with a sticker on it . (p=0.000077)
+  2) a stop sign that has a sticker on it . (p=0.000076)
+Captions for image 64791513_101069524506748_1526035701283327197_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.001194)
+  1) a close up of a person holding a nintendo wii remote (p=0.000172)
+  2) a close up of a person holding a wii remote (p=0.000127)
+Captions for image 62262151_125883381963585_2555807472619859793_n.jpg:
+  0) a man brushing his teeth in front of a mirror . (p=0.001854)
+  1) a man brushing his teeth in a bathroom . (p=0.000963)
+  2) a man brushing his teeth with a tooth brush . (p=0.000626)
+Captions for image 62265790_171544090542737_5452392187037266258_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000376)
+  1) a man and a woman are standing next to each other . (p=0.000054)
+  2) a man and a woman are standing together . (p=0.000051)
+Captions for image 65775865_118614169150600_5487052666224251510_n.jpg:
+  0) a man holding a cell phone in his hand . (p=0.000037)
+  1) a man holding a cell phone up to his ear . (p=0.000029)
+  2) a man holding a cell phone in his hand (p=0.000015)
+Captions for image 64724382_1266360860197758_7140967052079436780_n.jpg:
+  0) a group of people sitting around a table . (p=0.003352)
+  1) a group of people sitting around a table with food . (p=0.000514)
+  2) a group of people sitting at a table with wine glasses . (p=0.000281)
+Captions for image 64930380_1206389726209615_4032355267956285_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000437)
+  1) a black and white photo of a bird flying in the sky . (p=0.000043)
+  2) a black and white photo of a bird flying in the sky (p=0.000035)
+Captions for image 61901369_113854656544971_5668442239045146414_n.jpg:
+  0) a man wearing a hat and glasses holding a banana . (p=0.000005)
+  1) a man in a hat and sunglasses is holding a banana . (p=0.000005)
+  2) a man wearing a hat and glasses holding a baseball bat . (p=0.000004)
+Captions for image 62247735_511972519341270_7237419052748334658_n.jpg:
+  0) a collage of photos with a person holding a cell phone (p=0.000024)
+  1) a collage of photos with a person holding a camera (p=0.000013)
+  2) a collage of photos with a man holding a cell phone (p=0.000013)
+Captions for image 63562755_644252806048966_4298952640775206866_n.jpg:
+  0) a man with a beard wearing a tie . (p=0.000080)
+  1) a man wearing a tie and a hat . (p=0.000041)
+  2) a man with a beard wearing a tie (p=0.000030)
+Captions for image 63799067_352474265460784_690860864114490315_n.jpg:
+  0) a person is sitting on the ground with a skateboard . (p=0.000040)
+  1) a person is sitting on a skateboard on the floor . (p=0.000016)
+  2) a person is sitting on a skateboard on the ground . (p=0.000016)
+Captions for image 64759121_611924345978562_1168723193445468834_n.jpg:
+  0) a woman in a white dress holding an umbrella . (p=0.000055)
+  1) a woman in a white dress holding a pink umbrella . (p=0.000024)
+  2) a woman in a red dress holding a white umbrella . (p=0.000019)
+Captions for image 60943663_346101719424677_3998676085024789474_n.jpg:
+  0) a close up of a person holding a stuffed animal (p=0.000499)
+  1) a close up of a person holding a baseball bat (p=0.000340)
+  2) a close up of a person holding a pair of scissors (p=0.000248)
+Captions for image 61553171_152742505856160_5879900866189435083_n.jpg:
+  0) a man sitting in a chair holding a baseball bat . (p=0.000100)
+  1) a man sitting in a chair holding a skateboard . (p=0.000073)
+  2) a man sitting in a chair with a baseball bat . (p=0.000042)
+Captions for image 65580253_154428909019960_5250699179156544384_n.jpg:
+  0) a woman is talking on her cell phone . (p=0.000356)
+  1) a woman is talking on her cell phone (p=0.000164)
+  2) a woman with a cell phone in her hand . (p=0.000082)
+Captions for image 64455061_351965982182694_3071879805675741024_n.jpg:
+  0) a group of young children playing a video game . (p=0.000485)
+  1) a group of young children playing a game with nintendo wii controllers . (p=0.000462)
+  2) a group of young children playing a game with remote controllers . (p=0.000178)
+Captions for image 65321874_681571925600087_1531121625155957591_n.jpg:
+  0) a collage of photos with a man holding a cell phone (p=0.000015)
+  1) a collage of photos of a man holding a cell phone (p=0.000009)
+  2) a collage of pictures of a man holding a cell phone . (p=0.000008)
+Captions for image 62216330_234497777505998_9008469742292169264_n.jpg:
+  0) a woman in a white dress holding a toothbrush . (p=0.000023)
+  1) a woman in a white shirt and a blue tie (p=0.000015)
+  2) a woman in a white shirt and a blue tie . (p=0.000006)
+Captions for image 64482902_2351661525160090_7878345884112006420_n.jpg:
+  0) a man holding a cell phone up to his ear . (p=0.001631)
+  1) a man holding a smart phone in his right hand . (p=0.001251)
+  2) a man holding up a smart phone in his right hand . (p=0.000722)
+Captions for image 61634386_140038070394745_7190879589298531561_n.jpg:
+  0) a group of people sitting around a table . (p=0.007820)
+  1) a group of people sitting at a table with wine glasses . (p=0.000893)
+  2) a group of people sitting around a table with wine glasses . (p=0.000874)
+Captions for image 64301435_449633292484112_3028738417998709555_n.jpg:
+  0) a group of young men standing around each other . (p=0.000248)
+  1) a group of people standing around a table . (p=0.000242)
+  2) a group of young men standing around each other holding wii controllers . (p=0.000034)
+Captions for image 64624129_129224278288601_5910015829938010103_n.jpg:
+  0) a group of people standing next to each other . (p=0.000369)
+  1) a couple of people that are standing in front of a sign (p=0.000019)
+  2) a couple of people that are standing in front of a wall (p=0.000010)
+Captions for image 62503413_478177819595939_4267405208434306612_n.jpg:
+  0) a group of people standing next to each other . (p=0.001199)
+  1) a group of people standing around a store . (p=0.000300)
+  2) a group of people standing next to each other on a street . (p=0.000099)
+Captions for image 61056716_1446041152199463_3780750180486551592_n.jpg:
+  0) a woman holding a cell phone up to her ear . (p=0.001055)
+  1) a woman holding a cell phone in her hand . (p=0.000582)
+  2) a woman holding a cell phone to her ear . (p=0.000507)
+Captions for image 62592183_302284613860934_8896401869886938850_n.jpg:
+  0) a woman holding a flower in her hand . (p=0.000181)
+  1) a woman holding a flower in her hand (p=0.000047)
+  2) a woman in a pink dress holding a flower . (p=0.000028)
+Captions for image 64640827_143788806682499_5962755520585258616_n.jpg:
+  0) a couple of signs that are on a wall . (p=0.000324)
+  1) a couple of people standing next to each other . (p=0.000255)
+  2) a couple of signs that are on a table . (p=0.000171)
+Captions for image 61990425_2255670664510564_3490586747859906974_n.jpg:
+  0) a close up of a person holding a frisbee (p=0.000977)
+  1) a close up of a person with a frisbee (p=0.000745)
+  2) a close up of a tennis player holding a racket (p=0.000169)
+Captions for image 65314268_608724359617593_3147500115407323007_n.jpg:
+  0) a woman in a white shirt and a red tie (p=0.000005)
+  1) a woman in a white shirt and a tie (p=0.000004)
+  2) a woman in a white shirt and a red tie . (p=0.000003)
+Captions for image 61480798_2530628910294640_8935642428727307664_n.jpg:
+  0) a woman holding a cell phone up to her ear . (p=0.000468)
+  1) a woman holding a cell phone to her ear . (p=0.000372)
+  2) a woman holding a cell phone in her hand . (p=0.000266)
+Captions for image 62383991_423372451549813_3493054663285983509_n.jpg:
+  0) a man holding a cell phone up to his ear . (p=0.000752)
+  1) a man holding a cell phone in his hands . (p=0.000625)
+  2) a man holding a cell phone in his hand . (p=0.000482)
+Captions for image 65251143_2274097839333947_164935188997955669_n.jpg:
+  0) a woman sitting in a chair holding a cup . (p=0.000052)
+  1) a woman sitting in a chair holding a cup of coffee . (p=0.000048)
+  2) a woman sitting in a chair with a cup of coffee . (p=0.000040)
+Captions for image 59666769_849390442079289_5592137349012617606_n.jpg:
+  0) a black and white photo of a frisbee . (p=0.000485)
+  1) a black and white photo of a person holding a frisbee . (p=0.000447)
+  2) a black and white photo of a frisbee (p=0.000347)
+Captions for image 62391564_435444377006802_6949997847647806061_n.jpg:
+  0) a woman holding a pair of scissors in her hands . (p=0.000332)
+  1) a woman holding a toothbrush in her hand . (p=0.000305)
+  2) a woman holding a toothbrush in her mouth . (p=0.000251)
+Captions for image 61704167_364514854471183_8026633356433148628_n.jpg:
+  0) a plane flying in the sky with a sky background (p=0.000047)
+  1) a plane is flying in the sky with a sky background (p=0.000009)
+  2) a plane is flying in the sky with a red tail . (p=0.000000)
+Captions for image 62359803_2372278136352726_956529497329606598_n.jpg:
+  0) a man and a woman sitting on a couch . (p=0.000202)
+  1) a man and a woman are sitting on a couch . (p=0.000134)
+  2) a man and a woman are sitting on a couch (p=0.000123)
+Captions for image 61764547_2306810889575881_1587319949641248893_n.jpg:
+  0) a man sitting on a couch with a laptop . (p=0.000426)
+  1) a man sitting in a chair with a laptop . (p=0.000209)
+  2) a man sitting on a couch holding a wii remote . (p=0.000143)
+Captions for image 64364006_309940939926754_7167422820131197532_n.jpg:
+  0) a man and a woman are looking at a cell phone . (p=0.000101)
+  1) a man and a woman are looking at their cell phones . (p=0.000093)
+  2) a man and a woman are looking at their phones . (p=0.000078)
+Captions for image 62021713_145930386477207_1006730680106308706_n.jpg:
+  0) a couple of men standing next to each other . (p=0.007676)
+  1) a man and a woman standing next to each other . (p=0.001609)
+  2) a couple of men standing next to each other holding a frisbee . (p=0.000098)
+Captions for image 61716749_605209263296581_994935160585083437_n.jpg:
+  0) a man in a car talking on a cell phone . (p=0.003759)
+  1) a man sitting in a car talking on a cell phone . (p=0.001675)
+  2) a man in a car talking on his cell phone . (p=0.001097)
+Captions for image 60960945_309785303278780_5280372713361387410_n.jpg:
+  0) a man in a suit and tie standing in front of a building . (p=0.000039)
+  1) a man in a white shirt and tie standing in front of a building . (p=0.000012)
+  2) a man in a suit and tie standing in front of a wall . (p=0.000009)
+Captions for image 62656347_1865693940198596_4272205728515188473_n.jpg:
+  0) a man standing in front of a refrigerator . (p=0.000091)
+  1) a man is standing in a room with a dog . (p=0.000015)
+  2) a man is standing in a room with a suitcase . (p=0.000006)
+Captions for image 61969631_414061476106137_1415149168413421906_n.jpg:
+  0) a man in a red shirt holding a white frisbee . (p=0.000001)
+  1) a man in a red shirt holding up a sign . (p=0.000001)
+  2) a man in a red shirt holding a white frisbee (p=0.000000)
+Captions for image 62568503_809488892785701_3660317429359491700_n.jpg:
+  0) a woman in a red shirt and a pink tie (p=0.000002)
+  1) a woman in a red shirt and a red tie (p=0.000002)
+  2) a woman in a red shirt and a pink tie . (p=0.000001)
+Captions for image 61976113_145647109935098_3247229995987829360_n.jpg:
+  0) a man taking a picture of himself in a mirror . (p=0.001533)
+  1) a man taking a picture of himself in the mirror . (p=0.000944)
+  2) a man taking a picture of himself in a mirror (p=0.000521)
+Captions for image 61131472_610627989435164_144388858159585555_n.jpg:
+  0) a man holding a nintendo wii game controller . (p=0.009682)
+  1) a man holding a wii controller in his hands . (p=0.000279)
+  2) a man holding a nintendo wii game controller in a room . (p=0.000195)
+Captions for image 61683027_837882589924630_3169453960141893698_n.jpg:
+  0) a couple of people sitting on a bench . (p=0.001511)
+  1) two people sitting on a bench near a body of water (p=0.000783)
+  2) two people sitting on a bench in the woods . (p=0.000591)
+Captions for image 61405403_309594923317630_7442090314531420828_n.jpg:
+  0) a man holding a baseball bat in his hands . (p=0.000059)
+  1) a man holding a baseball bat in his hand . (p=0.000037)
+  2) a man holding a baseball bat in his hands (p=0.000025)
+Captions for image 59888980_187260735596438_6335336774986700441_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000270)
+  1) a man in a suit and tie is smiling (p=0.000122)
+  2) a man in a suit and tie holding a beer . (p=0.000062)
+Captions for image 61366944_1029710967224168_4404089363980996837_n.jpg:
+  0) a man holding a wine glass in his hand . (p=0.000302)
+  1) a man holding a wine glass in his hand (p=0.000104)
+  2) a man is holding a wine glass in his hand . (p=0.000101)
+Captions for image 61103080_699998763750929_590006677907461_n.jpg:
+  0) a kite flying in the air with a sky background (p=0.000055)
+  1) a kite flying in the air with a blue sky in the background (p=0.000007)
+  2) a kite flying in the air with a blue sky background (p=0.000007)
+Captions for image 60653895_193379674962015_6880038329415928949_n.jpg:
+  0) a collage of photos of a man holding a cell phone (p=0.000003)
+  1) a collage of photos of a man holding a cell phone . (p=0.000002)
+  2) a collage of photos of a man holding a wii controller . (p=0.000002)
+Captions for image 60919789_165184591168678_7663788997173727335_n.jpg:
+  0) a dog is sitting on a wooden bench . (p=0.000136)
+  1) a dog is sitting on a wooden bench (p=0.000033)
+  2) a dog is sitting on a bench in a room . (p=0.000012)
+Captions for image 61185819_359377181378626_3892879987918289816_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.008594)
+  1) a person holding a smart phone in their hand . (p=0.003737)
+  2) a person holding a cell phone in their hands . (p=0.002396)
+Captions for image 60984497_459899944819938_2350458687746824389_n.jpg:
+  0) a couple of men standing next to each other . (p=0.001172)
+  1) a couple of men standing next to each other on a field . (p=0.000273)
+  2) a couple of men standing next to each other holding a frisbee . (p=0.000092)
+Captions for image 60982947_337123386973307_3380135592456358726_n.jpg:
+  0) a close up of a person holding a frisbee (p=0.000049)
+  1) a close up of a person holding a wii remote (p=0.000022)
+  2) a close up of a person holding a white frisbee (p=0.000018)
+Captions for image 60831563_1293005580849420_4963418524498902581_n.jpg:
+  0) a group of people standing next to each other . (p=0.002131)
+  1) a group of men standing next to each other . (p=0.001024)
+  2) a group of people standing next to each other holding surfboards . (p=0.000240)
+Captions for image 61132438_163789974652564_7045579707824354873_n.jpg:
+  0) a close up of a pair of scissors (p=0.001675)
+  1) a close up of a person holding a pair of scissors (p=0.000291)
+  2) a close up of a pair of scissors on a bed (p=0.000143)
+Captions for image 11049363_362412800631985_1075074724_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000079)
+  1) a man wearing a tie and a white shirt . (p=0.000069)
+  2) a man wearing a tie and a hat (p=0.000027)
+Captions for image 60652310_322604875085217_1455438683447173747_n.jpg:
+  0) a man holding a white frisbee in his right hand . (p=0.001184)
+  1) a man holding a white frisbee in his hands . (p=0.000725)
+  2) a man holding a tennis racquet on top of a tennis court . (p=0.000263)
+Captions for image 61803683_412187196297337_803173434911460698_n.jpg:
+  0) a man holding a cell phone up to his ear . (p=0.000125)
+  1) a man holding a cell phone in his hand . (p=0.000102)
+  2) a man holding a cell phone up to his ear (p=0.000057)
+Captions for image 60166421_682475578872085_184099294474633657_n.jpg:
+  0) a close up of a pair of scissors (p=0.000671)
+  1) a close up of a person holding a pair of scissors (p=0.000562)
+  2) a close up of a pair of scissors on a table (p=0.000042)
+Captions for image 60013771_695154390901935_8713046915131112744_n.jpg:
+  0) a close up of a stuffed animal on a bed (p=0.000660)
+  1) a close up of a stuffed animal on a table (p=0.000153)
+  2) a close up of a person holding a pair of scissors (p=0.000135)
+Captions for image 61076508_2365614010349033_3041799033399982272_n.jpg:
+  0) a collage of photos of a man holding a sign (p=0.000002)
+  1) a close up of a sign that says `` <UNK> '' (p=0.000001)
+  2) a close up of a sign with a picture of a person on it (p=0.000001)
+Captions for image 61298472_365415050768828_5444893900280427323_n.jpg:
+  0) a close up of a person holding a nintendo wii (p=0.000024)
+  1) a close up of a person holding a wii remote (p=0.000019)
+  2) a close up of a person holding a white frisbee (p=0.000014)
+Captions for image 61429128_828134970876266_4850295210721833622_n.jpg:
+  0) a man in a suit and tie standing in a room . (p=0.000080)
+  1) a man in a suit and tie standing in front of a mirror . (p=0.000037)
+  2) a man in a suit and tie standing next to a woman . (p=0.000028)
+Captions for image 60707228_143863396770799_7981762923907724033_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000561)
+  1) a close up of a person wearing a suit and tie (p=0.000284)
+  2) a close up of a person wearing a hat (p=0.000213)
+Captions for image 60640184_1593920354085669_5122240905955048162_n.jpg:
+  0) a man in a white shirt and a tie (p=0.000009)
+  1) a man in a white shirt and a white tie (p=0.000007)
+  2) a man in a white shirt and a white tie . (p=0.000003)
+Captions for image 60879335_425355888246573_5255598823639593533_n.jpg:
+  0) a man in a suit and tie holding a microphone . (p=0.000009)
+  1) a man in a suit and tie holding a microphone (p=0.000005)
+  2) a man in a suit and tie is holding a microphone . (p=0.000004)
+Captions for image 60582574_108411307071938_1059913770253969566_n.jpg:
+  0) a close up of a pair of scissors (p=0.001537)
+  1) a close up of a person wearing a tie (p=0.000776)
+  2) a close up of a pair of scissors on a bed (p=0.000094)
+Captions for image 57072738_309261219769265_4326467644501023300_n.jpg:
+  0) a man standing in front of an open refrigerator . (p=0.000651)
+  1) a man standing in front of a refrigerator . (p=0.000407)
+  2) a man standing in front of an open refrigerator (p=0.000059)
+Captions for image 61696498_631336994050532_1768389785239042375_n.jpg:
+  0) a group of people standing next to each other . (p=0.000390)
+  1) a couple of signs that are on a wall (p=0.000029)
+  2) a couple of signs that are on a pole (p=0.000026)
+Captions for image 64307503_190308238569261_3119741261113558529_n.jpg:
+  0) a man is eating a doughnut in his mouth . (p=0.000113)
+  1) a man is eating a doughnut in his hand . (p=0.000065)
+  2) a man is eating a doughnut in a room . (p=0.000051)
+Captions for image 60457897_137157014031701_6203800132004882475_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000121)
+  1) a man wearing a tie and a shirt . (p=0.000074)
+  2) a man wearing a tie and a hat (p=0.000029)
+Captions for image 60522625_887013644984223_7795034988584728150_n.jpg:
+  0) a picture of a man in a suit and tie . (p=0.000074)
+  1) a picture of a man in a suit . (p=0.000042)
+  2) a picture of a man in a suit and tie (p=0.000032)
+Captions for image 58772401_657887487993242_6606086108221207990_n.jpg:
+  0) a young boy wearing a tie and a hat . (p=0.000015)
+  1) a little boy wearing a tie and a hat . (p=0.000015)
+  2) a little boy wearing a tie and a hat (p=0.000006)
+Captions for image 60633975_371735413448028_7464488803396561473_n.jpg:
+  0) a stop sign with graffiti written on it (p=0.000191)
+  1) a stop sign with graffiti written on it . (p=0.000179)
+  2) a pair of skis and a pair of skis . (p=0.000027)
+Captions for image 58933516_658971567861430_4137298074402552362_n.jpg:
+  0) a woman standing in front of a building holding a cell phone . (p=0.000014)
+  1) a woman standing in front of a building holding a skateboard . (p=0.000009)
+  2) a woman standing in front of a wall with a cell phone . (p=0.000006)
+Captions for image 57064745_125064585341224_9022626045673219489_n.jpg:
+  0) a man in a suit talking on a cell phone . (p=0.000688)
+  1) a man in a suit talking on a cell phone (p=0.000295)
+  2) a man in a suit talking on a phone . (p=0.000122)
+Captions for image 57378687_380168622588946_6474587060460159864_n.jpg:
+  0) a man in a suit and tie holding a glass of wine . (p=0.000063)
+  1) a man in a suit is holding a glass of wine . (p=0.000054)
+  2) a man in a suit and tie holding a glass of wine (p=0.000017)
+Captions for image 57190458_378921766042898_5907039086825252044_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.004992)
+  1) a person holding a cell phone in their hand . (p=0.001420)
+  2) a person holding a smart phone in their hand . (p=0.000831)
+Captions for image 59794454_2266861270248074_6942547484513145953_n.jpg:
+  0) a couple of women standing next to each other . (p=0.002040)
+  1) a couple of women standing next to each other in a room . (p=0.000207)
+  2) a couple of women standing next to each other in front of a mirror . (p=0.000067)
+Captions for image 56415663_802147180148589_7694856498774033441_n.jpg:
+  0) a man standing next to a street sign . (p=0.000479)
+  1) a man standing in front of a stop sign . (p=0.000401)
+  2) a man standing in front of a street sign . (p=0.000292)
+Captions for image 56189762_192533438376534_536903469156277995_n.jpg:
+  0) a group of people standing next to each other . (p=0.001625)
+  1) a group of people standing around each other . (p=0.001354)
+  2) a group of people standing next to each other in a room . (p=0.000115)
+Captions for image 58411000_397114307552803_348231122413494191_n.jpg:
+  0) a man and a woman posing for a picture . (p=0.000939)
+  1) a man and woman pose for a picture . (p=0.000903)
+  2) a man and woman pose for a picture (p=0.000365)
+Captions for image 56515148_163952597945573_7223995438409319757_n.jpg:
+  0) a man in a hat and sunglasses is talking on a cell phone . (p=0.000020)
+  1) a man in a hat and sunglasses is eating a hot dog . (p=0.000012)
+  2) a man in a hat and sunglasses is holding a banana . (p=0.000011)
+Captions for image 54511013_131256114605008_2212097350611395456_n.jpg:
+  0) a man with a beard wearing a tie . (p=0.000190)
+  1) a man with a beard wearing a blue shirt and tie . (p=0.000033)
+  2) a man with a beard wearing a tie and glasses . (p=0.000021)
+Captions for image 54731940_128483021590422_6987744678323066002_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000186)
+  1) a man with a tie and a shirt . (p=0.000124)
+  2) a man wearing a tie and a shirt . (p=0.000116)
+Captions for image 58410926_177232976560948_7410007627402724821_n.jpg:
+  0) a woman and a child are sitting on a couch . (p=0.000071)
+  1) a woman and a child are sitting on a couch (p=0.000034)
+  2) a woman and a child are sitting on the couch . (p=0.000018)
+Captions for image 59710441_1276402909182991_720660053633698858_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.001692)
+  1) a group of young people standing next to each other . (p=0.000708)
+  2) a man and a woman are standing together (p=0.000084)
+Captions for image 57506137_1986753701452904_7488207992145993782_n.jpg:
+  0) a dog that is laying down on a couch . (p=0.000792)
+  1) a dog that is sitting on a couch . (p=0.000604)
+  2) a dog that is laying down on a bed . (p=0.000492)
+Captions for image 54513997_790116048029576_3770057177762902652_n.jpg:
+  0) a man holding a baseball bat in his hands . (p=0.000459)
+  1) a young boy holding a baseball bat in his hands . (p=0.000454)
+  2) a man is holding a baseball bat in his hands . (p=0.000136)
+Captions for image 58761690_456276088532193_6895725506337111432_n.jpg:
+  0) a woman sitting at a table with a plate of food . (p=0.008224)
+  1) a woman sitting at a table with a glass of wine . (p=0.004215)
+  2) a woman sitting at a table with a plate of food (p=0.001317)
+Captions for image 56337568_305892240105777_2167676708751392118_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.000373)
+  1) a person holding a cell phone in their hands . (p=0.000233)
+  2) a person holding a cell phone in their hand (p=0.000110)
+Captions for image 54511854_2058836677566082_3234161640562545974_n.jpg:
+  0) a woman holding a tennis racquet on a tennis court . (p=0.001005)
+  1) a woman holding a tennis racquet on top of a tennis court . (p=0.000443)
+  2) a woman holding a tennis racquet on top of a green field . (p=0.000324)
+Captions for image 56870230_2331762090427105_4774740484659491999_n.jpg:
+  0) a man wearing a hat and a hat . (p=0.000101)
+  1) a man in a suit and tie holding a camera . (p=0.000015)
+  2) a man in a suit and tie holding a cell phone . (p=0.000013)
+Captions for image 54512226_103706497439290_3954073351204055757_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.001017)
+  1) a person holding a cell phone in their hand (p=0.000356)
+  2) a man holding a cell phone in his hand . (p=0.000274)
+Captions for image 59551559_346024966054558_6101404506629129906_n.jpg:
+  0) a group of young children sitting on a couch . (p=0.000622)
+  1) a group of people sitting on a couch with a dog . (p=0.000035)
+  2) a group of people sitting on a couch with a cake . (p=0.000025)
+Captions for image 56284086_649810488796210_1264037842477940099_n.jpg:
+  0) a group of people sitting at a table in a room . (p=0.000029)
+  1) a group of people sitting at a table in a library . (p=0.000015)
+  2) a group of people sitting around a table with a laptop . (p=0.000008)
+Captions for image 57038518_2360271564024108_1160819943167447082_n.jpg:
+  0) a group of people standing next to each other . (p=0.002703)
+  1) a group of people standing in a field . (p=0.000435)
+  2) a group of people standing next to each other on a field . (p=0.000419)
+Captions for image 54510829_421391138620243_5071064824608927937_n.jpg:
+  0) a couple of women standing next to each other . (p=0.005926)
+  1) a couple of women standing next to each other holding wii controllers . (p=0.000536)
+  2) a couple of women standing next to each other in a room . (p=0.000429)
+Captions for image 54463858_155975932097065_2964223365614548138_n.jpg:
+  0) a man in a white shirt and tie holding a cell phone . (p=0.000008)
+  1) a man in a white shirt and tie holding a cellphone . (p=0.000007)
+  2) a man in a white shirt and tie holding a cellphone (p=0.000002)
+Captions for image 56915024_311329992868185_1565043898525859908_n.jpg:
+  0) a woman holding a cell phone to her ear . (p=0.000203)
+  1) a woman holding a cell phone in her hand . (p=0.000143)
+  2) a woman holding a cell phone to her ear (p=0.000120)
+Captions for image 54447329_130821368040826_2687433124341333707_n.jpg:
+  0) a man holding a nintendo wii game controller . (p=0.003604)
+  1) a man holding a nintendo wii game controller (p=0.000149)
+  2) a man holding a wii remote in his hand . (p=0.000128)
+Captions for image 54800714_2332840343648834_1471918507533878470_n.jpg:
+  0) a man sitting on a skateboard on a sidewalk . (p=0.000718)
+  1) a man sitting on a bench with a skateboard . (p=0.000310)
+  2) a man sitting on a bench with a cell phone . (p=0.000293)
+Captions for image 53708724_430416204431620_624037345781532067_n.jpg:
+  0) a group of people sitting on a couch . (p=0.001617)
+  1) a group of people sitting on a couch playing a game . (p=0.000116)
+  2) a group of people sitting on a couch playing a video game . (p=0.000095)
+Captions for image 56734969_372325720282507_384796862344999264_n.jpg:
+  0) a man in a suit talking on a cell phone . (p=0.000671)
+  1) a man in a suit talking on a cell phone (p=0.000287)
+  2) a man in a suit talking on a phone . (p=0.000097)
+Captions for image 55842828_133684481106152_2323280175952928306_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000258)
+  1) a close up of a person wearing a hat (p=0.000049)
+  2) a close up of a stuffed animal on a bed (p=0.000042)
+Captions for image 53425020_125211068613661_301998432579883393_n.jpg:
+  0) a man in a suit and tie holding a beer . (p=0.000013)
+  1) a man in a suit and tie standing in front of a bus . (p=0.000007)
+  2) a man in a suit and tie holding a beer (p=0.000005)
+Captions for image 52170650_2577787395628585_389136851136231322_n.jpg:
+  0) a woman sitting on a chair in a room . (p=0.000314)
+  1) a woman sitting on a chair in a living room . (p=0.000095)
+  2) a woman sitting on a couch with a remote . (p=0.000088)
+Captions for image 52717205_394762954589675_4358509769760615747_n.jpg:
+  0) a woman in a red dress holding a teddy bear . (p=0.000020)
+  1) a woman in a red dress holding a teddy bear (p=0.000004)
+  2) a woman in a red dress holding a pink teddy bear . (p=0.000004)
+Captions for image 51914374_265977054336431_9022236686797349634_n.jpg:
+  0) a man and a woman sitting on a couch . (p=0.000668)
+  1) a man and a woman are sitting on a couch . (p=0.000367)
+  2) a man and a woman sitting on a couch together . (p=0.000279)
+Captions for image 51966141_153095302362012_4546730660387930066_n.jpg:
+  0) a man sitting on a couch holding a game controller . (p=0.000360)
+  1) a man sitting on a couch holding a wii controller . (p=0.000200)
+  2) a man sitting on a couch holding a nintendo wii game controller . (p=0.000149)
+Captions for image 52986081_606265833129598_8304046164655938439_n.jpg:
+  0) a man holding a glass of wine in his hand . (p=0.001643)
+  1) a man holding a wine glass in his hand . (p=0.001620)
+  2) a man holding a wine glass in his hand (p=0.000476)
+Captions for image 54731655_389639048284851_4164757296481817632_n.jpg:
+  0) a woman holding a tennis racket in her hand . (p=0.000859)
+  1) a woman holding a tennis racket in her hands . (p=0.000690)
+  2) a woman holding a tennis racket in her hand (p=0.000267)
+Captions for image 51519886_358327234755027_3749296102282451421_n.jpg:
+  0) a man sitting on a bench talking on a cell phone . (p=0.002105)
+  1) a man sitting on a bench talking on a phone . (p=0.000831)
+  2) a man sitting on a bench with a cell phone . (p=0.000582)
+Captions for image 51119593_608536386260004_1366266673950788378_n.jpg:
+  0) a man holding a cell phone up to his ear . (p=0.002195)
+  1) a man holding a cell phone in his hand . (p=0.000969)
+  2) a man holding a cell phone up to his ear (p=0.000680)
+Captions for image 52699078_770816816635299_5186589238038744097_n.jpg:
+  0) a man sitting on a bench holding a cell phone . (p=0.000589)
+  1) a man sitting at a table with a cell phone . (p=0.000575)
+  2) a man sitting on a bench with a cell phone . (p=0.000301)
+Captions for image 53651784_3143846218974811_698619525634656660_n.jpg:
+  0) a group of people sitting on a bench . (p=0.003665)
+  1) a group of people are sitting on a bench . (p=0.001260)
+  2) a group of people are sitting on a bench (p=0.000698)
+Captions for image 50585230_392666831496430_6919250688927019436_n.jpg:
+  0) a group of people standing in a room . (p=0.000183)
+  1) a group of people standing in a room with cameras . (p=0.000011)
+  2) a group of people standing in a room with a cell phone . (p=0.000004)
+Captions for image 45878877_543289476138152_1355794012084876200_n.jpg:
+  0) a man brushing his teeth with a tooth brush . (p=0.004734)
+  1) a young boy brushing his teeth with a tooth brush . (p=0.003985)
+  2) a young boy is brushing his teeth with a toothbrush . (p=0.001399)
+Captions for image 44267867_317870542142531_1910945228594017210_n.jpg:
+  0) a group of people sitting on a park bench . (p=0.003234)
+  1) a group of people sitting on top of a bench . (p=0.001743)
+  2) a group of people sitting on a park bench (p=0.000986)
+Captions for image 43913335_314298755822113_1639509835218755228_n.jpg:
+  0) a woman sitting on a couch holding a cell phone . (p=0.000100)
+  1) a woman sitting on a couch holding a smart phone . (p=0.000067)
+  2) a woman sitting on a couch with a cell phone . (p=0.000048)
+Captions for image 34395131_936042633245184_8780898879613698048_n.jpg:
+  0) a man in a suit and tie holding a cell phone . (p=0.000012)
+  1) a man in a suit and tie is holding a cell phone . (p=0.000004)
+  2) a man in a suit and tie holding a cell phone (p=0.000004)
+Captions for image 23668251_514285638949447_7453025352537866240_n.jpg:
+  0) a man sitting on a bench holding a skateboard . (p=0.000350)
+  1) a man sitting on a bench with a skateboard . (p=0.000215)
+  2) a man sitting on a bench holding a tennis racket . (p=0.000096)
+Captions for image 16788411_1325138144199161_5753309916504784896_n.jpg:
+  0) a man taking a picture of himself in a mirror . (p=0.002388)
+  1) a man taking a picture of himself in the mirror . (p=0.002067)
+  2) a man taking a picture of himself in the mirror (p=0.000987)
+Captions for image 24125020_163536624391434_1980447623919697920_n.jpg:
+  0) a woman in a white shirt and a black and white cat (p=0.000001)
+  1) a woman in a white shirt and a man in a white shirt (p=0.000001)
+  2) a woman in a white dress and a man in a white shirt (p=0.000000)
+Captions for image 57133923_2224392457875294_3254700404117445900_n.jpg:
+  0) a young boy wearing a hat and a tie . (p=0.000011)
+  1) a young girl wearing a hat and a tie . (p=0.000006)
+  2) a young girl wearing a hat and holding a cell phone . (p=0.000003)
+Captions for image 57331525_605209586662688_2039229529004241603_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000494)
+  1) a man and a woman standing in the grass . (p=0.000094)
+  2) a man and a woman standing in a field . (p=0.000059)
+Captions for image 57156381_492369174916974_141404069243711264_n.jpg:
+  0) a group of people standing next to each other . (p=0.003415)
+  1) a man and a woman standing next to each other . (p=0.001658)
+  2) a man and a woman are standing together . (p=0.000208)
+Captions for image 56952815_156257488740051_7026521713774811142_n.jpg:
+  0) a man in a suit and tie standing in a field . (p=0.000116)
+  1) a man in a suit and tie holding a beer . (p=0.000072)
+  2) a man in a suit and tie standing in the grass . (p=0.000067)
+Captions for image 57331520_435178587255725_3397227058990857325_n.jpg:
+  0) a woman wearing a hat and a tie . (p=0.000020)
+  1) a woman wearing a hat and holding a cell phone . (p=0.000009)
+  2) a woman wearing a hat and a tie (p=0.000008)
+Captions for image 56866519_399075317342106_1250940291729976141_n.jpg:
+  0) a group of people standing in a field . (p=0.000496)
+  1) a group of people in a field playing with a frisbee . (p=0.000265)
+  2) a group of people in a field playing with a frisbee (p=0.000143)
+Captions for image 58410773_274504443453489_3427045286298174528_n.jpg:
+  0) a group of people standing in a field with a kite . (p=0.000016)
+  1) a group of people standing in a field next to a tree . (p=0.000008)
+  2) a group of people standing in a field next to a forest . (p=0.000006)
+Captions for image 58599238_405526426893768_6292879574009604925_n.jpg:
+  0) a young girl wearing a tie and a hat . (p=0.000062)
+  1) a young boy wearing a tie and a hat . (p=0.000055)
+  2) a young girl wearing a tie and a hat (p=0.000023)
+Captions for image 57221543_2310359192571945_7534427282979198149_n.jpg:
+  0) a man in a suit and tie standing in a field . (p=0.000586)
+  1) a man in a suit and tie standing in the grass . (p=0.000264)
+  2) a man in a suit and tie standing in a field (p=0.000129)

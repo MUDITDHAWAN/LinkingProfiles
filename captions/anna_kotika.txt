@@ -1,0 +1,2448 @@
+Captions for image 54731886_648840612216845_54139904778676792_n.jpg:
+  0) a cat that is laying down on a bed . (p=0.001234)
+  1) a cat that is laying down on a couch . (p=0.000845)
+  2) a cat that is laying down on a blanket . (p=0.000766)
+Captions for image 11850317_864514946931623_1454555972_a.jpg:
+  0) a young girl wearing a tie and a hat . (p=0.000057)
+  1) a young girl wearing a tie and a hat (p=0.000017)
+  2) a young girl wearing a red tie and a red hat . (p=0.000002)
+Captions for image 64406900_2441977009420721_6174626338617739503_n.jpg:
+  0) a cat that is laying down on the ground . (p=0.000391)
+  1) a cat that is laying down on a carpet . (p=0.000327)
+  2) a cat that is laying down on the floor . (p=0.000286)
+Captions for image 53053007_624458441339385_5237176564656953844_n.jpg:
+  0) the wing of an airplane flying over a mountain range . (p=0.000524)
+  1) the wing of an airplane flying over a mountain . (p=0.000387)
+  2) the wing of a plane flying over a mountain range . (p=0.000351)
+Captions for image 65907930_359067588001347_3448667354704607758_n.jpg:
+  0) a cat laying on top of a bed . (p=0.000506)
+  1) a cat laying on top of a white blanket . (p=0.000155)
+  2) a cat laying on top of a bed with a blanket . (p=0.000007)
+Captions for image 58423604_608074346326869_1060128635057383445_n.jpg:
+  0) a close up of a baseball player with a bat (p=0.000125)
+  1) a close up of a baseball player with a glove (p=0.000085)
+  2) a black and white photo of a sign (p=0.000047)
+Captions for image 54447394_373601993232204_885296668017311927_n.jpg:
+  0) a birthday cake with a train on it (p=0.000110)
+  1) a birthday cake with a train on it . (p=0.000086)
+  2) a birthday cake with a train on top of it . (p=0.000021)
+Captions for image 65862198_374588186749007_7842564086479568995_n.jpg:
+  0) a cat sitting on top of a wooden table . (p=0.000502)
+  1) a cat sitting on top of a table next to a pair of scissors . (p=0.000048)
+  2) a cat sitting on top of a table next to a cup . (p=0.000033)
+Captions for image 65182219_311444009734522_1696354596493086591_n.jpg:
+  0) a large body of water with a bunch of boats in it (p=0.000190)
+  1) a large body of water with a boat in the distance . (p=0.000090)
+  2) a large body of water with a bunch of boats on it (p=0.000052)
+Captions for image 62478153_2288470801245287_1614047636803831861_n.jpg:
+  0) a close up of a cat on a couch (p=0.000816)
+  1) a close up of a cat laying on a couch (p=0.000748)
+  2) a close up of a cat laying on a bed (p=0.000577)
+Captions for image 65314615_452493371967102_1280566493560767074_n.jpg:
+  0) a large clock on the side of a building . (p=0.000299)
+  1) a large clock on the side of a building (p=0.000031)
+  2) a large clock on the side of the building . (p=0.000026)
+Captions for image 65009844_173446580342766_7590533238632398360_n.jpg:
+  0) a cat that is laying down in a sink . (p=0.002360)
+  1) a cat that is laying down in a bathroom sink . (p=0.000808)
+  2) a cat that is laying down on a sink . (p=0.000629)
+Captions for image 64709423_2320567478221286_9042744556683818547_n.jpg:
+  0) a cat laying on top of a couch cushion . (p=0.000336)
+  1) a cat laying on top of a couch next to a remote control . (p=0.000060)
+  2) a cat laying on top of a couch next to a book . (p=0.000060)
+Captions for image 62598375_126920855189617_7268168046588230244_n.jpg:
+  0) a cat laying on top of a wooden chair . (p=0.000590)
+  1) a cat laying on top of a couch cushion . (p=0.000474)
+  2) a cat laying on top of a couch next to a remote control . (p=0.000079)
+Captions for image 66800824_670225360117881_2610026078296520912_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.000813)
+  1) a red stop sign sitting on the side of a street . (p=0.000647)
+  2) a red stop sign sitting next to a tall building . (p=0.000136)
+Captions for image 62241235_691588147944930_716164622701208397_n.jpg:
+  0) a white surfboard sitting on top of a sandy beach . (p=0.000129)
+  1) a white surfboard sitting on top of a beach . (p=0.000032)
+  2) a white surfboard laying on the sand next to the ocean . (p=0.000011)
+Captions for image 65673156_478704209555801_2380661166153096067_n.jpg:
+  0) a cat that is laying down on a table . (p=0.000661)
+  1) a cat laying on top of a wooden table . (p=0.000536)
+  2) a cat that is laying down on a table (p=0.000283)
+Captions for image 65190514_2607024129328499_9217942516523006425_n.jpg:
+  0) a red stop sign with a sticker on it . (p=0.000085)
+  1) a stop sign that has a sign on it . (p=0.000057)
+  2) a stop sign with a sign on it (p=0.000043)
+Captions for image 64786583_420688482111603_6357177988819444522_n.jpg:
+  0) a close up of a stuffed animal on a beach (p=0.000119)
+  1) a close up of a stuffed animal on the ground (p=0.000023)
+  2) a close up of a person on a beach with a frisbee (p=0.000007)
+Captions for image 64757068_2214656745277142_449062648947263568_n.jpg:
+  0) a plate of food and a drink on a table . (p=0.000360)
+  1) a plate of food and a drink on a table (p=0.000076)
+  2) a plate of food and a bottle of wine . (p=0.000037)
+Captions for image 62414139_121518512414099_7587401655804907340_n.jpg:
+  0) a close up of a cat wearing a tie (p=0.001491)
+  1) a close up of a cat on a couch (p=0.000781)
+  2) a close up of a cat on a bed (p=0.000584)
+Captions for image 62102906_280714356069217_8305391253616028960_n.jpg:
+  0) a group of birds sitting on top of a tree . (p=0.000261)
+  1) a couple of birds sitting on top of a tree . (p=0.000233)
+  2) a couple of birds sitting on top of a tree branch . (p=0.000033)
+Captions for image 66278174_369904170376773_8321617883231492956_n.jpg:
+  0) a large ship is docked at a dock (p=0.000043)
+  1) a large ship is docked at a pier (p=0.000032)
+  2) a large ship in the water near a city . (p=0.000029)
+Captions for image 64463192_1183077501863290_8064013200380552920_n.jpg:
+  0) a close up of a plate of food on a table (p=0.000185)
+  1) a close up of a plate of doughnuts (p=0.000100)
+  2) a close up of a plate of food (p=0.000082)
+Captions for image 61495402_2172787262840864_2251923943329432313_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000408)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000284)
+  2) a pair of scissors sitting on a table . (p=0.000204)
+Captions for image 61192916_439552436883760_9078238191647946485_n.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.005049)
+  1) a person riding a surf board on a wave (p=0.003220)
+  2) a man riding a wave on a surfboard in the ocean . (p=0.000700)
+Captions for image 64740598_626004087919081_6253114023351261428_n.jpg:
+  0) a man is flying a kite on the beach . (p=0.001760)
+  1) a man standing on a beach flying a kite . (p=0.001656)
+  2) a man standing on a beach holding a surfboard . (p=0.001011)
+Captions for image 65020737_213247052892589_8470353554902286691_n.jpg:
+  0) a small boat in a body of water (p=0.000870)
+  1) a small boat in the water near a dock . (p=0.000042)
+  2) a small boat in the water near a dock (p=0.000016)
+Captions for image 61178272_305096083726868_7414111852215085765_n.jpg:
+  0) a wooden bench sitting on top of a sandy beach . (p=0.002151)
+  1) a wooden bench sitting on top of a beach . (p=0.000564)
+  2) a wooden bench sitting on a beach next to the ocean . (p=0.000340)
+Captions for image 64289430_326618961572533_331524164644440517_n.jpg:
+  0) a gray and white cat laying on top of a bed . (p=0.000166)
+  1) a gray and white cat laying on top of a wooden shelf . (p=0.000056)
+  2) a gray and white cat laying on top of a wooden table . (p=0.000052)
+Captions for image 64599914_143301053421259_6878434755186167671_n.jpg:
+  0) a statue of a man and a woman holding a teddy bear . (p=0.000001)
+  1) a statue of a man and a woman with a clock . (p=0.000000)
+  2) a statue of a man and a woman holding a teddy bear (p=0.000000)
+Captions for image 62256141_342434556674497_743283535904965644_n.jpg:
+  0) a bunch of boats that are sitting in the water . (p=0.000968)
+  1) a bunch of boats that are in the water . (p=0.000518)
+  2) a group of boats sitting on top of a sandy beach . (p=0.000337)
+Captions for image 61556819_2119107264854690_5279594914147501056_n.jpg:
+  0) a sandy beach with a surfboard on top of it . (p=0.000501)
+  1) a sandy beach with a surfboard on the sand . (p=0.000096)
+  2) a sandy beach with a surfboard on the beach . (p=0.000064)
+Captions for image 61375144_149670079422210_682883947273553826_n.jpg:
+  0) a motorcycle parked in front of a building . (p=0.001223)
+  1) a motorcycle parked in front of a store . (p=0.001198)
+  2) a motorcycle parked in front of a building (p=0.000154)
+Captions for image 61181783_434610807364592_6052778427231172411_n.jpg:
+  0) a clock on a building with a sky background (p=0.000375)
+  1) a clock on a pole on a city street (p=0.000241)
+  2) a clock on a pole with a sky background (p=0.000154)
+Captions for image 61906892_331159337556318_3902494888116689863_n.jpg:
+  0) a cat sitting on top of a bed . (p=0.000384)
+  1) a cat sitting on top of a couch . (p=0.000345)
+  2) a cat sitting on top of a white chair . (p=0.000270)
+Captions for image 61803855_132149897976250_3953832814652636594_n.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.005503)
+  1) a person riding a surf board on a wave (p=0.003947)
+  2) a group of people riding surfboards on top of a wave . (p=0.002111)
+Captions for image 64689311_144853666588378_6487721114751589386_n.jpg:
+  0) a harbor filled with lots of small boats . (p=0.001063)
+  1) a group of boats sitting on top of a sandy beach . (p=0.000235)
+  2) a group of boats sitting on top of a body of water . (p=0.000158)
+Captions for image 60760855_213870529588108_5813521773025228923_n.jpg:
+  0) a man riding a skateboard up the side of a ramp . (p=0.003837)
+  1) a man riding a skateboard down the side of a ramp . (p=0.001627)
+  2) a man riding a skateboard down a ramp . (p=0.000589)
+Captions for image 61197338_116052312960746_1124915333341351036_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000005)
+  1) a man in a suit and tie sitting on a motorcycle . (p=0.000005)
+  2) a man in a suit and tie sitting in a car (p=0.000003)
+Captions for image 61234315_405076437005427_4778558089415883290_n.jpg:
+  0) a cat that is sitting on a chair . (p=0.001277)
+  1) a cat that is sitting on a wooden chair . (p=0.000335)
+  2) a cat that is sitting on top of a chair . (p=0.000205)
+Captions for image 65301100_123524528898039_5141073518746242473_n.jpg:
+  0) a group of boats sitting on top of a sandy beach . (p=0.001010)
+  1) a group of boats sitting on top of a beach . (p=0.000510)
+  2) a group of boats sitting in the water . (p=0.000206)
+Captions for image 60984208_139196167253462_5924930500040961571_n.jpg:
+  0) a view of the wing of a plane in the sky . (p=0.000024)
+  1) a view of the wing of a plane flying over a mountain . (p=0.000009)
+  2) a view of the wing of an airplane flying over a mountain . (p=0.000008)
+Captions for image 61239694_112416036676611_7630068856516697997_n.jpg:
+  0) a display case filled with lots of different colored vases . (p=0.000135)
+  1) a display case filled with lots of vases . (p=0.000114)
+  2) a display case filled with lots of vases and flowers . (p=0.000027)
+Captions for image 54277639_403762280186777_2585277161019808058_n.jpg:
+  0) an airplane flying over a mountain range with mountains in the background . (p=0.000050)
+  1) an airplane flying over a mountain with a mountain in the background . (p=0.000022)
+  2) an airplane flying over a mountain with a mountain range . (p=0.000014)
+Captions for image 64293651_153361652441430_4715742487933218024_n.jpg:
+  0) a tree filled with lots of green leaves . (p=0.000675)
+  1) a tree filled with lots of green plants . (p=0.000564)
+  2) a tree with a bunch of green leaves on it (p=0.000216)
+Captions for image 60753760_208979003411385_4456240052343392884_n.jpg:
+  0) a herd of sheep grazing on a lush green hillside . (p=0.000990)
+  1) a herd of cattle grazing on a lush green hillside . (p=0.000873)
+  2) a herd of sheep standing on top of a lush green hillside . (p=0.000394)
+Captions for image 62263604_119455205949373_4505159252437621998_n.jpg:
+  0) a large body of water with a bunch of boats in it (p=0.000254)
+  1) a large body of water with a boat in the water . (p=0.000155)
+  2) a large body of water with a boat in the water (p=0.000087)
+Captions for image 61162228_470313367065953_3544144936541440760_n.jpg:
+  0) a man standing in front of a christmas tree . (p=0.000061)
+  1) a man standing in front of a store window . (p=0.000021)
+  2) a man standing in front of a christmas tree (p=0.000011)
+Captions for image 58740236_436848097124944_2304536128047930220_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000172)
+  1) a person holding a pair of scissors in their hands (p=0.000060)
+  2) a person holding a pair of scissors in their hand . (p=0.000045)
+Captions for image 65610385_159229095123652_5311697393228753596_n.jpg:
+  0) a tree filled with lots of green plants . (p=0.000485)
+  1) a bunch of flowers that are sitting in the grass . (p=0.000234)
+  2) a bunch of flowers that are sitting in a tree . (p=0.000079)
+Captions for image 61678670_757288717998855_3905281157742205847_n.jpg:
+  0) a boat that is sitting in the water . (p=0.001177)
+  1) a boat that is sitting in the sand . (p=0.000144)
+  2) a boat that is sitting in the water near some rocks . (p=0.000014)
+Captions for image 60411353_368962847070503_4620849911513471255_n.jpg:
+  0) the wing of an airplane in the sky . (p=0.000486)
+  1) the wing of an airplane flying over a mountain range . (p=0.000239)
+  2) the wing of an airplane flying over a mountain . (p=0.000238)
+Captions for image 62102123_116153742953617_548124640176415221_n.jpg:
+  0) a woman standing in front of a store window . (p=0.000094)
+  1) a woman is standing in front of a store (p=0.000032)
+  2) a woman standing in front of a store window (p=0.000016)
+Captions for image 61066979_437342486813340_5038894917745237721_n.jpg:
+  0) a man standing on top of a rocky hillside . (p=0.000197)
+  1) a man standing on top of a rock near a cliff . (p=0.000017)
+  2) a man standing on top of a rock on a rock . (p=0.000013)
+Captions for image 61186250_1519283988205729_811154528889723893_n.jpg:
+  0) a couple of boats that are in the water . (p=0.000588)
+  1) a couple of boats that are in the water (p=0.000238)
+  2) a large body of water with a bunch of boats in it (p=0.000055)
+Captions for image 60761239_139811187107439_5914939623865387316_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.003431)
+  1) a large jetliner sitting on top of an airport runway . (p=0.003385)
+  2) a large jetliner flying through a cloudy sky . (p=0.001718)
+Captions for image 60345134_336893093641766_2503903439453748931_n.jpg:
+  0) a car parked on the side of the road . (p=0.001070)
+  1) a car is parked on the side of the road . (p=0.000630)
+  2) a car is parked on the side of the road (p=0.000183)
+Captions for image 60414003_2366340136721534_2175248797497506582_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.005335)
+  1) a large jetliner sitting on top of an airport runway . (p=0.002657)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001138)
+Captions for image 59390690_2278370769077470_3413359022722468981_n.jpg:
+  0) a group of people standing next to each other . (p=0.002136)
+  1) a group of young men standing next to each other . (p=0.001148)
+  2) a group of people standing around each other . (p=0.001026)
+Captions for image 58454054_141160287007744_6177827089494915944_n.jpg:
+  0) a group of birds sitting on top of a tree . (p=0.000040)
+  1) a group of birds sitting on top of a metal pole . (p=0.000013)
+  2) a group of birds sitting on top of a tree in a parking lot . (p=0.000001)
+Captions for image 60197454_665841843840654_7428319280444246285_n.jpg:
+  0) an airplane wing flying over a mountain range . (p=0.002582)
+  1) an airplane wing flying over a snowy mountain range . (p=0.000239)
+  2) an airplane wing flying over a snowy mountain . (p=0.000210)
+Captions for image 57506453_357294298463610_3160900384003907842_n.jpg:
+  0) a person holding a kite in the air (p=0.000103)
+  1) a person holding a kite in the air . (p=0.000076)
+  2) a person holding a kite in the sky (p=0.000049)
+Captions for image 56990437_2008650449243371_5879547508444935284_n.jpg:
+  0) a white vase filled with lots of flowers . (p=0.000069)
+  1) a white vase filled with flowers on top of a table . (p=0.000067)
+  2) a white vase filled with lots of green flowers . (p=0.000033)
+Captions for image 62035551_392900911568011_717043660360054489_n.jpg:
+  0) a street sign on the side of a road . (p=0.000266)
+  1) a street sign on the side of the road . (p=0.000128)
+  2) a street sign on a pole on a beach (p=0.000104)
+Captions for image 61180792_556840471387105_1751447645380793280_n.jpg:
+  0) a view of an airplane in the sky . (p=0.000011)
+  1) a view of an airplane in the air . (p=0.000008)
+  2) a view of an airplane wing with a plane in the background . (p=0.000001)
+Captions for image 54247887_2051151755012773_583946388823049876_n.jpg:
+  0) a large jetliner flying through a cloudy sky . (p=0.000479)
+  1) a large jetliner flying over a snow covered mountain . (p=0.000367)
+  2) a large jetliner flying through a cloudy blue sky . (p=0.000317)
+Captions for image 58423683_2472604796301049_5931098854279445470_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000987)
+  1) a close up of a person holding a spoon (p=0.000387)
+  2) a close up of a person holding a piece of food (p=0.000296)
+Captions for image 61683751_2391620221126387_5082877943439488765_n.jpg:
+  0) an airplane wing flying over a mountain range . (p=0.003208)
+  1) an airplane wing flying over a mountain range (p=0.000120)
+  2) an airplane wing flying over the mountains in the mountains . (p=0.000079)
+Captions for image 59469199_132219251256817_1368586572208985968_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.001666)
+  1) a close up of a pair of scissors (p=0.000413)
+  2) a close up of a person holding an umbrella (p=0.000359)
+Captions for image 58785075_417926948991509_5325422417822939405_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.001189)
+  1) a person holding a pair of scissors in their hand . (p=0.000426)
+  2) a person holding a pair of scissors in their hands (p=0.000172)
+Captions for image 60839986_304103070492697_8027212268910845367_n.jpg:
+  0) a large jetliner sitting on top of an airport runway . (p=0.001733)
+  1) a large jetliner sitting on top of an airport tarmac . (p=0.000992)
+  2) a large jetliner sitting on top of a snow covered field . (p=0.000558)
+Captions for image 61998104_2015380762090026_652842145762465422_n.jpg:
+  0) a street sign on a pole on a city street (p=0.000276)
+  1) a street sign on a pole with a sky background (p=0.000211)
+  2) a street sign on a pole on a street . (p=0.000140)
+Captions for image 56968364_362819767666112_2249297637737565030_n.jpg:
+  0) a colorful kite flying in a blue sky . (p=0.000250)
+  1) a colorful kite flying in a blue sky (p=0.000057)
+  2) a group of kites flying in the sky . (p=0.000043)
+Captions for image 58468531_359030354819439_2287439113307448852_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000747)
+  1) a person holding a pair of scissors in their hand . (p=0.000301)
+  2) a person holding a pair of scissors in their hands (p=0.000111)
+Captions for image 60582432_425413348292393_2410741795401268652_n.jpg:
+  0) a herd of cattle grazing on a lush green hillside . (p=0.002014)
+  1) a herd of cattle grazing on a lush green field . (p=0.000626)
+  2) a herd of sheep grazing on a lush green hillside . (p=0.000496)
+Captions for image 58410899_160763964950239_312437184439056619_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000738)
+  1) a close up of a vase with many flowers in it (p=0.000188)
+  2) a close up of a vase with a flower in it (p=0.000141)
+Captions for image 61763512_141146213662624_9208702812633052592_n.jpg:
+  0) a street sign sitting on the side of a road . (p=0.001459)
+  1) a street sign on the side of a road . (p=0.000374)
+  2) a street sign on the side of the road . (p=0.000294)
+Captions for image 57133919_319666248725135_3726529569037805418_n.jpg:
+  0) a large blue and white bird flying through a blue sky . (p=0.000245)
+  1) a large blue and white bird flying in a blue sky . (p=0.000202)
+  2) a blue and white plane flying in the sky (p=0.000152)
+Captions for image 57092981_178854759768022_7649515080530252124_n.jpg:
+  0) a book sitting on top of a book . (p=0.000479)
+  1) a book sitting on top of a book shelf filled with books . (p=0.000219)
+  2) a book sitting on top of a book shelf . (p=0.000197)
+Captions for image 59360918_312199962781355_2182630230655873977_n.jpg:
+  0) a cat that is sitting on a table . (p=0.001404)
+  1) a cat that is sitting on a table (p=0.000195)
+  2) a cat sitting on a table with a flower in it . (p=0.000033)
+Captions for image 56883690_126632685176731_6426234529001759393_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.001133)
+  1) a close up of a flower in a vase (p=0.000282)
+  2) a close up of a vase with flowers on a table (p=0.000166)
+Captions for image 60123917_419519541973039_8226098609793958769_n.jpg:
+  0) a group of young men riding skateboards down a street . (p=0.000570)
+  1) a group of young men riding skateboards down a sidewalk . (p=0.000170)
+  2) a group of young men riding skateboards on top of a ramp . (p=0.000089)
+Captions for image 58453543_2086991101599020_7632913466752762368_n.jpg:
+  0) a woman holding a stop sign in front of a building . (p=0.000032)
+  1) a woman holding a stop sign in front of a building (p=0.000008)
+  2) a woman holding a stop sign and a sign (p=0.000005)
+Captions for image 55776930_1022725711257043_7886274125456447510_n.jpg:
+  0) a book and a book on a table . (p=0.000426)
+  1) a book and a book on a table (p=0.000090)
+  2) a book is sitting on a bed with a book . (p=0.000036)
+Captions for image 58423734_308720026710359_5061026123455119225_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000253)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000203)
+  2) a vase filled with flowers sitting on a table . (p=0.000168)
+Captions for image 57379484_133190507746772_6357305445968053204_n.jpg:
+  0) a black and white cat sitting on top of a wooden table . (p=0.000347)
+  1) a black and white cat sitting on top of a table . (p=0.000250)
+  2) a black and white cat sitting in a chair . (p=0.000143)
+Captions for image 57029209_1225696647603680_3023970311684290354_n.jpg:
+  0) a woman is brushing her hair in a mirror (p=0.000092)
+  1) a woman is brushing her hair with a brush . (p=0.000082)
+  2) a woman is brushing her hair in a bathroom . (p=0.000066)
+Captions for image 57251429_320535081927469_7369204156102093725_n.jpg:
+  0) a collage of photos with a teddy bear (p=0.000030)
+  1) a collage of photos with a teddy bear and a sign . (p=0.000001)
+  2) a collage of photos with a teddy bear and a sign (p=0.000001)
+Captions for image 60804726_121179012429312_4434918589126405645_n.jpg:
+  0) a group of teddy bears dressed in costumes . (p=0.000067)
+  1) a group of teddy bears dressed in costumes (p=0.000022)
+  2) a group of stuffed animals are on a street . (p=0.000017)
+Captions for image 57097126_187217572260721_870768653143912783_n.jpg:
+  0) a small brown bear standing next to a tree . (p=0.000570)
+  1) a small brown bear standing on top of a rock . (p=0.000058)
+  2) a small brown bear standing next to a tree (p=0.000050)
+Captions for image 59422783_303167300607408_5811894662288860914_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.002039)
+  1) a vase filled with flowers sitting on top of a table . (p=0.001730)
+  2) a vase filled with lots of flowers on top of a table . (p=0.001030)
+Captions for image 56945080_334715737229762_7936403284798620058_n.jpg:
+  0) a cat sitting on top of a book shelf . (p=0.001626)
+  1) a cat is sitting on top of a book . (p=0.000958)
+  2) a cat sitting on top of a book . (p=0.000622)
+Captions for image 55903535_1363738823774821_4699524407335098843_n.jpg:
+  0) a person holding a piece of food in their hand . (p=0.000738)
+  1) a person holding a piece of food in their hands . (p=0.000378)
+  2) a person holding a half eaten piece of food . (p=0.000329)
+Captions for image 60623710_172327853783067_927450651953090855_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.001278)
+  1) a group of people standing on top of a beach . (p=0.000553)
+  2) a group of people standing in a field flying kites . (p=0.000420)
+Captions for image 56981967_275248700029446_362705693838221368_n.jpg:
+  0) a group of people standing around a table with a cake . (p=0.000081)
+  1) a group of people standing around a table with a cake on it . (p=0.000041)
+  2) a group of people standing next to a table with a cake . (p=0.000024)
+Captions for image 57019646_2202518186676235_4047131094363896736_n.jpg:
+  0) a man holding a book in his hand . (p=0.000026)
+  1) a man holding a book in front of a book . (p=0.000008)
+  2) a man holding a book in his hand (p=0.000008)
+Captions for image 58883295_442297803246258_8883890685293991366_n.jpg:
+  0) a book is laying on top of a bed . (p=0.000132)
+  1) a book is laying on top of a book . (p=0.000127)
+  2) a book is laying on a bed with a book . (p=0.000085)
+Captions for image 57044405_325112041519984_4859076478835672690_n.jpg:
+  0) a tree with a bunch of trees in the background (p=0.000103)
+  1) a tree with a bunch of birds on it (p=0.000046)
+  2) a tree with a bunch of birds on it . (p=0.000019)
+Captions for image 56927481_1314323365386494_9128636574995720216_n.jpg:
+  0) a cat laying on the ground next to a tree . (p=0.000159)
+  1) a cat laying on the ground near a tree . (p=0.000090)
+  2) a cat laying on the ground next to a tree (p=0.000078)
+Captions for image 53501892_277608499821232_5640277423322702813_n.jpg:
+  0) a cat laying on top of a blanket . (p=0.000273)
+  1) a cat laying on top of a bed . (p=0.000258)
+  2) a cat laying on top of a blanket on a bed . (p=0.000067)
+Captions for image 54800433_2365324807126777_7782544422283657956_n.jpg:
+  0) a cat laying on top of a bed . (p=0.001144)
+  1) a cat laying on top of a blanket on a bed . (p=0.000391)
+  2) a cat laying on top of a blanket on top of a bed . (p=0.000207)
+Captions for image 54514042_131656864631537_692448496656567587_n.jpg:
+  0) a close up of a cat on a couch (p=0.000491)
+  1) a close up of a cat laying on a couch (p=0.000383)
+  2) a close up of a cat on a chair (p=0.000382)
+Captions for image 54429355_783164595395237_7718439581321999638_n.jpg:
+  0) a black bear sitting on top of a tree branch . (p=0.001393)
+  1) a black bear sitting on a tree branch . (p=0.000577)
+  2) a black bear sitting on top of a tree . (p=0.000361)
+Captions for image 57038517_2336783913265658_586464771369044953_n.jpg:
+  0) a cat laying on top of a bed . (p=0.000726)
+  1) a cat laying on top of a wooden table . (p=0.000609)
+  2) a cat laying on top of a bed next to a window . (p=0.000039)
+Captions for image 56300321_378066002921125_6246083090002535980_n.jpg:
+  0) a cat that is laying down on a couch . (p=0.000630)
+  1) a cat that is laying down on a bed . (p=0.000500)
+  2) a cat that is laying down on a blanket . (p=0.000485)
+Captions for image 57019665_342856109913376_7716651527517086549_n.jpg:
+  0) a tree filled with lots of green leaves . (p=0.001589)
+  1) a tree filled with lots of green plants . (p=0.000942)
+  2) a tree filled with lots of green leafy plants . (p=0.000386)
+Captions for image 56358367_349354275687930_1680351881183375161_n.jpg:
+  0) a cat sitting on a rock in the woods . (p=0.000042)
+  1) a cat sitting on a rock in the woods (p=0.000020)
+  2) a cat is sitting on the ground next to a tree . (p=0.000015)
+Captions for image 54800381_643637116071778_4851366742939663995_n.jpg:
+  0) a cat laying on top of a blanket on a bed . (p=0.000520)
+  1) a cat laying on top of a bed next to a stuffed animal . (p=0.000178)
+  2) a cat laying on top of a bed next to a cat . (p=0.000138)
+Captions for image 54237197_2168350659953165_6245562645801197023_n.jpg:
+  0) a cat laying on top of a pile of shoes . (p=0.000420)
+  1) a cat laying on top of a pile of luggage . (p=0.000358)
+  2) a cat laying on top of a wooden table . (p=0.000343)
+Captions for image 57403944_2465298226850225_8748094449821889004_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000157)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000140)
+  2) a vase filled with flowers sitting on top of a wooden table . (p=0.000078)
+Captions for image 53618877_2360687960629395_496519106517664055_n.jpg:
+  0) a brown and white dog wearing a santa hat . (p=0.000209)
+  1) a brown and white dog wearing a red hat . (p=0.000093)
+  2) a brown and white dog wearing a red tie . (p=0.000047)
+Captions for image 54446762_2343283702574162_9156702884850412284_n.jpg:
+  0) a cat that is laying down on a couch . (p=0.000980)
+  1) a cat that is laying down on a bed . (p=0.000843)
+  2) a cat that is laying down on a blanket . (p=0.000703)
+Captions for image 57488414_112403736447265_7376407974130074966_n.jpg:
+  0) a close up of a tree with a large tree (p=0.000008)
+  1) a close up of a tree with a bunch of green leaves (p=0.000007)
+  2) a close up of a tree with a bunch of trees (p=0.000006)
+Captions for image 52713138_2526253997393414_6974599345779477535_n.jpg:
+  0) a collage of photos of a person holding a frisbee (p=0.000003)
+  1) a collage of photos of a person holding a wii remote (p=0.000002)
+  2) a collage of photos of a man holding a wii controller . (p=0.000002)
+Captions for image 55760260_748554955537888_2870102188860181648_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.001104)
+  1) a bottle of wine and a bottle of wine (p=0.000362)
+  2) a person holding a bottle of wine in front of them . (p=0.000087)
+Captions for image 54446861_798180093885930_4316714421534008521_n.jpg:
+  0) a black and white cat laying on top of a bed . (p=0.000211)
+  1) a black and white cat laying on top of a couch . (p=0.000209)
+  2) a cat laying on a couch with a stuffed animal (p=0.000174)
+Captions for image 54447405_2345778685641384_1592628590386464507_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.002276)
+  1) a person 's hand holding a pair of scissors . (p=0.001044)
+  2) a person holding a pair of scissors in their hand . (p=0.000556)
+Captions for image 53819699_316390582366388_4039554825538372470_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.002358)
+  1) a bottle of wine sitting on a table next to a bottle of wine . (p=0.000061)
+  2) a person holding a bottle of wine in front of a glass . (p=0.000058)
+Captions for image 53478536_622235924905334_5944780134197651963_n.jpg:
+  0) a view of a plane in the sky . (p=0.000164)
+  1) a view of a plane in the air . (p=0.000142)
+  2) a view of the wing of a plane flying in the sky . (p=0.000010)
+Captions for image 56297026_353232045288186_7127745715153256791_n.jpg:
+  0) a person holding a toothbrush in their hand . (p=0.000335)
+  1) a man is holding a toothbrush in his hand . (p=0.000229)
+  2) a man is holding a toothbrush in his mouth . (p=0.000174)
+Captions for image 56319310_798611707187524_1792917770012831085_n.jpg:
+  0) a poster of a man holding a cell phone . (p=0.000020)
+  1) a poster of a man holding a book . (p=0.000018)
+  2) a poster of a man in a suit and tie . (p=0.000013)
+Captions for image 54266378_404452326953882_2149080229750587428_n.jpg:
+  0) a view of a bunch of birds in the air . (p=0.000002)
+  1) a view of a bunch of birds flying over the water . (p=0.000001)
+  2) a view of a bunch of birds in the air (p=0.000001)
+Captions for image 54732060_1012344705630327_1848996041008954131_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000842)
+  1) a person holding a pair of scissors in their hand . (p=0.000446)
+  2) a person holding a pair of scissors in their hands (p=0.000165)
+Captions for image 56587705_347465405874065_6291946240244489030_n.jpg:
+  0) a blue and white cake sitting on top of a blue plate . (p=0.000008)
+  1) a blue and white cake sitting on top of a table . (p=0.000007)
+  2) a blue and white cake sitting on top of a white plate . (p=0.000007)
+Captions for image 53224229_438850850195676_9214836986483160974_n.jpg:
+  0) a view of the wing of an airplane . (p=0.000157)
+  1) a view of the wing of an airplane flying over a mountain . (p=0.000016)
+  2) a view of the wing of a plane flying over a mountain . (p=0.000016)
+Captions for image 54446832_128386494943453_2225152727045194172_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000127)
+  1) a pair of scissors sitting on a table . (p=0.000071)
+  2) a pair of scissors sitting on top of a table (p=0.000031)
+Captions for image 54510994_405407480035385_2504390635320396387_n.jpg:
+  0) a traffic light suspended over a city street . (p=0.000610)
+  1) a traffic light suspended over a snow covered road . (p=0.000601)
+  2) a traffic light suspended over a street next to tall buildings . (p=0.000047)
+Captions for image 53724374_558622331296813_9145624300585969572_n.jpg:
+  0) a book is sitting on top of a book . (p=0.000169)
+  1) a book is sitting on top of a book (p=0.000098)
+  2) a book with a book on top of it . (p=0.000066)
+Captions for image 53741238_564816977376949_6271637248307007156_n.jpg:
+  0) a view of a plane flying over a mountain . (p=0.000052)
+  1) a view of a mountain range with a plane flying overhead . (p=0.000013)
+  2) a view of a mountain range with a plane in the sky . (p=0.000013)
+Captions for image 54429354_421735155228906_6230023044272518937_n.jpg:
+  0) a woman holding a pair of scissors in her hands . (p=0.000107)
+  1) a woman holding a pair of scissors in her hands (p=0.000022)
+  2) a woman holding a pair of scissors in front of a building . (p=0.000004)
+Captions for image 55910195_2605390076354159_2241251173267261055_n.jpg:
+  0) a man holding a cell phone up to his ear . (p=0.000131)
+  1) a man holding a cell phone in his hands . (p=0.000106)
+  2) a man holding a cell phone in his hand . (p=0.000094)
+Captions for image 53817543_989360037924371_3255430971375528284_n.jpg:
+  0) the wing of an airplane flying over a mountain . (p=0.000429)
+  1) the wing of an airplane flying over a mountain range . (p=0.000321)
+  2) the wing of a plane flying over a mountain . (p=0.000242)
+Captions for image 53341406_718104351918792_4490154294485675293_n.jpg:
+  0) a book and a book on a table . (p=0.000171)
+  1) a book and a book on a table (p=0.000053)
+  2) a book and a book are on a table . (p=0.000018)
+Captions for image 53873475_634107903696993_6108215851678055227_n.jpg:
+  0) a book and a book on a table . (p=0.000085)
+  1) a book and a book on a table (p=0.000036)
+  2) a book and a book on a bed . (p=0.000013)
+Captions for image 53762938_344476732848688_4832979085198923576_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000042)
+  1) a person holding a pair of scissors in their hands (p=0.000014)
+  2) a person holding a pair of scissors in their hand . (p=0.000013)
+Captions for image 53386188_2359054671040329_8132740094791040582_n.jpg:
+  0) a painting of a man sitting on top of a bed . (p=0.000004)
+  1) a painting of a man sitting on a chair with a teddy bear . (p=0.000000)
+  2) a painting of a man sitting on top of a bed with a book . (p=0.000000)
+Captions for image 54447344_165002081159803_6823187834345387278_n.jpg:
+  0) a man holding a banana in his hand . (p=0.000042)
+  1) a man holding a banana in his hands . (p=0.000031)
+  2) a man holding a banana in his hand (p=0.000013)
+Captions for image 54513910_687334741682073_7038320159116879800_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000288)
+  1) a person holding a pair of scissors in their hand . (p=0.000080)
+  2) a person is holding a pair of scissors (p=0.000077)
+Captions for image 54732176_400063574162278_183857406394906183_n.jpg:
+  0) a collage of photos with a collage of pictures (p=0.000086)
+  1) a collage of photos with a collage of photos (p=0.000044)
+  2) a collage of photos with a collage of pictures on the wall (p=0.000019)
+Captions for image 54512893_278110946437442_2069525560499348965_n.jpg:
+  0) an airplane wing flying over a mountain range . (p=0.002517)
+  1) an airplane wing flying over a snowy mountain range . (p=0.000634)
+  2) an airplane wing flying over a snowy mountain . (p=0.000344)
+Captions for image 54266474_645978365850835_543681620733313330_n.jpg:
+  0) a book and a book on a table . (p=0.000046)
+  1) a book and a book on a table (p=0.000010)
+  2) a book with a picture of a man on it . (p=0.000003)
+Captions for image 53970494_2280632138661257_2343984677297871223_n.jpg:
+  0) a picture of a book on a table . (p=0.000045)
+  1) a picture of a book on a table (p=0.000010)
+  2) a collage of photos with a book and a clock (p=0.000004)
+Captions for image 54511197_559724191204314_7385888175082938222_n.jpg:
+  0) the wing of an airplane flying over a mountain . (p=0.000359)
+  1) the wing of an airplane flying over a mountain range . (p=0.000340)
+  2) the wing of a plane flying over a mountain range . (p=0.000199)
+Captions for image 53901374_426459874846249_8244410025144200365_n.jpg:
+  0) a collage of photos with a picture of a cat (p=0.000001)
+  1) a collage of photos with a picture of a person holding a cell phone . (p=0.000000)
+  2) a collage of photos with a picture of a person holding a cell phone (p=0.000000)
+Captions for image 54247656_322789205254290_8456249919611250081_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000128)
+  1) a pair of scissors sitting on top of a book . (p=0.000055)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000042)
+Captions for image 54512250_537704103421452_7707626613213565792_n.jpg:
+  0) a person holding a teddy bear in a room . (p=0.000016)
+  1) a person holding a teddy bear in front of a television . (p=0.000011)
+  2) a person holding a teddy bear in front of a tv . (p=0.000011)
+Captions for image 53727110_418090159007833_3776797014000690082_n.jpg:
+  0) a view of a mountain range from a plane . (p=0.000066)
+  1) a view of a mountain range from the airplane . (p=0.000031)
+  2) a view of a mountain range from the plane . (p=0.000027)
+Captions for image 54277623_2293704094210879_6961157319231228810_n.jpg:
+  0) a teddy bear sitting on top of a book . (p=0.000135)
+  1) a teddy bear sitting on top of a book shelf . (p=0.000062)
+  2) a teddy bear sitting on top of a table . (p=0.000033)
+Captions for image 53809423_590071441471443_6088379757413807436_n.jpg:
+  0) an airplane wing flying over a mountain range . (p=0.001332)
+  1) an airplane wing flying over a snow covered mountain . (p=0.000850)
+  2) an airplane wing flying over a snowy mountain . (p=0.000355)
+Captions for image 52582826_149706696053345_6396776510513254762_n.jpg:
+  0) a birthday cake with a train on it (p=0.000043)
+  1) a birthday cake with a train on it . (p=0.000032)
+  2) a birthday cake with a train on top of it . (p=0.000011)
+Captions for image 51704718_773404666358464_3937877516775290098_n.jpg:
+  0) a group of people sitting at tables in a room . (p=0.000359)
+  1) a group of people sitting around a table in a room . (p=0.000110)
+  2) a group of people sitting at tables in a room (p=0.000035)
+Captions for image 54447267_1107521249419609_1642840577682542503_n.jpg:
+  0) a man in a suit and tie holding a book . (p=0.000004)
+  1) a man in a suit and tie holding a book (p=0.000002)
+  2) a man in a suit and tie is holding a book . (p=0.000001)
+Captions for image 52442027_564814547328952_7049456010306863838_n.jpg:
+  0) a group of people sitting on a bench . (p=0.001849)
+  1) a group of young men sitting on a bench . (p=0.000739)
+  2) a group of people sitting on a bench with their legs crossed . (p=0.000046)
+Captions for image 54266447_312756472770975_3226707032617699172_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000738)
+  1) a close up of a pair of scissors (p=0.000371)
+  2) a close up of a pair of scissors on a table (p=0.000285)
+Captions for image 53334690_307662223221451_7568661654449128525_n.jpg:
+  0) a close up of a cat on a window sill (p=0.000428)
+  1) a close up of a cat in a mirror (p=0.000340)
+  2) a close up of a cat in a window sill (p=0.000144)
+Captions for image 52858447_119189965892440_1930973354489775159_n.jpg:
+  0) a close up of a cake on a plate (p=0.000555)
+  1) a close up of a plate of food on a table (p=0.000321)
+  2) a close up of a plate of fruit (p=0.000218)
+Captions for image 52569301_1288270301339295_4812283092574767059_n.jpg:
+  0) a person holding a banana in their hand . (p=0.002215)
+  1) a person holding a banana in their hands . (p=0.001142)
+  2) a person holding a banana in their hand (p=0.000495)
+Captions for image 52144381_400345137216120_7266321569785727207_n.jpg:
+  0) a view of the ocean from a plane . (p=0.000052)
+  1) a view of the ocean from a plane (p=0.000016)
+  2) a view of a beach with a plane in the sky . (p=0.000011)
+Captions for image 53989877_1249128195235766_8605753964476203529_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000092)
+  1) a person holding a surf board in their hands (p=0.000083)
+  2) a person holding a surf board in their hands . (p=0.000067)
+Captions for image 54247795_644668349294887_7097002130545758943_n.jpg:
+  0) a church with a steeple and a clock tower . (p=0.000028)
+  1) a church with a steeple and a snow covered mountain . (p=0.000008)
+  2) a large building with a clock tower in the middle . (p=0.000007)
+Captions for image 52302880_412332049579417_5552993701566189651_n.jpg:
+  0) a cat that is sitting on the ground . (p=0.000975)
+  1) a cat that is sitting on a bench . (p=0.000893)
+  2) a cat that is sitting on top of a car . (p=0.000294)
+Captions for image 53056295_354202492103316_4936250723313487996_n.jpg:
+  0) a cat sitting on top of a bed . (p=0.000376)
+  1) a cat sitting on top of a couch . (p=0.000372)
+  2) a cat sitting on top of a couch next to a window . (p=0.000064)
+Captions for image 53535918_255017115271286_8781059503119702122_n.jpg:
+  0) a sign that is hanging on a wall . (p=0.000035)
+  1) a sign that is hanging on a building . (p=0.000020)
+  2) a sign that is hanging from a wall . (p=0.000013)
+Captions for image 53279583_2375081552525308_8478658755565412974_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.001456)
+  1) a glass of wine sitting on a table next to a wine glass . (p=0.000132)
+  2) a glass of wine sitting on a table next to a glass of wine . (p=0.000102)
+Captions for image 52665258_408850779673760_4791805966944119280_n.jpg:
+  0) a teddy bear sitting next to a stuffed animal . (p=0.000018)
+  1) a teddy bear sitting next to a stuffed animal (p=0.000009)
+  2) a teddy bear sitting on a table next to a cup of coffee . (p=0.000003)
+Captions for image 53924525_280012056257309_4873770908649645028_n.jpg:
+  0) a cat laying on top of a pair of shoes . (p=0.000550)
+  1) a cat sitting on top of a pair of shoes . (p=0.000446)
+  2) a cat laying on top of a pair of shoes (p=0.000038)
+Captions for image 53109703_259811478294302_3424940814458012409_n.jpg:
+  0) a cat laying on top of a bed . (p=0.000970)
+  1) a cat laying on top of a blanket on a bed . (p=0.000861)
+  2) a cat laying on top of a blanket on top of a bed . (p=0.000325)
+Captions for image 53010818_318814728987781_5366990259450328146_n.jpg:
+  0) a woman in a white dress holding a white frisbee . (p=0.000004)
+  1) a woman in a white shirt holding a white frisbee . (p=0.000003)
+  2) a woman in a white shirt holding a white frisbee (p=0.000001)
+Captions for image 54247885_122632918843736_6708100086301108860_n.jpg:
+  0) a close up of a stuffed animal on a table (p=0.000739)
+  1) a close up of a person holding a stuffed animal (p=0.000586)
+  2) a close up of a stuffed animal with a banana (p=0.000054)
+Captions for image 53706036_126626751813432_5775178665643025361_n.jpg:
+  0) a cat laying on top of a bed . (p=0.002308)
+  1) a cat laying on top of a bed next to a window . (p=0.000805)
+  2) a cat laying on top of a blanket on a bed . (p=0.000470)
+Captions for image 52967066_648205268979702_6986527127920336746_n.jpg:
+  0) a cat laying on top of a blanket on a bed . (p=0.000777)
+  1) a cat laying on top of a blanket on a couch . (p=0.000184)
+  2) a cat is laying on a bed (p=0.000094)
+Captions for image 54041441_930741420460313_4757010937394266788_n.jpg:
+  0) a person riding a bike on a city street (p=0.001436)
+  1) a man riding a bike down a street next to tall buildings . (p=0.000108)
+  2) a man riding a bike down a street next to a tall building . (p=0.000078)
+Captions for image 54447318_623675054726518_5609245702305086503_n.jpg:
+  0) a tree with a bunch of green leaves on it (p=0.000246)
+  1) a tree with a bunch of green leaves in it (p=0.000166)
+  2) a tree with a bunch of green leaves on it . (p=0.000065)
+Captions for image 52901936_1680869088725882_8226237483394728427_n.jpg:
+  0) a cat that is laying down on a blanket . (p=0.001915)
+  1) a cat laying on top of a pile of shoes . (p=0.000380)
+  2) a cat that is laying down on a blanket (p=0.000375)
+Captions for image 52967954_2281925105430192_6565653295104898728_n.jpg:
+  0) a cat sitting on top of a book shelf . (p=0.000082)
+  1) a cat is sitting on top of a book shelf . (p=0.000017)
+  2) a cat is sitting on top of a sign (p=0.000017)
+Captions for image 52014133_405767026901400_5592863091571344679_n.jpg:
+  0) a cat laying on top of a blanket on a bed . (p=0.000631)
+  1) a cat laying on top of a blanket on a couch . (p=0.000192)
+  2) a cat laying on top of a bed next to a pillow . (p=0.000116)
+Captions for image 53109517_305394546836581_738671160110539303_n.jpg:
+  0) a close up of a vandalized stop sign (p=0.000589)
+  1) a close up of a stop sign with a sky background (p=0.000049)
+  2) a close up of a stop sign with graffiti on it (p=0.000035)
+Captions for image 50061150_351640892120253_7040583437865486480_n.jpg:
+  0) a bunch of different colored ties hanging from a wall . (p=0.000012)
+  1) a bunch of different colored ties hanging on a wall . (p=0.000010)
+  2) a bunch of different colored ties hanging on a wall (p=0.000007)
+Captions for image 52961345_344598216161295_6045538170168695341_n.jpg:
+  0) a cat laying on top of a bed . (p=0.000404)
+  1) a cat laying on top of a red blanket . (p=0.000281)
+  2) a cat laying on top of a blanket on a bed . (p=0.000106)
+Captions for image 54277390_654380641657673_2748897595494822765_n.jpg:
+  0) a bird flying over a body of water . (p=0.000280)
+  1) a large body of water with a bunch of boats in it (p=0.000016)
+  2) a large body of water with a bunch of birds on it (p=0.000009)
+Captions for image 51929277_2404504229779201_4403363867444984665_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000638)
+  1) a sign that is on the side of a wall . (p=0.000103)
+  2) a sign that is on the side of a pole . (p=0.000081)
+Captions for image 53123458_2536550879708267_3794224264689737428_n.jpg:
+  0) a cat laying on top of a bed . (p=0.001542)
+  1) a cat laying on top of a blanket on a bed . (p=0.001008)
+  2) a cat laying on top of a blanket on top of a bed . (p=0.000290)
+Captions for image 51359125_107749813587349_5711677437507123898_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000068)
+  1) a close up of a person holding a frisbee (p=0.000021)
+  2) a close up of a number of different colored scissors (p=0.000006)
+Captions for image 54447149_438922643511803_3291625398687077098_n.jpg:
+  0) a person jumping in the air on a skateboard . (p=0.001036)
+  1) a person jumping in the air with a skateboard . (p=0.000480)
+  2) a person jumping in the air on a skateboard (p=0.000163)
+Captions for image 54266426_605041186634011_2689084150965328070_n.jpg:
+  0) a statue of an elephant standing in front of a building . (p=0.000162)
+  1) a statue of an elephant standing next to a building . (p=0.000090)
+  2) a statue of an elephant standing next to a statue . (p=0.000029)
+Captions for image 53347710_297884597550926_2744381044214490333_n.jpg:
+  0) a cat laying on top of a blanket on a bed . (p=0.003044)
+  1) a cat laying on top of a bed next to pillows . (p=0.000850)
+  2) a cat laying on top of a bed next to a pillow . (p=0.000378)
+Captions for image 52906932_2287407638204803_5851023026598220168_n.jpg:
+  0) a birthday cake with a train on it (p=0.000010)
+  1) a birthday cake with a train on it . (p=0.000009)
+  2) a birthday cake with a train on top of it . (p=0.000003)
+Captions for image 54247486_128921471563650_3668744217315100675_n.jpg:
+  0) a traffic light hanging from the side of a pole . (p=0.001080)
+  1) a traffic light hanging from the side of a building . (p=0.000367)
+  2) a traffic light hanging from a pole next to a building . (p=0.000073)
+Captions for image 51982371_407058676533452_5960742735284165233_n.jpg:
+  0) a cat sitting on top of a wooden bench . (p=0.000088)
+  1) a cat sitting on top of a red bench . (p=0.000016)
+  2) a cat sitting on top of a wooden bench (p=0.000010)
+Captions for image 52699074_1531693696960729_3227879233593784551_n.jpg:
+  0) a bedroom with a bed and a desk (p=0.000009)
+  1) a bedroom with a bed and a desk with a lamp (p=0.000001)
+  2) a bedroom with a bed , desk , and other items . (p=0.000001)
+Captions for image 52341755_685263848603252_7465298902587002926_n.jpg:
+  0) a group of people sitting around a living room . (p=0.003898)
+  1) a group of people sitting on a couch playing video games . (p=0.001354)
+  2) a group of people sitting on a couch playing video games (p=0.000864)
+Captions for image 53297112_1071671586353199_7272650316249444713_n.jpg:
+  0) a man in a suit and tie standing in front of a building . (p=0.000016)
+  1) a man in a suit and tie standing in front of a store . (p=0.000014)
+  2) a man in a suit and tie standing in front of a sign . (p=0.000012)
+Captions for image 52170645_315333955793590_859737835043452600_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000135)
+  1) a large building with a clock on the top of it . (p=0.000098)
+  2) a large building with a clock tower in the middle of it . (p=0.000089)
+Captions for image 51411308_334270743850282_3358749859649036970_n.jpg:
+  0) a couple of birds sitting on top of a table . (p=0.000253)
+  1) a group of birds sitting on top of a table . (p=0.000132)
+  2) a couple of birds sitting on top of a wooden table . (p=0.000085)
+Captions for image 53117329_2411364438876781_8142477816546759899_n.jpg:
+  0) a woman standing in front of a table with a clock on it . (p=0.000007)
+  1) a woman standing in front of a table with a clock . (p=0.000004)
+  2) a woman standing in front of a table with a sign on it . (p=0.000003)
+Captions for image 51665981_255700012001807_1057063859453979398_n.jpg:
+  0) a man is holding up a sign with stickers on it . (p=0.000002)
+  1) a man is holding up a sign that says <UNK> . (p=0.000001)
+  2) a man is holding up a sign with stickers on it (p=0.000001)
+Captions for image 52810536_618813165211555_8697991834893160378_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000064)
+  1) a train station with a train passing by . (p=0.000031)
+  2) a train station with a train passing by (p=0.000027)
+Captions for image 51899649_2200167560244743_8578947213646237174_n.jpg:
+  0) a close up of a pair of scissors (p=0.000641)
+  1) a close up of a pair of scissors on a table (p=0.000116)
+  2) a close up of a pair of scissors on a box (p=0.000030)
+Captions for image 52482134_1062591267283254_5345997459128121148_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000020)
+  1) a large building with a clock on the top of it . (p=0.000015)
+  2) a large building with a clock tower in the middle of it . (p=0.000009)
+Captions for image 52134513_1176859549189409_8795566400654108014_n.jpg:
+  0) a snow covered street with a fire hydrant in the foreground . (p=0.000012)
+  1) a snow covered street with a fire hydrant in the middle . (p=0.000011)
+  2) a snow covered street with a fire hydrant in the middle of it . (p=0.000009)
+Captions for image 52020951_383568552481952_13972652628786703_n.jpg:
+  0) a building with a sign on the side of it (p=0.000060)
+  1) a building with a sign on the side of it . (p=0.000035)
+  2) a building with a sign on the side of a building . (p=0.000005)
+Captions for image 51993663_393470081444918_1020348428770656444_n.jpg:
+  0) a red stop sign sitting on top of a snow covered slope . (p=0.001748)
+  1) a red stop sign sitting on the side of a road . (p=0.001497)
+  2) a red stop sign sitting in the snow . (p=0.001052)
+Captions for image 51952876_398658340700249_7451511973587611183_n.jpg:
+  0) a man is holding a box of doughnuts . (p=0.000091)
+  1) a man is holding a box of doughnuts (p=0.000067)
+  2) a man is holding a box of donuts . (p=0.000057)
+Captions for image 52106880_147542712931942_5369337774073383971_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000803)
+  1) a sign that is on the side of a wall . (p=0.000096)
+  2) a sign that is on a pole outside (p=0.000031)
+Captions for image 52331997_2315079928522788_314375280627167947_n.jpg:
+  0) a man riding a skateboard down the side of a ramp . (p=0.000315)
+  1) a man riding a skateboard down the side of a building . (p=0.000264)
+  2) a man riding a skateboard down the side of a street . (p=0.000178)
+Captions for image 52522917_150333079313314_2731617846025815586_n.jpg:
+  0) a red fire hydrant sitting on the side of a road . (p=0.001209)
+  1) a red fire hydrant sitting on the side of a street . (p=0.000723)
+  2) a red fire hydrant on a city street (p=0.000326)
+Captions for image 52071682_816613678696861_4405516310878110457_n.jpg:
+  0) a man standing in front of a tv holding a nintendo wii controller . (p=0.000629)
+  1) a man standing in front of a tv holding a wii controller . (p=0.000470)
+  2) a man standing in front of a tv playing a video game . (p=0.000392)
+Captions for image 52929469_375457809941691_2839438449019479383_n.jpg:
+  0) a table topped with plates of food and drinks . (p=0.000498)
+  1) a table topped with plates of food and a cup of coffee . (p=0.000096)
+  2) a table topped with plates of food next to a cup of coffee . (p=0.000047)
+Captions for image 51413998_357160168225372_4427504550034717515_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000592)
+  1) a sign that is on the side of a wall . (p=0.000026)
+  2) a sign that is on the side of a building (p=0.000014)
+Captions for image 53183087_390362975091461_600119175931344273_n.jpg:
+  0) a clock tower in the middle of a park . (p=0.000248)
+  1) a clock tower in the middle of a city . (p=0.000206)
+  2) a clock tower in the middle of a street . (p=0.000183)
+Captions for image 52843959_567608137073506_3020864979389988280_n.jpg:
+  0) a picture of a person holding a cell phone . (p=0.000032)
+  1) a picture of a person holding a wii remote . (p=0.000014)
+  2) a picture of a man holding a wii remote . (p=0.000013)
+Captions for image 51933386_411124299464782_2995803329042960599_n.jpg:
+  0) a store front with a sign on the side of it . (p=0.000007)
+  1) a store front with a sign on the side of it (p=0.000004)
+  2) a store front with a sign on the side . (p=0.000002)
+Captions for image 52867454_2033614893359954_1735583713277975447_n.jpg:
+  0) a close up of a keyboard and a mouse (p=0.000052)
+  1) a close up of a person holding a cell phone (p=0.000041)
+  2) a close up of a keyboard and a book (p=0.000023)
+Captions for image 52696298_329980810956038_4020028065562361099_n.jpg:
+  0) a sign that reads `` <UNK> '' on the side of a building . (p=0.000001)
+  1) a sign that reads `` <UNK> '' on a wooden fence . (p=0.000000)
+  2) a sign that reads `` <UNK> '' on the side of the road . (p=0.000000)
+Captions for image 51866218_319705878895203_451254057826595350_n.jpg:
+  0) a store front of a store front window . (p=0.000018)
+  1) a store front of a store front window (p=0.000010)
+  2) a store front of a building with a sign on it . (p=0.000001)
+Captions for image 52961329_2226180494366666_3544732429192425763_n.jpg:
+  0) a red stop sign sitting on the side of a building . (p=0.000157)
+  1) a red stop sign sitting on the side of a street . (p=0.000075)
+  2) a red stop sign sitting on the side of a road . (p=0.000069)
+Captions for image 53661100_2610644552495303_7654890490850421404_n.jpg:
+  0) a collage of photos of a person holding a sign (p=0.000003)
+  1) a collage of photos of a person holding a sign . (p=0.000002)
+  2) a collage of photos of a man holding a wii remote . (p=0.000001)
+Captions for image 52057164_292337918109356_162567845178643816_n.jpg:
+  0) a sign that reads `` <UNK> '' on a wall . (p=0.000002)
+  1) a sign that reads `` <UNK> '' on the side of a building . (p=0.000002)
+  2) a sign that reads `` <UNK> <UNK> '' on a wall . (p=0.000001)
+Captions for image 53970511_249179179364953_8719031645889481036_n.jpg:
+  0) a building with a sign on the side of it (p=0.000070)
+  1) a building with a sign on the side of it . (p=0.000058)
+  2) a building that has a sign on the side of it . (p=0.000037)
+Captions for image 51752545_120435795722663_6764190195199010908_n.jpg:
+  0) a room filled with lots of wooden tables . (p=0.000145)
+  1) a room filled with lots of furniture and a window . (p=0.000019)
+  2) a room filled with lots of furniture and a ceiling fan . (p=0.000018)
+Captions for image 53178468_552756038568039_5879121838809010839_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000051)
+  1) a close up of a person holding a wii remote (p=0.000031)
+  2) a close up of a sign that says `` <UNK> '' . (p=0.000002)
+Captions for image 52421022_122058848903522_8348626638372350580_n.jpg:
+  0) a building with a sign on the side of it (p=0.000084)
+  1) a building with a sign on the side of it . (p=0.000050)
+  2) a building with a sign on the side (p=0.000009)
+Captions for image 52666900_645987099165574_4949060195470426969_n.jpg:
+  0) a close up of a person holding an umbrella (p=0.000066)
+  1) a close up of a person holding a pair of scissors (p=0.000050)
+  2) a close up of a blue and white umbrella (p=0.000025)
+Captions for image 52063747_373103523280473_3489978569599798959_n.jpg:
+  0) a fire hydrant in front of a building . (p=0.000782)
+  1) a fire hydrant in the middle of a sidewalk . (p=0.000427)
+  2) a fire hydrant in front of a building (p=0.000317)
+Captions for image 51902630_1273544442809777_4256030166016686605_n.jpg:
+  0) a view of a street from a window . (p=0.000021)
+  1) a view from a window of a car window . (p=0.000006)
+  2) a view from a window of a car window (p=0.000002)
+Captions for image 52807193_117512639352821_6040722774462421442_n.jpg:
+  0) a little girl holding a teddy bear in a room . (p=0.000109)
+  1) a little girl holding a teddy bear in her arms . (p=0.000072)
+  2) a little girl holding a teddy bear in a store . (p=0.000043)
+Captions for image 52791582_1150716365108684_4677223742624333503_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000028)
+  1) a group of people standing in front of a large building . (p=0.000015)
+  2) a group of people standing in front of a building (p=0.000002)
+Captions for image 51986103_418073585617707_3379162031759235163_n.jpg:
+  0) a building with a sign that reads `` <UNK> '' . (p=0.000003)
+  1) a sign that is on a building with a sign on it . (p=0.000001)
+  2) a building with a sign that reads `` <UNK> '' (p=0.000001)
+Captions for image 47690460_2370128666542290_5389589133417706250_n.jpg:
+  0) a white plate topped with a piece of cake . (p=0.003551)
+  1) a white plate topped with a slice of cake . (p=0.002116)
+  2) a piece of cake on a plate with a fork . (p=0.001245)
+Captions for image 52034013_143484220018079_6973056406122400235_n.jpg:
+  0) a man sitting in front of a laptop computer . (p=0.004945)
+  1) a man sitting at a table using a laptop computer . (p=0.003426)
+  2) a man sitting at a table with a laptop . (p=0.001037)
+Captions for image 51728457_2328394800512999_2050840262629721001_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000102)
+  1) a tall building with a clock tower on top of it . (p=0.000094)
+  2) a large building with a clock tower in the middle . (p=0.000045)
+Captions for image 52136342_120342565736933_125106136284978498_n.jpg:
+  0) a person on a snow board in the air . (p=0.000212)
+  1) a person on a snowboard is in the snow . (p=0.000201)
+  2) a snow covered mountain with a snow covered mountain . (p=0.000091)
+Captions for image 52416059_825566954475964_171509366612843146_n.jpg:
+  0) a room filled with lots of clutter and clutter . (p=0.000029)
+  1) a room filled with lots of different types of items . (p=0.000019)
+  2) a room filled with lots of different types of luggage . (p=0.000014)
+Captions for image 52002834_994832710705325_8318391524210477732_n.jpg:
+  0) a woman holding a teddy bear in a room . (p=0.000061)
+  1) a woman holding a teddy bear in front of a mirror . (p=0.000023)
+  2) a person holding a teddy bear in front of a mirror . (p=0.000016)
+Captions for image 51951577_2320666388218548_643538613302638485_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000391)
+  1) a pair of scissors sitting on top of a table . (p=0.000376)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000146)
+Captions for image 51875587_626683427753683_5427628713552619416_n.jpg:
+  0) a view of a beach with the ocean in the background . (p=0.000053)
+  1) a view of a beach with a boat in the distance . (p=0.000015)
+  2) a view of a beach with a boat in the water . (p=0.000010)
+Captions for image 51910984_1011291309072054_1046661228849386895_n.jpg:
+  0) a bunch of books that are on a table . (p=0.000122)
+  1) a bunch of signs that are on a wall . (p=0.000122)
+  2) a bunch of signs that are on a pole . (p=0.000087)
+Captions for image 52179410_263123914609020_2660949614416366008_n.jpg:
+  0) a teddy bear sitting on top of a table . (p=0.000184)
+  1) a teddy bear sitting on a table next to a christmas tree . (p=0.000003)
+  2) a teddy bear sitting on a table next to a wall . (p=0.000002)
+Captions for image 51989541_574126549754785_1165922163314245084_n.jpg:
+  0) a close up of a pair of scissors (p=0.000261)
+  1) a close up of a pair of scissors on a table (p=0.000147)
+  2) a pair of scissors and a pair of scissors . (p=0.000057)
+Captions for image 51697146_636231236814356_3459734617844657048_n.jpg:
+  0) a collage of photos with a clock on the wall (p=0.000009)
+  1) a collage of photos with a clock on the wall . (p=0.000005)
+  2) a collage of photos with a picture of a person (p=0.000001)
+Captions for image 52345717_128083814924234_869026872963650066_n.jpg:
+  0) a cat laying on top of a blue chair . (p=0.000443)
+  1) a cat laying on top of a white blanket . (p=0.000327)
+  2) a cat laying on top of a blue blanket . (p=0.000285)
+Captions for image 51544894_785986328440963_6238900240674507642_n.jpg:
+  0) a close up of a blue and white clock (p=0.000014)
+  1) a close up of a red and white clock (p=0.000009)
+  2) a close up of a blue and white clock . (p=0.000006)
+Captions for image 51944545_2185948351501714_8441424750194159978_n.jpg:
+  0) a cake with a knife and a fork on it . (p=0.000004)
+  1) a chocolate cake with a knife on it . (p=0.000004)
+  2) a chocolate cake with a knife on it (p=0.000004)
+Captions for image 52047770_783646842002044_9082922231518526198_n.jpg:
+  0) a wooden bench sitting in front of a building . (p=0.000027)
+  1) a wooden bench sitting in front of a wooden fence . (p=0.000009)
+  2) a wooden bench sitting in front of a red wall . (p=0.000008)
+Captions for image 51457480_271516533744557_3503796430745412_n.jpg:
+  0) a cat laying on top of a bed . (p=0.000459)
+  1) a cat laying on top of a wooden chair . (p=0.000377)
+  2) a cat laying on top of a blanket on a bed . (p=0.000090)
+Captions for image 52038652_456975471506780_1809180071647967776_n.jpg:
+  0) a person holding a knife in front of a cake . (p=0.000048)
+  1) a person holding a blender with a liquid in it . (p=0.000047)
+  2) a person holding a knife in front of a cake (p=0.000017)
+Captions for image 51380793_2255243904745557_1020469189839354864_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.000948)
+  1) a bottle of beer and a bottle of wine . (p=0.000556)
+  2) a bottle of wine and a bottle of wine (p=0.000343)
+Captions for image 52400346_156597025257024_7429601395421548316_n.jpg:
+  0) a sign that is on a pole outside . (p=0.000022)
+  1) a sign that is on a pole outside (p=0.000012)
+  2) a sign that is on a pole on a sidewalk . (p=0.000011)
+Captions for image 51193710_1733651736768404_2949298367462514445_n.jpg:
+  0) a cat sitting on top of a wooden table . (p=0.000284)
+  1) a cat sitting on top of a table next to a vase . (p=0.000019)
+  2) a cat sitting on top of a table next to a window . (p=0.000014)
+Captions for image 51669843_575994332916086_3315345588346779853_n.jpg:
+  0) a group of people sitting on a bench in front of a building . (p=0.000003)
+  1) a group of people sitting on a bench in front of a sign . (p=0.000001)
+  2) a group of people sitting on a bench in front of a store . (p=0.000001)
+Captions for image 52767126_2134837443264532_2537306263807560824_n.jpg:
+  0) a bottle of beer and a cell phone . (p=0.000459)
+  1) a bottle of beer sitting next to a bottle of beer . (p=0.000409)
+  2) a bottle of beer and a bottle of wine . (p=0.000265)
+Captions for image 52840542_314155989457795_6779739101462169264_n.jpg:
+  0) a man sitting on the back of a truck . (p=0.000066)
+  1) a man sitting on the back of a truck next to a stop sign . (p=0.000002)
+  2) a man sitting on the back of a truck with graffiti on it . (p=0.000001)
+Captions for image 50995868_151154152472647_521989280812422284_n.jpg:
+  0) a woman is brushing her teeth in a bathroom . (p=0.000153)
+  1) a woman is brushing her hair in a mirror (p=0.000109)
+  2) a woman is brushing her teeth in a mirror . (p=0.000106)
+Captions for image 52002821_1131333513718813_7228461106166344035_n.jpg:
+  0) a cat laying on top of a bed . (p=0.000695)
+  1) a cat laying on top of a couch cushion . (p=0.000500)
+  2) a cat laying on top of a couch next to a window . (p=0.000150)
+Captions for image 51522777_401161253773750_3467902153643618797_n.jpg:
+  0) a close up of a bottle of beer next to a bottle (p=0.000031)
+  1) a close up of a bottle of wine and a bottle (p=0.000015)
+  2) a close up of a bottle of beer next to a pair of scissors (p=0.000010)
+Captions for image 52417489_309513516585361_8847492932263788091_n.jpg:
+  0) a statue of a man in a suit and tie . (p=0.000603)
+  1) a statue of a man in a suit and tie (p=0.000447)
+  2) a man in a suit and tie standing in front of a clock . (p=0.000032)
+Captions for image 51564465_2171317653085681_7805766302564716218_n.jpg:
+  0) a cat sitting on top of a bed . (p=0.000520)
+  1) a cat sitting on top of a chair . (p=0.000414)
+  2) a cat sitting on top of a couch . (p=0.000316)
+Captions for image 50924468_338619456768102_6796734351600444324_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.001061)
+  1) a bottle of wine and a glass of wine . (p=0.000675)
+  2) a bottle of wine and a glass of wine (p=0.000434)
+Captions for image 51028618_2132185580192143_230553164257934524_n.jpg:
+  0) a cat laying on top of a bed . (p=0.001112)
+  1) a cat laying on top of a bed next to a window . (p=0.000817)
+  2) a cat laying on top of a blanket on a bed . (p=0.000351)
+Captions for image 51171022_1171868856309441_2246821441615815840_n.jpg:
+  0) a cat laying on top of a white bed . (p=0.001702)
+  1) a black and white cat laying on a bed . (p=0.001559)
+  2) a black and white cat laying on a bed (p=0.000752)
+Captions for image 51135427_834816186868698_849379124648379296_n.jpg:
+  0) a woman holding a teddy bear in front of a mirror . (p=0.000092)
+  1) a woman holding a teddy bear in a room . (p=0.000049)
+  2) a woman holding a teddy bear in her hand . (p=0.000040)
+Captions for image 51522792_622835494817271_7324670654126017659_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001493)
+  1) a bottle of wine and a bottle of wine . (p=0.000870)
+  2) a bottle of beer and a bottle of wine . (p=0.000654)
+Captions for image 50867093_118809215905436_6032366463656156422_n.jpg:
+  0) a bunch of scissors are on a table (p=0.000051)
+  1) a bunch of scissors are on a table . (p=0.000032)
+  2) a bunch of scissors are on a cutting board . (p=0.000021)
+Captions for image 51609157_1252806071510982_3688737286973687861_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000252)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000052)
+  2) a pair of scissors sitting on top of a table (p=0.000044)
+Captions for image 51556826_246404439570465_911453427710937217_n.jpg:
+  0) a bunch of different colored ties hanging on a wall . (p=0.000056)
+  1) a bunch of different colored ties hanging from a wall . (p=0.000043)
+  2) a bunch of different colored ties hanging on a wall (p=0.000026)
+Captions for image 50952119_2269428006653911_9025901471323576279_n.jpg:
+  0) a collage of photos with a variety of different items . (p=0.000008)
+  1) a collage of photos with a variety of different items (p=0.000004)
+  2) a collage of photos of a man holding a frisbee . (p=0.000002)
+Captions for image 51502912_400057533872747_4042699949262097564_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.003028)
+  1) a bottle of wine and a bottle of wine . (p=0.001219)
+  2) a bottle of wine and a bottle of wine (p=0.000479)
+Captions for image 51712104_172566243714098_828908311633899349_n.jpg:
+  0) a display case filled with lots of different cakes . (p=0.000139)
+  1) a display case filled with lots of teddy bears . (p=0.000105)
+  2) a display case filled with lots of different cakes (p=0.000009)
+Captions for image 51661782_409558103180252_8028212455983617164_n.jpg:
+  0) a table topped with lots of different types of items . (p=0.000119)
+  1) a table topped with a bunch of different types of scissors . (p=0.000031)
+  2) a table topped with lots of different types of different items . (p=0.000025)
+Captions for image 51791776_2319768924947115_5597191909003424827_n.jpg:
+  0) a group of teddy bears sitting on top of a table . (p=0.000160)
+  1) a group of teddy bears sitting on a table . (p=0.000154)
+  2) a group of teddy bears sitting on a shelf . (p=0.000132)
+Captions for image 50898633_2496164163731092_4592223927109240793_n.jpg:
+  0) a bottle of beer sitting on top of a table . (p=0.000385)
+  1) a bottle of beer sitting on a table next to a bottle . (p=0.000014)
+  2) a bottle of beer sitting on a table next to a bottle of wine . (p=0.000009)
+Captions for image 52784238_2309595322405081_1360349105311181922_n.jpg:
+  0) a bunch of items that are on a table . (p=0.000390)
+  1) a bunch of items that are on a table (p=0.000190)
+  2) a table topped with lots of different types of items . (p=0.000126)
+Captions for image 51151544_802866086758875_7342370655159002945_n.jpg:
+  0) a bunch of items that are on a table . (p=0.000415)
+  1) a bunch of items that are on a table (p=0.000171)
+  2) a bunch of items that are sitting on a table . (p=0.000153)
+Captions for image 51064963_293024968054047_7448463234736266173_n.jpg:
+  0) a clock on a wall with a clock on it (p=0.000001)
+  1) a clock on a wall with a clock on it . (p=0.000001)
+  2) a clock on a wall with a clock on top (p=0.000000)
+Captions for image 51283655_317471755640545_428473597563117931_n.jpg:
+  0) a bunch of different colored ties on a table . (p=0.000099)
+  1) a bunch of different colored ties on a table (p=0.000096)
+  2) a bunch of different colored ties hanging on a wall . (p=0.000058)
+Captions for image 51506959_545150262637346_1352868968350196871_n.jpg:
+  0) a close up of a pair of scissors on a table (p=0.000733)
+  1) a close up of a pair of scissors (p=0.000693)
+  2) a close up of a pair of scissors on a wooden table (p=0.000087)
+Captions for image 51475486_258365475087325_6924934013826944048_n.jpg:
+  0) a close up of a pair of scissors (p=0.001440)
+  1) a close up of a pair of scissors on a table (p=0.000606)
+  2) a pair of scissors and a pair of scissors . (p=0.000172)
+Captions for image 51113494_137558343951733_7136732860962352736_n.jpg:
+  0) a close up of a pair of scissors (p=0.001090)
+  1) a pair of scissors sitting on top of a table . (p=0.000700)
+  2) a close up of a pair of scissors on a table (p=0.000559)
+Captions for image 50515016_375657312986431_6359781771535649528_n.jpg:
+  0) a statue of a man sitting on top of a boat . (p=0.000008)
+  1) a statue of a man sitting on top of a wooden bench . (p=0.000007)
+  2) a statue of a man sitting on top of a bench . (p=0.000006)
+Captions for image 50844769_621601048293657_4982632256820815802_n.jpg:
+  0) a book shelf with a clock on it . (p=0.000011)
+  1) a book shelf with a clock on top of it . (p=0.000011)
+  2) a book shelf with a clock on it (p=0.000009)
+Captions for image 51198992_357802361726333_1983238320181646132_n.jpg:
+  0) a couple of women standing next to each other . (p=0.000495)
+  1) a couple of women standing next to each other in a room . (p=0.000030)
+  2) a couple of women standing next to each other holding a teddy bear . (p=0.000015)
+Captions for image 50341040_2197749490542354_566931807702143390_n.jpg:
+  0) a pile of stuffed animals sitting on top of a table . (p=0.000057)
+  1) a pile of stuffed animals sitting on top of a wooden table . (p=0.000013)
+  2) a pile of stuffed animals sitting next to a pile of fruit . (p=0.000002)
+Captions for image 50925314_131924344521170_5298441260504646345_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.001094)
+  1) a pair of scissors and a pair of scissors . (p=0.000254)
+  2) a pair of scissors sitting on top of a table (p=0.000172)
+Captions for image 51018455_534162453774801_7304149835013402525_n.jpg:
+  0) a close up of a pair of scissors (p=0.000576)
+  1) a close up of a pair of scissors on a table (p=0.000113)
+  2) a close up of a blue and gold tie (p=0.000018)
+Captions for image 50794048_116498086123148_2854686567858974373_n.jpg:
+  0) a birthday cake with a train on it (p=0.000033)
+  1) a birthday cake with a train on it . (p=0.000024)
+  2) a cake that has been made to look like a train . (p=0.000007)
+Captions for image 50946642_411177472951051_905674245419385238_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000320)
+  1) a person is holding a pair of scissors (p=0.000277)
+  2) a person holding a pair of scissors in their hands (p=0.000110)
+Captions for image 51078404_137074593999915_4204991928028419134_n.jpg:
+  0) a group of stuffed animals sitting on top of a table . (p=0.000071)
+  1) a group of teddy bears sitting on top of a table . (p=0.000056)
+  2) a group of stuffed animals sitting on top of a shelf . (p=0.000046)
+Captions for image 51576620_663364230728449_6342672418507664464_n.jpg:
+  0) a little girl sitting in a chair with a teddy bear . (p=0.000029)
+  1) a little girl sitting in a chair holding a teddy bear . (p=0.000022)
+  2) a little girl sitting in a chair with a teddy bear (p=0.000011)
+Captions for image 52417470_140103897016201_1801452178068675217_n.jpg:
+  0) a collage of photos with a sign on the wall (p=0.000016)
+  1) a collage of photos with a sign on the wall . (p=0.000005)
+  2) a collage of photos with a sign that says <UNK> . (p=0.000002)
+Captions for image 51801077_133285371045992_4498869106941285008_n.jpg:
+  0) a birthday cake with candles on a table . (p=0.000013)
+  1) a birthday cake with candles on a table (p=0.000012)
+  2) a birthday cake with candles on it sitting on a table . (p=0.000009)
+Captions for image 51141441_512925512572150_2153531063159597510_n.jpg:
+  0) a pair of scissors and a pair of scissors . (p=0.000492)
+  1) a pair of scissors and a pair of scissors (p=0.000143)
+  2) a pair of scissors with a pair of scissors . (p=0.000130)
+Captions for image 51525972_165391481114960_2206580170208391038_n.jpg:
+  0) a close up of a pair of scissors (p=0.000336)
+  1) a close up of a pair of scissors on a table (p=0.000054)
+  2) a close up of a bunch of scissors (p=0.000024)
+Captions for image 50932758_2316414958369014_8863605137647529676_n.jpg:
+  0) a cat laying on top of a bed . (p=0.001815)
+  1) a cat laying on top of a bed next to a window . (p=0.000155)
+  2) a cat laying on top of a bed next to a pillow . (p=0.000112)
+Captions for image 50560319_787196461638791_1950841791068713282_n.jpg:
+  0) a cake that has been placed on a table . (p=0.000051)
+  1) a cake that has been placed on a table (p=0.000018)
+  2) a cake that has been placed on a plate . (p=0.000006)
+Captions for image 51117619_2290325957890633_213525950685673000_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000787)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000296)
+  2) a pair of scissors sitting on a table . (p=0.000293)
+Captions for image 51224326_372330916881159_7169337995606435178_n.jpg:
+  0) a birthday cake with a train on it (p=0.000056)
+  1) a birthday cake with a train on it . (p=0.000035)
+  2) a birthday cake with candles on a table (p=0.000024)
+Captions for image 51566056_2097316277050566_1255942109096248535_n.jpg:
+  0) a close up of a cat laying on a couch (p=0.001232)
+  1) a close up of a cat laying on a bed (p=0.000532)
+  2) a close up of a cat laying on top of a couch (p=0.000062)
+Captions for image 50886424_197621957860401_6589961175649543614_n.jpg:
+  0) a group of teddy bears sitting on top of a table . (p=0.000203)
+  1) a group of stuffed animals sitting on top of a table . (p=0.000169)
+  2) a group of teddy bears sitting on a table . (p=0.000120)
+Captions for image 50985970_355253675068522_2649372984279801883_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000792)
+  1) a person holding a pair of scissors in their hands (p=0.000159)
+  2) a person holding a pair of scissors in their hand . (p=0.000113)
+Captions for image 51555128_782774245427914_1331209283122128340_n.jpg:
+  0) a cat laying on top of a wooden table . (p=0.000463)
+  1) a cat laying on top of a bed . (p=0.000425)
+  2) a cat laying on top of a bed next to a window . (p=0.000224)
+Captions for image 50919741_1216148385208829_810251486666911277_n.jpg:
+  0) a vase with flowers in it sitting on a window sill . (p=0.000024)
+  1) a clock on a wall in a building (p=0.000016)
+  2) a vase with flowers in it sitting on a table . (p=0.000013)
+Captions for image 51544895_143124030038954_697517629424495067_n.jpg:
+  0) a clock that is on the wall next to a wall . (p=0.000002)
+  1) a clock that is on the wall next to a wall (p=0.000001)
+  2) a clock that is on the wall next to a book . (p=0.000001)
+Captions for image 49360369_2384463605119711_1745525556360707792_n.jpg:
+  0) a man holding a pair of skis in his hands . (p=0.000369)
+  1) a man holding a pair of scissors in his hands . (p=0.000314)
+  2) a man holding a pair of skis in his hand . (p=0.000140)
+Captions for image 51957867_244993046405655_8903972028364233471_n.jpg:
+  0) a close up of a cat laying on a bed (p=0.006347)
+  1) a close up of a cat laying on a couch (p=0.006205)
+  2) a close up of a cat on a bed (p=0.001888)
+Captions for image 51300823_323418295196548_8257607566109298294_n.jpg:
+  0) a man sitting on a chair in a room . (p=0.000407)
+  1) a man in a suit and tie sitting in a chair . (p=0.000180)
+  2) a man in a suit and tie sitting on a couch . (p=0.000135)
+Captions for image 52337797_2348192162131688_608199297601024511_n.jpg:
+  0) a close up of a cake on a table (p=0.000211)
+  1) a close up of a cake on a plate (p=0.000029)
+  2) a close up of a cake on a table in a room (p=0.000003)
+Captions for image 51457478_2317899041789270_7251531350932348225_n.jpg:
+  0) a woman in a red shirt and a tie . (p=0.000007)
+  1) a woman in a red shirt and a tie (p=0.000007)
+  2) a woman in a red shirt and a red tie (p=0.000007)
+Captions for image 51803946_151518155846330_8790034816561227239_n.jpg:
+  0) a person holding a bottle of beer in their hand . (p=0.000109)
+  1) a person is holding a bottle of wine (p=0.000099)
+  2) a person holding a bottle of beer in front of a computer . (p=0.000050)
+Captions for image 51448053_2520544617975510_605781440061499155_n.jpg:
+  0) a cat laying on top of a bed . (p=0.000429)
+  1) a cat laying on top of a bed next to a window . (p=0.000143)
+  2) a cat laying on top of a couch next to a window . (p=0.000096)
+Captions for image 46352149_468563860343972_5382668006582336037_n.jpg:
+  0) a statue of a man holding a teddy bear . (p=0.000203)
+  1) a statue of a man holding a teddy bear (p=0.000050)
+  2) a statue of a man holding a stuffed bear . (p=0.000028)
+Captions for image 50300100_161602378160042_8249679956166120361_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.002099)
+  1) a pair of scissors sitting on a table . (p=0.000953)
+  2) a pair of scissors sitting on top of a wooden table . (p=0.000702)
+Captions for image 51156723_333773430575545_256403986412003849_n.jpg:
+  0) a person holding a hot dog in their hand . (p=0.000503)
+  1) a person holding a hot dog in a bun . (p=0.000130)
+  2) a person holding a hot dog in their hand (p=0.000101)
+Captions for image 52733591_2307304789525336_3101228806814684028_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.004472)
+  1) a bottle of wine and a bottle of wine . (p=0.002917)
+  2) a bottle of wine sitting next to a bottle of wine . (p=0.002819)
+Captions for image 50952119_415563322548095_4555300504227631174_n.jpg:
+  0) a close up of a pair of scissors (p=0.000669)
+  1) a close up of a pair of scissors on a table (p=0.000175)
+  2) a close up of a pair of scissors on a box (p=0.000034)
+Captions for image 51113634_605431643202972_6565378466625636564_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.002763)
+  1) a bottle of wine and a bottle of wine . (p=0.002380)
+  2) a bottle of wine and a bottle of wine (p=0.000827)
+Captions for image 51052241_2324979377717273_8446044494129533895_n.jpg:
+  0) a person holding a wii remote in their hand . (p=0.000676)
+  1) a person holding a wii remote in their hands . (p=0.000403)
+  2) a person holding a pair of scissors in their hands . (p=0.000320)
+Captions for image 51383608_379016959343959_1879268381172868045_n.jpg:
+  0) a bottle of beer sitting next to a bottle of beer . (p=0.000170)
+  1) a close up of a bottle of beer next to a bottle (p=0.000141)
+  2) a bottle of beer sitting next to a bottle of wine . (p=0.000081)
+Captions for image 50766690_2268382513410006_5300939469458233817_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001171)
+  1) a person holding a bottle of wine in front of a glass . (p=0.000068)
+  2) a person holding a bottle of wine in front of a glass of wine . (p=0.000040)
+Captions for image 51168471_867294683648159_467281300043575263_n.jpg:
+  0) a white toilet sitting on top of a wooden floor . (p=0.000164)
+  1) a white toilet sitting on top of a wooden table . (p=0.000122)
+  2) a white toilet sitting on top of a cement floor . (p=0.000121)
+Captions for image 49603664_1989789961324567_7336118583264864704_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.002651)
+  1) a bottle of wine and a bottle of wine . (p=0.001149)
+  2) a bottle of wine and a bottle of wine (p=0.000389)
+Captions for image 50616236_320835788550042_3357457217583782802_n.jpg:
+  0) a man sitting on a couch holding a remote . (p=0.000673)
+  1) a man sitting on a couch holding a wii remote . (p=0.000402)
+  2) a man sitting on a couch with a remote control . (p=0.000177)
+Captions for image 50837902_300042543947572_8459140949316688540_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000795)
+  1) a person is holding a pair of scissors . (p=0.000631)
+  2) a person is holding a pair of scissors (p=0.000450)
+Captions for image 51442668_291853248121528_1295828691579611834_n.jpg:
+  0) a close up of a mirror with a digital clock on it (p=0.000003)
+  1) a close up of a mirror with a clock (p=0.000003)
+  2) a close up of a mirror with a digital clock (p=0.000002)
+Captions for image 50247623_2231595220288845_6427447529937596456_n.jpg:
+  0) a person holding a bottle of beer in front of a computer . (p=0.000036)
+  1) a person holding a bottle of beer in front of a laptop . (p=0.000030)
+  2) a person holding a bottle of wine in front of a computer . (p=0.000030)
+Captions for image 50819624_401636507307216_2223152581104467083_n.jpg:
+  0) a bottle of beer sitting on top of a table . (p=0.000020)
+  1) a bottle of beer sitting on a table . (p=0.000014)
+  2) a bottle of beer sitting on top of a wooden table . (p=0.000009)
+Captions for image 51300817_304235760451212_6729127356924220887_n.jpg:
+  0) a crowd of people standing around a large clock . (p=0.000041)
+  1) a group of people standing around a large clock . (p=0.000035)
+  2) a group of people standing around a table with a clock . (p=0.000005)
+Captions for image 47694369_376589796252250_4024481136356314_n.jpg:
+  0) a fire hydrant in the middle of a field . (p=0.000186)
+  1) a fire hydrant in the middle of a forest . (p=0.000178)
+  2) a fire hydrant in the middle of a field of grass . (p=0.000073)
+Captions for image 50252771_2070158713076594_6806567093730626350_n.jpg:
+  0) a man holding a white frisbee in his right hand . (p=0.000818)
+  1) a person holding a frisbee in their hands . (p=0.000552)
+  2) a person holding a white frisbee in their hands . (p=0.000386)
+Captions for image 50924449_188678498757062_150530326484515678_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000232)
+  1) a man holding a pair of scissors in his hands . (p=0.000088)
+  2) a man is holding a pair of scissors (p=0.000084)
+Captions for image 51467663_336393523633711_8126003182282791945_n.jpg:
+  0) a woman wearing a tie and a hat . (p=0.000101)
+  1) a woman wearing a hat and a tie . (p=0.000097)
+  2) a woman wearing a hat and a tie (p=0.000033)
+Captions for image 49906986_235120094099475_5282295281709250180_n.jpg:
+  0) a couple of people that are standing in the snow . (p=0.000305)
+  1) a couple of people standing on top of a snow covered slope . (p=0.000289)
+  2) a couple of people that are on some snow (p=0.000165)
+Captions for image 52345716_2200566560195800_2692394209647786972_n.jpg:
+  0) a woman wearing a white shirt and tie . (p=0.000114)
+  1) a woman wearing a white shirt and black tie . (p=0.000080)
+  2) a woman wearing a white shirt and a tie . (p=0.000057)
+Captions for image 50058431_243625179860056_7853794362596154823_n.jpg:
+  0) a red stop sign sitting next to a tall building . (p=0.000095)
+  1) a red stop sign sitting next to a building . (p=0.000074)
+  2) a stop sign with a sign on it (p=0.000022)
+Captions for image 51852467_2097659503652349_3034456620697910169_n.jpg:
+  0) a cat is sitting on a bed with a blanket . (p=0.000009)
+  1) a cat is sitting on a bed with a red blanket . (p=0.000003)
+  2) a cat is sitting on a bed with a blue blanket . (p=0.000003)
+Captions for image 50687429_2255928287956668_6526331729780756667_n.jpg:
+  0) a man in a suit and tie holding a cell phone . (p=0.000018)
+  1) a man in a suit and tie holding a cell phone (p=0.000007)
+  2) a man in a suit and tie is holding a cell phone . (p=0.000006)
+Captions for image 50751467_170796737220350_1019403939501907660_n.jpg:
+  0) a man riding a skateboard down a sidewalk . (p=0.000633)
+  1) a young man riding a skateboard down a sidewalk . (p=0.000298)
+  2) a man riding a skateboard on top of a cement ramp . (p=0.000192)
+Captions for image 50254793_583774015428786_2646641355924168460_n.jpg:
+  0) a woman brushing her teeth with a tooth brush . (p=0.001737)
+  1) a woman is brushing her teeth in the bathroom . (p=0.000639)
+  2) a woman brushing her teeth with a tooth brush (p=0.000561)
+Captions for image 51039993_1526542050810220_7220855333490748965_n.jpg:
+  0) a white and black cat is sitting on a couch . (p=0.000018)
+  1) a white and black cat is sitting on a table . (p=0.000015)
+  2) a white and black cat with a red collar (p=0.000013)
+Captions for image 50297849_391726691373587_3848459866032453606_n.jpg:
+  0) a bird perched on top of a tree branch . (p=0.003180)
+  1) a bird perched on top of a tree . (p=0.002839)
+  2) a bird perched on top of a tree in a forest . (p=0.000596)
+Captions for image 50254795_297401464254185_1156487962819428700_n.jpg:
+  0) a woman is brushing her teeth in the bathroom . (p=0.000537)
+  1) a woman is brushing her teeth in a bathroom . (p=0.000501)
+  2) a woman is brushing her teeth in the mirror . (p=0.000411)
+Captions for image 51708427_630877124015741_6851594944094683988_n.jpg:
+  0) a store filled with lots of different types of food . (p=0.000047)
+  1) a store filled with lots of different colored vases . (p=0.000041)
+  2) a store filled with lots of different types of items . (p=0.000022)
+Captions for image 50247605_379017376020218_3456701499540423823_n.jpg:
+  0) a couple of birds sitting on top of a tree . (p=0.000297)
+  1) a red and white fire hydrant in the snow . (p=0.000067)
+  2) a red and white fire hydrant in the snow (p=0.000035)
+Captions for image 50543166_414596295748723_9203603742573555845_n.jpg:
+  0) a close up of a baseball bat on a field (p=0.000783)
+  1) a close up of a baseball bat in a field (p=0.000282)
+  2) a close up of a baseball bat on a baseball field (p=0.000130)
+Captions for image 50767925_247330942844427_8387956121534067494_n.jpg:
+  0) a room filled with lots of tables and chairs . (p=0.000374)
+  1) a room filled with lots of furniture and a table . (p=0.000019)
+  2) a room filled with lots of furniture and a large window . (p=0.000008)
+Captions for image 50140733_2256498541263473_115073027077667529_n.jpg:
+  0) a bowl of food on a table with a spoon (p=0.000006)
+  1) a bowl of food on a table with a fork (p=0.000004)
+  2) a bowl of food on a table next to a bowl of fruit . (p=0.000002)
+Captions for image 50262149_2415301131815349_5082810152885950656_n.jpg:
+  0) a flock of birds flying over a forest . (p=0.001641)
+  1) a flock of birds sitting on top of a tree . (p=0.000517)
+  2) a flock of birds flying over a forest filled with trees . (p=0.000249)
+Captions for image 51224323_1559178410893725_2193208176529821065_n.jpg:
+  0) a cat laying on top of a bed . (p=0.000769)
+  1) a cat laying on top of a blanket . (p=0.000417)
+  2) a cat laying on top of a bed with a blanket . (p=0.000037)
+Captions for image 51165172_336695106946617_826535617149165484_n.jpg:
+  0) a woman in a dress shirt and tie . (p=0.000249)
+  1) a woman in a dress shirt and a tie . (p=0.000072)
+  2) a woman in a dress shirt and a tie (p=0.000035)
+Captions for image 49906847_114841152950463_4137749051242100264_n.jpg:
+  0) a gray and white cat is sitting on a couch (p=0.000056)
+  1) a white and black cat is sitting on a couch . (p=0.000043)
+  2) a gray and white cat is sitting on a couch . (p=0.000042)
+Captions for image 50732487_2531944350213836_7862090374679895544_n.jpg:
+  0) a flock of birds sitting on top of a tree . (p=0.008109)
+  1) two birds perched on top of a tree . (p=0.001145)
+  2) a flock of birds flying over a forest . (p=0.000938)
+Captions for image 50035339_1222854077865424_3697448395160967015_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000129)
+  1) a man in a suit and tie holding a cell phone . (p=0.000056)
+  2) a man in a suit and tie is smiling (p=0.000046)
+Captions for image 50593861_142587296765214_8137899451246476169_n.jpg:
+  0) a gray and white cat wearing a tie . (p=0.000327)
+  1) a gray and white cat wearing a red tie . (p=0.000229)
+  2) a gray and white cat is wearing a tie . (p=0.000128)
+Captions for image 49735472_223602671903942_7731716651813106928_n.jpg:
+  0) a large building with a clock on it . (p=0.000315)
+  1) a large building with a clock on it (p=0.000210)
+  2) a very tall building with a clock on it . (p=0.000178)
+Captions for image 49477477_669077470161908_5487955543602544388_n.jpg:
+  0) a man in a suit and tie holding a book . (p=0.000018)
+  1) a man in a suit and tie holding a sign . (p=0.000013)
+  2) a man in a suit and tie holding a book (p=0.000007)
+Captions for image 50882623_107805043672456_2280138087828277293_n.jpg:
+  0) a man wearing a hat and a hat . (p=0.000436)
+  1) a man wearing a hat and a tie . (p=0.000378)
+  2) a man wearing a hat and a hat (p=0.000149)
+Captions for image 50221211_102460414131085_710091516598883755_n.jpg:
+  0) a black and white photo of a stop sign . (p=0.000239)
+  1) a black and white photo of a stop sign (p=0.000174)
+  2) a black and white photo of a sign that says <UNK> . (p=0.000006)
+Captions for image 51039993_573152619825558_3454317259129008133_n.jpg:
+  0) a cat laying on a bed with a blanket . (p=0.000165)
+  1) a cat laying on a bed with a blanket (p=0.000109)
+  2) a cat sitting on a bed with a blanket . (p=0.000107)
+Captions for image 50618322_656388248131410_7560545064765745073_n.jpg:
+  0) a cat sitting on top of a window sill . (p=0.000526)
+  1) a cat sitting on top of a wooden chair . (p=0.000498)
+  2) a cat sitting on top of a wooden table . (p=0.000304)
+Captions for image 50777308_2101897273208252_5936809034302656723_n.jpg:
+  0) a brown and white bird is sitting on a rock (p=0.000048)
+  1) a brown and white bird sitting on top of a rock . (p=0.000039)
+  2) a brown and white bird is sitting on the ground (p=0.000037)
+Captions for image 49983612_239690826953716_3402858021024456987_n.jpg:
+  0) a blue and yellow umbrella sitting on a beach . (p=0.000009)
+  1) a blue and white umbrella sitting on a beach . (p=0.000008)
+  2) a blue and yellow umbrella sitting on the ground . (p=0.000006)
+Captions for image 50574465_2104159856320407_8528376309466521243_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.000729)
+  1) a red stop sign sitting in the middle of a forest . (p=0.000609)
+  2) a red stop sign sitting next to a tree . (p=0.000157)
+Captions for image 49548300_124560775258195_7853418243953841690_n.jpg:
+  0) a cat sitting on top of a laptop computer . (p=0.000941)
+  1) a cat sitting on top of a white laptop . (p=0.000361)
+  2) a cat sitting on a table next to a laptop . (p=0.000143)
+Captions for image 50740937_633451967074357_683237611799069339_n.jpg:
+  0) a close up of a person wearing a tie (p=0.000730)
+  1) a close up of a person with a tie (p=0.000281)
+  2) a close up of a person holding a pair of scissors (p=0.000259)
+Captions for image 49691916_821144551558198_5486643586107819558_n.jpg:
+  0) a close up of a wall with a clock (p=0.000017)
+  1) a close up of a wall with a clock on it (p=0.000010)
+  2) a close up of a large mirror with a sky background (p=0.000004)
+Captions for image 50938215_391634218073576_8962189174206307338_n.jpg:
+  0) a cat laying on top of a wooden chair . (p=0.001625)
+  1) a cat laying on top of a wooden bench . (p=0.000854)
+  2) a cat laying on top of a wooden floor . (p=0.000382)
+Captions for image 49731092_110984159997483_3736633671353095298_n.jpg:
+  0) a man is holding a cell phone to his ear . (p=0.000061)
+  1) a man is holding a cell phone in his hand . (p=0.000058)
+  2) a man is holding a cell phone to his ear (p=0.000025)
+Captions for image 49759367_1892115437552948_6289547514609283976_n.jpg:
+  0) a man in a suit and tie taking a selfie . (p=0.000309)
+  1) a man in a suit and tie is smiling . (p=0.000207)
+  2) a man in a suit and tie taking a selfie (p=0.000191)
+Captions for image 49933387_2360562537500299_4457629801448790380_n.jpg:
+  0) a snow covered ski slope with a snow covered mountain in the background . (p=0.000029)
+  1) a snow covered ski slope with snow covered mountains . (p=0.000023)
+  2) a snow covered ski slope with a snow covered mountain . (p=0.000023)
+Captions for image 49858492_640320979771265_2580040037374283672_n.jpg:
+  0) a cat laying on top of a blue suitcase . (p=0.000636)
+  1) a cat laying on top of a blue chair . (p=0.000308)
+  2) a cat laying on top of a blue blanket . (p=0.000272)
+Captions for image 49608704_2271064839842881_5181722490599264548_n.jpg:
+  0) a group of people standing around a giant teddy bear . (p=0.000013)
+  1) a man wearing a hat and holding a teddy bear . (p=0.000012)
+  2) a man wearing a hat and holding a stuffed animal . (p=0.000004)
+Captions for image 49907188_696347114095452_7087374875178623110_n.jpg:
+  0) a graffiti covered wall with graffiti on it . (p=0.000209)
+  1) a graffiti covered bus with graffiti on it . (p=0.000117)
+  2) a graffiti covered train with graffiti on it . (p=0.000111)
+Captions for image 50247621_111682323265993_5891680076551024376_n.jpg:
+  0) a cat laying on top of a wooden chair . (p=0.002416)
+  1) a cat laying on top of a bed . (p=0.001051)
+  2) a cat laying on top of a white chair . (p=0.000759)
+Captions for image 47693432_239354493645943_2577127615512704513_n.jpg:
+  0) a stuffed animal is sitting on a bed (p=0.000032)
+  1) a stuffed animal is sitting on a table (p=0.000027)
+  2) a stuffed animal is sitting on a bed . (p=0.000026)
+Captions for image 49293617_221040922183095_5667249829055284050_n.jpg:
+  0) a close up of a sign with a clock on it (p=0.000043)
+  1) a close up of a sign with a clock (p=0.000022)
+  2) a close up of a sign with a clock on top (p=0.000011)
+Captions for image 47693861_2040235886068461_5253201937156778744_n.jpg:
+  0) a building with a clock on the front of it . (p=0.000368)
+  1) a building with a clock on the front of it (p=0.000342)
+  2) a clock on the side of a building (p=0.000262)
+Captions for image 50000140_2328135527473238_6313679238532813287_n.jpg:
+  0) a cat laying on top of a wooden chair . (p=0.000585)
+  1) a cat laying on top of a wooden bench . (p=0.000430)
+  2) a cat laying on top of a blanket on a bed . (p=0.000090)
+Captions for image 50039916_2194197520819689_8001534463611865842_n.jpg:
+  0) a dog is laying on the ground in front of a building . (p=0.000002)
+  1) a dog is laying on the ground near a building . (p=0.000002)
+  2) a dog is laying on the ground next to a building . (p=0.000002)
+Captions for image 49494413_368562080360464_8393281198089692440_n.jpg:
+  0) a man in a suit standing in front of a mirror . (p=0.000002)
+  1) a man in a suit standing in front of a christmas tree . (p=0.000001)
+  2) a man in a suit standing in front of a mirror (p=0.000001)
+Captions for image 50562190_368362097280782_5634416498394716661_n.jpg:
+  0) a cat laying on top of a wooden bench . (p=0.002049)
+  1) a cat sitting on top of a wooden bench . (p=0.001718)
+  2) a cat sitting on top of a wooden chair . (p=0.001292)
+Captions for image 49698578_686763701720115_8291879633914444605_n.jpg:
+  0) a red brick building with a red fire hydrant . (p=0.000006)
+  1) a red brick building with a red door (p=0.000006)
+  2) a red brick building with a window and a fire hydrant . (p=0.000003)
+Captions for image 49906949_2051252268285476_3559593942428007902_n.jpg:
+  0) a cat sitting on top of a book . (p=0.000641)
+  1) a cat sitting on top of a book shelf . (p=0.000386)
+  2) a black and white cat sitting on top of a book . (p=0.000220)
+Captions for image 49786119_272788263417277_334806104585431057_n.jpg:
+  0) a collage of photos of a man holding a surfboard . (p=0.000021)
+  1) a collage of photos of a man holding a surfboard (p=0.000015)
+  2) a collage of photos of a man and a woman . (p=0.000008)
+Captions for image 50661536_2207588522834703_3322559920258338523_n.jpg:
+  0) a group of men sitting next to each other . (p=0.001819)
+  1) a group of men sitting next to each other on a bench . (p=0.000769)
+  2) a group of men sitting next to each other on a wooden bench . (p=0.000150)
+Captions for image 47690099_222022588738812_5061240386746912900_n.jpg:
+  0) a cat is sitting on top of a chair . (p=0.000057)
+  1) a cat is sitting on top of a chair (p=0.000032)
+  2) a cat is sitting on top of a red chair . (p=0.000014)
+Captions for image 47693765_228310048045753_5717854869623067227_n.jpg:
+  0) a close up of a cat laying on a couch (p=0.005086)
+  1) a close up of a cat laying on a bed (p=0.002477)
+  2) a cat laying on top of a couch . (p=0.001074)
+Captions for image 47586247_291591724738428_7385437447730967373_n.jpg:
+  0) a snow covered mountain with a clock on it . (p=0.000005)
+  1) a snow covered mountain with a clock on it (p=0.000003)
+  2) a snow covered mountain with a clock on the top of it . (p=0.000002)
+Captions for image 47690020_2121846344548664_9144788420621808848_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000385)
+  1) a clock tower in the middle of a city . (p=0.000244)
+  2) a large building with a clock on the front of it . (p=0.000112)
+Captions for image 47692494_568025063665522_4699783495890038703_n.jpg:
+  0) a cat sitting on top of a red umbrella . (p=0.000113)
+  1) a cat sitting on top of a black umbrella . (p=0.000112)
+  2) a cat sitting on top of a red umbrella (p=0.000009)
+Captions for image 47691469_588828934879072_5904779296659845415_n.jpg:
+  0) a cat laying on top of a bed next to a window . (p=0.000270)
+  1) a cat laying on top of a couch next to a window . (p=0.000161)
+  2) a cat laying on top of a couch next to a cat . (p=0.000037)
+Captions for image 47691382_223976981824405_600491461022672132_n.jpg:
+  0) a man in a business suit is holding a cell phone . (p=0.000002)
+  1) a man in a business suit is holding up a sign . (p=0.000001)
+  2) a man in a suit and tie is holding a book . (p=0.000000)
+Captions for image 47690263_2247586992180990_6374792628178367247_n.jpg:
+  0) a tree filled with lots of yellow flowers . (p=0.000402)
+  1) a tree filled with lots of green and yellow flowers . (p=0.000189)
+  2) a tree filled with lots of yellow and green leaves . (p=0.000062)
+Captions for image 47694304_137507913926977_5315965586295267960_n.jpg:
+  0) a church with a steeple and a clock tower . (p=0.000054)
+  1) a church with a steeple on top of it . (p=0.000040)
+  2) a church with a steeple on top of it (p=0.000012)
+Captions for image 49393748_305389130320617_4469201256463769122_n.jpg:
+  0) a cat laying on top of a wooden chair . (p=0.000297)
+  1) a cat laying on top of a wooden table . (p=0.000211)
+  2) a cat laying on top of a couch cushion . (p=0.000209)
+Captions for image 47694923_376100586472992_5582488912864464963_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000033)
+  1) a man in a suit and tie is smiling (p=0.000013)
+  2) a man in a suit and tie holding a sign . (p=0.000011)
+Captions for image 44622172_324353381628499_95614440608418418_n.jpg:
+  0) a view of a road with a stop sign . (p=0.000001)
+  1) a view of a road with a stop sign on it . (p=0.000000)
+  2) a view of a road with a stop sign on it (p=0.000000)
+Captions for image 50083424_229063644686170_5453363950914754869_n.jpg:
+  0) a tall building with a clock on it (p=0.000366)
+  1) a tall building with a clock on it . (p=0.000350)
+  2) a tall building with a clock on top of it . (p=0.000184)
+Captions for image 47582350_758560407856031_8172234267014639769_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000103)
+  1) a large building with a clock tower in the middle of it . (p=0.000038)
+  2) a large building with a clock tower in the middle . (p=0.000036)
+Captions for image 49361071_290298135019248_1003100597634696160_n.jpg:
+  0) a large cathedral with a clock on it 's face . (p=0.000271)
+  1) a large cathedral with a clock on it 's side . (p=0.000186)
+  2) a large cathedral with a clock on it (p=0.000133)
+Captions for image 49793914_540517866357411_8708566821092686400_n.jpg:
+  0) a man standing in front of a building . (p=0.000886)
+  1) a man standing in front of a brick wall . (p=0.000257)
+  2) a man standing in front of a building with a clock . (p=0.000114)
+Captions for image 49998211_332799687320238_3070524595953972823_n.jpg:
+  0) a bunch of flowers that are in the snow . (p=0.000208)
+  1) a tree filled with lots of yellow flowers . (p=0.000173)
+  2) a bunch of yellow flowers in a tree . (p=0.000090)
+Captions for image 50055939_321607941789306_2697571441028898707_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000186)
+  1) a large building with a clock on the top . (p=0.000144)
+  2) a large cathedral with a clock on it (p=0.000109)
+Captions for image 47692648_2358854520815233_5161407050153592538_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000174)
+  1) a building with a clock tower in the middle of it . (p=0.000118)
+  2) a building with a clock tower in the middle of it (p=0.000114)
+Captions for image 50338261_409747912928369_7182869985377112094_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000340)
+  1) a large building with a clock tower on top . (p=0.000287)
+  2) a clock tower in the middle of a city (p=0.000105)
+Captions for image 49619344_516553108857117_2897812294818487361_n.jpg:
+  0) a group of people sitting on top of a wooden bench . (p=0.002104)
+  1) a group of people sitting on a wooden bench . (p=0.001140)
+  2) a group of people sitting on a bench in the snow . (p=0.000262)
+Captions for image 47690749_1858589354263956_3950253197392038830_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000146)
+  1) a bunch of flowers that are in a tree . (p=0.000126)
+  2) a tree with a bunch of flowers in it (p=0.000111)
+Captions for image 49989915_2072736036153012_4474500397598580319_n.jpg:
+  0) a cat laying on a couch with a stuffed animal (p=0.000080)
+  1) a cat laying on a couch next to a stuffed animal . (p=0.000076)
+  2) a cat laying on a couch next to a stuffed animal (p=0.000052)
+Captions for image 47583841_548556905646145_3619603400501452892_n.jpg:
+  0) a cake shaped like a train on a table . (p=0.000029)
+  1) a cake shaped like a train on a train track . (p=0.000015)
+  2) a cake shaped like a train is on a table . (p=0.000010)
+Captions for image 47694122_355112881969673_629830774689788616_n.jpg:
+  0) a man and a woman sitting on a bus . (p=0.000095)
+  1) a man sitting on the back of a truck . (p=0.000091)
+  2) a man and a woman sitting on a bus (p=0.000033)
+Captions for image 47692190_2246502335597835_472304136225332248_n.jpg:
+  0) a large clock tower towering over a city . (p=0.004311)
+  1) a large clock tower towering over a city at night . (p=0.001561)
+  2) a clock tower in the middle of a city . (p=0.000831)
+Captions for image 47585214_331951947405997_4091180093225329121_n.jpg:
+  0) a large building with a clock at the top . (p=0.000845)
+  1) a large building with a clock at the top (p=0.000452)
+  2) a large building with a clock on it (p=0.000409)
+Captions for image 47691027_1097409940430487_1274228643451126576_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001759)
+  1) a city street filled with lots of tall buildings . (p=0.000276)
+  2) a city street filled with lots of traffic and trees . (p=0.000079)
+Captions for image 47693799_132843731067903_5042629791028985730_n.jpg:
+  0) a vase of flowers sits on a table . (p=0.000159)
+  1) a vase with flowers on it sitting on a table . (p=0.000032)
+  2) a vase with flowers on it sitting on a table (p=0.000018)
+Captions for image 47694390_341286360045724_7383774306839821538_n.jpg:
+  0) a building with a clock on the front of it . (p=0.000305)
+  1) a building with a clock on the front of it (p=0.000281)
+  2) a building with a clock on the top of it . (p=0.000198)
+Captions for image 49284584_541871492889722_6248946570012812223_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001759)
+  1) a city street filled with lots of tall buildings . (p=0.000276)
+  2) a city street filled with lots of traffic and trees . (p=0.000079)
+Captions for image 49858127_284965372219342_8608229686148438623_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.001243)
+  1) a red fire hydrant in a wooded area . (p=0.000450)
+  2) a fire hydrant in the middle of a wooded area . (p=0.000300)
+Captions for image 46885360_223837391744849_8166742064951011483_n.jpg:
+  0) a dog that is standing in the snow . (p=0.000301)
+  1) a dog is standing in the snow next to a fire hydrant . (p=0.000008)
+  2) a dog that is standing in the snow with a frisbee . (p=0.000003)
+Captions for image 47692379_1952630625031917_1717331658369099703_n.jpg:
+  0) a large building with a clock on it . (p=0.000091)
+  1) a large building with a large clock on it . (p=0.000054)
+  2) a large building with a clock on it (p=0.000053)
+Captions for image 47693673_165380531100282_4442930732081736761_n.jpg:
+  0) a group of people riding on top of a boat . (p=0.000100)
+  1) a group of people riding on the back of a boat . (p=0.000069)
+  2) a group of people riding on top of a boat in the water . (p=0.000023)
+Captions for image 47690938_1092278934285852_560996234473908978_n.jpg:
+  0) a vase with flowers in it sitting on a table . (p=0.000023)
+  1) a painting of a vase with flowers in it . (p=0.000023)
+  2) a painting of a vase with flowers in it (p=0.000019)
+Captions for image 49329056_321227675265393_7848730412769689123_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000052)
+  1) a close up of a vase with a flower in it (p=0.000012)
+  2) a close up of a statue of a giraffe (p=0.000012)
+Captions for image 49475053_331286317598247_1020127974576396137_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003144)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000530)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000235)
+Captions for image 47586228_807032772978409_5178543460499271257_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002820)
+  1) a city street filled with lots of tall buildings . (p=0.000421)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000196)
+Captions for image 47691323_142003333467350_1337298758886145634_n.jpg:
+  0) a red and white fire hydrant sitting in the middle of a forest . (p=0.000013)
+  1) a red and white fire hydrant in a field . (p=0.000008)
+  2) a red and white fire hydrant sitting in a forest . (p=0.000006)
+Captions for image 47694373_328463284545212_3427702195995789882_n.jpg:
+  0) a statue of a man sitting on top of a wooden table . (p=0.000007)
+  1) a statue of a man sitting on a bench with a vase of flowers . (p=0.000001)
+  2) a statue of a man sitting on top of a table with a vase . (p=0.000001)
+Captions for image 49398050_165771581063448_6121742391614764742_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003599)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000275)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000133)
+Captions for image 47582580_1150495285099604_5569958894425386025_n.jpg:
+  0) a man in a hat is holding an umbrella . (p=0.000007)
+  1) a man in a hat is holding an umbrella (p=0.000005)
+  2) a man in a hat is holding a kite . (p=0.000002)
+Captions for image 47581946_127860854913435_2447577223292021749_n.jpg:
+  0) a colorful kite flying in a blue sky . (p=0.000299)
+  1) a colorful kite flying in a clear blue sky . (p=0.000233)
+  2) a colorful kite flying in a blue sky (p=0.000080)
+Captions for image 49782386_376562519581455_2417726108159826836_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.002815)
+  1) a person holding a cell phone in their hands . (p=0.000929)
+  2) a person holding a cell phone in their hand (p=0.000535)
+Captions for image 46983000_2495892493988849_1068042112723748350_n.jpg:
+  0) a living room filled with lots of furniture . (p=0.001070)
+  1) a living room filled with furniture and a fire place . (p=0.000897)
+  2) a living room filled with lots of furniture and a fire place . (p=0.000271)
+Captions for image 47365049_218292772423074_893116437245687041_n.jpg:
+  0) a woman is sitting on a boat in the water . (p=0.000214)
+  1) a woman is sitting on a boat in the water (p=0.000103)
+  2) a woman is sitting on a boat with a dog . (p=0.000027)
+Captions for image 47582708_621962844887321_4215454147111293687_n.jpg:
+  0) a man in a suit and tie standing in a room . (p=0.000689)
+  1) a man in a suit and tie looking at the camera . (p=0.000326)
+  2) a man in a suit and tie looking at the camera (p=0.000298)
+Captions for image 47692921_385472215554646_3327595972887935306_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.004235)
+  1) a piece of chocolate cake on a plate . (p=0.002749)
+  2) a piece of cake on a plate with a fork (p=0.001571)
+Captions for image 46268116_796394777379366_8393925852485174410_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000153)
+  1) a large building with a clock tower in the center . (p=0.000073)
+  2) a large building with a clock tower in the middle . (p=0.000065)
+Captions for image 49363539_400611180681050_4879768767579961114_n.jpg:
+  0) a group of people riding on the backs of horses . (p=0.002151)
+  1) a group of people riding on the backs of elephants . (p=0.001601)
+  2) a group of people riding on the back of horses . (p=0.000955)
+Captions for image 47692188_1405982492870798_7328141719569044588_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.003601)
+  1) a close up of a plate of food (p=0.001062)
+  2) a close up of a pan of food with broccoli (p=0.000530)
+Captions for image 49913200_139710953702769_2710926379752052599_n.jpg:
+  0) a crowd of people standing around a tall building . (p=0.000217)
+  1) a crowd of people standing around a large building . (p=0.000184)
+  2) a crowd of people standing around a large crowd of people . (p=0.000019)
+Captions for image 47585105_374804103083145_1338383126120555884_n.jpg:
+  0) a train traveling through a forest filled with trees . (p=0.000053)
+  1) a train traveling down a train track next to a forest . (p=0.000007)
+  2) a train traveling down a train track in a forest . (p=0.000006)
+Captions for image 47689923_365101070942702_2259068803180761955_n.jpg:
+  0) a couple of cats laying on top of a bed . (p=0.000263)
+  1) a couple of cats are laying on a bed (p=0.000161)
+  2) a couple of cats laying on top of a couch . (p=0.000156)
+Captions for image 49633392_380166045892533_3268155897784223445_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000250)
+  1) a bunch of flowers that are sitting on a table . (p=0.000189)
+  2) a bunch of flowers that are in a vase (p=0.000085)
+Captions for image 46316490_310172682952773_6876801825472674101_n.jpg:
+  0) a group of people walking down a street . (p=0.001051)
+  1) a group of people walking down a street holding umbrellas . (p=0.000575)
+  2) a group of people walking down a street with umbrellas . (p=0.000273)
+Captions for image 47693322_2254780611512655_9171896485010066774_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.001783)
+  1) a person holding a cell phone in their hands . (p=0.000609)
+  2) a person holding a cell phone in their hand (p=0.000443)
+Captions for image 47691925_634751640273867_6219802506619783579_n.jpg:
+  0) a cat and a dog laying on a couch . (p=0.000107)
+  1) a cat laying on a couch with a stuffed animal (p=0.000100)
+  2) a cat laying on a couch next to a stuffed animal . (p=0.000091)
+Captions for image 47693078_2339433729460322_1297402427647272352_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.006525)
+  1) a person holding a cell phone in their hands . (p=0.001627)
+  2) a person holding a cell phone in their hand (p=0.001380)
+Captions for image 47583706_2256514904563216_2654416434146922253_n.jpg:
+  0) a large building with a large clock tower . (p=0.000158)
+  1) a large building with a clock on it (p=0.000107)
+  2) a large building with a clock on the front of it . (p=0.000054)
+Captions for image 49732057_2119435988143487_3594615744554781516_n.jpg:
+  0) a cat laying on a bed next to a teddy bear . (p=0.000210)
+  1) a cat laying on a bed next to a stuffed animal . (p=0.000171)
+  2) a cat laying on a bed with a stuffed animal (p=0.000119)
+Captions for image 47585662_2058993157725182_2287261035526185480_n.jpg:
+  0) a group of people standing on top of a large building . (p=0.000028)
+  1) a group of people standing on top of a cement walkway . (p=0.000024)
+  2) a group of people standing on top of a cement block . (p=0.000019)
+Captions for image 43737626_1979424159024189_520830118704846642_n.jpg:
+  0) a pile of rotten carrots sitting next to each other . (p=0.000246)
+  1) a pile of rotten carrots sitting on top of a wooden table . (p=0.000070)
+  2) a pile of rotten carrots sitting on top of a wooden floor . (p=0.000024)
+Captions for image 49325807_298205057502712_9106910487756350957_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.002211)
+  1) a person holding a cell phone in their hands . (p=0.000677)
+  2) a person holding a cell phone in their hand (p=0.000450)
+Captions for image 47270725_615139318943386_8998644179264211147_n.jpg:
+  0) a cat laying on top of a teddy bear . (p=0.000887)
+  1) a cat laying on top of a stuffed animal . (p=0.000635)
+  2) a cat laying on top of a stuffed teddy bear . (p=0.000378)
+Captions for image 47583859_1997327347227016_5768196742316894786_n.jpg:
+  0) a collage of pictures of a man and a woman . (p=0.000005)
+  1) a collage of photos of a man and a woman . (p=0.000004)
+  2) a collage of photos of a man and a woman (p=0.000003)
+Captions for image 47692404_132761774404311_2413338164389967806_n.jpg:
+  0) a teddy bear wearing a hat and scarf . (p=0.000021)
+  1) a teddy bear wearing a hat and scarf (p=0.000008)
+  2) a teddy bear wearing a hat and a scarf . (p=0.000004)
+Captions for image 47585269_1171049479721660_776875521268905084_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.000661)
+  1) a person holding a pair of scissors in their hands . (p=0.000511)
+  2) a person holding a cell phone in their hands . (p=0.000346)
+Captions for image 47690060_293768544817686_9173483564012198272_n.jpg:
+  0) a cat laying on top of a teddy bear . (p=0.000533)
+  1) a cat laying on top of a stuffed animal . (p=0.000405)
+  2) a cat laying on top of a bed next to a teddy bear . (p=0.000086)
+Captions for image 47693554_1016539738533177_9147142385412879524_n.jpg:
+  0) a cat that is sitting in the grass . (p=0.000300)
+  1) a cat that is laying down in the grass . (p=0.000226)
+  2) a cat that is laying down in a tree . (p=0.000046)
+Captions for image 47585334_102845957422802_5711370812337277225_n.jpg:
+  0) a close up of a cake on a table (p=0.000341)
+  1) a close up of a pair of scissors (p=0.000184)
+  2) a close up of a cake with a train on it (p=0.000041)
+Captions for image 47691330_222137265383946_6131230044565322084_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000177)
+  1) a close up of a person holding a pair of scissors (p=0.000121)
+  2) a close up of a person holding a box of doughnuts (p=0.000036)
+Captions for image 47689983_540741973076139_4981832846237732933_n.jpg:
+  0) a cat laying on top of a teddy bear . (p=0.000534)
+  1) a cat laying on top of a stuffed animal . (p=0.000472)
+  2) a cat laying on a couch with a stuffed animal (p=0.000122)
+Captions for image 47693165_281973982511211_1416977941855542762_n.jpg:
+  0) a white polar bear standing on top of a field . (p=0.000069)
+  1) a white polar bear standing on top of a grass covered field . (p=0.000060)
+  2) a white polar bear standing on top of a green field . (p=0.000052)
+Captions for image 47693872_226157474969236_3052441903523510467_n.jpg:
+  0) a book and a book on a bed . (p=0.000405)
+  1) a book and a book are on a bed . (p=0.000123)
+  2) a book and a book on a bed (p=0.000108)
+Captions for image 49308642_366773120567346_1074542307750092617_n.jpg:
+  0) a couple of cats laying on top of a bed . (p=0.000303)
+  1) a couple of cats laying on top of a rug . (p=0.000203)
+  2) a couple of cats laying on top of a couch . (p=0.000184)
+Captions for image 47694545_2956897964335740_401153155720673617_n.jpg:
+  0) a couple of birds sitting on top of a table . (p=0.000226)
+  1) a couple of birds that are sitting on a table (p=0.000209)
+  2) a group of birds sitting on top of a table . (p=0.000174)
+Captions for image 50124801_382067005894099_4481924439501205551_n.jpg:
+  0) a birthday cake with a train on it (p=0.000041)
+  1) a birthday cake with a train on it . (p=0.000036)
+  2) a birthday cake with a train on top of it . (p=0.000012)
+Captions for image 47583596_742102002831306_3070378486474952633_n.jpg:
+  0) a stack of books sitting on top of a table . (p=0.000028)
+  1) a stack of books sitting on top of a wooden table . (p=0.000020)
+  2) a cake shaped like a train is on a table . (p=0.000009)
+Captions for image 46327383_307258010132769_299259449253159060_n.jpg:
+  0) a black and white photo of a train engine (p=0.000055)
+  1) a black and white photo of a train on a track . (p=0.000024)
+  2) a black and white photo of a train on a track (p=0.000023)
+Captions for image 47692786_344792189445431_8243593496086321232_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.000958)
+  1) a glass of wine sitting on top of a counter . (p=0.000311)
+  2) a glass of wine sitting on a table next to a wine glass . (p=0.000045)
+Captions for image 47581590_1423738071096856_6430724941541777757_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000971)
+  1) a bunch of flowers that are sitting on a table . (p=0.000646)
+  2) a bunch of flowers that are in a vase (p=0.000443)
+Captions for image 49548304_220568565546537_4473373576322480746_n.jpg:
+  0) a birthday cake with a train on it (p=0.000102)
+  1) a birthday cake with a train on it . (p=0.000090)
+  2) a birthday cake with a train on the top of it . (p=0.000006)
+Captions for image 47583139_2238643942846272_4592791244061663592_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.004496)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.002649)
+  2) a bottle of wine and a bottle of wine . (p=0.002380)
+Captions for image 46408646_531769593977087_5615838503767080338_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.004389)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.003036)
+  2) a bottle of wine and a bottle of wine . (p=0.002626)
+Captions for image 47582071_356275128521021_970528431653448725_n.jpg:
+  0) a group of teddy bears sitting on top of a table . (p=0.000353)
+  1) a group of teddy bears sitting on a table . (p=0.000331)
+  2) a group of stuffed animals sitting on top of a table . (p=0.000331)
+Captions for image 49933689_248989299330457_853260186907640329_n.jpg:
+  0) a large white vase filled with colorful flowers . (p=0.000011)
+  1) a large white vase filled with pink flowers . (p=0.000007)
+  2) a large white vase filled with lots of different colored flowers . (p=0.000002)
+Captions for image 47339114_370341890412288_2751065826489787045_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.001073)
+  1) a bottle of beer and a bottle of wine . (p=0.000750)
+  2) a bottle of wine sitting next to a bottle of wine . (p=0.000748)
+Captions for image 47306464_220310735544629_9167642254837896497_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.002428)
+  1) a bottle of wine and a bottle of wine . (p=0.001701)
+  2) a bottle of wine and a bottle of wine (p=0.000503)
+Captions for image 47161320_773524219653334_6534264122994094444_n.jpg:
+  0) a picture of a person holding a cell phone . (p=0.000040)
+  1) a picture of a person holding a cell phone (p=0.000004)
+  2) a clock on a wall next to a wall (p=0.000004)
+Captions for image 47693313_509280049558860_510562329597689701_n.jpg:
+  0) a group of people walking down a street . (p=0.000165)
+  1) a large group of people walking down a street . (p=0.000069)
+  2) a group of people walking down a street with umbrellas . (p=0.000036)
+Captions for image 46321685_763408957348236_6731213268471892559_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.003512)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.002467)
+  2) a bottle of wine and a glass of wine . (p=0.001848)
+Captions for image 49279040_139198000408367_5304048740019831632_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.002718)
+  1) a bottle of beer and a bottle of wine . (p=0.001636)
+  2) a bottle of wine and a bottle of wine (p=0.001038)
+Captions for image 47494426_954414538088726_8906157539029397077_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000135)
+  1) a person holding a pair of scissors in their hands (p=0.000028)
+  2) a person holding a pair of scissors in front of a book . (p=0.000014)
+Captions for image 47090674_367381193822788_8692454024295355464_n.jpg:
+  0) a traffic light sitting on the side of a road . (p=0.000294)
+  1) a traffic light sitting on the side of a street . (p=0.000200)
+  2) a traffic light sitting next to a tall building . (p=0.000114)
+Captions for image 47585165_385745005493303_1464901337889168534_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.004491)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.004489)
+  2) a bottle of wine and a bottle of wine . (p=0.003594)
+Captions for image 47451058_318441668772181_7057177215647527376_n.jpg:
+  0) a brown and white cat sitting on top of a table . (p=0.000054)
+  1) a brown and white cat sitting on top of a wooden table . (p=0.000029)
+  2) a brown and white cat sitting on a chair . (p=0.000025)
+Captions for image 47690508_737544709949005_8621191665117750171_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.002216)
+  1) a bottle of beer and a bottle of wine . (p=0.001693)
+  2) a bottle of wine sitting next to a bottle of wine . (p=0.001548)
+Captions for image 47257060_297007157627985_8250987685635878024_n.jpg:
+  0) a mirror reflecting the reflection of a mirror (p=0.000061)
+  1) a mirror reflecting the reflection of a mirror . (p=0.000055)
+  2) a mirror with a reflection of a clock on it . (p=0.000026)
+Captions for image 47691226_275173256510829_4529798779526584514_n.jpg:
+  0) a bottle of beer and a bottle of wine . (p=0.000352)
+  1) a bottle of wine and a bottle of wine . (p=0.000347)
+  2) a bottle of wine and a bottle of wine (p=0.000167)
+Captions for image 45731489_785325215162876_808150297320123568_n.jpg:
+  0) a close up of a pair of scissors (p=0.000916)
+  1) a close up of a pair of scissors on a table (p=0.000358)
+  2) a close up of a pair of red scissors (p=0.000052)
+Captions for image 47581620_320543755230509_5280659746390498023_n.jpg:
+  0) a bathroom with a toilet and a window (p=0.000009)
+  1) a bathroom with a toilet and a sink (p=0.000009)
+  2) a bathroom with a toilet and a window . (p=0.000007)
+Captions for image 47585273_1445448678918581_5225155853029943252_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.002876)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.002388)
+  2) a bottle of beer and a bottle of wine . (p=0.001215)
+Captions for image 47351212_2366189400334532_3697461834427869570_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.001451)
+  1) a person holding a bottle of wine in their hand . (p=0.000655)
+  2) a bottle of wine and a bottle of wine (p=0.000418)
+Captions for image 47475845_404394006969436_143994118807874094_n.jpg:
+  0) a cat sitting on top of a wooden table . (p=0.000234)
+  1) a cat sitting on top of a table next to a vase . (p=0.000057)
+  2) a cat sitting on top of a table next to a glass . (p=0.000041)
+Captions for image 47445066_508394899683808_1538213354585718166_n.jpg:
+  0) a man in a hat is talking on a cell phone . (p=0.000051)
+  1) a man in a hat is talking on a cell phone (p=0.000033)
+  2) a man in a hat is talking on his cell phone . (p=0.000022)
+Captions for image 47691318_129288914763616_5330262699707593521_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.000703)
+  1) a bottle of wine and a bottle of wine (p=0.000248)
+  2) a person holding a bottle of wine in front of them . (p=0.000180)
+Captions for image 47582046_1109291575908489_1686039861481344101_n.jpg:
+  0) a person holding a wine glass in their hand . (p=0.001660)
+  1) a person holding a wine glass in their hand (p=0.000418)
+  2) a person holding a bottle of wine in front of them . (p=0.000222)
+Captions for image 47169013_2484953091522112_6361415464366012868_n.jpg:
+  0) a brown teddy bear sitting on top of a wooden bench . (p=0.000772)
+  1) a brown teddy bear sitting on top of a table . (p=0.000590)
+  2) a brown teddy bear sitting on top of a wooden table . (p=0.000387)
+Captions for image 47584746_350338302456196_6180814491985943961_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000063)
+  1) a pair of scissors sitting on top of a book . (p=0.000029)
+  2) a pair of scissors sitting on top of a table (p=0.000010)
+Captions for image 49858086_391922464970193_206518648327972604_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.003670)
+  1) a bottle of wine and a bottle of wine . (p=0.002617)
+  2) a bottle of wine and a bottle of wine (p=0.001242)
+Captions for image 47690936_2100363796718360_684377769948640975_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.002150)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.001543)
+  2) a bottle of beer and a bottle of wine . (p=0.001376)
+Captions for image 49701234_214184286154711_7448014957174876549_n.jpg:
+  0) a black and white cat sitting on a window sill . (p=0.000252)
+  1) a gray and white cat sitting on a window sill . (p=0.000221)
+  2) a black and white cat is sitting on a window sill . (p=0.000099)
+Captions for image 47583866_575860062839705_4969292830063009709_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000478)
+  1) a person holding a pair of scissors in their hands (p=0.000120)
+  2) a person holding a pair of scissors in their hand . (p=0.000116)
+Captions for image 47585068_307369983095751_2118441862154552640_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.002463)
+  1) a bottle of wine and a bottle of wine . (p=0.002437)
+  2) a bottle of wine and a bottle of wine (p=0.000928)
+Captions for image 47690214_2955101704515857_3642135770067904255_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.003967)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.002611)
+  2) a bottle of wine and a bottle of wine . (p=0.002365)
+Captions for image 47585802_273490140004177_9037285434316320055_n.jpg:
+  0) a group of people standing next to each other . (p=0.000234)
+  1) a group of people standing next to each other on a field . (p=0.000011)
+  2) a group of people standing next to each other on a grass covered field . (p=0.000004)
+Captions for image 44840628_1761559670616922_4883850104374482839_n.jpg:
+  0) a close up of a sign on a pole (p=0.000051)
+  1) a close up of a sign on a building (p=0.000037)
+  2) a close up of a street sign with a sky background (p=0.000018)
+Captions for image 47407931_1191271531030727_5383832902841980822_n.jpg:
+  0) a statue of a woman holding a pink umbrella . (p=0.000050)
+  1) a statue of a woman holding a pink umbrella (p=0.000008)
+  2) a statue of a man holding a vase with flowers in it . (p=0.000006)
+Captions for image 47201834_2238464283094542_9000974263757414337_n.jpg:
+  0) a close up of a person holding a banana (p=0.000110)
+  1) a close up of a person holding an open umbrella (p=0.000061)
+  2) a close up of a stuffed animal with a banana (p=0.000004)
+Captions for image 46669389_580612402380281_8289197355795168736_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000653)
+  1) a bunch of flowers that are in a vase (p=0.000245)
+  2) a bunch of flowers in a vase on a table . (p=0.000201)
+Captions for image 47586115_794004047611061_2404004898546454715_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.002300)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.001983)
+  2) a bottle of beer and a bottle of wine . (p=0.001591)
+Captions for image 47185002_2219720111610212_4661219825232295414_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.000675)
+  1) a red stop sign sitting on top of a pole . (p=0.000205)
+  2) a red stop sign sitting on the side of a street . (p=0.000154)
+Captions for image 47048152_2185706791747504_469628195099929141_n.jpg:
+  0) a pile of books sitting on top of a table . (p=0.000322)
+  1) a pile of books sitting on top of a desk . (p=0.000229)
+  2) a pile of books sitting on top of a wooden table . (p=0.000078)
+Captions for image 47586140_339608830103218_6902025846281959046_n.jpg:
+  0) a christmas tree with a teddy bear on it . (p=0.000030)
+  1) a christmas tree with a teddy bear in it . (p=0.000025)
+  2) a christmas tree with a teddy bear on top of it . (p=0.000020)
+Captions for image 47481694_1821420271301452_2803730000407062206_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.003543)
+  1) a bottle of wine and a bottle of wine . (p=0.003088)
+  2) a bottle of wine and a glass of wine . (p=0.001320)
+Captions for image 46768031_2479412215421946_331006064126547365_n.jpg:
+  0) a red fire hydrant sitting in the grass . (p=0.000097)
+  1) a red fire hydrant sitting in the middle of a forest . (p=0.000032)
+  2) a red fire hydrant sitting in the middle of a field . (p=0.000030)
+Captions for image 47414161_138464407146034_9052144608279582580_n.jpg:
+  0) a red and white fire hydrant in a field . (p=0.000006)
+  1) a red and white fire hydrant sitting in the grass . (p=0.000003)
+  2) a red and white fire hydrant in a field (p=0.000003)
+Captions for image 46334760_590399924751976_6739555414594107470_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.003800)
+  1) a living room filled with furniture and decor . (p=0.001088)
+  2) a living room filled with furniture and a fireplace . (p=0.001061)
+Captions for image 47316775_223243095244365_2447760769632709006_n.jpg:
+  0) a group of people standing next to each other . (p=0.000229)
+  1) a group of people standing next to each other on a field . (p=0.000008)
+  2) a group of people standing next to each other on a grass covered field . (p=0.000002)
+Captions for image 46881410_312613282923052_4982938769214258313_n.jpg:
+  0) a birthday cake with a train on it (p=0.000073)
+  1) a birthday cake with a train on it . (p=0.000058)
+  2) a birthday cake with a train on top of it . (p=0.000018)
+Captions for image 47692119_516132758900612_5786838057518102236_n.jpg:
+  0) a teddy bear sitting on top of a table . (p=0.000124)
+  1) a teddy bear sitting on top of a pile of rocks . (p=0.000021)
+  2) a teddy bear sitting on top of a pile of leaves . (p=0.000010)
+Captions for image 46989178_345926199593561_8305801466345351122_n.jpg:
+  0) a teddy bear sitting on top of a table . (p=0.000038)
+  1) a teddy bear is sitting on a table (p=0.000011)
+  2) a teddy bear sitting on top of a table next to a vase . (p=0.000001)
+Captions for image 47426609_552081015204479_863881846145566924_n.jpg:
+  0) a laptop computer sitting on top of a wooden desk . (p=0.002840)
+  1) a laptop computer sitting on top of a table . (p=0.002315)
+  2) a laptop computer sitting on top of a wooden table . (p=0.002213)
+Captions for image 46339125_378338912915253_2983209882508254835_n.jpg:
+  0) a christmas tree in front of a christmas tree . (p=0.000103)
+  1) a christmas tree in front of a christmas tree (p=0.000064)
+  2) a christmas tree with a christmas tree in front of it . (p=0.000016)
+Captions for image 47061601_778114675870282_7212982873831693678_n.jpg:
+  0) a teddy bear sitting on top of a wooden table . (p=0.000056)
+  1) a teddy bear sitting on top of a table with a cake . (p=0.000001)
+  2) a teddy bear sitting on top of a wooden table next to a teddy bear . (p=0.000000)
+Captions for image 47692993_296764590945669_7721679574687009027_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000052)
+  1) a person holding a pair of scissors in their hands (p=0.000016)
+  2) a person holding a pair of scissors in a box . (p=0.000014)
+Captions for image 47581515_2409296109303801_7952977991201772785_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.001327)
+  1) a vase filled with flowers on top of a wooden table . (p=0.000345)
+  2) a vase filled with lots of flowers on top of a table . (p=0.000266)
+Captions for image 46593518_332051754056000_2301398729022921327_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.004228)
+  1) a living room filled with furniture and a flat screen tv . (p=0.000986)
+  2) a living room filled with furniture and a fireplace . (p=0.000853)
+Captions for image 47230938_347543852725545_7040311126718595353_n.jpg:
+  0) a statue of a bear is sitting on the ground . (p=0.000010)
+  1) a statue of a bear is sitting on a branch . (p=0.000008)
+  2) a statue of a bear with a bird on it . (p=0.000006)
+Captions for image 46595685_151100802536291_6335744023335834530_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000119)
+  1) a pair of scissors and a book on a table . (p=0.000045)
+  2) a pair of scissors sitting on top of a table (p=0.000018)
+Captions for image 45864618_208220416786361_7935603557936499858_n.jpg:
+  0) a statue of a teddy bear sitting on a table . (p=0.000039)
+  1) a statue of a teddy bear sitting on top of a table . (p=0.000023)
+  2) a statue of a teddy bear sitting on a table (p=0.000021)
+Captions for image 44466963_2000835136880848_8735923976667785749_n.jpg:
+  0) a bunch of different colored vases on display . (p=0.000022)
+  1) a bunch of different colored vases on display (p=0.000018)
+  2) a bunch of different colored vases on a table . (p=0.000006)
+Captions for image 46527747_263892724288509_7247953022217181629_n.jpg:
+  0) a brown teddy bear sitting on top of a tree . (p=0.000774)
+  1) a brown teddy bear sitting on top of a tree branch . (p=0.000605)
+  2) a large brown bear sitting on top of a tree . (p=0.000452)
+Captions for image 46348273_328778294621849_1705599300627872400_n.jpg:
+  0) a store with a bunch of flowers in it (p=0.000011)
+  1) a store with a lot of flowers in it (p=0.000009)
+  2) a store with a lot of flowers in it . (p=0.000005)
+Captions for image 46927042_776053169412625_9184807945746444031_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.000810)
+  1) a vase filled with flowers sitting on top of a counter . (p=0.000322)
+  2) a vase filled with flowers sitting on a table . (p=0.000232)
+Captions for image 47584903_265708854121559_298381476687847074_n.jpg:
+  0) a bunch of flowers that are in a tree . (p=0.000112)
+  1) a bunch of flowers that are sitting on a table . (p=0.000051)
+  2) a bunch of flowers that are sitting in a tree . (p=0.000042)
+Captions for image 45619748_492839864540465_6983309731212716736_n.jpg:
+  0) a pile of fruit sitting on top of a wooden table . (p=0.000189)
+  1) a pile of oranges sitting on top of a green plant . (p=0.000069)
+  2) a pile of fruit sitting on top of a green plant . (p=0.000043)
+Captions for image 52422532_1986763304961424_7573200675209786164_n.jpg:
+  0) a man standing in front of a tv holding a wii controller . (p=0.000289)
+  1) a man standing in front of a tv holding a nintendo wii controller . (p=0.000252)
+  2) a man is playing a video game in a room (p=0.000194)
+Captions for image 43093042_366557994102324_5091340159984467137_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.001094)
+  1) a vase filled with flowers sitting on a table . (p=0.000435)
+  2) a vase filled with flowers sitting on top of a counter . (p=0.000260)
+Captions for image 45887731_912783622443328_7424419863768745421_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000221)
+  1) a person is holding a pair of scissors (p=0.000128)
+  2) a person holding a pair of scissors in their hands (p=0.000076)
+Captions for image 45839416_2370785086296747_1247567200171586235_n.jpg:
+  0) a close up of a person holding an apple (p=0.000627)
+  1) a close up of a person holding a green apple (p=0.000132)
+  2) a close up of a person holding an open umbrella (p=0.000117)
+Captions for image 47693061_388597578556622_5774661986457331816_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.000585)
+  1) a vase of flowers sitting on a table . (p=0.000166)
+  2) a vase filled with flowers sitting on top of a counter . (p=0.000126)
+Captions for image 45272132_1918396361802440_4118255543988263726_n.jpg:
+  0) a teddy bear sitting on top of a book . (p=0.000289)
+  1) a stuffed animal is sitting on a desk (p=0.000125)
+  2) a teddy bear sitting on top of a laptop computer . (p=0.000119)
+Captions for image 46311250_784083358595321_1451438846584482379_n.jpg:
+  0) a close up of a plate of food on a table (p=0.000211)
+  1) a close up of a box of pizza (p=0.000136)
+  2) a close up of a plate of food (p=0.000093)
+Captions for image 47277252_421402025064551_5177455297013538486_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.002084)
+  1) a vase filled with flowers on top of a table . (p=0.001786)
+  2) a vase filled with flowers sitting on a table . (p=0.000653)
+Captions for image 46247679_523909341422567_5168110945365549033_n.jpg:
+  0) a close up of a bunch of green leaves (p=0.000129)
+  1) a close up of a flower in a vase (p=0.000118)
+  2) a close up of a flower in a vase on a table (p=0.000022)
+Captions for image 45721115_599804337156360_8598462244287350002_n.jpg:
+  0) a collage of photos of a person holding a pair of scissors (p=0.000004)
+  1) a collage of photos with a person holding a pair of scissors (p=0.000003)
+  2) a collage of photos with a variety of items (p=0.000003)
+Captions for image 45595056_930315930507546_731060428252134237_n.jpg:
+  0) a close up of a plate of food on a table (p=0.000989)
+  1) a close up of a plate of food (p=0.000530)
+  2) a close up of a plate of food with broccoli (p=0.000358)
+Captions for image 46317852_1108297485996413_6639445707520379411_n.jpg:
+  0) a teddy bear sitting on top of a table . (p=0.000019)
+  1) a teddy bear sitting on top of a bed . (p=0.000017)
+  2) a teddy bear sitting on top of a chair . (p=0.000016)
+Captions for image 46322178_715999732102843_8956777229577166601_n.jpg:
+  0) a red and white fire hydrant sitting in the grass . (p=0.000038)
+  1) a red and white fire hydrant in a field . (p=0.000036)
+  2) a red and white fire hydrant sitting in the middle of a forest . (p=0.000014)
+Captions for image 46096404_256315905040943_9210941346620688605_n.jpg:
+  0) a close up of a plate of food (p=0.002667)
+  1) a close up of a plate of food on a table (p=0.002230)
+  2) a close up of a plate of food with broccoli (p=0.001135)
+Captions for image 45291094_273865763314905_6597021237776948390_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.001038)
+  1) a book shelf filled with lots of different items . (p=0.000350)
+  2) a book shelf filled with lots of different types of books . (p=0.000335)
+Captions for image 47693457_335217310648659_7069080759695753695_n.jpg:
+  0) a teddy bear sitting on top of a tree . (p=0.000044)
+  1) a teddy bear sitting on top of a tree branch . (p=0.000023)
+  2) a teddy bear sitting on top of a pile of rocks . (p=0.000017)
+Captions for image 45421226_557659791306153_7428128672161141327_n.jpg:
+  0) a close up of a flower in a vase (p=0.000265)
+  1) a close up of a vase with flowers in it (p=0.000228)
+  2) a close up of a flower on a table (p=0.000125)
+Captions for image 46019107_270304656902617_8026422566771382675_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.001283)
+  1) a table topped with plates of food and bowls of food . (p=0.000322)
+  2) a table topped with plates of food and bowls of fruit . (p=0.000048)
+Captions for image 47107733_265545470986064_3730034386326229889_n.jpg:
+  0) a bouquet of flowers in a vase on a table . (p=0.000544)
+  1) a bouquet of flowers in a glass vase . (p=0.000384)
+  2) a vase filled with lots of flowers on top of a table . (p=0.000373)
+Captions for image 45384627_365664264205110_385834399081546542_n.jpg:
+  0) a bowl of food that is on a table . (p=0.000437)
+  1) a bowl of food on a table . (p=0.000382)
+  2) a bowl of food on a table (p=0.000241)
+Captions for image 46202613_2009443689301095_156630667182896804_n.jpg:
+  0) a person holding a box with a cake on it (p=0.000013)
+  1) a person holding a box with a cake on it . (p=0.000009)
+  2) a person holding a box with a cake (p=0.000006)
+Captions for image 46731588_2013868248651356_2639675791976933477_n.jpg:
+  0) a variety of fruits and vegetables on a table . (p=0.000607)
+  1) a variety of fruits and vegetables are displayed . (p=0.000158)
+  2) a variety of fruits and vegetables in a box . (p=0.000110)
+Captions for image 46248300_204138707172438_6279819121306449930_n.jpg:
+  0) a birthday cake with candles on a table (p=0.000014)
+  1) a birthday cake with candles on a table . (p=0.000012)
+  2) a birthday cake with candles on it on a table (p=0.000008)
+Captions for image 45543088_143191476665197_3303843655132304095_n.jpg:
+  0) a variety of fruits and vegetables on a table . (p=0.000603)
+  1) a table topped with lots of different types of vegetables . (p=0.000205)
+  2) a variety of fruits and vegetables are on a table . (p=0.000192)
+Captions for image 45796260_339771589979587_6741821864728604215_n.jpg:
+  0) a bowl of food with a fork and a spoon . (p=0.000068)
+  1) a bowl of food with a spoon and a spoon . (p=0.000052)
+  2) a plate of food with a fork and a spoon . (p=0.000039)
+Captions for image 45423226_199212207672564_5697851315550056557_n.jpg:
+  0) a bunch of items that are on a table . (p=0.000296)
+  1) a pile of books sitting on top of a bed . (p=0.000092)
+  2) a pile of books sitting on top of a table . (p=0.000088)
+Captions for image 45779348_434590357073170_4353106880516832578_n.jpg:
+  0) a pair of scissors sitting on top of a wooden table . (p=0.000043)
+  1) a pair of scissors sitting on top of a piece of paper . (p=0.000021)
+  2) a pair of rusty scissors sitting on top of a wooden table . (p=0.000016)
+Captions for image 46247682_727624504253875_1618793245042396074_n.jpg:
+  0) a person holding a skateboard in front of a sign . (p=0.000012)
+  1) a person holding a skateboard in front of a wall . (p=0.000007)
+  2) a person holding a skateboard in front of a store . (p=0.000007)
+Captions for image 44885398_185131155685419_7500746313343275476_n.jpg:
+  0) a bowl of food with a spoon in it . (p=0.000058)
+  1) a bowl of food with a spoon in it (p=0.000031)
+  2) a bowl of food with a spoon and a spoon . (p=0.000023)
+Captions for image 45406723_354874485280783_3648054520446152613_n.jpg:
+  0) a tree with a bunch of green leaves on it (p=0.000064)
+  1) a bunch of green leaves that are on a tree . (p=0.000039)
+  2) a tree with a bunch of green leaves on it . (p=0.000033)
+Captions for image 44752424_338034997007752_5568143438436062199_n.jpg:
+  0) a bunch of plants that are in the grass . (p=0.000098)
+  1) a bunch of plants that are growing in the grass . (p=0.000056)
+  2) a bunch of plants that are in the grass (p=0.000012)
+Captions for image 44818682_2140760039574821_984076479124313708_n.jpg:
+  0) a close up of a rock on a rock (p=0.000025)
+  1) a close up of a plastic container with rocks (p=0.000008)
+  2) a close up of a rock on a rock surface (p=0.000004)
+Captions for image 44729068_1220948128060443_8843566971621635292_n.jpg:
+  0) a bowl of food with a spoon and a spoon . (p=0.000033)
+  1) a plate of food with a fork and a spoon . (p=0.000027)
+  2) a plate of food with a fork and a spoon (p=0.000014)
+Captions for image 44852081_202939470600723_2502083001737303051_n.jpg:
+  0) a couple of birds flying over a forest . (p=0.000173)
+  1) a couple of birds flying over a lush green forest . (p=0.000126)
+  2) a couple of birds flying through the air . (p=0.000122)
+Captions for image 46080336_343610452863245_2426987366054284144_n.jpg:
+  0) a bird standing on top of a lush green field . (p=0.000491)
+  1) a bird is standing in the grass near a tree . (p=0.000085)
+  2) a bird is standing in the middle of a field . (p=0.000047)
+Captions for image 44903178_345646502658074_1098087825305735360_n.jpg:
+  0) a bowl of food with a spoon and a spoon . (p=0.000100)
+  1) a plate of food with a fork and a spoon . (p=0.000044)
+  2) a bowl of food with a spoon and a spoon (p=0.000030)
+Captions for image 44509958_2147506518629299_5997170897393972829_n.jpg:
+  0) a bird perched on top of a tree branch . (p=0.001911)
+  1) a bird perched on top of a tree . (p=0.000996)
+  2) a couple of birds sitting on top of a tree . (p=0.000760)
+Captions for image 44705475_294150771198906_3276409494304319823_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.001327)
+  1) a fire hydrant in the middle of the woods . (p=0.000268)
+  2) a yellow fire hydrant in the middle of a forest . (p=0.000265)
+Captions for image 46510282_253356088694857_1199105769925997015_n.jpg:
+  0) a bowl of food with a spoon and a spoon . (p=0.000036)
+  1) a plate of food with a fork and a spoon . (p=0.000033)
+  2) a bowl of food with a fork and a spoon . (p=0.000030)
+Captions for image 44509954_2268781216743529_3706621545608041146_n.jpg:
+  0) a tree in the middle of a forest . (p=0.000430)
+  1) a tree in the middle of a forest (p=0.000140)
+  2) a tree in the middle of a wooded area . (p=0.000136)
+Captions for image 44762782_273597353351385_8787075692234149811_n.jpg:
+  0) a white bowl filled with lots of food . (p=0.000934)
+  1) a white bowl filled with lots of different types of food . (p=0.000244)
+  2) a white bowl filled with lots of different types of vegetables . (p=0.000047)
+Captions for image 44673027_178312599780466_3896891566680781670_n.jpg:
+  0) a tree with a bunch of green leaves on it (p=0.000034)
+  1) a tree that has a bunch of birds on it (p=0.000024)
+  2) a tree with a bunch of green leaves on it . (p=0.000019)
+Captions for image 44726886_1973328196293824_7845537407412405922_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.000204)
+  1) a red fire hydrant in the middle of a forest . (p=0.000085)
+  2) a red fire hydrant sitting in the middle of a field . (p=0.000072)
+Captions for image 44686728_510971446051261_3416297032451315074_n.jpg:
+  0) a street sign that is on a pole . (p=0.000057)
+  1) a street sign on a pole with trees in the background (p=0.000048)
+  2) a street sign on a pole near a tree (p=0.000033)
+Captions for image 44809686_510569722685582_4710458517977476006_n.jpg:
+  0) a bowl of food that is on a table . (p=0.000802)
+  1) a bowl of food that is on a table (p=0.000341)
+  2) a bowl of food with a spoon and a spoon . (p=0.000121)
+Captions for image 44556282_2236822369932071_9064279819587685650_n.jpg:
+  0) a tree filled with lots of green leaves . (p=0.000142)
+  1) a tree filled with lots of green plants . (p=0.000091)
+  2) a tree filled with lots of lush green plants . (p=0.000063)
+Captions for image 44833530_300525294134160_2302946900669650953_n.jpg:
+  0) a view of a street with a mountain in the background . (p=0.000003)
+  1) a view of a street with a mountain in the distance . (p=0.000002)
+  2) a view of a street with a mountain in the background (p=0.000000)
+Captions for image 45404687_568900410227478_8635911403466957561_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.001681)
+  1) a red fire hydrant sitting in the middle of a forest . (p=0.001429)
+  2) a fire hydrant in the middle of the woods . (p=0.000424)
+Captions for image 44465242_193568564908555_2165693867775888243_n.jpg:
+  0) a traffic light hanging from the side of a pole . (p=0.000103)
+  1) a traffic light hanging from the side of a tree . (p=0.000081)
+  2) a traffic light hanging from the side of a metal pole . (p=0.000029)
+Captions for image 44744046_2184015948344316_2127689108915062583_n.jpg:
+  0) a forest filled with lots of lush green trees . (p=0.000163)
+  1) a forest filled with lots of trees and trees . (p=0.000109)
+  2) a forest filled with lots of trees and a forest . (p=0.000028)
+Captions for image 44500659_269800100398663_2074445773556528867_n.jpg:
+  0) a view of a road with a stop sign . (p=0.000002)
+  1) a view of a road with a stop sign on it . (p=0.000001)
+  2) a view of a road with a stop sign on it (p=0.000000)
+Captions for image 44433513_273865399940051_1225949767671220076_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000005)
+  1) a view of a river with a bridge in the distance . (p=0.000003)
+  2) a view of a river with a bridge in the background (p=0.000001)
+Captions for image 44698466_195793401307088_8845225125097885630_n.jpg:
+  0) a group of ducks floating on top of a lake . (p=0.000462)
+  1) a group of ducks floating on top of a river . (p=0.000360)
+  2) a group of ducks floating on top of a body of water . (p=0.000221)
+Captions for image 43205494_293115841333548_1170181841225400181_n.jpg:
+  0) a garden with a lot of trees and a bench (p=0.000002)
+  1) a garden with a lot of trees and trees (p=0.000002)
+  2) a garden with a lot of trees and bushes (p=0.000002)
+Captions for image 42663907_1604253559675768_7456689109345366230_n.jpg:
+  0) a group of people flying kites in a field . (p=0.002012)
+  1) a group of people flying kites in the sky . (p=0.000883)
+  2) a group of people standing on top of a lush green field . (p=0.000694)
+Captions for image 45326915_500263047124112_6198917499466619449_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.000203)
+  1) a train traveling down train tracks next to a forest . (p=0.000117)
+  2) a train traveling down tracks next to a lush green field . (p=0.000070)
+Captions for image 44754657_2224535734245276_3390548116990557015_n.jpg:
+  0) a group of ducks floating on top of a lake . (p=0.002805)
+  1) a group of ducks floating on top of a body of water . (p=0.001329)
+  2) a group of ducks floating on top of a river . (p=0.000807)
+Captions for image 45313143_729000384122882_1104758213666886094_n.jpg:
+  0) a green fire hydrant sitting in the middle of a forest . (p=0.000077)
+  1) a green fire hydrant sitting in the woods . (p=0.000049)
+  2) a green fire hydrant sitting in the forest . (p=0.000032)
+Captions for image 42992440_703915219988019_8400294715097669844_n.jpg:
+  0) a view of a road in the country . (p=0.000003)
+  1) a view of a road in the middle of a field . (p=0.000001)
+  2) a view of a road in the middle of the woods . (p=0.000001)
+Captions for image 44591730_102176070774602_6689158791243631876_n.jpg:
+  0) a large body of water next to a bridge . (p=0.000209)
+  1) a large body of water next to a river . (p=0.000188)
+  2) a large body of water with a bunch of boats in it . (p=0.000048)
+Captions for image 45267360_290115121487647_1355740237826239684_n.jpg:
+  0) a park bench sitting in the middle of a park . (p=0.000566)
+  1) a park bench in the middle of a park . (p=0.000407)
+  2) a park bench sitting in the middle of a forest . (p=0.000221)
+Captions for image 44384891_700523396996427_222281517306858971_n.jpg:
+  0) a large brown bear standing on top of a lush green field . (p=0.000122)
+  1) a lone sheep standing in a grassy field . (p=0.000096)
+  2) a large brown bear standing on top of a grass covered field . (p=0.000085)
+Captions for image 44766458_193474188199721_3586221533653461653_n.jpg:
+  0) a lone giraffe stands in the middle of a field . (p=0.000084)
+  1) a lone giraffe standing in a field of tall grass . (p=0.000040)
+  2) a lone giraffe stands in the middle of a grassy field . (p=0.000034)
+Captions for image 44622176_285908848711275_5057521341454623550_n.jpg:
+  0) a person holding a skateboard in front of a building . (p=0.000006)
+  1) a person holding a skateboard in front of a wall . (p=0.000006)
+  2) a person holding a skateboard in front of a wall (p=0.000001)
+Captions for image 44841594_1923853674369100_3040493106685841711_n.jpg:
+  0) a view of a tree with a bird flying in the sky . (p=0.000001)
+  1) a view of a park with a bird flying over it . (p=0.000001)
+  2) a view of a tree with a bird flying in it . (p=0.000000)
+Captions for image 44542232_574367456334498_1088918376718763681_n.jpg:
+  0) a close up of a pair of scissors (p=0.000534)
+  1) a close up of a pair of scissors on a table (p=0.000043)
+  2) a close up of a pair of scissors in a car (p=0.000011)
+Captions for image 43238802_364789960933289_9215387244697606119_n.jpg:
+  0) a fire hydrant in the middle of a field . (p=0.000314)
+  1) a fire hydrant sitting in the middle of a field . (p=0.000230)
+  2) a fire hydrant sitting in the middle of a forest . (p=0.000209)
+Captions for image 43086248_258747218324469_6146511255847802896_n.jpg:
+  0) a giraffe standing in the middle of a forest . (p=0.000253)
+  1) a giraffe standing in the middle of a field . (p=0.000076)
+  2) a tree in the middle of a forest (p=0.000036)
+Captions for image 45447018_1872258959496201_2997640021641470244_n.jpg:
+  0) a close up of a toilet with a chain on it (p=0.000003)
+  1) a close up of a toilet with a chain (p=0.000003)
+  2) a close up of a toilet with a chain attached to it (p=0.000003)
+Captions for image 44446170_1094871420675093_636081529907991075_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000990)
+  1) a red fire hydrant sitting in the middle of a forest . (p=0.000964)
+  2) a fire hydrant in the middle of a field . (p=0.000293)
+Captions for image 45315349_1381434328653242_2116911475251707679_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000043)
+  1) a pair of blue handled scissors sitting on a table . (p=0.000036)
+  2) a pair of blue handled scissors sitting on top of a table . (p=0.000014)
+Captions for image 46059567_186708948933772_3256668085413741020_n.jpg:
+  0) a tree in the middle of a forest . (p=0.000490)
+  1) a tree in the middle of a forest (p=0.000099)
+  2) a tree in the middle of a forest with trees in the background . (p=0.000012)
+Captions for image 45516995_750049455350586_7666915176520319026_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000635)
+  1) a fire hydrant sitting in the middle of a forest . (p=0.000602)
+  2) a fire hydrant in the middle of a field . (p=0.000114)
+Captions for image 44208527_497277100771430_8162041678059301445_n.jpg:
+  0) a park bench in the middle of a forest . (p=0.000321)
+  1) a park bench in the middle of a park . (p=0.000066)
+  2) a park bench in the middle of the woods . (p=0.000058)
+Captions for image 44917786_727474127617895_2871478926377418671_n.jpg:
+  0) a pair of rusty scissors sitting on the ground . (p=0.000061)
+  1) a pair of shoes sitting on top of a skateboard . (p=0.000029)
+  2) a pair of rusty scissors sitting on the ground (p=0.000024)
+Captions for image 43212465_317455119077945_7869023906283084705_n.jpg:
+  0) a close up of a box of doughnuts (p=0.000131)
+  1) a close up of a number of different colored luggage (p=0.000005)
+  2) a close up of a number of different colored shoes (p=0.000005)
+Captions for image 53022147_229027551363086_6752642914008066069_n.jpg:
+  0) a woman is standing in front of a television . (p=0.000119)
+  1) a woman is standing in front of a television (p=0.000072)
+  2) a woman standing in front of a tv holding a wii controller . (p=0.000029)
+Captions for image 66330801_1270267856479723_7463258201851647479_n.jpg:
+  0) a statue of a man flying a kite . (p=0.000404)
+  1) a statue of a man flying a kite in a park . (p=0.000039)
+  2) a statue of a man flying a kite in the sky . (p=0.000031)
+Captions for image 66402326_418644848752558_5016833487369008384_n.jpg:
+  0) a group of people flying kites in a field . (p=0.000550)
+  1) a group of people flying kites in a park . (p=0.000314)
+  2) a kite flying in the sky over a field . (p=0.000198)

@@ -1,0 +1,28 @@
+Captions for image 11352889_110133199322305_526378099_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002116)
+  1) a white plate topped with meat , potatoes and vegetables . (p=0.000345)
+  2) a white plate topped with meat , potatoes and veggies . (p=0.000288)
+Captions for image 10413056_714598908601232_501016376_n.jpg:
+  0) a woman standing next to a statue of a man . (p=0.000285)
+  1) a woman standing next to a statue of a woman . (p=0.000081)
+  2) a woman standing next to a statue of a man in a suit . (p=0.000009)
+Captions for image 10413119_1485993528301940_1371838113_n.jpg:
+  0) a woman wearing a hat and a tie . (p=0.000104)
+  1) a woman wearing a tie and a hat . (p=0.000098)
+  2) a woman wearing a hat and a tie (p=0.000030)
+Captions for image 924157_291634960960173_1861517720_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.003067)
+  1) a white plate topped with a piece of cake . (p=0.001027)
+  2) a white plate topped with a piece of meat and vegetables . (p=0.000144)
+Captions for image 11910059_1038796829474673_674089077_a.jpg:
+  0) a woman wearing a blue shirt and a red tie . (p=0.000026)
+  1) a woman wearing a blue shirt and a tie . (p=0.000018)
+  2) a woman wearing a blue shirt and a red tie (p=0.000011)
+Captions for image 10375714_1446754288905593_624423508_n.jpg:
+  0) a woman in a dress shirt and tie . (p=0.000104)
+  1) a woman in a dress shirt and tie is smiling . (p=0.000012)
+  2) a woman in a dress shirt and tie is smiling (p=0.000004)
+Captions for image 11333586_442013385976101_1635146448_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.004153)
+  1) a piece of cake on a plate with a fork (p=0.001798)
+  2) a piece of chocolate cake on a plate with a fork . (p=0.001621)

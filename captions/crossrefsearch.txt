@@ -1,0 +1,28 @@
+Captions for image 16228980_375626242805604_8553205822685970432_n.jpg:
+  0) a forest filled with lots of trees and trees . (p=0.000325)
+  1) a forest filled with lots of lush green trees . (p=0.000191)
+  2) a forest filled with lots of trees and a forest . (p=0.000087)
+Captions for image 37095543_268261283727762_8699455373284737024_n.jpg:
+  0) a large body of water surrounded by trees . (p=0.000428)
+  1) a large body of water next to a forest . (p=0.000260)
+  2) a large body of water surrounded by trees (p=0.000149)
+Captions for image 16123733_1287729824631071_8369838000779034624_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.001190)
+  1) a train traveling over a bridge over water . (p=0.000384)
+  2) a river with a bridge spanning the width of it . (p=0.000241)
+Captions for image 16122700_354604524921608_8344114625599504384_n.jpg:
+  0) a person on a beach with a surfboard . (p=0.000186)
+  1) a person on a surfboard in the water . (p=0.000122)
+  2) a person on a beach with a surfboard (p=0.000099)
+Captions for image 37138458_1075461085912503_1061552221482647552_n.jpg:
+  0) a couple of birds perched on top of a tree . (p=0.000138)
+  1) a couple of birds perched on top of a tree branch . (p=0.000089)
+  2) a couple of trees that are in the grass . (p=0.000029)
+Captions for image 16110503_155528294942494_7302738373767069696_n.jpg:
+  0) a tree that has a bunch of trees in it (p=0.000056)
+  1) a tree that has a bunch of birds on it (p=0.000031)
+  2) a tree that has a bunch of birds in it (p=0.000016)
+Captions for image 36898868_245264679417270_803680735763365888_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.000278)
+  1) a red fire hydrant sitting in the middle of a field . (p=0.000114)
+  2) a red fire hydrant sitting in the middle of a lush green field . (p=0.000098)

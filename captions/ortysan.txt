@@ -1,0 +1,812 @@
+Captions for image 28158393_333521797169196_1654387042680832_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000061)
+  1) a train station with a train passing by . (p=0.000052)
+  2) a train station with a train on the tracks (p=0.000048)
+Captions for image 11374042_1617222021883744_1587098035_a.jpg:
+  0) a man wearing a tie and a hat . (p=0.000398)
+  1) a man with a beard wearing a red tie . (p=0.000147)
+  2) a man wearing a tie and a hat (p=0.000097)
+Captions for image 13269530_756939224441699_1464128896_n.jpg:
+  0) a white plate topped with a sandwich and salad . (p=0.000511)
+  1) a white plate topped with a cut in half sandwich . (p=0.000459)
+  2) a white plate topped with a sandwich and a salad . (p=0.000342)
+Captions for image 20184423_475178552860514_3528772583824556032_n.jpg:
+  0) a group of people standing next to each other . (p=0.001286)
+  1) a group of people standing around a table . (p=0.000666)
+  2) a group of people standing next to each other on a street . (p=0.000058)
+Captions for image 28428395_460798577670171_7910138597297094656_n.jpg:
+  0) a white and black dog sitting on a bed . (p=0.000103)
+  1) a white and black dog sitting on top of a table . (p=0.000078)
+  2) a white and black dog sitting on top of a white chair . (p=0.000046)
+Captions for image 14031637_1087565277991377_274199423_n.jpg:
+  0) a fire hydrant on the side of the road . (p=0.000372)
+  1) a fire hydrant on the side of the street . (p=0.000335)
+  2) a fire hydrant on the side of a street . (p=0.000174)
+Captions for image 59946046_446640086141310_5966901967852879022_n.jpg:
+  0) a couple of men standing next to each other . (p=0.004497)
+  1) a man and a woman standing next to each other . (p=0.000690)
+  2) a couple of men standing next to each other on a street . (p=0.000214)
+Captions for image 60062587_172166793793656_5762180934431676385_n.jpg:
+  0) a man and a woman on a boat in the water . (p=0.000151)
+  1) a man and a woman are sitting on a boat . (p=0.000093)
+  2) a man and a woman sitting on a boat in the water . (p=0.000084)
+Captions for image 59853896_166587157679440_7670788256092928199_n.jpg:
+  0) a group of people walking down a street next to cars . (p=0.000040)
+  1) a group of people walking down a street next to tall buildings . (p=0.000019)
+  2) a group of people walking down a street next to a street . (p=0.000009)
+Captions for image 59267595_1150415431807632_152030698416738983_n.jpg:
+  0) a group of bikes parked next to each other . (p=0.000776)
+  1) a group of bikes parked on the side of a street . (p=0.000286)
+  2) a group of bikes parked next to each other on a street . (p=0.000183)
+Captions for image 59189171_538140386709648_580806398788949410_n.jpg:
+  0) a house that has some trees in it (p=0.000026)
+  1) a house that has some trees in it . (p=0.000015)
+  2) a house with a tree in front of it . (p=0.000006)
+Captions for image 57799308_1490850624385870_517972225492511991_n.jpg:
+  0) a group of people posing for a picture . (p=0.000618)
+  1) a group of people posing for a picture on a boat . (p=0.000232)
+  2) a group of people posing for a picture on a boat (p=0.000083)
+Captions for image 56215377_131382977941606_7567305861876742475_n.jpg:
+  0) a picture of a traffic light and a street sign . (p=0.000007)
+  1) a picture of a traffic light with a street sign on it . (p=0.000001)
+  2) a picture of a traffic light and a street sign (p=0.000001)
+Captions for image 57460065_811545999214534_8685766344048417231_n.jpg:
+  0) a large building with a large clock on it . (p=0.000010)
+  1) a large building with a large clock on it 's side . (p=0.000007)
+  2) a large building with a clock on it (p=0.000004)
+Captions for image 58453566_2246278562155019_5539321553840150006_n.jpg:
+  0) a man standing next to a dog on a leash . (p=0.000957)
+  1) a man standing next to a dog on a sidewalk . (p=0.000337)
+  2) a man standing next to a black dog on a leash . (p=0.000123)
+Captions for image 53039247_355794548352014_7742758344997412209_n.jpg:
+  0) a group of people standing next to each other . (p=0.001489)
+  1) a group of people standing around each other . (p=0.000470)
+  2) a group of people standing next to each other on a beach . (p=0.000120)
+Captions for image 51536044_832951247053649_1833117672708416880_n.jpg:
+  0) a group of people standing around each other . (p=0.000142)
+  1) a bunch of stuffed animals that are in the street . (p=0.000114)
+  2) a bunch of stuffed animals that are on a street . (p=0.000052)
+Captions for image 50913195_137968023896440_117830751304982918_n.jpg:
+  0) a woman sitting in a chair with a dog . (p=0.000384)
+  1) a woman sitting in a chair holding a dog . (p=0.000361)
+  2) a woman sitting in a chair with a dog on her lap . (p=0.000119)
+Captions for image 50494072_292212158134937_965563782635952467_n.jpg:
+  0) a small white dog standing on top of a sandy beach . (p=0.000190)
+  1) a small white dog standing on top of a beach . (p=0.000113)
+  2) a small white dog standing on top of a dirt field . (p=0.000054)
+Captions for image 50803470_346825295921513_433391655292488731_n.jpg:
+  0) a man and a woman posing for a picture . (p=0.001085)
+  1) a man and woman pose for a picture . (p=0.000663)
+  2) a man and a woman are posing for a picture . (p=0.000497)
+Captions for image 51668777_2313727362005713_1412601431135090156_n.jpg:
+  0) a man and a woman posing for a picture . (p=0.000687)
+  1) a man and a woman pose for a picture . (p=0.000599)
+  2) a man and a woman are posing for a picture . (p=0.000313)
+Captions for image 51036650_2337307172981003_4222253562488821236_n.jpg:
+  0) a man wearing a hat and a hat . (p=0.000223)
+  1) a man wearing a hat and sunglasses and a hat . (p=0.000080)
+  2) a man wearing a hat and sunglasses and a hat (p=0.000029)
+Captions for image 50601831_362273684623913_3937997387595453155_n.jpg:
+  0) a man standing on a sidewalk talking on a cell phone . (p=0.000836)
+  1) a man standing on a sidewalk holding a skateboard . (p=0.000446)
+  2) a man standing on a sidewalk holding a cell phone . (p=0.000327)
+Captions for image 50572336_370706590395514_545139722643245713_n.jpg:
+  0) a man in a suit and tie sitting on a boat . (p=0.000192)
+  1) a man in a suit and tie sitting in a boat . (p=0.000125)
+  2) a man in a suit and tie standing in front of a body of water . (p=0.000115)
+Captions for image 49906839_783267378687801_7774732197707754121_n.jpg:
+  0) a group of people sitting around a dinner table . (p=0.007821)
+  1) a group of people sitting around a table with food . (p=0.002075)
+  2) a group of people sitting at a table with plates of food . (p=0.001436)
+Captions for image 50259634_115815026163170_3553078685409432363_n.jpg:
+  0) a plate of food on a table (p=0.000231)
+  1) a plate of food on a table with a fork (p=0.000053)
+  2) a plate of food on a table with a cup of coffee (p=0.000031)
+Captions for image 50507036_400414577389721_2359834006024263021_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.005157)
+  1) a white plate topped with meat and veggies . (p=0.002169)
+  2) a white plate topped with meat , potatoes and vegetables . (p=0.000961)
+Captions for image 44793749_350150485549338_3264568565527952895_n.jpg:
+  0) a man holding a tennis racquet on a tennis court . (p=0.000305)
+  1) a man holding a tennis racquet on top of a tennis court . (p=0.000234)
+  2) a man holding a tennis racquet on a court . (p=0.000052)
+Captions for image 44868314_414422789093590_6501717353388075329_n.jpg:
+  0) a stop sign that has some stickers on it (p=0.000035)
+  1) a stop sign that has a bunch of stickers on it (p=0.000023)
+  2) a stop sign that has some stickers on it . (p=0.000010)
+Captions for image 43984528_544665905961139_791236583101448277_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000731)
+  1) a man and a woman posing for a picture . (p=0.000712)
+  2) a man and a woman posing for a picture (p=0.000351)
+Captions for image 41369651_348549185886639_5052431654922943961_n.jpg:
+  0) a small white dog laying on a bed . (p=0.000939)
+  1) a dog laying on a bed with a blanket . (p=0.000129)
+  2) a dog laying on a bed with a blanket (p=0.000078)
+Captions for image 41394471_534679120316436_5895077132948298184_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.001553)
+  1) a man and a woman posing for a picture . (p=0.001080)
+  2) a couple of people that are standing in the grass . (p=0.000475)
+Captions for image 36736245_231649184328540_5217654987055693824_n.jpg:
+  0) a plate of food that includes broccoli and carrots . (p=0.000076)
+  1) a plate of food that includes broccoli and meat . (p=0.000064)
+  2) a white plate topped with a salad and a salad . (p=0.000019)
+Captions for image 36530389_2068124643442763_6338342053436456960_n.jpg:
+  0) a white and brown dog laying on top of a bed . (p=0.000333)
+  1) a white and brown dog laying on top of a couch . (p=0.000275)
+  2) a white and brown dog sitting on top of a white chair . (p=0.000125)
+Captions for image 38430732_241623180020240_4218234067419660288_n.jpg:
+  0) a desk with a laptop and a monitor (p=0.000030)
+  1) a desk with a laptop and a keyboard (p=0.000023)
+  2) a desk with a laptop and a monitor on it (p=0.000023)
+Captions for image 40656841_2389856554387848_1656375153553201842_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.001668)
+  1) a couple of people that are standing in the snow (p=0.000298)
+  2) a man and a woman standing next to each other on a beach . (p=0.000284)
+Captions for image 34036458_1883298908630234_7793363925487058944_n.jpg:
+  0) a store window with a bunch of bananas hanging from the ceiling . (p=0.000006)
+  1) a store window with a bunch of bananas hanging from it . (p=0.000002)
+  2) a store window with a bunch of bananas hanging from the ceiling (p=0.000002)
+Captions for image 32178356_180202299353507_6525462517118926848_n.jpg:
+  0) a picture of a person holding a pair of scissors . (p=0.000012)
+  1) a picture of a person holding a book . (p=0.000010)
+  2) a picture of a book and a book . (p=0.000006)
+Captions for image 30593386_193617741447411_8788023100781363200_n.jpg:
+  0) a man in a hat and sunglasses is talking on a cell phone . (p=0.000037)
+  1) a man wearing a hat and a hat and sunglasses . (p=0.000028)
+  2) a man in a hat and sunglasses is holding a banana . (p=0.000017)
+Captions for image 30078570_232045290869492_2834192280896667648_n.jpg:
+  0) a woman wearing a hat and sunglasses talking on a cell phone . (p=0.000032)
+  1) a woman wearing a hat and sunglasses sitting on a bench . (p=0.000020)
+  2) a woman wearing a hat and sunglasses is talking on a cell phone . (p=0.000008)
+Captions for image 32907832_619777298382517_616019995259830272_n.jpg:
+  0) a close up of a vase with many flowers in it (p=0.000047)
+  1) a close up of a vase with many flowers (p=0.000039)
+  2) a close up of a vase with many different flowers (p=0.000032)
+Captions for image 28754498_1944616762534180_3247057892104208384_n.jpg:
+  0) a sign that reads `` <UNK> '' on the side of a building . (p=0.000003)
+  1) a sign that reads `` <UNK> '' on a pole . (p=0.000001)
+  2) a sign that reads `` <UNK> '' on the side of the road . (p=0.000001)
+Captions for image 30948672_282238265648726_3321318048450740224_n.jpg:
+  0) a man is standing in front of a building . (p=0.000003)
+  1) a man is standing in front of a building (p=0.000002)
+  2) a man is standing in front of a large building . (p=0.000002)
+Captions for image 28435313_396349414169312_2621947061691482112_n.jpg:
+  0) a man flying a kite on a sunny day . (p=0.000189)
+  1) a man flying a kite in a park . (p=0.000096)
+  2) a man flying a kite in a blue sky . (p=0.000086)
+Captions for image 28752386_2068428386709652_387488891428405248_n.jpg:
+  0) a group of men standing next to each other . (p=0.000949)
+  1) a group of people standing next to each other . (p=0.000784)
+  2) a group of men standing next to each other on a snow covered slope . (p=0.000073)
+Captions for image 28429635_960154297467757_6956994588770828288_n.jpg:
+  0) a couple of women standing next to each other . (p=0.004973)
+  1) a man and a woman pose for a picture . (p=0.000771)
+  2) a man and a woman pose for a picture (p=0.000268)
+Captions for image 14295476_146683682451868_1247747937_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.004176)
+  1) a white plate topped with meat and veggies . (p=0.001907)
+  2) a white plate topped with meat , potatoes and veggies . (p=0.000708)
+Captions for image 27580731_2024311714251074_7063281633343832064_n.jpg:
+  0) a crowd of people standing in front of a building . (p=0.000195)
+  1) a crowd of people standing around a large building . (p=0.000165)
+  2) a crowd of people standing in front of a large building . (p=0.000150)
+Captions for image 26865767_1999739420352347_4308212738917662720_n.jpg:
+  0) a boat sitting on top of a sandy beach . (p=0.000456)
+  1) a boat sitting on a beach next to the ocean . (p=0.000324)
+  2) a boat sitting on top of a beach next to the ocean . (p=0.000233)
+Captions for image 26158786_169856433779470_57144037362106368_n.jpg:
+  0) a small white dog sitting on top of a couch . (p=0.000641)
+  1) a small white dog sitting on top of a white chair . (p=0.000532)
+  2) a small white dog sitting on top of a chair . (p=0.000517)
+Captions for image 27878762_886301071550580_6906977285132255232_n.jpg:
+  0) two glasses of wine sitting on a table . (p=0.000975)
+  1) a table topped with glasses of wine and wine glasses . (p=0.000417)
+  2) a table topped with glasses of wine and a wine glass . (p=0.000106)
+Captions for image 25010248_746605168868330_1023620925750247424_n.jpg:
+  0) a birthday cake with candles on top of it . (p=0.000058)
+  1) a birthday cake with candles on top of it (p=0.000057)
+  2) a birthday cake with candles on a table (p=0.000051)
+Captions for image 25011860_363452127458902_7373016777602629632_n.jpg:
+  0) a small white dog sitting on top of a bed . (p=0.000462)
+  1) a small white dog sitting on top of a couch . (p=0.000319)
+  2) a small white dog sitting on top of a chair . (p=0.000222)
+Captions for image 24174904_158999784712173_1474851645861920768_n.jpg:
+  0) a teddy bear sitting on top of a wooden table . (p=0.000043)
+  1) a teddy bear sitting on top of a table next to a cake . (p=0.000005)
+  2) a teddy bear sitting on top of a table with a cake . (p=0.000005)
+Captions for image 23101270_1736145486409817_6672283182403944448_n.jpg:
+  0) a group of people sitting at a table with plates of food . (p=0.000798)
+  1) a group of people sitting around a table with food . (p=0.000713)
+  2) a group of people sitting at a table with food . (p=0.000706)
+Captions for image 23161766_1972405536362023_1086872333592821760_n.jpg:
+  0) a plate of food on a dining table . (p=0.001089)
+  1) a plate of food on a dining table (p=0.000309)
+  2) a plate of food on a table with a drink (p=0.000129)
+Captions for image 23098796_126945117970466_7495359191612129280_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000802)
+  1) a vase filled with flowers on top of a table . (p=0.000789)
+  2) a bunch of flowers that are sitting in a vase . (p=0.000222)
+Captions for image 22802396_135486580438615_5457183912994275328_n.jpg:
+  0) a white dog laying on top of a bed . (p=0.001784)
+  1) a white dog laying on top of a white bed . (p=0.000533)
+  2) a white dog laying on top of a bed with pillows . (p=0.000159)
+Captions for image 22857612_1456945954412749_1914116896324583424_n.jpg:
+  0) a close up of a plate of food with a sandwich (p=0.001601)
+  1) a close up of a sandwich on a plate (p=0.001492)
+  2) a close up of a plate of food (p=0.000643)
+Captions for image 21372598_473959152972891_4396740119491510272_n.jpg:
+  0) a white plate topped with a sandwich and fries . (p=0.001701)
+  1) a plate with a sandwich and french fries . (p=0.001555)
+  2) a plate of food with a sandwich and french fries . (p=0.000992)
+Captions for image 21294899_837450753079934_3660694321092362240_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.003141)
+  1) a glass of wine sitting on top of a wooden table . (p=0.001299)
+  2) a glass of wine sitting on a table next to a wine glass . (p=0.000288)
+Captions for image 20225202_107892746511743_8098825195034247168_n.jpg:
+  0) a group of people sitting at a table with a cake . (p=0.000828)
+  1) a group of people sitting at a table with food . (p=0.000757)
+  2) a group of people sitting around a table with a cake . (p=0.000642)
+Captions for image 20181308_744785125646008_3626014599070875648_n.jpg:
+  0) a person sitting on a bench with a skateboard . (p=0.000041)
+  1) a person sitting on a bench with a skate board (p=0.000037)
+  2) a person sitting on a bench with a skateboard (p=0.000031)
+Captions for image 14350348_1046104618844038_269548233_n.jpg:
+  0) a cruise ship in the water near a city . (p=0.000063)
+  1) a cruise ship in the water near a large cruise ship . (p=0.000021)
+  2) a cruise ship in the water near a city (p=0.000017)
+Captions for image 19933275_1736125256687247_636402265074171904_n.jpg:
+  0) a group of people standing next to each other . (p=0.001228)
+  1) a group of people standing around each other . (p=0.000246)
+  2) a group of people standing next to each other in front of a building . (p=0.000039)
+Captions for image 18878852_1872074383031507_4865516459612176384_n.jpg:
+  0) a dog and a dog are standing in the grass . (p=0.000033)
+  1) a dog and a dog are standing in a field . (p=0.000015)
+  2) a dog and a dog are standing in a yard . (p=0.000007)
+Captions for image 18809174_333298517089910_7390008514334162944_n.jpg:
+  0) a group of people sitting around a table . (p=0.001141)
+  1) a group of people sitting at a table in a restaurant . (p=0.000518)
+  2) a group of people sitting at a table in a kitchen . (p=0.000116)
+Captions for image 20066653_690331834486119_1049905172119027712_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000296)
+  1) a man and a woman standing next to each other on a boat . (p=0.000099)
+  2) a man and a woman standing next to each other in a boat . (p=0.000056)
+Captions for image 18513212_1510493369014899_9087624093611589632_n.jpg:
+  0) a man and a woman are standing together (p=0.000148)
+  1) a man and a woman are standing together . (p=0.000131)
+  2) a man and a woman in formal attire smile for the camera . (p=0.000014)
+Captions for image 18382599_467642953580429_5647882595535421440_n.jpg:
+  0) a small white dog sitting on top of a skateboard . (p=0.000335)
+  1) a small white dog sitting on a skateboard . (p=0.000334)
+  2) a small white dog sitting on top of a grass covered field . (p=0.000083)
+Captions for image 20066882_1551784488228697_3129898348274778112_n.jpg:
+  0) a group of people standing next to a sign . (p=0.000029)
+  1) a group of people standing next to each other . (p=0.000027)
+  2) a group of people standing on top of a sign . (p=0.000021)
+Captions for image 18095780_712382295630160_3063073072375398400_n.jpg:
+  0) a plate of food with a sandwich and french fries . (p=0.001128)
+  1) a white plate topped with a sandwich and fries . (p=0.001123)
+  2) a plate of food with a sandwich and fries . (p=0.000630)
+Captions for image 18011725_189774944868305_3352055355566718976_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002907)
+  1) a white plate topped with meat and veggies . (p=0.001474)
+  2) a white plate topped with meat , potatoes and vegetables . (p=0.000950)
+Captions for image 20181236_480191252313953_8449607646683594752_n.jpg:
+  0) a man and a woman are talking on a cell phone . (p=0.000094)
+  1) a man and a woman are talking on the phone . (p=0.000074)
+  2) a man and a woman are talking on their cell phones . (p=0.000051)
+Captions for image 17494688_1381012428608184_2153666730163961856_n.jpg:
+  0) a group of people sitting around a table eating food . (p=0.007364)
+  1) a group of people sitting around a table with food . (p=0.003657)
+  2) a group of people sitting at a table with plates of food . (p=0.003153)
+Captions for image 17881744_1261140067323827_8197671084212879360_n.jpg:
+  0) a plate of food with a sandwich and french fries . (p=0.000778)
+  1) a plate of fries and a sandwich on a table . (p=0.000571)
+  2) a plate of fries and a sandwich on a table (p=0.000366)
+Captions for image 17438307_195825300909347_8581801212431564800_n.jpg:
+  0) a wooden table topped with lots of food . (p=0.000175)
+  1) a wooden table topped with a plate of food . (p=0.000151)
+  2) a wooden table topped with a plate of vegetables . (p=0.000036)
+Captions for image 17495143_1766048923724619_6496900452024582144_n.jpg:
+  0) a dog sitting in a chair in front of a door . (p=0.000095)
+  1) a dog sitting on a chair in front of a door . (p=0.000094)
+  2) a dog sitting on the floor in front of a door . (p=0.000082)
+Captions for image 17333482_821331054680862_8419713729410629632_n.jpg:
+  0) a group of people sitting around a table eating food . (p=0.004856)
+  1) a group of people sitting at a table with plates of food . (p=0.002439)
+  2) a group of people sitting around a table with food . (p=0.002357)
+Captions for image 17818406_315453158857795_5248107151292891136_n.jpg:
+  0) a white plate topped with a sandwich and salad . (p=0.000820)
+  1) a white plate topped with a sandwich and a salad . (p=0.000394)
+  2) a plate of food with a sandwich and salad . (p=0.000251)
+Captions for image 17663067_1831181240477555_4875761455556722688_n.jpg:
+  0) a dog laying on a couch with a remote control . (p=0.000121)
+  1) a dog laying on a couch with a remote (p=0.000072)
+  2) a dog laying on a couch with a remote control (p=0.000043)
+Captions for image 17334168_1775264956135911_2701744891171438592_n.jpg:
+  0) a glass of orange juice sitting on top of a table . (p=0.000229)
+  1) a glass of orange juice sitting on a table . (p=0.000093)
+  2) a glass of orange juice sitting on top of a wooden table . (p=0.000056)
+Captions for image 17333879_271200843291582_956114072900730880_n.jpg:
+  0) a table topped with a plate of food and drinks . (p=0.000017)
+  1) a table topped with a plate of food and a cup of coffee . (p=0.000013)
+  2) a table topped with a plate of food and a glass of orange juice . (p=0.000004)
+Captions for image 17126737_132004630659541_4467246478716305408_n.jpg:
+  0) a small white dog sitting on top of a couch . (p=0.000331)
+  1) a small white dog sitting on top of a bed . (p=0.000269)
+  2) a small white dog sitting on top of a chair . (p=0.000216)
+Captions for image 15624059_1804616419795321_1176126272309297152_n.jpg:
+  0) a black and white photo of a dog wearing a bow tie . (p=0.002058)
+  1) a black and white photo of a dog wearing a bow tie (p=0.000698)
+  2) a black and white photo of a dog with a bow tie . (p=0.000584)
+Captions for image 15624210_621907954684364_3769493105489739776_n.jpg:
+  0) a close up of a cake on a table (p=0.000599)
+  1) a close up of a cake on a wooden table (p=0.000121)
+  2) a close up of a cake with a train on it (p=0.000037)
+Captions for image 15306032_1048041341989041_4252065460385742848_n.jpg:
+  0) a man wearing a hat and a tie . (p=0.000068)
+  1) a man wearing a hat and tie standing next to a woman . (p=0.000011)
+  2) a man wearing a hat and tie standing in a room . (p=0.000007)
+Captions for image 14590963_1812666282338371_4470566582925393920_n.jpg:
+  0) a man standing in front of a tall building . (p=0.001585)
+  1) a man is standing in front of a building . (p=0.000741)
+  2) a man is standing in front of a building (p=0.000453)
+Captions for image 14533634_1819501714990568_7866470646891413504_n.jpg:
+  0) a dog sitting on a chair in a room . (p=0.000289)
+  1) a small dog sitting on a chair in a room . (p=0.000124)
+  2) a dog sitting on a chair in front of a mirror . (p=0.000112)
+Captions for image 14533677_527480290783986_2917416261623218176_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000287)
+  1) a large building with a clock tower on top . (p=0.000226)
+  2) a large building with a clock tower in the middle . (p=0.000138)
+Captions for image 14295387_1098426873604307_3708986954843422720_n.jpg:
+  0) a man in a suit and tie standing in front of a microphone . (p=0.000032)
+  1) a man in a suit and tie standing in a room . (p=0.000020)
+  2) a man in a suit and tie standing in front of a computer . (p=0.000015)
+Captions for image 14334441_982181561891606_2085303501_n.jpg:
+  0) a group of men standing next to each other . (p=0.002843)
+  1) a group of people standing around a table . (p=0.000360)
+  2) a group of men standing next to each other in a room . (p=0.000304)
+Captions for image 14063658_189907938093076_478548894_n.jpg:
+  0) a small white dog sitting on top of a chair . (p=0.000920)
+  1) a small white dog sitting on a chair . (p=0.000919)
+  2) a small white dog sitting on top of a couch . (p=0.000707)
+Captions for image 14052712_1282061455151595_1311456528_n.jpg:
+  0) a woman holding a cell phone in her hand . (p=0.000894)
+  1) a woman is holding a glass of wine . (p=0.000751)
+  2) a woman holding a glass of wine in her hand . (p=0.000484)
+Captions for image 13687169_202665396814883_1655005598_n.jpg:
+  0) a man and woman posing for a picture . (p=0.001923)
+  1) a man and woman pose for a picture . (p=0.001479)
+  2) a man and a woman standing next to each other . (p=0.001370)
+Captions for image 12276755_1547347315487754_1351678954_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.003324)
+  1) a piece of chocolate cake on a plate . (p=0.002179)
+  2) a piece of chocolate cake on a plate (p=0.001282)
+Captions for image 13102418_1694637470788564_1550202462_n.jpg:
+  0) a white dog sitting on top of a chair . (p=0.000658)
+  1) a white dog sitting on top of a couch . (p=0.000470)
+  2) a white dog sitting on top of a white chair . (p=0.000341)
+Captions for image 12231068_653733854769325_528124178_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.001078)
+  1) a slice of cake on a plate with a fork . (p=0.000829)
+  2) a piece of cake on a plate with a fork (p=0.000508)
+Captions for image 13694672_1418922824790874_907291590_n.jpg:
+  0) a white dog sitting on top of a couch . (p=0.000108)
+  1) a white dog sitting on top of a white chair . (p=0.000100)
+  2) a white dog sitting on top of a wooden table . (p=0.000075)
+Captions for image 13651728_1160097890713029_991847595_n.jpg:
+  0) a couple of men standing next to each other . (p=0.004294)
+  1) a man and a woman standing next to each other . (p=0.001845)
+  2) a man and a woman are standing together . (p=0.000135)
+Captions for image 13525573_154037905002092_1141427435_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000063)
+  1) a man in a suit and tie is smiling (p=0.000031)
+  2) a man in a suit and tie holding a glass of wine . (p=0.000011)
+Captions for image 13248710_238050816558230_1817652810_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002699)
+  1) a white plate topped with meat , potatoes and vegetables . (p=0.000664)
+  2) a white plate topped with meat , potatoes and veggies . (p=0.000582)
+Captions for image 10954688_1007571492604989_683665198_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000184)
+  1) a man and a woman standing next to each other in front of a building . (p=0.000005)
+  2) a man and a woman standing next to each other on a bus . (p=0.000005)
+Captions for image 13129500_1021311197962177_268774257_n.jpg:
+  0) a group of people sitting around a table . (p=0.003492)
+  1) a group of people sitting around a table eating food . (p=0.001795)
+  2) a group of people sitting around a table eating pizza . (p=0.000855)
+Captions for image 13129762_123309451411447_1009066549_n.jpg:
+  0) a group of people standing on top of a snow covered slope . (p=0.004056)
+  1) a group of people standing next to each other . (p=0.003484)
+  2) a group of people standing next to each other on a snow covered slope . (p=0.000571)
+Captions for image 13117956_1598722957122744_112274222_n.jpg:
+  0) a group of bikes parked next to each other . (p=0.003322)
+  1) a row of bicycles parked next to each other . (p=0.001646)
+  2) a group of bikes parked next to each other on a street . (p=0.000396)
+Captions for image 13130063_1071790542882288_861991520_n.jpg:
+  0) a group of people standing next to each other . (p=0.002541)
+  1) a group of people standing around each other . (p=0.001198)
+  2) a group of people standing next to each other in a room . (p=0.000363)
+Captions for image 13551602_1210240139006986_1558840507_n.jpg:
+  0) a group of people standing in front of a building . (p=0.002579)
+  1) a group of people standing next to each other . (p=0.001826)
+  2) a group of people standing in front of a building (p=0.000552)
+Captions for image 12918423_1524824827826222_1739046906_n.jpg:
+  0) a bunch of food that is on a table . (p=0.000279)
+  1) a bunch of food that are on a table . (p=0.000230)
+  2) a bunch of food that is sitting on a table . (p=0.000219)
+Captions for image 928931_705271162924066_1462972852_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.003855)
+  1) a slice of cake on a plate with a fork . (p=0.002761)
+  2) a piece of cake on a plate with a fork (p=0.001426)
+Captions for image 12940865_627122244130042_274004989_n.jpg:
+  0) a group of people standing next to each other . (p=0.000475)
+  1) a group of people standing next to each other on a street . (p=0.000122)
+  2) a group of people standing next to each other on a sidewalk . (p=0.000040)
+Captions for image 12934963_593079034174604_2029117092_n.jpg:
+  0) a group of people sitting around a table . (p=0.013747)
+  1) a group of people sitting at a table with wine glasses . (p=0.002420)
+  2) a group of people sitting around a table with wine glasses . (p=0.001834)
+Captions for image 12976502_572666306244428_1186604692_n.jpg:
+  0) a white dog laying on top of a bed . (p=0.001059)
+  1) a small white dog sitting on top of a chair . (p=0.000978)
+  2) a small white dog sitting on top of a couch . (p=0.000752)
+Captions for image 12960165_1005115706203374_1624323965_n.jpg:
+  0) two men standing next to each other in a room . (p=0.000790)
+  1) a man standing next to a woman in a store . (p=0.000380)
+  2) two men standing next to each other in front of a building . (p=0.000142)
+Captions for image 12907198_1671709259742545_684913481_n.jpg:
+  0) a sign that reads `` <UNK> '' on a wall . (p=0.000003)
+  1) a sign that says `` <UNK> '' on a wall . (p=0.000002)
+  2) a sign that reads `` <UNK> '' is on a pole . (p=0.000001)
+Captions for image 12424768_1685749741642762_318640706_n.jpg:
+  0) a pair of scissors and a knife on a table . (p=0.000143)
+  1) a cutting board with a knife and a pair of scissors . (p=0.000076)
+  2) a pair of scissors and a knife on a cutting board . (p=0.000070)
+Captions for image 11930787_1668500976736226_2124242696_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.001000)
+  1) a bunch of flowers that are in a vase (p=0.000329)
+  2) a bunch of flowers are in a vase (p=0.000313)
+Captions for image 12531174_699311466838798_436444972_n.jpg:
+  0) a white plate topped with a piece of cake . (p=0.000340)
+  1) a white plate topped with a sandwich and a bowl of soup . (p=0.000098)
+  2) a white plate topped with a piece of cake and a fork . (p=0.000067)
+Captions for image 12519117_1034219023329319_1923664375_n.jpg:
+  0) a white plate topped with a salad and a salad . (p=0.000104)
+  1) a white plate topped with a salad and a sandwich . (p=0.000064)
+  2) a plate of food with a fork and a knife . (p=0.000024)
+Captions for image 12599174_1674468536153712_278408131_n.jpg:
+  0) a couple of women standing next to each other . (p=0.000237)
+  1) a couple of women standing next to a table with a pizza . (p=0.000064)
+  2) a couple of women standing next to a table with pizza . (p=0.000063)
+Captions for image 12501519_1687660731507329_1839819531_n.jpg:
+  0) a couple of doughnuts are on a plate (p=0.000505)
+  1) a couple of doughnuts on a plate (p=0.000220)
+  2) a couple of doughnuts on a plate on a table . (p=0.000174)
+Captions for image 10362208_1676177929317764_899196923_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002855)
+  1) a white plate topped with meat and veggies . (p=0.001160)
+  2) a white plate topped with meat , potatoes and vegetables . (p=0.000400)
+Captions for image 1515949_1654689581448411_733687640_n.jpg:
+  0) a table topped with plates of food and cups of coffee . (p=0.000111)
+  1) a table topped with plates of food and a cup of coffee . (p=0.000061)
+  2) a table topped with a plate of food and a cup of coffee . (p=0.000027)
+Captions for image 12677651_1067051030025411_974259961_n.jpg:
+  0) a man standing next to a dog on a leash . (p=0.001017)
+  1) a man walking a dog down a sidewalk . (p=0.000557)
+  2) a man walking a dog on a leash . (p=0.000425)
+Captions for image 12728621_222216744789680_1704022251_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000133)
+  1) a woman wearing a hat and a tie . (p=0.000080)
+  2) a man wearing a tie and a hat (p=0.000034)
+Captions for image 12729470_912741875500519_147548931_n.jpg:
+  0) a group of people standing next to each other . (p=0.000827)
+  1) a man and a woman standing next to each other . (p=0.000312)
+  2) a group of people standing around each other . (p=0.000175)
+Captions for image 12599367_1586912301631838_936835055_n.jpg:
+  0) a group of people standing next to each other . (p=0.002205)
+  1) a group of people standing around each other . (p=0.000957)
+  2) a group of people standing next to each other in a parade . (p=0.000053)
+Captions for image 12568131_201381920211114_27451263_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002106)
+  1) a plate of food with a fork and knife . (p=0.000528)
+  2) a plate of food with a fork and knife (p=0.000394)
+Captions for image 12501498_1021929841178539_797915207_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.003007)
+  1) a white plate topped with meat and veggies . (p=0.001473)
+  2) a white plate topped with meat , potatoes and vegetables . (p=0.000642)
+Captions for image 12383295_553802458106066_559991090_n.jpg:
+  0) a group of people sitting around a table eating food . (p=0.003621)
+  1) a group of people sitting around a table with food . (p=0.003488)
+  2) a group of people sitting at a table with food . (p=0.001765)
+Captions for image 12543238_916494435124032_497560450_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.008950)
+  1) a close up of a plate of food on a table (p=0.002469)
+  2) a close up of a plate of food containing broccoli (p=0.000204)
+Captions for image 12568196_1020390354671278_861161824_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.004396)
+  1) a piece of chocolate cake on a white plate . (p=0.001980)
+  2) a piece of cake on a plate with a fork (p=0.001704)
+Captions for image 12424555_923221331106237_264790444_n.jpg:
+  0) a group of people sitting on a bench with a dog . (p=0.000320)
+  1) a man and a woman sitting on a bench with a dog . (p=0.000105)
+  2) a group of people sitting on a bench with a dog (p=0.000097)
+Captions for image 12534368_1511558262473460_1873923356_n.jpg:
+  0) a man sitting on a couch with a dog . (p=0.000412)
+  1) a man sitting on a couch with a dog on his lap . (p=0.000081)
+  2) a man sitting on a couch holding a dog (p=0.000070)
+Captions for image 12530764_196118180735358_1036546595_n.jpg:
+  0) a white plate topped with a pile of food . (p=0.000230)
+  1) a plate of food that includes eggs , bacon and bacon . (p=0.000010)
+  2) a plate of food that includes eggs , bacon , toast and fruit . (p=0.000001)
+Captions for image 1168698_1638619236389917_1694369951_n.jpg:
+  0) a close up of a plate of food on a table (p=0.000733)
+  1) a close up of a plate of food with broccoli (p=0.000704)
+  2) a close up of a plate of food with meat (p=0.000489)
+Captions for image 916410_191619417855920_972834392_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.001120)
+  1) a glass of wine sitting on top of a wooden table . (p=0.000243)
+  2) a glass of wine sitting on a table next to a wine glass . (p=0.000049)
+Captions for image 929409_111377492572981_268105137_n.jpg:
+  0) a glass of wine is sitting on a table (p=0.000304)
+  1) a glass of wine is sitting on a table . (p=0.000275)
+  2) a bottle of wine and a glass of wine . (p=0.000151)
+Captions for image 1390161_1666755263613432_2131207246_n.jpg:
+  0) a black and white photo of a dog wearing a bow tie . (p=0.000732)
+  1) a black and white photo of a man and a dog . (p=0.000377)
+  2) a black and white photo of a dog wearing a bow tie (p=0.000252)
+Captions for image 12346116_926349557401189_686752188_n.jpg:
+  0) a group of men standing next to each other . (p=0.005325)
+  1) a group of men standing around each other . (p=0.000948)
+  2) a group of men in suits and ties . (p=0.000686)
+Captions for image 12357624_191351727875338_1017538235_n.jpg:
+  0) a plate of food that includes rice and vegetables . (p=0.000107)
+  1) a plate of food with a sandwich and a salad . (p=0.000014)
+  2) a plate of food that includes rice and vegetables (p=0.000005)
+Captions for image 12292706_1170107599685612_336035738_n.jpg:
+  0) a group of people standing on top of a lush green field . (p=0.000045)
+  1) a group of people standing around a dog . (p=0.000040)
+  2) a group of people standing on top of a field . (p=0.000034)
+Captions for image 10554183_1646053095674629_496983931_n.jpg:
+  0) a group of people standing around a cake . (p=0.000152)
+  1) a group of people standing around a table with a cake . (p=0.000035)
+  2) a group of people standing around a table with a cake on it . (p=0.000022)
+Captions for image 10948854_613714362108125_773107593_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002310)
+  1) a white plate topped with meat and veggies . (p=0.001346)
+  2) a white plate topped with meat , potatoes and vegetables . (p=0.000585)
+Captions for image 12063196_760227864123140_1700095911_n.jpg:
+  0) a group of people standing next to each other . (p=0.000898)
+  1) a group of people standing in front of a store . (p=0.000218)
+  2) a group of people standing next to each other in a room . (p=0.000101)
+Captions for image 12277602_948103448571866_2015586824_n.jpg:
+  0) a woman sitting on a couch with a dog . (p=0.000623)
+  1) a woman sitting on a couch with a dog on her lap . (p=0.000192)
+  2) a woman sitting on a couch with a dog and a dog . (p=0.000064)
+Captions for image 12224113_1693414380893956_1382092881_n.jpg:
+  0) a close up of a person wearing a suit and tie (p=0.000507)
+  1) a close up of a person wearing a tie (p=0.000177)
+  2) a close up of a person wearing a suit (p=0.000091)
+Captions for image 12081082_1029356280440263_916449846_n.jpg:
+  0) a man and a woman sitting at a table with a cake . (p=0.000273)
+  1) a man and woman sitting at a table with a cake . (p=0.000263)
+  2) a man and a woman are sitting at a table (p=0.000086)
+Captions for image 12071101_1175220845825479_212036020_n.jpg:
+  0) a white plate topped with a cut in half sandwich . (p=0.001336)
+  1) a white plate topped with a piece of food . (p=0.000517)
+  2) a white plate topped with a piece of cake . (p=0.000487)
+Captions for image 12080505_431071773761512_768235307_n.jpg:
+  0) a white plate topped with a piece of cake . (p=0.002115)
+  1) a white plate topped with different types of food . (p=0.000953)
+  2) a white plate topped with a piece of cake and ice cream . (p=0.000275)
+Captions for image 12142331_1644687682486323_195996479_n.jpg:
+  0) a white plate topped with a sandwich and fries . (p=0.000972)
+  1) a plate of food with a sandwich and french fries . (p=0.000913)
+  2) a plate of food with a sandwich and fries . (p=0.000578)
+Captions for image 1515858_176340932709733_933743110_n.jpg:
+  0) a man standing in a kitchen preparing food . (p=0.000629)
+  1) a man standing in front of a counter with bottles of wine . (p=0.000019)
+  2) a man standing in front of a table with a glass of wine . (p=0.000012)
+Captions for image 11374289_915150535230014_702186625_n.jpg:
+  0) a plate of food on a table with a fork (p=0.000140)
+  1) a plate of food on a table with a fork . (p=0.000110)
+  2) a plate of food on a table with a spoon (p=0.000088)
+Captions for image 12132933_1721717788042813_1393010987_n.jpg:
+  0) a group of people standing around a table . (p=0.001850)
+  1) a group of people sitting around a table . (p=0.001635)
+  2) a group of people standing around a table with food . (p=0.000566)
+Captions for image 12141892_1507703376193550_2142594204_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002921)
+  1) a white plate topped with meat and veggies . (p=0.001374)
+  2) a white plate topped with meat , potatoes and vegetables . (p=0.000776)
+Captions for image 12145483_502324833261293_482702069_n.jpg:
+  0) a cup of coffee and a donut on a plate . (p=0.000215)
+  1) a cup of coffee and a doughnut on a plate . (p=0.000168)
+  2) a cup of coffee and a donut on a plate (p=0.000066)
+Captions for image 12141936_844266845691467_531759400_n.jpg:
+  0) a white plate topped with a sandwich and salad . (p=0.000387)
+  1) a plate of food with a sandwich and a salad . (p=0.000087)
+  2) a plate of food with a fork and a knife . (p=0.000041)
+Captions for image 12132938_448999701958966_1556505515_n.jpg:
+  0) a group of people sitting around a table . (p=0.002291)
+  1) a group of people sitting at a table with wine glasses . (p=0.001200)
+  2) a group of people sitting at a table with plates of food . (p=0.000913)
+Captions for image 12144208_1632905650323527_482480366_n.jpg:
+  0) a couple of women standing next to each other . (p=0.005745)
+  1) a group of people standing next to each other . (p=0.001983)
+  2) a man and woman pose for a picture . (p=0.000942)
+Captions for image 11374438_535387879951119_208458566_n.jpg:
+  0) a man sitting at a table with a cup of coffee . (p=0.000870)
+  1) a man sitting at a table with a plate of food . (p=0.000500)
+  2) a man sitting at a table with a cup of coffee (p=0.000148)
+Captions for image 12144316_487861218053954_755428618_n.jpg:
+  0) a plate of food that includes meat and vegetables . (p=0.000546)
+  1) a white plate topped with a salad and a salad . (p=0.000086)
+  2) a white plate topped with a salad and a sandwich . (p=0.000082)
+Captions for image 12063004_891668317535866_1252927254_n.jpg:
+  0) a giant teddy bear sitting on top of a building . (p=0.000021)
+  1) a man is flying a kite in a park (p=0.000007)
+  2) a man is flying a kite in the air (p=0.000004)
+Captions for image 12142574_187149938287649_1050276600_n.jpg:
+  0) a woman standing in front of a store window . (p=0.000145)
+  1) a woman standing in front of a store front . (p=0.000053)
+  2) a woman standing in front of a store window (p=0.000029)
+Captions for image 11934571_1491792784469383_949295972_n.jpg:
+  0) a white dog sitting on top of a white chair . (p=0.000424)
+  1) a white dog sitting on top of a white toilet . (p=0.000339)
+  2) a small white dog sitting on top of a white chair . (p=0.000159)
+Captions for image 11373818_960357674002545_1284023011_n.jpg:
+  0) a close up of a box of doughnuts (p=0.002179)
+  1) a close up of a box of doughnuts on a table (p=0.000393)
+  2) a close up of a plate of doughnuts (p=0.000357)
+Captions for image 11374267_1635248693395084_295495231_n.jpg:
+  0) a white and black dog laying on a grass covered field . (p=0.000060)
+  1) a white and black dog laying on the ground next to a frisbee . (p=0.000018)
+  2) a white and black dog laying on the grass with a frisbee . (p=0.000013)
+Captions for image 11821854_1636675309946851_691506093_n.jpg:
+  0) a man and a woman holding wine glasses . (p=0.001155)
+  1) a couple of people that are sitting at a table (p=0.000721)
+  2) a couple of people that are holding wine glasses (p=0.000445)
+Captions for image 11201517_753805704729771_1436273076_n.jpg:
+  0) a couple of people standing next to each other . (p=0.000603)
+  1) a couple of people that are standing in front of a mirror (p=0.000018)
+  2) a couple of people that are standing in front of a building (p=0.000015)
+Captions for image 11336099_964516456925860_151160872_n.jpg:
+  0) a display case filled with different types of donuts . (p=0.001381)
+  1) a display case filled with lots of different types of donuts . (p=0.000704)
+  2) a display case filled with lots of different flavored donuts . (p=0.000487)
+Captions for image 11348162_1443491242647872_1668144260_n.jpg:
+  0) a bird is standing in the middle of a pond . (p=0.000022)
+  1) a bird is standing in the middle of a tree . (p=0.000011)
+  2) a bird is standing in the middle of a pond (p=0.000008)
+Captions for image 11417459_100295456992119_511337147_n.jpg:
+  0) a group of people standing next to each other . (p=0.007163)
+  1) a group of people standing around each other . (p=0.002981)
+  2) a group of people posing for a picture . (p=0.002872)
+Captions for image 11821277_442430852606116_666162230_n.jpg:
+  0) a refrigerator filled with lots of food and drinks . (p=0.000729)
+  1) a refrigerator filled with lots of bottles of wine . (p=0.000281)
+  2) a display case filled with lots of different types of drinks . (p=0.000053)
+Captions for image 1971494_405965982920119_723787175_n.jpg:
+  0) a pizza sitting on top of a wooden cutting board . (p=0.001347)
+  1) a pizza sitting on top of a white plate . (p=0.001203)
+  2) a pizza sitting on top of a white plate on a table . (p=0.000650)
+Captions for image 11820568_423519341106249_863732893_n.jpg:
+  0) a group of people standing next to each other . (p=0.000344)
+  1) a group of people standing next to each other holding surfboards . (p=0.000025)
+  2) a group of people standing next to each other on a street . (p=0.000024)
+Captions for image 11381477_1633082076904479_257205907_n.jpg:
+  0) a group of people standing on a street corner . (p=0.000117)
+  1) a group of people standing on a street corner (p=0.000014)
+  2) a group of people standing on a sidewalk next to a building . (p=0.000013)
+Captions for image 11258145_1166757390016736_1678298268_n.jpg:
+  0) a white plate topped with a piece of cake . (p=0.001929)
+  1) a white plate topped with meat and vegetables . (p=0.001281)
+  2) a white plate topped with a piece of food . (p=0.001024)
+Captions for image 11333690_1709318069295762_1198180039_n.jpg:
+  0) a slice of pizza on a plate next to a drink . (p=0.000051)
+  1) a plate of food with a sandwich and a drink (p=0.000036)
+  2) a slice of pizza on a plate next to a cup of coffee . (p=0.000023)
+Captions for image 11282864_1599348973651885_1193435364_n.jpg:
+  0) a small white dog laying on a rug . (p=0.000587)
+  1) a white dog laying on a rug next to a shoe . (p=0.000118)
+  2) a white dog laying on the floor next to a shoe . (p=0.000103)
+Captions for image 11378675_761708450612973_40319722_n.jpg:
+  0) a white dog laying on top of a bed . (p=0.006566)
+  1) a white dog laying on top of a couch . (p=0.002105)
+  2) a white dog laying on top of a white bed . (p=0.001662)
+Captions for image 11372537_666879270112164_1828227885_n.jpg:
+  0) a man holding a dog in his arms . (p=0.000151)
+  1) a man holding a dog in his arms (p=0.000054)
+  2) a man holding a dog wearing a hat . (p=0.000039)
+Captions for image 11350841_750258691739765_1243521563_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.001829)
+  1) a piece of cake on a plate with a fork (p=0.000960)
+  2) a piece of chocolate cake on a plate . (p=0.000853)
+Captions for image 11333382_1578152255759634_1490593989_n.jpg:
+  0) a group of people walking down a street . (p=0.000070)
+  1) a group of people walking down a street next to a building . (p=0.000017)
+  2) a group of people walking down a street next to tall buildings . (p=0.000013)
+Captions for image 11230308_482932828522889_1879255289_n.jpg:
+  0) a bowl of soup with a spoon and a spoon . (p=0.000194)
+  1) a bowl of food with a spoon and a spoon . (p=0.000148)
+  2) a bowl of soup with a spoon on a table . (p=0.000109)
+Captions for image 11241988_388721261320221_376952725_n.jpg:
+  0) a plate of food that includes meat and vegetables . (p=0.000296)
+  1) a plate of food with a fork and a knife . (p=0.000052)
+  2) a plate of food with a fork and a spoon . (p=0.000050)
+Captions for image 11202459_1578975725695673_2064461033_n.jpg:
+  0) a small propeller plane sitting on top of a tarmac . (p=0.000110)
+  1) a small propeller plane sitting on top of a runway . (p=0.000098)
+  2) a person standing next to a small airplane . (p=0.000055)
+Captions for image 11189428_858850910845883_905721514_n.jpg:
+  0) a group of people that are standing around a table . (p=0.000015)
+  1) a group of people that are standing in front of a building . (p=0.000012)
+  2) a group of people that are standing in front of a store . (p=0.000007)
+Captions for image 11208361_1419306895055056_281341895_n.jpg:
+  0) a group of people standing next to each other . (p=0.000052)
+  1) a group of people standing on top of a beach . (p=0.000019)
+  2) a group of people standing next to each other on a beach . (p=0.000006)
+Captions for image 11084986_1425463827764724_1906879612_n.jpg:
+  0) a plate with a sandwich and a cup of coffee . (p=0.000255)
+  1) a white plate topped with a sandwich and a cup of coffee . (p=0.000161)
+  2) a plate with a sandwich and a cup of coffee (p=0.000098)
+Captions for image 11098715_857723017623973_1927751074_n.jpg:
+  0) a man sitting on a bench next to a train . (p=0.000410)
+  1) a man sitting on a bench in front of a train . (p=0.000249)
+  2) a man sitting on a bench in front of a bus . (p=0.000078)
+Captions for image 11098637_1561358894136718_684088216_n.jpg:
+  0) a herd of sheep grazing on a lush green hillside . (p=0.000842)
+  1) a herd of sheep standing on top of a lush green hillside . (p=0.000312)
+  2) a herd of sheep grazing in a field . (p=0.000158)
+Captions for image 11055946_1555174378077772_459920374_n.jpg:
+  0) a close up of a cake on a table (p=0.001711)
+  1) a close up of a cake on a plate (p=0.000907)
+  2) a close up of two cakes on a table (p=0.000767)
+Captions for image 11176313_1110461768983492_430602108_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000899)
+  1) a close up of a person holding a surf board (p=0.000664)
+  2) a close up of a person holding a frisbee (p=0.000394)
+Captions for image 11141937_1426032287712920_1585623482_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000061)
+  1) a close up of a street sign with a building in the background (p=0.000021)
+  2) a close up of a sign that says <UNK> (p=0.000021)
+Captions for image 10354576_806688742734712_2116758057_n.jpg:
+  0) a white plate topped with a cut in half sandwich . (p=0.000715)
+  1) a white plate topped with a sandwich and salad . (p=0.000525)
+  2) a white plate topped with a sandwich and a salad . (p=0.000461)
+Captions for image 11008187_589814521154685_1820741173_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.002456)
+  1) a piece of chocolate cake on a white plate . (p=0.002277)
+  2) a piece of chocolate cake on a plate (p=0.001389)
+Captions for image 10990578_1628595480693279_1333875798_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.000198)
+  1) a black and white photo of a clock tower (p=0.000109)
+  2) a black and white photo of a clock on a pole . (p=0.000031)
+Captions for image 10005497_756127957836868_1391785100_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000445)
+  1) a cup of coffee sitting on top of a wooden table . (p=0.000193)
+  2) a cup of coffee sitting on a table . (p=0.000184)
+Captions for image 11049360_347513048779158_1442673037_n.jpg:
+  0) a man is holding a video game controller (p=0.000164)
+  1) a man holding a cell phone up to his face . (p=0.000067)
+  2) a man holding a cell phone in his hand . (p=0.000064)
+Captions for image 11017589_954404677906048_893918527_n.jpg:
+  0) a room filled with lots of lights and lights . (p=0.000035)
+  1) a room filled with lots of lit candles . (p=0.000023)
+  2) a room filled with lots of different types of lights . (p=0.000016)
+Captions for image 10979543_1056212337727328_1450468977_n.jpg:
+  0) a white plate topped with a slice of pizza . (p=0.001946)
+  1) a white plate topped with a piece of food . (p=0.001062)
+  2) a white plate topped with a piece of cake . (p=0.000966)
+Captions for image 10932411_1423251234640715_1460901213_n.jpg:
+  0) a white plate topped with a pizza covered in toppings . (p=0.000132)
+  1) a white plate topped with a pizza covered in cheese . (p=0.000098)
+  2) a plate of food with a fork and a knife (p=0.000035)
+Captions for image 11007753_1580388108869259_1635558912_n.jpg:
+  0) a white plate topped with a cut in half sandwich . (p=0.001059)
+  1) a white plate topped with a sandwich and a salad . (p=0.000781)
+  2) a white plate topped with a sandwich and salad . (p=0.000688)
+Captions for image 53331480_2253506951528101_4226431302621742165_n.jpg:
+  0) a woman and a man with a smile on their face . (p=0.000002)
+  1) a woman and a man with a smile on his face . (p=0.000001)
+  2) a woman and a man with a smile on their face (p=0.000001)

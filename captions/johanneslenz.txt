@@ -1,0 +1,800 @@
+Captions for image 28766635_346129012573136_7620555327921979392_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001938)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000196)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000086)
+Captions for image 22352316_287273415109764_5919518094228717568_n.jpg:
+  0) a man in a black shirt is eating a banana (p=0.000040)
+  1) a man in a black shirt is eating a banana . (p=0.000035)
+  2) a man in a black shirt is holding a banana (p=0.000028)
+Captions for image 26865642_1166113413491380_1702430018572910592_n.jpg:
+  0) a tall building with a clock on it (p=0.000587)
+  1) a large building with a clock on the front . (p=0.000424)
+  2) a large building with a clock on the front of it . (p=0.000307)
+Captions for image 18646025_1306366726125509_1988615522140291072_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000509)
+  1) a train traveling over a bridge over water . (p=0.000121)
+  2) a train traveling over a bridge over a lake . (p=0.000088)
+Captions for image 20482402_159704887919929_3135515246374944768_n.jpg:
+  0) a red and white boat sitting on top of a beach . (p=0.000022)
+  1) a red and white boat sitting in the middle of a lake . (p=0.000020)
+  2) a red and white boat sitting on top of a lake . (p=0.000018)
+Captions for image 22430123_157990128131443_7376321883785920512_n.jpg:
+  0) a large body of water next to a river . (p=0.000075)
+  1) a large body of water next to a river with lots of trees . (p=0.000011)
+  2) a view of a river with a bridge and a bridge . (p=0.000007)
+Captions for image 41448669_1956100471112777_2720296186332165651_n.jpg:
+  0) a tall brick building with a clock on it 's side . (p=0.000363)
+  1) a tall brick building with a clock on it . (p=0.000319)
+  2) a tall brick building with a clock on top of it . (p=0.000214)
+Captions for image 34372855_197580574403974_7011612979204456448_n.jpg:
+  0) a building with a clock on the side of it (p=0.000094)
+  1) a building with a clock on the side of it . (p=0.000084)
+  2) a building with a clock on the front of it (p=0.000082)
+Captions for image 32757496_2184899668400711_7456208357095899136_n.jpg:
+  0) a large building with a clock on it . (p=0.000369)
+  1) a large building with a clock on it (p=0.000256)
+  2) a large building with a clock on the front . (p=0.000233)
+Captions for image 34487754_869546246579492_1169666422452781056_n.jpg:
+  0) a tall brick building with a clock on it 's side . (p=0.000680)
+  1) a building with a clock on the front of it (p=0.000487)
+  2) a building with a clock on the front of it . (p=0.000416)
+Captions for image 37285698_241334453353232_2100047160144822272_n.jpg:
+  0) a building with a clock on the side of it . (p=0.000058)
+  1) a building with a clock on the front of it . (p=0.000054)
+  2) a building with a clock on the side of it (p=0.000049)
+Captions for image 29715943_182092212418703_1084213091706601472_n.jpg:
+  0) a city street at night with a traffic light . (p=0.000098)
+  1) a city street at night with a traffic light on it . (p=0.000014)
+  2) a city street at night with a traffic light and street signs . (p=0.000005)
+Captions for image 30590764_1646986272087142_1100494647005806592_n.jpg:
+  0) a car driving down a city street at night . (p=0.000270)
+  1) a car driving down a city street at night (p=0.000068)
+  2) a city street at night with cars parked on it . (p=0.000022)
+Captions for image 29716564_2023344461321664_1264581750835642368_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003409)
+  1) a city street filled with traffic next to tall buildings . (p=0.000586)
+  2) a city street filled with lots of traffic and traffic . (p=0.000107)
+Captions for image 29415896_1649814595139926_7048254010926563328_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.006905)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000573)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000360)
+Captions for image 28766253_121933051980829_1745335367470415872_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003994)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000555)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000171)
+Captions for image 29094260_173106563343132_9157548111105622016_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002737)
+  1) a city street filled with lots of tall buildings . (p=0.000290)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000152)
+Captions for image 19050286_440108503048759_5113856953340133376_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000318)
+  1) a river with a bridge spanning the width of it . (p=0.000160)
+  2) a river with a bridge spanning the width of it (p=0.000061)
+Captions for image 28753994_956860677821569_2462494244753899520_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002545)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000194)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000080)
+Captions for image 28434640_1979390145712906_1007229921799438336_n.jpg:
+  0) a large building with a clock on top . (p=0.000388)
+  1) a large building with a clock on the front . (p=0.000289)
+  2) a large building with a clock on it (p=0.000259)
+Captions for image 22220616_123133891740443_2512640040929067008_n.jpg:
+  0) a large body of water with a clock on top of it . (p=0.000095)
+  1) a large body of water with a clock tower on top of it . (p=0.000072)
+  2) a large body of water with a clock on it (p=0.000071)
+Captions for image 26151833_1653839294658842_2194954907910406144_n.jpg:
+  0) a large building with a clock on it . (p=0.000390)
+  1) a large building with a clock on it (p=0.000247)
+  2) a large building with a large clock on it . (p=0.000220)
+Captions for image 26065439_312455275939817_1606125414298681344_n.jpg:
+  0) a large building with a large clock tower . (p=0.000107)
+  1) a large building with a clock on it . (p=0.000054)
+  2) a large building with a clock on it (p=0.000039)
+Captions for image 26071123_1724107544338666_4573772405075345408_n.jpg:
+  0) a tall building with a clock on it (p=0.000254)
+  1) a building with a clock on the front of it . (p=0.000200)
+  2) a building with a clock on the front of it (p=0.000167)
+Captions for image 25023948_2019410435008412_7478805361156161536_n.jpg:
+  0) a group of birds flying over a building . (p=0.000058)
+  1) a group of birds flying over a building (p=0.000012)
+  2) a group of people standing on top of a building . (p=0.000011)
+Captions for image 26156050_1946102162385085_3055716283023622144_n.jpg:
+  0) a large building with a clock on it . (p=0.000396)
+  1) a large building with a clock on it (p=0.000364)
+  2) a tall building with a clock on it (p=0.000276)
+Captions for image 25038653_410641786025356_96540118805905408_n.jpg:
+  0) a large building with a clock on it . (p=0.000121)
+  1) a large building with a clock on it (p=0.000105)
+  2) a large building with a clock on the front of it . (p=0.000048)
+Captions for image 25036566_2081132842142812_6065435433402105856_n.jpg:
+  0) a large building with a clock on it (p=0.000272)
+  1) a tall building with a clock on it (p=0.000203)
+  2) a large building with a clock on the front of it . (p=0.000181)
+Captions for image 25012077_178556062741550_3423752631913283584_n.jpg:
+  0) a building with a clock on the front of it . (p=0.000139)
+  1) a tall building with a clock on it (p=0.000135)
+  2) a large building with a clock on the front of it . (p=0.000134)
+Captions for image 25038407_1919563588357131_2869779392068845568_n.jpg:
+  0) a large building with a large clock tower . (p=0.000301)
+  1) a large building with a clock on it . (p=0.000270)
+  2) a large building with a clock on it (p=0.000214)
+Captions for image 25037844_2039089409699819_3578532816490594304_n.jpg:
+  0) a large building with a clock on it . (p=0.000556)
+  1) a large building with a clock on it (p=0.000510)
+  2) a tall building with a clock on it (p=0.000436)
+Captions for image 25013317_559633114370379_7787600899714580480_n.jpg:
+  0) a large building with a clock on it . (p=0.000204)
+  1) a large building with a clock on it (p=0.000176)
+  2) a large building with a clock on the front . (p=0.000123)
+Captions for image 24845950_1783896401621475_5908119405643956224_n.jpg:
+  0) a large building with a clock on it (p=0.000284)
+  1) a tall building with a clock on it (p=0.000211)
+  2) a large building with a clock on the top of it . (p=0.000131)
+Captions for image 24178013_1691991237555651_3919445244315172864_n.jpg:
+  0) a large building with a clock on it . (p=0.000381)
+  1) a large building with a clock on it (p=0.000313)
+  2) a large building with a clock on the front of it . (p=0.000160)
+Captions for image 24838624_186755525240154_9078683453465034752_n.jpg:
+  0) a large building with a clock on it . (p=0.000604)
+  1) a large building with a clock on it (p=0.000462)
+  2) a tall building with a clock on it (p=0.000321)
+Captions for image 24177371_150465375711610_3818180111727853568_n.jpg:
+  0) a large building with a clock on it . (p=0.000346)
+  1) a large building with a clock on it (p=0.000247)
+  2) a tall building with a clock on it (p=0.000201)
+Captions for image 24327111_245907142610135_3080406216057290752_n.jpg:
+  0) a large building with a clock on it (p=0.000279)
+  1) a building with a clock on the front of it . (p=0.000173)
+  2) a large building with a clock on the front of it . (p=0.000172)
+Captions for image 24125498_154009405353209_2119010368469598208_n.jpg:
+  0) a large building with a clock on the front . (p=0.000103)
+  1) a large building with a large clock on it . (p=0.000102)
+  2) a large building with a clock on the front of it . (p=0.000099)
+Captions for image 24125141_261755917684956_479181761683652608_n.jpg:
+  0) a large building with a clock on it (p=0.000185)
+  1) a large building with a large clock on it . (p=0.000156)
+  2) a large building with a clock on the front of it . (p=0.000123)
+Captions for image 25009394_1984295578503193_5423615994796965888_n.jpg:
+  0) a large building with a clock on it . (p=0.000297)
+  1) a tall building with a clock on it (p=0.000256)
+  2) a large building with a clock on it (p=0.000254)
+Captions for image 24174927_1501475069935104_5007326547330203648_n.jpg:
+  0) a large building with a clock on it . (p=0.000204)
+  1) a large building with a clock on it (p=0.000151)
+  2) a large building with a large clock on it . (p=0.000123)
+Captions for image 23823666_1402006379910662_4683800477832314880_n.jpg:
+  0) a large building with a large clock on it . (p=0.000203)
+  1) a large building with a clock on it (p=0.000167)
+  2) a large building with a large clock on it 's side . (p=0.000083)
+Captions for image 23825082_356748221462937_8324732271416311808_n.jpg:
+  0) a large building with a clock on it . (p=0.000442)
+  1) a large building with a clock on it (p=0.000382)
+  2) a tall building with a clock on it (p=0.000302)
+Captions for image 23824046_2039561632986518_2606675446477094912_n.jpg:
+  0) a large building with a clock on it (p=0.000225)
+  1) a large building with a clock on the front of it . (p=0.000149)
+  2) a building with a clock on the front of it . (p=0.000142)
+Captions for image 23823914_1919755998339894_2984090878659788800_n.jpg:
+  0) a large building with a clock on it . (p=0.000237)
+  1) a large building with a clock on it (p=0.000178)
+  2) a large building with a large clock on it . (p=0.000175)
+Captions for image 23594135_549296598750247_6433380995273064448_n.jpg:
+  0) a large building with a clock on it (p=0.000123)
+  1) a large building with a clock on the front of it . (p=0.000086)
+  2) a large building with a clock on the top of it . (p=0.000057)
+Captions for image 23668058_811105292395160_6638794678151938048_n.jpg:
+  0) a large building with a clock on it . (p=0.000303)
+  1) a large building with a clock on it (p=0.000291)
+  2) a tall building with a clock on it (p=0.000191)
+Captions for image 23507959_2063029570583631_1197247753239920640_n.jpg:
+  0) a large building with a clock on it . (p=0.000439)
+  1) a large building with a clock on it (p=0.000381)
+  2) a tall building with a clock on it (p=0.000331)
+Captions for image 23734074_1786817084693376_7324558744661000192_n.jpg:
+  0) a large building with a large clock on it . (p=0.000132)
+  1) a large building with a clock on it (p=0.000106)
+  2) a large building with a clock on the side of it . (p=0.000076)
+Captions for image 23498559_161570654448373_2280243466531241984_n.jpg:
+  0) a large building with a clock on it (p=0.000176)
+  1) a large building with a clock on the front of it . (p=0.000127)
+  2) a building with a clock on the front of it . (p=0.000105)
+Captions for image 22711075_1662606137143795_5155371385668763648_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000274)
+  1) a train traveling over a bridge over water . (p=0.000097)
+  2) a train traveling over a bridge over a lake . (p=0.000066)
+Captions for image 19050441_1344656062298141_8795642471548715008_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000407)
+  1) a train traveling over a bridge over water . (p=0.000105)
+  2) a train traveling over a bridge over a lake . (p=0.000075)
+Captions for image 22071140_161414797788131_7857531140616224768_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000438)
+  1) a river with a bridge spanning the width of it . (p=0.000123)
+  2) a train traveling over a bridge over water . (p=0.000085)
+Captions for image 20633638_1154681304675453_6956256082029182976_n.jpg:
+  0) a large body of water next to a river . (p=0.000104)
+  1) a large body of water surrounded by trees (p=0.000065)
+  2) a large body of water next to a forest filled with trees . (p=0.000025)
+Captions for image 21985331_293354497832570_4069604559478063104_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000414)
+  1) a train traveling over a bridge over water . (p=0.000088)
+  2) a train traveling over a bridge over a lake . (p=0.000050)
+Captions for image 21827310_790076561166109_8243066491939848192_n.jpg:
+  0) a large body of water next to a river . (p=0.000056)
+  1) a large body of water with a bridge in the background (p=0.000052)
+  2) a large body of water with a bridge in the background . (p=0.000050)
+Captions for image 21911511_1732899003395228_2061712107421827072_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000362)
+  1) a train traveling over a bridge over a lake . (p=0.000059)
+  2) a train traveling over a bridge over a body of water . (p=0.000048)
+Captions for image 20686507_159244437973123_8256555420848488448_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000700)
+  1) a train traveling over a bridge over water . (p=0.000170)
+  2) a train traveling over a bridge over a lake . (p=0.000117)
+Captions for image 19228213_100223850603000_773146378737025024_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000327)
+  1) a train traveling over a bridge over water . (p=0.000072)
+  2) a train traveling over a bridge over a lake . (p=0.000055)
+Captions for image 16790121_1074215499355823_467561877988179968_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000363)
+  1) a river with a bridge spanning the width of it . (p=0.000113)
+  2) a train traveling over a bridge over water . (p=0.000070)
+Captions for image 20479267_259175801237915_12069343433064448_n.jpg:
+  0) a large body of water next to a forest . (p=0.000097)
+  1) a large body of water surrounded by trees (p=0.000061)
+  2) a large body of water next to a forest filled with trees . (p=0.000032)
+Captions for image 20837359_1945995992350117_5749002648422449152_n.jpg:
+  0) a small boat in a body of water (p=0.000557)
+  1) a small boat in the middle of a lake . (p=0.000065)
+  2) a small boat in the middle of a lake (p=0.000046)
+Captions for image 20347664_174885483053920_7224455267583262720_n.jpg:
+  0) a river with a bridge over a river . (p=0.000015)
+  1) a river with a bridge over the water . (p=0.000012)
+  2) a river with a bridge over the water (p=0.000004)
+Captions for image 20393701_487206858280338_5230163473714905088_n.jpg:
+  0) a boat traveling down a river next to a forest . (p=0.000180)
+  1) a boat traveling down a river surrounded by forest . (p=0.000109)
+  2) a boat traveling down a river surrounded by trees . (p=0.000066)
+Captions for image 20399043_147626255817031_4741146563340926976_n.jpg:
+  0) a boat traveling across a river next to a forest . (p=0.000115)
+  1) a boat traveling across a lake surrounded by mountains . (p=0.000066)
+  2) a boat is sitting in the water near a mountain . (p=0.000014)
+Captions for image 20214170_433015183759584_7674586845434347520_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000283)
+  1) a train traveling over a bridge over water . (p=0.000075)
+  2) a train traveling over a bridge over a lake . (p=0.000064)
+Captions for image 18949939_156248641605358_1014832185712050176_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000543)
+  1) a train traveling through a lush green forest . (p=0.000265)
+  2) a train traveling through a lush green countryside . (p=0.000189)
+Captions for image 20479026_471084006605444_3877990507736989696_n.jpg:
+  0) a boat in the middle of a lake surrounded by trees . (p=0.000023)
+  1) a boat in the middle of a lake surrounded by mountains . (p=0.000022)
+  2) a boat in the middle of a lake with a mountain in the background . (p=0.000006)
+Captions for image 20066969_114686585842028_148757210204209152_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000324)
+  1) a train traveling over a bridge over a lake . (p=0.000062)
+  2) a train traveling over a bridge over a body of water . (p=0.000050)
+Captions for image 20067175_641983119324006_9039577844954431488_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000361)
+  1) a train traveling over a bridge over water . (p=0.000091)
+  2) a train traveling over a bridge over a lake . (p=0.000066)
+Captions for image 20184700_130569484212726_933709942936829952_n.jpg:
+  0) a boat is sitting in the middle of a lake . (p=0.000038)
+  1) a boat is sitting in the middle of a river . (p=0.000018)
+  2) a boat is sitting in the middle of the water . (p=0.000015)
+Captions for image 20180702_255382941616118_6749617422937882624_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000565)
+  1) a train traveling over a bridge over water . (p=0.000157)
+  2) a train traveling over a bridge over a lake . (p=0.000111)
+Captions for image 20180589_450444711999850_9032584186497597440_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000268)
+  1) a train traveling over a bridge over water . (p=0.000065)
+  2) a train traveling over a bridge over a lake . (p=0.000053)
+Captions for image 19955652_470309956655342_2247733643592073216_n.jpg:
+  0) a large body of water next to a river . (p=0.000102)
+  1) a large body of water next to a forest . (p=0.000094)
+  2) a large body of water surrounded by trees (p=0.000035)
+Captions for image 19955467_848512265324465_7715059524855398400_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000293)
+  1) a train traveling over a bridge over water . (p=0.000071)
+  2) a train traveling over a bridge over a lake . (p=0.000058)
+Captions for image 20066063_1949402245340106_6871336559883321344_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000326)
+  1) a train traveling over a bridge over a lake . (p=0.000054)
+  2) a train traveling over a bridge over a body of water . (p=0.000048)
+Captions for image 19931853_318640028548342_1290334366152523776_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000389)
+  1) a train traveling over a bridge over water . (p=0.000118)
+  2) a train traveling over a bridge over a lake . (p=0.000062)
+Captions for image 19955265_164471127429215_8954749320280670208_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000797)
+  1) a train traveling over a bridge over water . (p=0.000224)
+  2) a train traveling over a bridge over a lake . (p=0.000150)
+Captions for image 19765257_484155961922568_1575317454970683392_n.jpg:
+  0) a large body of water surrounded by trees . (p=0.000328)
+  1) a large body of water next to a forest . (p=0.000164)
+  2) a large body of water surrounded by trees (p=0.000077)
+Captions for image 19624771_104768326788242_4743814979277291520_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000411)
+  1) a river with a bridge spanning the width of it . (p=0.000116)
+  2) a train traveling over a bridge over water . (p=0.000077)
+Captions for image 19436301_1377434872325565_3373276346594623488_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000436)
+  1) a train traveling over a bridge over a lake . (p=0.000075)
+  2) a train traveling over a bridge over a body of water . (p=0.000062)
+Captions for image 19436649_163602920847984_5944872510242684928_n.jpg:
+  0) a large body of water surrounded by trees . (p=0.000142)
+  1) a large body of water next to a forest . (p=0.000102)
+  2) a large body of water surrounded by trees (p=0.000028)
+Captions for image 19624316_1944856162463085_7593006170734854144_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000238)
+  1) a river with a bridge spanning the width of it . (p=0.000174)
+  2) a river with a bridge spanning the width of it (p=0.000060)
+Captions for image 19425172_1408485525911633_7162492268325109760_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000306)
+  1) a train traveling over a bridge on a river . (p=0.000057)
+  2) a train traveling over a bridge over a lake . (p=0.000055)
+Captions for image 19761584_409440756117428_6426284622673346560_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000580)
+  1) a train traveling over a bridge over water . (p=0.000119)
+  2) a train traveling over a bridge over a lake . (p=0.000077)
+Captions for image 19380089_124312164826148_2703945619529007104_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000360)
+  1) a train traveling over a bridge over water . (p=0.000082)
+  2) a train traveling over a bridge over a lake . (p=0.000059)
+Captions for image 19228121_570622339775031_6340233703062503424_n.jpg:
+  0) a boat in the middle of a lake . (p=0.000055)
+  1) a boat in the middle of a lake with trees in the background . (p=0.000009)
+  2) a boat in the middle of a lake with a mountain in the background . (p=0.000002)
+Captions for image 18580556_1679969822298267_7613093981886349312_n.jpg:
+  0) a train traveling through a lush green forest . (p=0.000159)
+  1) a train traveling through a lush green countryside . (p=0.000120)
+  2) a train traveling down a river next to a forest . (p=0.000029)
+Captions for image 18581200_311580682596494_5597094315202445312_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000229)
+  1) a train traveling over a bridge over water . (p=0.000079)
+  2) a train traveling over a bridge over a lake . (p=0.000044)
+Captions for image 18947576_437387349971178_7304222203363459072_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000201)
+  1) a train traveling over a bridge over water . (p=0.000058)
+  2) a train traveling over a bridge over a lake . (p=0.000040)
+Captions for image 18949799_263502327389761_5152434328117968896_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000288)
+  1) a train traveling over a bridge over water . (p=0.000097)
+  2) a train traveling over a bridge over a lake . (p=0.000061)
+Captions for image 15338291_171990409935843_2904342510023213056_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000060)
+  1) a view of a river with a bridge in the distance . (p=0.000036)
+  2) a view of a river with a bridge over it . (p=0.000021)
+Captions for image 14716457_344212689266047_5839720711425359872_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000511)
+  1) a river with a bridge spanning the width of it . (p=0.000163)
+  2) a train traveling over a bridge over water . (p=0.000139)
+Captions for image 14350345_824446787659107_4772301444357292032_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000830)
+  1) a train traveling over a bridge over water . (p=0.000199)
+  2) a train traveling over a bridge over a lake . (p=0.000121)
+Captions for image 18581018_473409483002148_6557798346637967360_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000343)
+  1) a train traveling over a bridge over water . (p=0.000087)
+  2) a train traveling over a bridge over a lake . (p=0.000059)
+Captions for image 18382384_1121597371279105_533725217822867456_n.jpg:
+  0) a river with a bridge in the distance . (p=0.000020)
+  1) a river with a bridge in the middle of it . (p=0.000016)
+  2) a river with a bridge in the background (p=0.000015)
+Captions for image 18299195_1458994464174615_8066274793244065792_n.jpg:
+  0) a small boat in a body of water (p=0.000501)
+  1) a small boat in the middle of a lake . (p=0.000058)
+  2) a small boat in the middle of a river . (p=0.000040)
+Captions for image 18252525_1825796794414099_8979723219372081152_n.jpg:
+  0) a large body of water next to a river . (p=0.000125)
+  1) a large body of water next to a forest . (p=0.000110)
+  2) a large body of water with a bridge in the background . (p=0.000061)
+Captions for image 18253149_108010756438539_739672640582582272_n.jpg:
+  0) a large body of water next to a forest . (p=0.000088)
+  1) a large body of water surrounded by trees (p=0.000047)
+  2) a large body of water next to a forest filled with trees . (p=0.000027)
+Captions for image 18095716_1874682682755152_6534856864725729280_n.jpg:
+  0) a train traveling through a lush green forest . (p=0.000168)
+  1) a train traveling through a lush green countryside . (p=0.000066)
+  2) a train traveling down a river next to a forest . (p=0.000028)
+Captions for image 18012108_434939906891586_5656846669023543296_n.jpg:
+  0) a boat traveling down a river next to a forest . (p=0.000216)
+  1) a boat traveling down a river surrounded by forest . (p=0.000100)
+  2) a boat traveling down a river surrounded by trees . (p=0.000100)
+Captions for image 18094918_1024710550998163_7201959255383998464_n.jpg:
+  0) a large body of water next to a forest . (p=0.000068)
+  1) a large body of water next to a forest filled with trees . (p=0.000024)
+  2) a large body of water next to a forest filled with lots of trees . (p=0.000023)
+Captions for image 18095456_1890243654551935_6977590666352132096_n.jpg:
+  0) a group of boats floating on top of a river . (p=0.000381)
+  1) a group of boats floating on top of a lake . (p=0.000128)
+  2) a group of boats floating on top of a river next to a forest . (p=0.000032)
+Captions for image 18011593_841763599304368_1213802919430717440_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.001195)
+  1) a train traveling over a bridge over water . (p=0.000278)
+  2) a train traveling through a lush green forest . (p=0.000254)
+Captions for image 17663712_1257825377648410_8070196888659296256_n.jpg:
+  0) a large body of water with a clock on top of it . (p=0.000085)
+  1) a large body of water with a clock on it 's side . (p=0.000031)
+  2) a large body of water with a clock on top of it (p=0.000015)
+Captions for image 17881377_432194607131558_9031609151611994112_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000424)
+  1) a river with a bridge spanning the width of it . (p=0.000237)
+  2) a river with a bridge spanning the width of it (p=0.000101)
+Captions for image 17818091_1296075340447603_1269143615989350400_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000180)
+  1) a train traveling over a bridge over water . (p=0.000052)
+  2) a train traveling over a bridge over a lake . (p=0.000030)
+Captions for image 17881698_1842315542688289_9026881754123730944_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000844)
+  1) a river with a bridge spanning the width of it . (p=0.000175)
+  2) a train traveling over a bridge over water . (p=0.000157)
+Captions for image 17662862_1413128328725188_5448960334817656832_n.jpg:
+  0) a large body of water next to a river . (p=0.000122)
+  1) a large body of water with a bridge in the background (p=0.000086)
+  2) a large body of water with a bridge in the background . (p=0.000060)
+Captions for image 17661811_1069224259887731_4472403549027827712_n.jpg:
+  0) a river with a bridge in the middle of it . (p=0.000018)
+  1) a river with a bridge in the distance . (p=0.000015)
+  2) a river with a bridge in the middle of it (p=0.000013)
+Captions for image 17662200_741545389344091_8987425478713278464_n.jpg:
+  0) a large body of water with a clock on top of it . (p=0.000076)
+  1) a large body of water with a clock on it 's side . (p=0.000040)
+  2) a large body of water with a clock on it . (p=0.000035)
+Captions for image 17661886_1203296296465798_771711670681600000_n.jpg:
+  0) a group of boats floating on top of a river . (p=0.000201)
+  1) a group of boats floating on top of a lake . (p=0.000130)
+  2) a group of boats floating on top of a body of water . (p=0.000112)
+Captions for image 17587419_1588002511227840_8830942086200033280_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000042)
+  1) a large body of water surrounded by trees (p=0.000038)
+  2) a view of a river with a bridge in the distance . (p=0.000025)
+Captions for image 17494262_190450678124074_5939227883833655296_n.jpg:
+  0) a large body of water with a bridge in the background . (p=0.000046)
+  1) a large body of water with a bridge in the background (p=0.000045)
+  2) a large body of water with a clock on it (p=0.000033)
+Captions for image 17494229_693482220832299_3739449083404746752_n.jpg:
+  0) a large body of water next to a river . (p=0.000069)
+  1) a large body of water with a bridge in the background (p=0.000043)
+  2) a large body of water surrounded by trees (p=0.000040)
+Captions for image 17587106_1631766626852984_8795879287455481856_n.jpg:
+  0) a large body of water next to a river . (p=0.000054)
+  1) a large body of water with a bunch of boats in it (p=0.000051)
+  2) a large body of water with a bunch of trees in it (p=0.000031)
+Captions for image 17126821_267162343706664_2257914013163716608_n.jpg:
+  0) a large body of water next to a forest . (p=0.000118)
+  1) a large body of water surrounded by trees (p=0.000053)
+  2) a large body of water next to a forest with lots of trees . (p=0.000024)
+Captions for image 17266006_1873090816298955_3490176465809440768_n.jpg:
+  0) a large body of water with lots of trees . (p=0.000071)
+  1) a view of a river with a bridge in the background . (p=0.000046)
+  2) a view of a river with a bridge in the distance . (p=0.000041)
+Captions for image 17333758_179030799269698_6141913167262908416_n.jpg:
+  0) a large body of water with a clock on it (p=0.000045)
+  1) a large body of water with a clock tower on top of it . (p=0.000031)
+  2) a large body of water with a clock tower in the middle of it . (p=0.000015)
+Captions for image 17127043_251917285269016_2404173188784193536_n.jpg:
+  0) a large body of water with a clock on top of it . (p=0.000072)
+  1) a large body of water with a clock on it (p=0.000032)
+  2) a large body of water with a clock on it 's side . (p=0.000024)
+Captions for image 17075933_733935393447503_1579941854848221184_n.jpg:
+  0) a large body of water next to a river . (p=0.000088)
+  1) a large body of water with lots of trees . (p=0.000086)
+  2) a large body of water with lots of trees and a bridge . (p=0.000007)
+Captions for image 17075987_1914780318792034_5416152707436118016_n.jpg:
+  0) a river with a bridge spanning the width of it . (p=0.000306)
+  1) a river with a bridge spanning the width of it (p=0.000110)
+  2) a river with a bridge spanning the width of a river . (p=0.000027)
+Captions for image 16908805_169346406904861_7646803505155407872_n.jpg:
+  0) a large body of water with a clock tower on top of it . (p=0.000076)
+  1) a large body of water with a clock on it (p=0.000066)
+  2) a large body of water with a clock tower in the middle of it . (p=0.000025)
+Captions for image 16788867_181590655662920_7856435833761431552_n.jpg:
+  0) a large body of water with a clock on it (p=0.000140)
+  1) a large body of water with a bridge in the background (p=0.000133)
+  2) a large body of water with a bridge in the background . (p=0.000094)
+Captions for image 16789275_261863724268850_248965063577174016_n.jpg:
+  0) a large body of water with a bridge in the background . (p=0.000078)
+  1) a large body of water with a bridge in the background (p=0.000075)
+  2) a large body of water with lots of trees . (p=0.000066)
+Captions for image 16585592_878133298995489_5100174716543434752_n.jpg:
+  0) a large body of water next to a river . (p=0.000122)
+  1) a large body of water with a bridge in the background (p=0.000052)
+  2) a large body of water with a bridge in the background . (p=0.000047)
+Captions for image 16788638_697495207102592_7996894862207090688_n.jpg:
+  0) a large body of water next to a river . (p=0.000126)
+  1) a large body of water with a bridge in the background . (p=0.000075)
+  2) a large body of water with a bridge in the background (p=0.000064)
+Captions for image 16463976_1840139782870469_1596343737951191040_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000063)
+  1) a view of a river with a bridge in the distance . (p=0.000045)
+  2) a view of a river with a bridge over it . (p=0.000027)
+Captions for image 16465550_1378376868901040_3154934000405970944_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000870)
+  1) a train traveling over a bridge over water . (p=0.000189)
+  2) a train traveling over a bridge over a lake . (p=0.000079)
+Captions for image 16583138_405787496436435_6676289450588241920_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000050)
+  1) a view of a river with a bridge in the distance . (p=0.000027)
+  2) a view of a river with a bridge over it . (p=0.000025)
+Captions for image 16465485_1569232003091819_4979199313314840576_n.jpg:
+  0) a large body of water next to a river . (p=0.000116)
+  1) a large body of water with a bridge in the background (p=0.000115)
+  2) a view of a river with a bridge in the background . (p=0.000092)
+Captions for image 14310778_637551896414974_3305813688958582784_n.jpg:
+  0) a boat in the middle of a lake . (p=0.000063)
+  1) a boat in the middle of a lake with mountains in the background . (p=0.000017)
+  2) a boat in the middle of a lake with a mountain in the background . (p=0.000008)
+Captions for image 16464679_328741244190216_758745550962032640_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.001292)
+  1) a train traveling over a bridge over a lake . (p=0.000116)
+  2) a train traveling over a bridge over a body of water . (p=0.000114)
+Captions for image 14574010_1644957579146291_2597176550776373248_n.jpg:
+  0) a large body of water next to a river . (p=0.000169)
+  1) a large body of water with a bridge in the background (p=0.000067)
+  2) a large body of water with a bridge in the background . (p=0.000058)
+Captions for image 14566809_1745543289096368_8270631295692832768_n.jpg:
+  0) a large body of water next to a river . (p=0.000105)
+  1) a large body of water next to a forest filled with lots of trees . (p=0.000031)
+  2) a large body of water surrounded by trees and a bridge . (p=0.000030)
+Captions for image 16465846_295994347481954_8632855785031860224_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.001616)
+  1) a train traveling over a bridge over a lake . (p=0.000151)
+  2) a train traveling over a bridge over a body of water . (p=0.000150)
+Captions for image 16465459_626456780887065_7563328590964588544_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000331)
+  1) a large clock tower towering over a river . (p=0.000284)
+  2) a bridge over a river with a clock tower . (p=0.000054)
+Captions for image 16465738_1161109897341593_3276179200595197952_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000455)
+  1) a large body of water next to a river . (p=0.000098)
+  2) a train traveling over a bridge over a river (p=0.000019)
+Captions for image 16465431_1727548100891630_571940445253271552_n.jpg:
+  0) a large body of water next to a river . (p=0.000120)
+  1) a large body of water next to a river with lots of trees . (p=0.000015)
+  2) a large body of water with lots of trees and a bridge . (p=0.000010)
+Captions for image 16228698_1239286552856106_2906489546994614272_n.jpg:
+  0) a large body of water next to a river . (p=0.000134)
+  1) a large body of water next to a bridge . (p=0.000121)
+  2) a large body of water with a bridge in the background . (p=0.000079)
+Captions for image 16228868_402804986729053_2407408175331409920_n.jpg:
+  0) a large body of water next to a river . (p=0.000142)
+  1) a large body of water next to a bridge . (p=0.000078)
+  2) a large body of water next to a river with lots of trees . (p=0.000014)
+Captions for image 16123969_173628299790525_7388593026257387520_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000074)
+  1) a view of a river with a bridge in the distance . (p=0.000064)
+  2) a view of a river with a clock tower in the distance . (p=0.000017)
+Captions for image 16123220_158760624621088_8459180763714158592_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000472)
+  1) a river with a bridge spanning the width of it . (p=0.000119)
+  2) a train traveling over a bridge over water . (p=0.000082)
+Captions for image 16122639_365719330479374_3666279247455977472_n.jpg:
+  0) a river with a bridge spanning the width of it . (p=0.000205)
+  1) a river with a bridge spanning the width of it (p=0.000073)
+  2) a bridge over a river with lots of trees . (p=0.000048)
+Captions for image 16228721_401924236808560_6702764711332544512_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000081)
+  1) a view of a river with a bridge in the distance . (p=0.000066)
+  2) a view of a river with a bridge and a bridge . (p=0.000014)
+Captions for image 15877047_1759385677714545_6667365423375187968_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000086)
+  1) a view of a river with a bridge in the distance . (p=0.000052)
+  2) a view of a river with a bridge over it . (p=0.000038)
+Captions for image 16122948_848303495311272_301927460650352640_n.jpg:
+  0) a river with a bridge spanning the width of it . (p=0.000141)
+  1) a river with a bridge spanning the width of it (p=0.000054)
+  2) a river with a bridge spanning the width of a river . (p=0.000015)
+Captions for image 16123781_620250791499791_3195650221652574208_n.jpg:
+  0) a large body of water next to a bridge . (p=0.000090)
+  1) a large body of water with a bridge in the background . (p=0.000078)
+  2) a large body of water with a bridge in the background (p=0.000056)
+Captions for image 14716580_213499549113454_4927180975823126528_n.jpg:
+  0) a large body of water with a clock on top of it . (p=0.000116)
+  1) a large body of water with a clock on it (p=0.000055)
+  2) a large body of water with a clock on top of it (p=0.000039)
+Captions for image 15876844_1231491303606382_7475074091137892352_n.jpg:
+  0) a large body of water next to a river . (p=0.000101)
+  1) a large body of water surrounded by trees (p=0.000035)
+  2) a large body of water surrounded by trees and a bridge . (p=0.000019)
+Captions for image 16122757_1792945831031062_3855142462838276096_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000248)
+  1) a train traveling over a bridge over water . (p=0.000055)
+  2) a river with lots of trees and a bridge . (p=0.000023)
+Captions for image 16110483_1427346970897652_5573655218379292672_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000365)
+  1) a train traveling over a bridge over water . (p=0.000146)
+  2) a train traveling over a bridge over a lake . (p=0.000076)
+Captions for image 15877057_364078507290490_4998565600025378816_n.jpg:
+  0) a large body of water next to a river . (p=0.000110)
+  1) a large body of water next to a forest filled with lots of trees . (p=0.000021)
+  2) a large body of water next to a forest filled with trees . (p=0.000019)
+Captions for image 15876392_1217206798361076_2547818365703946240_n.jpg:
+  0) a group of boats floating on top of a river . (p=0.000575)
+  1) a group of boats floating on top of a lake . (p=0.000256)
+  2) a group of boats floating on top of a river next to a forest . (p=0.000031)
+Captions for image 15876928_1730545600594327_3095515417083379712_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000105)
+  1) a train traveling over a bridge over a lake . (p=0.000027)
+  2) a train traveling over a bridge over a body of water . (p=0.000022)
+Captions for image 16110778_724051827770284_6318204261750538240_n.jpg:
+  0) a large body of water with a bridge in the background (p=0.000174)
+  1) a large body of water with a bridge in the background . (p=0.000129)
+  2) a large body of water with a clock on it (p=0.000095)
+Captions for image 15802359_244496525987255_108712459849695232_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000326)
+  1) a river with a bridge spanning the width of it . (p=0.000138)
+  2) a train traveling over a bridge over water . (p=0.000079)
+Captions for image 15625026_1826843730866344_5472270200369840128_n.jpg:
+  0) a large body of water next to a river . (p=0.000079)
+  1) a large body of water surrounded by trees (p=0.000020)
+  2) a large body of water next to a forest with lots of trees . (p=0.000019)
+Captions for image 15802056_947322908734361_1213073775717777408_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000954)
+  1) a train traveling over a bridge over water . (p=0.000235)
+  2) a train traveling over a bridge over a river (p=0.000037)
+Captions for image 15625534_685763738259859_1358473640051474432_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.002345)
+  1) a train traveling over a bridge over water . (p=0.000641)
+  2) a train traveling over a bridge over a body of water . (p=0.000284)
+Captions for image 15538474_1911789919042428_8614803839918276608_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000085)
+  1) a view of a river with a bridge in the distance . (p=0.000059)
+  2) a view of a river with a bridge and a bridge . (p=0.000009)
+Captions for image 15535559_325968214469384_242776702898405376_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000037)
+  1) a view of a river with a bridge in the distance . (p=0.000033)
+  2) a view of a lake with a boat in the water . (p=0.000021)
+Captions for image 15403356_1817427208518481_7766477185400963072_n.jpg:
+  0) a bridge over a river with lots of trees . (p=0.000029)
+  1) a bridge over a river with a bridge over it . (p=0.000014)
+  2) a bridge over a river with a bridge in the background . (p=0.000014)
+Captions for image 15624984_129817814178353_1108941803999985664_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000058)
+  1) a view of a river with a bridge in the distance . (p=0.000054)
+  2) a view of a river with a bridge over it . (p=0.000033)
+Captions for image 15535513_217586218697628_8975944885102182400_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000066)
+  1) a view of a river with a bridge in the distance . (p=0.000045)
+  2) a view of a river with a clock tower in the middle . (p=0.000013)
+Captions for image 15034710_1105195549607190_4524670109859446784_n.jpg:
+  0) a large body of water next to a river . (p=0.000109)
+  1) a large body of water next to a bridge . (p=0.000083)
+  2) a large body of water with a clock tower in the middle of it . (p=0.000014)
+Captions for image 15338551_330001330726405_11402743033888768_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000960)
+  1) a large body of water next to a river . (p=0.000108)
+  2) a train traveling over a bridge over a river (p=0.000038)
+Captions for image 15538330_947955672001469_202134264894980096_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000054)
+  1) a view of a river with a bridge in the distance . (p=0.000042)
+  2) a view of a lake with a boat in the water . (p=0.000019)
+Captions for image 15538662_193811571082208_8445489833903652864_n.jpg:
+  0) a large body of water with a clock on top of it . (p=0.000085)
+  1) a large body of water with a clock tower on top of it . (p=0.000046)
+  2) a large body of water with a clock on it (p=0.000042)
+Captions for image 15275472_284863248576661_3650580721082302464_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000098)
+  1) a view of a river with a bridge in the distance . (p=0.000070)
+  2) a view of a lake with a bridge in the background . (p=0.000047)
+Captions for image 14547816_1668392853174497_3097489036160270336_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000076)
+  1) a view of a river with a bridge in the distance . (p=0.000056)
+  2) a large body of water with a bridge in the background (p=0.000050)
+Captions for image 14359420_177421212661687_7354112942905753600_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000267)
+  1) a train traveling over a bridge over water . (p=0.000079)
+  2) a train traveling over a bridge over a lake . (p=0.000055)
+Captions for image 15253123_1255872004487010_4032358963864403968_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000085)
+  1) a view of a river with a bridge in the distance . (p=0.000065)
+  2) a view of a river with a bridge and a bridge . (p=0.000012)
+Captions for image 15403295_360215421005403_2177346615738630144_n.jpg:
+  0) a large body of water with a clock on top of it . (p=0.000095)
+  1) a large body of water with a clock on it 's side . (p=0.000026)
+  2) a large body of water with a clock on it (p=0.000026)
+Captions for image 15251772_371668636516174_2518604706826158080_n.jpg:
+  0) a river with a bridge spanning the width of it . (p=0.000178)
+  1) a river with a bridge spanning the width of it (p=0.000057)
+  2) a bridge over a river with a clock tower . (p=0.000047)
+Captions for image 14564979_228351114264708_1321539721624551424_n.jpg:
+  0) a large body of water next to a river . (p=0.000100)
+  1) a large body of water surrounded by trees (p=0.000022)
+  2) a large body of water surrounded by trees and a bridge . (p=0.000021)
+Captions for image 15253131_1305681362785101_7338700229425758208_n.jpg:
+  0) a large body of water next to a river . (p=0.000084)
+  1) a large body of water surrounded by trees (p=0.000037)
+  2) a large body of water next to a forest filled with trees . (p=0.000027)
+Captions for image 14607108_358931707791405_4868879693882851328_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.001182)
+  1) a train traveling over a bridge over water . (p=0.000291)
+  2) a train traveling over a bridge over a body of water . (p=0.000156)
+Captions for image 14515815_1804650393116244_144770690279538688_n.jpg:
+  0) a large body of water next to a river . (p=0.000058)
+  1) a large body of water with a bridge in the background (p=0.000019)
+  2) a large body of water with a bridge in the background . (p=0.000015)
+Captions for image 15035679_1015981818513893_8734193433847005184_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000901)
+  1) a train traveling over a bridge over water . (p=0.000242)
+  2) a train traveling over a bridge over a lake . (p=0.000101)
+Captions for image 14550181_1392937800746770_385014333135912960_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000216)
+  1) a river with a bridge spanning the width of it . (p=0.000124)
+  2) a river with a bridge spanning the width of it (p=0.000050)
+Captions for image 14718427_353805778299046_3831228200898265088_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.001754)
+  1) a train traveling over a bridge over water . (p=0.000457)
+  2) a train traveling over a bridge over a lake . (p=0.000201)
+Captions for image 14712378_1787811284769431_6900265586983436288_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.001419)
+  1) a fire hydrant in the middle of a forest . (p=0.000684)
+  2) a red fire hydrant in the middle of a forest . (p=0.000499)
+Captions for image 14719752_144708745995622_8573416534326640640_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000390)
+  1) a train traveling over a bridge over water . (p=0.000087)
+  2) a train traveling over a bridge over a lake . (p=0.000061)
+Captions for image 14723494_208923152851883_1808555383397023744_n.jpg:
+  0) a large body of water surrounded by trees . (p=0.000209)
+  1) a large body of water next to a forest . (p=0.000094)
+  2) a large body of water surrounded by trees (p=0.000038)
+Captions for image 14597506_1800500416828787_2649335870569578496_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000624)
+  1) a large body of water with lots of trees . (p=0.000074)
+  2) a large body of water with a train on it . (p=0.000031)
+Captions for image 14714588_1691749587807748_2033583417412550656_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.001731)
+  1) a train traveling over a bridge over water . (p=0.000397)
+  2) a train traveling over a bridge over a body of water . (p=0.000194)
+Captions for image 14350527_1054285838020854_224695448927993856_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000588)
+  1) a train traveling over a bridge over water . (p=0.000137)
+  2) a train traveling over a bridge over a lake . (p=0.000093)
+Captions for image 14726465_1108759089160864_6260090304808878080_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000634)
+  1) a train traveling over a bridge over water . (p=0.000195)
+  2) a train traveling over a bridge over a lake . (p=0.000087)
+Captions for image 14712248_1203773316378012_2429087417894961152_n.jpg:
+  0) a boat floating on a river next to a forest . (p=0.000165)
+  1) a boat floating on top of a river next to a forest . (p=0.000101)
+  2) a boat floating on top of a lake next to a forest . (p=0.000083)
+Captions for image 14727489_345232552534994_4928321268165378048_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000303)
+  1) a river with a bridge spanning the width of it . (p=0.000179)
+  2) a river with a bridge spanning the width of it (p=0.000076)
+Captions for image 14723570_1274394592634516_5509685520206135296_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000413)
+  1) a train traveling over a bridge over a lake . (p=0.000066)
+  2) a train traveling over a bridge over a body of water . (p=0.000058)
+Captions for image 14719621_1799873376964825_8969516113629020160_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000482)
+  1) a train traveling over a bridge over water . (p=0.000112)
+  2) a train traveling over a bridge over a lake . (p=0.000067)
+Captions for image 14712220_115677148900923_30937976577982464_n.jpg:
+  0) a boat is sitting in the middle of a lake . (p=0.000023)
+  1) a boat is sitting in the middle of a river . (p=0.000018)
+  2) a boat is sitting in the middle of the water . (p=0.000016)
+Captions for image 14574171_689922771184015_4716706438490095616_n.jpg:
+  0) a small boat floating on top of a body of water . (p=0.000229)
+  1) a small boat floating on top of a river . (p=0.000119)
+  2) a small boat floating on top of a lake . (p=0.000110)
+Captions for image 14499003_1017657798343502_3662870246013796352_n.jpg:
+  0) a red fire hydrant sitting in the middle of a lush green field . (p=0.000148)
+  1) a red fire hydrant sitting in the middle of a field . (p=0.000079)
+  2) a red fire hydrant sitting in the middle of a green field . (p=0.000065)
+Captions for image 14473979_956296311170551_6682389455199797248_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000609)
+  1) a train traveling over a bridge over water . (p=0.000145)
+  2) a train traveling over a bridge over a lake . (p=0.000099)
+Captions for image 14448419_1230832123614221_5499916385163149312_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000653)
+  1) a train traveling over a bridge on a river . (p=0.000099)
+  2) a train traveling over a bridge over a lake . (p=0.000094)
+Captions for image 14373966_1776633382591497_2588614589306372096_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000316)
+  1) a train traveling over a bridge over water . (p=0.000079)
+  2) a train traveling over a bridge over a lake . (p=0.000058)
+Captions for image 14334263_948657591912571_549907688226553856_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000513)
+  1) a train traveling over a bridge over water . (p=0.000136)
+  2) a train traveling over a bridge over a lake . (p=0.000091)

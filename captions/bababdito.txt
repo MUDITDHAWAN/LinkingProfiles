@@ -1,0 +1,24 @@
+Captions for image 60655055_140158293766348_7200494533886695959_n.jpg:
+  0) a man and woman posing for a picture . (p=0.001167)
+  1) a man and woman pose for a picture . (p=0.000970)
+  2) a man and woman pose for a picture (p=0.000393)
+Captions for image 51533432_617911745329227_3210162181706350592_n.jpg:
+  0) a man standing in front of a refrigerator . (p=0.000509)
+  1) a man in a suit and tie standing in a kitchen . (p=0.000122)
+  2) a man in a suit and tie standing in a kitchen (p=0.000034)
+Captions for image 61903607_2133404813623367_7247717863283950406_n.jpg:
+  0) a group of people standing next to each other . (p=0.005844)
+  1) a group of people posing for a picture . (p=0.002926)
+  2) a group of people posing for a picture (p=0.001722)
+Captions for image 60859329_380921072518177_3320175895012677322_n.jpg:
+  0) a man and a woman sitting at a table . (p=0.000201)
+  1) a man and a woman are sitting at a table . (p=0.000099)
+  2) a man and a woman are sitting at a table (p=0.000060)
+Captions for image 61068306_137360517357214_5434956431718110251_n.jpg:
+  0) a woman and a young boy pose for a picture . (p=0.000051)
+  1) a woman and a young boy are posing for a picture . (p=0.000022)
+  2) a woman and a young boy pose for a picture (p=0.000014)
+Captions for image 61118029_173747720305457_4895100459305234451_n.jpg:
+  0) a group of people standing next to each other . (p=0.004362)
+  1) a group of young men standing next to each other . (p=0.003926)
+  2) a group of young people standing next to each other . (p=0.002242)

@@ -1,0 +1,764 @@
+Captions for image 20393916_496299247380337_5730008048181706752_n.jpg:
+  0) a car parked in front of a parking meter . (p=0.000974)
+  1) a car is parked on the side of the road . (p=0.000593)
+  2) a car is parked on the side of the street . (p=0.000331)
+Captions for image 14733256_1248332855207908_6707244327862534144_a.jpg:
+  0) a man in a suit and tie standing in a room . (p=0.000088)
+  1) a man in a suit and tie holding a glass of wine . (p=0.000033)
+  2) a man in a suit and tie holding a glass (p=0.000018)
+Captions for image 57090224_378035856130142_79508600398947417_n.jpg:
+  0) a group of people standing next to a bus . (p=0.000154)
+  1) a group of people standing next to a red bus . (p=0.000106)
+  2) a group of people standing next to a truck (p=0.000087)
+Captions for image 36656020_1150588835080003_4683760422967312384_n.jpg:
+  0) a flat screen tv mounted to the side of a wall . (p=0.000794)
+  1) a flat screen tv sitting on top of a tv stand . (p=0.000786)
+  2) a flat screen tv sitting on top of a wooden shelf . (p=0.000654)
+Captions for image 23825205_505949193110573_1163027326431133696_n.jpg:
+  0) a bottle of beer sitting on top of a table . (p=0.000170)
+  1) a bottle of beer sitting on top of a wooden table . (p=0.000061)
+  2) a bottle of beer sitting on top of a table (p=0.000023)
+Captions for image 23824066_859301377580549_7729845147340374016_n.jpg:
+  0) a pile of books sitting on top of a bed . (p=0.000386)
+  1) a pile of books sitting on top of a table . (p=0.000094)
+  2) a pile of books sitting on top of a book . (p=0.000026)
+Captions for image 61891275_2926920164014911_6110793082611104872_n.jpg:
+  0) a close up of a plate of food (p=0.000467)
+  1) a close up of a plate of food on a table (p=0.000465)
+  2) a close up of a tray of food (p=0.000187)
+Captions for image 60763574_105916713910351_2641719607452808998_n.jpg:
+  0) a tv sitting on top of a wooden table . (p=0.000989)
+  1) a tv sitting on top of a wooden stand . (p=0.000908)
+  2) a tv sitting on top of a wooden table next to a tv . (p=0.000079)
+Captions for image 65882809_1348796215272087_9033339143575972445_n.jpg:
+  0) a group of lawn chairs sitting under a blue umbrella . (p=0.000028)
+  1) a group of lawn chairs sitting under a umbrella . (p=0.000027)
+  2) a group of people sitting on a bench under a blue umbrella . (p=0.000008)
+Captions for image 66459948_204173983864381_7185387991388299637_n.jpg:
+  0) a dog laying in the grass next to a frisbee . (p=0.000453)
+  1) a dog laying in the grass with a frisbee . (p=0.000346)
+  2) a dog laying in the grass with a frisbee in its mouth . (p=0.000337)
+Captions for image 59220007_444808242758176_3892707275026274582_n.jpg:
+  0) a woman sitting on a bench with a cell phone . (p=0.000116)
+  1) a woman sitting on a bench with a cell phone in her hand . (p=0.000050)
+  2) a woman sitting on a bench with a cell phone (p=0.000027)
+Captions for image 59039766_590854208060841_5798064846624864357_n.jpg:
+  0) a close up of a plate of food on a table (p=0.000454)
+  1) a close up of a plate of food (p=0.000319)
+  2) a bottle of wine and a glass of wine . (p=0.000274)
+Captions for image 59464054_2254689888083243_7789465962559343541_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.002642)
+  1) a table topped with plates of food and drinks . (p=0.000689)
+  2) a table topped with plates of food and a bowl of fruit . (p=0.000046)
+Captions for image 58409732_2287051601354220_1530482200058381795_n.jpg:
+  0) a grill that has some food on it (p=0.000568)
+  1) a grill that has some hot dogs on it (p=0.000319)
+  2) a grill that has some food on it . (p=0.000183)
+Captions for image 60350525_436247993875271_5908308318447126261_n.jpg:
+  0) a blue and white bus parked in a parking lot . (p=0.000195)
+  1) a blue and white bus parked in front of a building . (p=0.000184)
+  2) a blue and white bus parked in front of a house . (p=0.000070)
+Captions for image 56702417_693822087742066_8590616603094403239_n.jpg:
+  0) a table that has some food on it (p=0.000235)
+  1) a table that has some food on it . (p=0.000121)
+  2) a table that has a bunch of food on it (p=0.000102)
+Captions for image 14240643_996029600496360_1170128205_n.jpg:
+  0) two children sitting at a table eating food . (p=0.000296)
+  1) two children sitting at a table with a cake . (p=0.000240)
+  2) two children sitting at a table eating food (p=0.000123)
+Captions for image 57034831_287894305441286_4494147641445766016_n.jpg:
+  0) a plate of food with a fork and knife . (p=0.000238)
+  1) a plate of food with a fork and knife (p=0.000202)
+  2) a plate of food with a fork and a knife . (p=0.000105)
+Captions for image 54732477_2264709793787394_4182427441801902242_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.004969)
+  1) a close up of a plate of food with meat (p=0.000263)
+  2) a close up of a plate of food containing broccoli (p=0.000167)
+Captions for image 53705765_328185398047792_7969712806549618488_n.jpg:
+  0) a little girl is brushing her teeth in the bathroom . (p=0.000320)
+  1) a little girl is brushing her teeth in a bathroom . (p=0.000307)
+  2) a little girl is brushing her teeth with a pink toothbrush . (p=0.000229)
+Captions for image 52823537_402073130374519_2466491192579661121_n.jpg:
+  0) a young girl wearing a pink shirt and a pink tie . (p=0.000003)
+  1) a young girl wearing a pink shirt and a red tie . (p=0.000002)
+  2) a young girl wearing a red shirt and a pink tie . (p=0.000001)
+Captions for image 52620849_1438356812966248_4684368093233800951_n.jpg:
+  0) a man riding a skateboard down a street . (p=0.000353)
+  1) a man riding a skateboard down a road next to a forest . (p=0.000021)
+  2) a man riding a skateboard down a road next to trees . (p=0.000018)
+Captions for image 51701621_255653218646091_3708583082172361676_n.jpg:
+  0) a little girl wearing a hat and a hat . (p=0.000049)
+  1) a little girl wearing a hat and a hat (p=0.000022)
+  2) a little girl wearing a red hat and a red hat . (p=0.000005)
+Captions for image 52703812_461229791081811_731665954973234561_n.jpg:
+  0) a man riding a motorcycle down a dirt road . (p=0.002179)
+  1) a man riding a motorcycle down a road . (p=0.001262)
+  2) a man riding a motorcycle down a road next to a forest . (p=0.000172)
+Captions for image 50509172_102848250770253_3076082668811841206_n.jpg:
+  0) a young girl is holding a toothbrush in her mouth . (p=0.000157)
+  1) a young girl is brushing her teeth with a pink toothbrush . (p=0.000052)
+  2) a young girl is holding a toothbrush in her mouth (p=0.000026)
+Captions for image 49785038_113191286451100_970463041026950800_n.jpg:
+  0) a close up of a pan of food on a stove (p=0.000407)
+  1) a close up of a plate of food on a table (p=0.000291)
+  2) a close up of a plate of food (p=0.000162)
+Captions for image 52170644_577318469406846_6931405439004508881_n.jpg:
+  0) a group of people riding skis down a snow covered slope . (p=0.005016)
+  1) a group of people skiing down a snow covered slope . (p=0.001628)
+  2) a group of people riding skis on top of a snow covered slope . (p=0.000614)
+Captions for image 49576517_292388068295422_1945459245538842355_n.jpg:
+  0) a close up of a pan of food on a stove (p=0.000696)
+  1) a close up of a pan of food cooking (p=0.000086)
+  2) a close up of a pan of food on a grill (p=0.000059)
+Captions for image 51810488_256507111936922_3784705301388324254_n.jpg:
+  0) a man is walking a dog on a leash (p=0.000055)
+  1) a man is walking a dog on a leash . (p=0.000035)
+  2) a man and a dog on a leash in the snow . (p=0.000031)
+Captions for image 47483400_604786946632225_4519956257727838460_n.jpg:
+  0) a woman and a young girl standing next to each other . (p=0.000128)
+  1) a woman and a young girl posing for a picture . (p=0.000082)
+  2) a woman and a young girl are posing for a picture . (p=0.000034)
+Captions for image 47584069_2251088701807477_1374288281100687824_n.jpg:
+  0) a computer keyboard and mouse on a table . (p=0.000089)
+  1) a computer keyboard and mouse sitting on a table . (p=0.000062)
+  2) a computer keyboard and mouse sitting on a desk . (p=0.000057)
+Captions for image 47690181_336972253806240_4284916988796342219_n.jpg:
+  0) a group of people sitting around a table with food . (p=0.001140)
+  1) a group of people sitting at a table with food . (p=0.000601)
+  2) a group of people sitting at a table with a cake . (p=0.000277)
+Captions for image 50064675_998852820298868_5083411459478079052_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000469)
+  1) a man in a suit and tie standing in a room . (p=0.000251)
+  2) a man in a suit and tie is smiling (p=0.000218)
+Captions for image 47692115_321944981755676_1766588912716317529_n.jpg:
+  0) a woman sitting at a table with a plate of food . (p=0.001112)
+  1) a woman sitting at a table in front of a cake . (p=0.000365)
+  2) a woman sitting at a table in front of a cake (p=0.000062)
+Captions for image 52421030_252352289026050_2271179618640079967_n.jpg:
+  0) a little girl standing next to a little girl . (p=0.000068)
+  1) a little girl standing next to a little boy . (p=0.000051)
+  2) a little girl standing next to a child on a skateboard . (p=0.000024)
+Captions for image 47690027_221343318819043_5634169339493203572_n.jpg:
+  0) a woman taking a picture of herself in a mirror . (p=0.001294)
+  1) a man taking a picture of himself in a mirror . (p=0.001010)
+  2) a woman taking a picture of herself in the mirror . (p=0.000790)
+Captions for image 49506585_1963549087094394_4111846287790775231_n.jpg:
+  0) a woman laying on a bed with a teddy bear . (p=0.000392)
+  1) a woman laying on a bed with a dog . (p=0.000220)
+  2) a woman laying on a bed with a stuffed animal . (p=0.000203)
+Captions for image 51813164_301615057152832_4917114135901330638_n.jpg:
+  0) a man walking a dog on a leash . (p=0.000132)
+  1) a man is walking a dog on a leash . (p=0.000073)
+  2) a man is walking a dog on a leash (p=0.000064)
+Captions for image 47379456_315061435803696_5795446982418506634_n.jpg:
+  0) a man is standing in front of a television . (p=0.000128)
+  1) a man is standing in front of a television (p=0.000106)
+  2) a man standing in front of a tv holding a wii controller . (p=0.000070)
+Captions for image 47104491_736246690077186_1997793730113723844_n.jpg:
+  0) a man wearing a tie and a shirt . (p=0.000085)
+  1) a man wearing a tie and a hat . (p=0.000075)
+  2) a man wearing a tie and a shirt and tie . (p=0.000021)
+Captions for image 46914046_372019493557769_3649608491256186277_n.jpg:
+  0) a group of people standing around a table filled with food . (p=0.000745)
+  1) a group of people that are standing around a table . (p=0.000383)
+  2) a group of people standing around a table with food . (p=0.000338)
+Captions for image 47414158_147475556236238_8493830499106225375_n.jpg:
+  0) a little girl standing next to a little boy . (p=0.000045)
+  1) a little girl standing next to a man holding a baseball bat . (p=0.000014)
+  2) a little girl standing next to a man holding a bat . (p=0.000009)
+Captions for image 46280529_219293618852370_2504634968305541406_n.jpg:
+  0) a herd of sheep walking across a snow covered field . (p=0.001345)
+  1) a herd of sheep standing on top of a snow covered field . (p=0.000526)
+  2) a herd of sheep standing on top of a snow covered ground . (p=0.000164)
+Captions for image 47087566_2438160252920575_8812656842065525646_n.jpg:
+  0) a group of men standing next to each other . (p=0.000268)
+  1) a group of people standing next to each other . (p=0.000238)
+  2) a group of men standing next to each other in front of a tv . (p=0.000016)
+Captions for image 46339215_271327116900635_3591283253412908884_n.jpg:
+  0) a television that is sitting on a table . (p=0.000177)
+  1) a television that is on top of a table . (p=0.000154)
+  2) a television that is sitting on top of a table . (p=0.000059)
+Captions for image 45463426_158750815115836_3083986126301565185_n.jpg:
+  0) a man brushing his teeth with a tooth brush . (p=0.002877)
+  1) a man brushing his teeth in a bathroom . (p=0.001851)
+  2) a man brushing his teeth in the bathroom . (p=0.001539)
+Captions for image 44902728_257162971644110_6693688850944308972_n.jpg:
+  0) a little girl playing a game with a remote controller . (p=0.000428)
+  1) a little girl playing with a wii mote (p=0.000383)
+  2) a little girl standing in front of a tv playing a video game . (p=0.000165)
+Captions for image 44516110_1812702535522129_5292173694063326304_n.jpg:
+  0) a television that is sitting on a wall . (p=0.000212)
+  1) a television that is on top of a table . (p=0.000144)
+  2) a television that is on a wall in a room . (p=0.000127)
+Captions for image 45864616_568090186970772_893032205051956732_n.jpg:
+  0) a close up of a cell phone on a table (p=0.002735)
+  1) a close up of a cell phone on a desk (p=0.000282)
+  2) a close up of a cell phone on a table . (p=0.000171)
+Captions for image 44586836_367488510691777_4289632357326037317_n.jpg:
+  0) a close up of a clock on a wall (p=0.000862)
+  1) a clock that is on top of a table . (p=0.000662)
+  2) a close up of a clock on a table (p=0.000615)
+Captions for image 44912773_1940524219588007_8756858546627038155_n.jpg:
+  0) a couple of men standing next to each other . (p=0.007991)
+  1) a couple of men standing next to each other in a room . (p=0.001201)
+  2) a man and a woman standing next to each other . (p=0.001099)
+Captions for image 45887119_321997651735853_2974044690863349904_n.jpg:
+  0) a close up of a number of different colored candy (p=0.000015)
+  1) a close up of a number of different colored balls (p=0.000014)
+  2) a close up of a number of different colored candy canes (p=0.000004)
+Captions for image 44490236_629466250784733_1632316479142062266_n.jpg:
+  0) a little girl standing in front of a refrigerator . (p=0.001103)
+  1) a little girl standing in front of a refrigerator freezer . (p=0.000186)
+  2) a little girl standing in front of a kitchen counter . (p=0.000170)
+Captions for image 45755322_345910072879898_6524206429721005281_n.jpg:
+  0) a woman is eating a doughnut in a room . (p=0.000120)
+  1) a woman is eating a donut in a room . (p=0.000086)
+  2) a woman in a white shirt is eating a sandwich (p=0.000043)
+Captions for image 44921519_2013414362072043_6334055593784910177_n.jpg:
+  0) a person sitting in a car with a suitcase . (p=0.000006)
+  1) a person sitting in a car with a suitcase (p=0.000004)
+  2) a person sitting in a car with a bag of luggage . (p=0.000003)
+Captions for image 43249423_357326171478144_1676965831990196229_n.jpg:
+  0) a train traveling down tracks next to a river . (p=0.000113)
+  1) a train traveling down a track next to a river . (p=0.000018)
+  2) a train traveling down tracks next to a lush green hillside . (p=0.000013)
+Captions for image 44382147_1459051174226864_284131611459261449_n.jpg:
+  0) a man with glasses and a tie is smiling . (p=0.000063)
+  1) a man in a suit and tie holding a cell phone . (p=0.000025)
+  2) a man with glasses and a tie is smiling (p=0.000020)
+Captions for image 43087702_754391994916773_8435760479116080326_n.jpg:
+  0) a white and brown dog laying on top of a skateboard . (p=0.000058)
+  1) a white and brown dog laying on top of a grass covered field . (p=0.000042)
+  2) a white and brown dog laying on top of a green field . (p=0.000030)
+Captions for image 43071770_1019876221554480_5104286253369795944_n.jpg:
+  0) a close up of a cell phone on a table (p=0.000708)
+  1) a cell phone sitting on top of a table . (p=0.000461)
+  2) a cell phone sitting on top of a table next to a smart phone . (p=0.000027)
+Captions for image 44611493_140049376969442_5962344707867511376_n.jpg:
+  0) a cell phone sitting on top of a table . (p=0.000644)
+  1) a cell phone is sitting on a table (p=0.000098)
+  2) a cell phone sitting on top of a table next to a smart phone . (p=0.000018)
+Captions for image 44898765_342650222959190_543503823247119405_n.jpg:
+  0) a close up of a cell phone on a table (p=0.002845)
+  1) a close up of a cell phone on a desk (p=0.000261)
+  2) a close up of a cell phone and a cell phone (p=0.000214)
+Captions for image 44178585_253140895393757_6116361341214028181_n.jpg:
+  0) a stop sign with a sticker on it . (p=0.000057)
+  1) a stop sign with a sticker on it (p=0.000056)
+  2) a stop sign with a street sign on it . (p=0.000030)
+Captions for image 43816532_885312658259209_8883675249102528133_n.jpg:
+  0) a group of people standing around a tv playing a video game . (p=0.000166)
+  1) a group of people sitting around a living room watching tv . (p=0.000140)
+  2) a group of people sitting around a tv playing a video game . (p=0.000106)
+Captions for image 43710489_2126866900964409_6424574311007442401_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.003009)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000890)
+  2) a pair of scissors sitting on top of a table (p=0.000196)
+Captions for image 42683003_277385719562577_7481859663662732894_n.jpg:
+  0) a man standing in front of a flat screen tv . (p=0.001247)
+  1) a man standing in front of a tv playing a video game . (p=0.000600)
+  2) a man standing in front of a tv holding a wii controller . (p=0.000371)
+Captions for image 37156475_1021479801390540_4207972779931865776_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.001422)
+  1) a close up of a person holding a wii remote (p=0.000211)
+  2) a close up of a person holding a nintendo wii remote (p=0.000200)
+Captions for image 42002996_938230123234188_3665619947456695710_n.jpg:
+  0) a young girl is playing a video game . (p=0.001009)
+  1) a little girl is playing a video game . (p=0.000549)
+  2) a little girl is playing a video game (p=0.000493)
+Captions for image 39883015_227319804612959_8430140149068726272_n.jpg:
+  0) a pan of food on top of a stove . (p=0.000185)
+  1) a pan of food on a stove top (p=0.000129)
+  2) a pan of food on a stove top . (p=0.000127)
+Captions for image 39047493_2108715976017763_4515255567316418560_n.jpg:
+  0) a man in a blue shirt holding a pair of scissors . (p=0.000061)
+  1) a man in a blue shirt is holding a toothbrush . (p=0.000024)
+  2) a man in a blue shirt is holding a toothbrush (p=0.000022)
+Captions for image 26331710_1900549920256776_1816691249751523328_n.jpg:
+  0) a view of a window from a plane window . (p=0.000035)
+  1) a view of a window from the window of a plane . (p=0.000010)
+  2) a view of a window from a plane window (p=0.000006)
+Captions for image 37596864_655620211466090_8816218934014377984_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000109)
+  1) a car is parked on the side of a road . (p=0.000048)
+  2) a car is parked on the side of the street . (p=0.000041)
+Captions for image 35934624_2003372613325937_6840076280369512448_n.jpg:
+  0) a group of people standing next to each other . (p=0.002353)
+  1) a group of people standing around each other . (p=0.001486)
+  2) a group of people standing next to each other holding racquets . (p=0.000646)
+Captions for image 34186476_2058015841118289_4301268468289765376_n.jpg:
+  0) a woman in a red dress and a red umbrella (p=0.000004)
+  1) a woman in a red dress and a red umbrella . (p=0.000002)
+  2) a woman in a red dress and a red and white umbrella (p=0.000001)
+Captions for image 35425346_778776482321296_3742149406653153280_n.jpg:
+  0) a refrigerator that has some stickers on it (p=0.000264)
+  1) a refrigerator that has some stickers on it . (p=0.000212)
+  2) a refrigerator that has a bunch of stickers on it (p=0.000143)
+Captions for image 34428423_2112739229009855_7721962366228758528_n.jpg:
+  0) a close up of a clock on a wall (p=0.000726)
+  1) a close up of a clock on a table (p=0.000577)
+  2) a clock that is on top of a table . (p=0.000494)
+Captions for image 32873206_176686156328652_8134445673807347712_n.jpg:
+  0) a conveyor belt filled with lots of donuts . (p=0.000468)
+  1) a conveyor belt filled with lots of different types of donuts . (p=0.000022)
+  2) a conveyor belt filled with lots of different types of food . (p=0.000009)
+Captions for image 32919101_1840353689593241_7796575427153100800_n.jpg:
+  0) a group of people sitting on top of a lush green field . (p=0.000087)
+  1) a group of people sitting on top of a grass covered field . (p=0.000073)
+  2) a group of people sitting on top of a sandy beach . (p=0.000043)
+Captions for image 32466314_144357016421842_2146723945594748928_n.jpg:
+  0) a little girl standing in front of a refrigerator . (p=0.002926)
+  1) a little girl standing in front of an open refrigerator . (p=0.001137)
+  2) a little girl is standing in front of a refrigerator . (p=0.000634)
+Captions for image 31449155_260150467891142_1656178555144372224_n.jpg:
+  0) a little girl standing next to a little girl . (p=0.000073)
+  1) a little girl standing next to a child on a skateboard . (p=0.000025)
+  2) a little girl standing next to a child on a beach . (p=0.000016)
+Captions for image 31888403_215277102402398_1969090613697576960_n.jpg:
+  0) a bunch of signs that are on a pole . (p=0.000254)
+  1) a bunch of signs that are on a wall . (p=0.000088)
+  2) a bunch of signs that are on a pole (p=0.000031)
+Captions for image 31218701_224606331455782_7039635579226554368_n.jpg:
+  0) a man sitting in the back of a car . (p=0.000182)
+  1) a man sitting in the back of a car holding a camera . (p=0.000016)
+  2) a man sitting in the back of a car holding a smart phone . (p=0.000010)
+Captions for image 30948945_2057075077860763_6381843337636216832_n.jpg:
+  0) a red fire hydrant sitting on the side of a road . (p=0.000139)
+  1) a red fire hydrant sitting on the side of a street . (p=0.000049)
+  2) a red and yellow fire hydrant sitting on the side of a road . (p=0.000029)
+Captions for image 30830186_169049523919260_6419092987699003392_n.jpg:
+  0) a pan of food that is on a stove . (p=0.000252)
+  1) a pan of food that is sitting on a stove . (p=0.000125)
+  2) a pan of food that is on a stove (p=0.000057)
+Captions for image 30604553_462638170862589_7668905578659315712_n.jpg:
+  0) a woman sitting on a couch holding a wii remote . (p=0.001338)
+  1) a woman sitting on a couch with a remote . (p=0.001210)
+  2) a woman sitting on a couch holding a wii controller . (p=0.000911)
+Captions for image 30084920_195278141254273_213410976408535040_n.jpg:
+  0) a man standing next to a woman in a field . (p=0.000014)
+  1) a man standing next to a little girl in a field . (p=0.000005)
+  2) a man standing next to a little girl on a lush green field . (p=0.000005)
+Captions for image 29739860_304913700041218_315726632226652160_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.001682)
+  1) a piece of cake on a plate with a fork (p=0.000699)
+  2) a piece of cake sitting on a plate with a fork . (p=0.000664)
+Captions for image 30077014_145724286261843_3267649601703772160_n.jpg:
+  0) a stop sign on the side of the road . (p=0.000186)
+  1) a stop sign on the side of the road (p=0.000106)
+  2) a stop sign on the side of a road . (p=0.000093)
+Captions for image 28158276_226897841209709_480564586534141952_n.jpg:
+  0) a black and white photo of a person laying on a bed . (p=0.000088)
+  1) a black and white photo of a person laying on a bed (p=0.000086)
+  2) a black and white photo of a person sitting on a couch (p=0.000050)
+Captions for image 29738744_2093895644177129_6833543716716675072_n.jpg:
+  0) a group of luggage sitting on top of a wooden floor . (p=0.000026)
+  1) a group of luggage sitting on top of a metal rack . (p=0.000006)
+  2) a group of luggage sitting on top of a wooden floor (p=0.000000)
+Captions for image 28152983_896515120509950_2922859106173714432_n.jpg:
+  0) a man holding a toothbrush in his mouth . (p=0.000762)
+  1) a person holding a toothbrush in their hand . (p=0.000699)
+  2) a man holding a tooth brush in his mouth . (p=0.000217)
+Captions for image 28157372_148580089142647_8497705297509351424_n.jpg:
+  0) a group of people sitting on top of a snow covered slope . (p=0.001321)
+  1) a group of people sitting in the snow with snowboards . (p=0.000361)
+  2) a group of people sitting on a snow covered slope . (p=0.000283)
+Captions for image 28430993_149539475726817_853072554724687872_n.jpg:
+  0) a little girl laying on top of a bed . (p=0.000303)
+  1) a little girl laying on top of a white bed . (p=0.000069)
+  2) a little girl laying on top of a bed with a teddy bear . (p=0.000011)
+Captions for image 28152975_169933910462626_5166604413069950976_n.jpg:
+  0) a group of people standing next to each other . (p=0.001480)
+  1) a group of people standing next to each other on a stage . (p=0.000042)
+  2) a group of people standing next to each other on a street . (p=0.000040)
+Captions for image 28153478_1597648576980240_3780776646001295360_n.jpg:
+  0) a cutting board topped with carrots and a knife . (p=0.000075)
+  1) a cutting board topped with sliced up carrots . (p=0.000041)
+  2) a cutting board topped with carrots and a knife on a cutting board . (p=0.000002)
+Captions for image 27578883_453912488359963_1915757526587015168_n.jpg:
+  0) a young boy is holding a baseball bat . (p=0.000245)
+  1) a young boy holding a baseball bat in his hands . (p=0.000102)
+  2) a young boy holding a baseball bat on a baseball field . (p=0.000057)
+Captions for image 27879522_145372689474621_3669558772814053376_n.jpg:
+  0) a little girl sitting on a couch holding a baby . (p=0.000049)
+  1) a little girl sitting on a couch with a teddy bear . (p=0.000044)
+  2) a little girl sitting on a couch with a stuffed animal . (p=0.000040)
+Captions for image 26866993_2123484804552274_5944155392438173696_n.jpg:
+  0) a person holding a baseball bat in their hands . (p=0.000043)
+  1) a person holding a baseball bat in their hand . (p=0.000028)
+  2) a person holding a baseball bat in their hands (p=0.000007)
+Captions for image 20686413_122091525094340_1346250575443918848_n.jpg:
+  0) a little girl is holding a birthday cake . (p=0.000053)
+  1) a woman and a child sitting at a table . (p=0.000023)
+  2) a little girl is holding a birthday cake (p=0.000022)
+Captions for image 47693092_594979887591127_385645587461261025_n.jpg:
+  0) a plate of food and a glass of wine . (p=0.001091)
+  1) a plate of food and a glass of wine (p=0.000674)
+  2) a plate of food and a glass of wine on a table . (p=0.000216)
+Captions for image 26866489_1971247233097593_3194770599465451520_n.jpg:
+  0) a close up of a pan of food on a stove (p=0.000085)
+  1) a close up of a pan of food on a grill (p=0.000057)
+  2) a close up of a tray of doughnuts (p=0.000045)
+Captions for image 26224833_528143157585074_655730348050612224_n.jpg:
+  0) a group of people on a snow covered slope . (p=0.000037)
+  1) a man and a child on a snow board . (p=0.000018)
+  2) a group of people on a snowy hill (p=0.000011)
+Captions for image 26872858_961974767296175_80696607221219328_n.jpg:
+  0) a pan of food on a stove top (p=0.000114)
+  1) a pan of food on a stove top . (p=0.000111)
+  2) a pan of food is on a stove top . (p=0.000045)
+Captions for image 26070472_884739425036395_1298747442581209088_n.jpg:
+  0) a dog laying on a bed with a stuffed animal . (p=0.000101)
+  1) a dog laying on a bed with a stuffed animal (p=0.000089)
+  2) a dog laying on a bed next to a stuffed animal . (p=0.000071)
+Captions for image 26071936_186385335290282_6391920701007200256_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.002799)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.001695)
+  2) a bottle of wine sitting next to a glass of wine . (p=0.001591)
+Captions for image 26222277_436185160133175_2028083217868783616_n.jpg:
+  0) a bunch of doughnuts that are in a pan (p=0.000115)
+  1) a tray of food that is on a table . (p=0.000088)
+  2) a bunch of doughnuts that are in a pan . (p=0.000083)
+Captions for image 25024841_1774971989472086_1692496304678109184_n.jpg:
+  0) a group of people standing on top of a snow covered field . (p=0.000043)
+  1) a group of people standing on top of a snow covered slope . (p=0.000036)
+  2) a group of people standing on top of a ski slope . (p=0.000011)
+Captions for image 26225625_386292531815975_5480884066519613440_n.jpg:
+  0) a close up of a tray of food (p=0.000174)
+  1) a close up of a tray of food on a table (p=0.000094)
+  2) a close up of a tray of food with a sandwich (p=0.000092)
+Captions for image 25036729_540594559640799_6252577075568312320_n.jpg:
+  0) a group of people standing next to each other . (p=0.000149)
+  1) a group of people standing next to each other holding a teddy bear . (p=0.000005)
+  2) a group of people standing next to each other in a store . (p=0.000003)
+Captions for image 25022946_156362968460754_5150489768789803008_n.jpg:
+  0) a black and white photo of a plane flying in the sky (p=0.000568)
+  1) a black and white photo of a plane flying in the sky . (p=0.000348)
+  2) a black and white photo of an airplane flying in the sky . (p=0.000310)
+Captions for image 25011329_375296652883441_1734120761183961088_n.jpg:
+  0) a tray of food that is sitting on a table . (p=0.000189)
+  1) a tray of food that is on a table . (p=0.000175)
+  2) a tray of food that is on a table (p=0.000059)
+Captions for image 55890577_312625349412880_8521881345199969070_n.jpg:
+  0) a row of wooden benches sitting next to each other . (p=0.001567)
+  1) a row of wooden benches sitting on top of a sidewalk . (p=0.000133)
+  2) a row of wooden benches sitting on top of a wooden deck . (p=0.000033)
+Captions for image 25009766_2029768300591483_8977999910989201408_n.jpg:
+  0) a little girl sitting in front of a birthday cake . (p=0.000157)
+  1) a little girl sitting in front of a cake . (p=0.000120)
+  2) a little girl sitting at a table with a cake . (p=0.000101)
+Captions for image 24125504_516068565428567_8665531767370809344_n.jpg:
+  0) a group of stuffed animals sitting next to each other . (p=0.000417)
+  1) a group of stuffed animals sitting on top of each other . (p=0.000118)
+  2) a group of stuffed animals sitting on top of a wooden table . (p=0.000069)
+Captions for image 20766565_1485869861479418_1162876899496558592_n.jpg:
+  0) a white van parked next to a parking meter . (p=0.000464)
+  1) a white van parked in a parking lot . (p=0.000449)
+  2) a white van parked in a parking lot next to a building . (p=0.000057)
+Captions for image 23823987_364801260613256_7287994515544080384_n.jpg:
+  0) a collage of photos with a person holding a laptop (p=0.000006)
+  1) a collage of photos of a man holding a wii controller . (p=0.000001)
+  2) a collage of photos of a man holding a white surfboard . (p=0.000001)
+Captions for image 17662066_317091725374084_502059776864157696_n.jpg:
+  0) a man sitting on a couch holding a wii remote . (p=0.001174)
+  1) a man sitting on a couch holding a nintendo wii controller . (p=0.001149)
+  2) a man sitting on a couch holding a wii controller . (p=0.000917)
+Captions for image 23596109_139380506644221_9028489510706479104_n.jpg:
+  0) a picture of a man holding a white frisbee . (p=0.000011)
+  1) a picture of a man holding a white frisbee (p=0.000003)
+  2) a collage of photos of a man holding a white frisbee . (p=0.000002)
+Captions for image 23099006_190196638208091_6395954066140168192_n.jpg:
+  0) a man standing in front of a pile of luggage . (p=0.000286)
+  1) a man standing in front of an open refrigerator . (p=0.000151)
+  2) a man standing in front of a pile of oranges . (p=0.000115)
+Captions for image 22069176_155743518346172_4137752689599578112_n.jpg:
+  0) a man is sitting on a train with a bag . (p=0.000000)
+  1) a man is sitting on a train with a bag (p=0.000000)
+  2) a man sitting on a train with a train on the tracks . (p=0.000000)
+Captions for image 21910691_140876559861639_6694257579415044096_n.jpg:
+  0) a pizza sitting on top of a bbq grill . (p=0.000463)
+  1) a toaster oven sitting on top of a table . (p=0.000134)
+  2) a pizza sitting on top of a bbq grill (p=0.000047)
+Captions for image 21909833_299241567222085_4174583314063032320_n.jpg:
+  0) a stove top oven sitting inside of a kitchen . (p=0.001227)
+  1) a stove top oven sitting in a kitchen . (p=0.000535)
+  2) a stove top oven sitting on top of a counter . (p=0.000413)
+Captions for image 21820069_1435063796562234_829831266915319808_n.jpg:
+  0) a close up of a pair of scissors (p=0.000491)
+  1) a close up of a pair of scissors on a table (p=0.000059)
+  2) a pair of scissors and a pair of scissors . (p=0.000034)
+Captions for image 21107300_1902226120038909_2986702416344252416_n.jpg:
+  0) a close up of a nintendo wii remote (p=0.000376)
+  1) a close up of a nintendo wii game system (p=0.000301)
+  2) a close up of a nintendo wii game console (p=0.000246)
+Captions for image 21690165_424641897932087_6016311457191297024_n.jpg:
+  0) a group of young children sitting next to each other . (p=0.000210)
+  1) a group of kids sitting on a bench . (p=0.000079)
+  2) a group of young children sitting next to each other on a bench . (p=0.000026)
+Captions for image 22709139_1992011997742030_6228733697768554496_n.jpg:
+  0) a little girl holding a banana in her hand . (p=0.000339)
+  1) a little girl holding a banana in her hands . (p=0.000175)
+  2) a little girl is holding a banana in her hand . (p=0.000129)
+Captions for image 20688196_1292260140900906_3871267273306013696_n.jpg:
+  0) a pile of carrots sitting on top of a table . (p=0.000940)
+  1) a pile of carrots sitting on top of a wooden table . (p=0.000621)
+  2) a pile of carrots sitting on top of a cutting board . (p=0.000585)
+Captions for image 20688343_1920162848271697_2970031659698618368_n.jpg:
+  0) a group of people sitting on top of a boat . (p=0.000170)
+  1) a group of people sitting on top of a blue boat . (p=0.000053)
+  2) a group of people sitting on top of a red boat . (p=0.000045)
+Captions for image 17587361_103636376835700_7888786094370586624_n.jpg:
+  0) a collage of photos of a person holding a surf board (p=0.000018)
+  1) a collage of photos of a person holding a frisbee (p=0.000008)
+  2) a series of photos of a man holding a surfboard . (p=0.000007)
+Captions for image 17267345_298782633875006_1573881625928794112_n.jpg:
+  0) a group of people standing around a kitchen sink . (p=0.000169)
+  1) a group of people standing around a cake . (p=0.000108)
+  2) a group of people standing around a table with a cake . (p=0.000022)
+Captions for image 17438630_1894926960719113_2835414426725646336_n.jpg:
+  0) a black and white photo of a man holding a tennis racket . (p=0.000074)
+  1) a black and white photo of a man holding a tennis racket (p=0.000039)
+  2) a black and white photo of a man holding a white frisbee . (p=0.000037)
+Captions for image 20180552_108768096451459_4703339735760764928_n.jpg:
+  0) a little girl is holding a pink umbrella (p=0.000093)
+  1) a little girl is holding a pink umbrella . (p=0.000070)
+  2) a little girl is holding a blue umbrella (p=0.000061)
+Captions for image 20347306_155704274994470_8675009183940083712_n.jpg:
+  0) a little girl is holding a teddy bear . (p=0.000071)
+  1) a little girl is holding a teddy bear (p=0.000035)
+  2) a little girl is holding a teddy bear in a park . (p=0.000004)
+Captions for image 20225739_1741311442827825_5162824433827577856_n.jpg:
+  0) a young boy wearing a tie and a shirt . (p=0.000021)
+  1) a young boy wearing a tie and a tie . (p=0.000019)
+  2) a young boy is wearing a tie and a tie . (p=0.000007)
+Captions for image 18950364_124037174878600_7210404037261262848_n.jpg:
+  0) a little girl sitting on the back of a train . (p=0.000131)
+  1) a little girl sitting on the back of a truck . (p=0.000065)
+  2) a little girl sitting on a train seat . (p=0.000039)
+Captions for image 14240964_1773085346239445_858906487_n.jpg:
+  0) a tv sitting on top of a wooden dresser . (p=0.001462)
+  1) a tv sitting on top of a wooden dresser next to a bed . (p=0.000105)
+  2) a tv sitting on top of a wooden dresser next to a tv . (p=0.000055)
+Captions for image 19932060_494857507529059_3960310002710740992_n.jpg:
+  0) a rear view mirror with a reflection of a dog . (p=0.000030)
+  1) a rear view mirror with a reflection of a dog (p=0.000010)
+  2) a rear view mirror with a reflection of a dog in it . (p=0.000008)
+Captions for image 19986128_1384763888281987_1719571284590854144_n.jpg:
+  0) a little girl sitting on top of a skateboard . (p=0.000636)
+  1) a little girl is sitting on a bench (p=0.000134)
+  2) a little girl sitting on top of a skateboard in the grass . (p=0.000046)
+Captions for image 20213964_1792903047394130_1018225566358175744_n.jpg:
+  0) a man holding a skateboard in a room . (p=0.000019)
+  1) a man holding a skateboard in front of a wall . (p=0.000008)
+  2) a man holding a skateboard in front of a building . (p=0.000008)
+Captions for image 19764401_1868872476708662_8123554568752594944_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.003989)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.003924)
+  2) a bottle of wine and a bottle of wine . (p=0.003512)
+Captions for image 19624241_219357221919215_3773077852698705920_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.000959)
+  1) a stop sign on the side of a road . (p=0.000119)
+  2) a red stop sign sitting on the side of a street . (p=0.000061)
+Captions for image 20184126_362466380838907_2434385908594638848_n.jpg:
+  0) a young girl holding a nintendo wii game controller . (p=0.001156)
+  1) a little girl holding a cell phone in her hand . (p=0.000232)
+  2) a young girl holding a cell phone in her hand . (p=0.000116)
+Captions for image 19379484_108948456394446_4027843364098408448_n.jpg:
+  0) a woman and a child are sitting on a couch . (p=0.000051)
+  1) a woman and a child are sitting on a bed . (p=0.000051)
+  2) a woman and a child are sitting on a couch (p=0.000021)
+Captions for image 18947354_155838134957514_8112700649524690944_n.jpg:
+  0) a little girl sitting at a table with a plate of food . (p=0.001461)
+  1) a little girl sitting at a table eating food . (p=0.000873)
+  2) a little girl sitting at a table with a cake . (p=0.000408)
+Captions for image 19120813_1809416232705694_658113509439045632_n.jpg:
+  0) a man wearing a hat and sunglasses sitting on a bench . (p=0.000031)
+  1) a man wearing a hat and sunglasses is talking on a cell phone . (p=0.000017)
+  2) a man wearing a hat and sunglasses sitting on a bench (p=0.000011)
+Captions for image 19120893_324166124681158_8667787570094014464_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000059)
+  1) a cup of coffee sitting on top of a wooden table . (p=0.000050)
+  2) a cup of coffee sitting on a table next to a cup . (p=0.000002)
+Captions for image 18879078_1914381058803782_381356734691672064_n.jpg:
+  0) a little girl sitting on a bed holding a toothbrush . (p=0.000074)
+  1) a little girl sitting on a bed holding a remote . (p=0.000050)
+  2) a little girl sitting on a couch with a remote . (p=0.000040)
+Captions for image 18513976_310136009415283_4856379810043133952_n.jpg:
+  0) a close up of a sandwich on a plate (p=0.001659)
+  1) a close up of a plate of food on a table (p=0.000852)
+  2) a close up of a plate of food (p=0.000676)
+Captions for image 18513139_1469622986392279_1716630275670147072_n.jpg:
+  0) a man standing in front of an open refrigerator . (p=0.003807)
+  1) a man standing in front of a refrigerator . (p=0.003773)
+  2) a man is standing in front of a refrigerator . (p=0.001542)
+Captions for image 19367312_1197562240355813_121923156481933312_n.jpg:
+  0) a little girl sitting on top of a fire hydrant . (p=0.000118)
+  1) a little girl sitting on top of a red fire hydrant . (p=0.000104)
+  2) a little girl sitting on a bench next to a fire hydrant . (p=0.000019)
+Captions for image 18513805_321888138230992_7814277109093761024_n.jpg:
+  0) a sign that says `` <UNK> '' on the side of it . (p=0.000000)
+  1) a sign that says `` <UNK> '' on the side of the road . (p=0.000000)
+  2) a sign that says `` <UNK> '' on the side of a building . (p=0.000000)
+Captions for image 18380917_294390104342122_7724663222053109760_n.jpg:
+  0) a sign on a pole on a city street . (p=0.000101)
+  1) a sign on a pole on a street . (p=0.000064)
+  2) a sign on a pole on a city street (p=0.000058)
+Captions for image 18380267_392827181110828_9191890089783853056_n.jpg:
+  0) a man in a suit and tie holding a baby . (p=0.000033)
+  1) a man in a suit and tie standing next to a woman . (p=0.000024)
+  2) a man in a suit and tie holding a baby (p=0.000009)
+Captions for image 18252370_312113052541952_122416789958164480_n.jpg:
+  0) a bottle of wine sitting next to a glass of wine . (p=0.000638)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.000634)
+  2) a bottle of wine and a glass of wine . (p=0.000470)
+Captions for image 18298662_204114756762471_7169735537396285440_n.jpg:
+  0) a little girl sitting on a suitcase in a room . (p=0.000060)
+  1) a little boy sitting on a suitcase in a room . (p=0.000044)
+  2) a little girl sitting on a suitcase in a living room . (p=0.000035)
+Captions for image 19228093_1750232901659726_1135929931084070912_n.jpg:
+  0) a little girl sitting on top of a red fire hydrant . (p=0.000152)
+  1) a little girl sitting on top of a green bench . (p=0.000048)
+  2) a little girl sitting on top of a red chair . (p=0.000039)
+Captions for image 18253288_256717998135610_2333965836592611328_n.jpg:
+  0) a little girl sitting in front of a cake . (p=0.000137)
+  1) a little girl sitting at a table with a cake . (p=0.000108)
+  2) a little girl sitting at a table with a plate of food . (p=0.000060)
+Captions for image 18252292_1319095114871666_51266434747072512_n.jpg:
+  0) a table with a plate of food and a drink (p=0.000124)
+  1) a table with a plate of food and a glass of wine (p=0.000091)
+  2) a table topped with a plate of food and a glass of wine . (p=0.000088)
+Captions for image 18095222_176103116245582_2777311151367651328_n.jpg:
+  0) a close up of a doughnut shop with a sign (p=0.000021)
+  1) a close up of a doughnut shop with a doughnut (p=0.000013)
+  2) a close up of a doughnut with a sign (p=0.000011)
+Captions for image 17596723_1930393337247531_4457358111086215168_n.jpg:
+  0) a man and woman cutting a cake with a knife . (p=0.000114)
+  1) a man and woman cutting a cake at a table . (p=0.000079)
+  2) a man and woman cutting a cake at a party . (p=0.000071)
+Captions for image 17586833_219663815178953_3858586996544897024_n.jpg:
+  0) a large building with a large clock tower . (p=0.000028)
+  1) a large building with a clock tower in the middle . (p=0.000007)
+  2) a large building with a clock on the top of it . (p=0.000006)
+Captions for image 14624500_514837278903807_4097489196560678912_n.jpg:
+  0) a group of people standing on top of a snow covered slope . (p=0.000109)
+  1) a snow covered ski slope with lots of trees . (p=0.000096)
+  2) a group of people standing on top of a ski lift . (p=0.000077)
+Captions for image 14624499_777131515768855_6881193415338360832_n.jpg:
+  0) a little girl holding a toothbrush in her mouth . (p=0.000215)
+  1) a little girl holding a toothbrush in her hand . (p=0.000144)
+  2) a little girl holding a toothbrush in her mouth (p=0.000089)
+Captions for image 17127024_112572705937821_6719585319387136000_n.jpg:
+  0) a fire hydrant is covered in snow in the snow . (p=0.000059)
+  1) a fire hydrant in the snow near a tree . (p=0.000048)
+  2) a fire hydrant in the snow near a tree (p=0.000013)
+Captions for image 17332707_1250244065096658_4490952791224745984_n.jpg:
+  0) a little girl sitting at a table with a plate of food . (p=0.001292)
+  1) a little girl sitting at a table eating food . (p=0.000740)
+  2) a little girl sitting at a table with a cake . (p=0.000438)
+Captions for image 47690376_2228071347435194_2955407419305915462_n.jpg:
+  0) a white plate topped with a piece of cake . (p=0.000261)
+  1) a plate of food with a fork and a knife . (p=0.000108)
+  2) a plate of food with a fork and knife (p=0.000072)
+Captions for image 17267553_190179381479390_2609646601773252608_n.jpg:
+  0) a little girl sitting at a table with a cake . (p=0.000194)
+  1) a little girl sitting in front of a birthday cake . (p=0.000158)
+  2) a little girl sitting at a table with a plate of food . (p=0.000084)
+Captions for image 17125447_259266821198185_3339435994326761472_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.000194)
+  1) a red fire hydrant sitting in the middle of a road . (p=0.000036)
+  2) a train traveling down tracks next to a snow covered forest . (p=0.000034)
+Captions for image 16908102_184826872013725_6617722692424433664_n.jpg:
+  0) a bunch of clocks that are on a wall . (p=0.000466)
+  1) a bunch of different types of clocks on display . (p=0.000150)
+  2) a bunch of clocks that are on a wall (p=0.000105)
+Captions for image 14099880_325609064440606_1376062417_n.jpg:
+  0) a little girl is sitting on a bed (p=0.000007)
+  1) a little girl and a little girl sitting on a couch . (p=0.000003)
+  2) a little girl and a little girl sitting on a couch (p=0.000002)
+Captions for image 14262774_644279925731420_1521800037_n.jpg:
+  0) a group of people sitting around a table eating food . (p=0.003906)
+  1) a group of people sitting around a table . (p=0.003523)
+  2) a group of people sitting around a table with food . (p=0.001615)
+Captions for image 16908387_192946281191305_7130170350205140992_n.jpg:
+  0) a white plate topped with a pile of food . (p=0.000403)
+  1) a white plate topped with a sandwich and a salad . (p=0.000101)
+  2) a plate of food with a sandwich and a salad . (p=0.000047)
+Captions for image 17075793_227818694349264_1858208409384386560_n.jpg:
+  0) a close up of a plate of food on a table (p=0.000553)
+  1) a close up of a plate of food with broccoli (p=0.000523)
+  2) a close up of a plate of food with meat (p=0.000408)
+Captions for image 16789046_1881023005462475_4027029716903919616_n.jpg:
+  0) a clock that is hanging on a wall . (p=0.000321)
+  1) a clock that is on top of a wall . (p=0.000140)
+  2) a clock that is hanging on a wall (p=0.000113)
+Captions for image 17125540_420734694936751_4292189933923205120_n.jpg:
+  0) a fire hydrant in the snow near a fence . (p=0.000054)
+  1) a fire hydrant in the snow near a fence (p=0.000013)
+  2) a fire hydrant in the snow with snow on it . (p=0.000010)
+Captions for image 16230813_399922163695451_7563338280410808320_n.jpg:
+  0) a room filled with lots of furniture and clutter . (p=0.000049)
+  1) a room filled with lots of furniture and a tv . (p=0.000037)
+  2) a room filled with lots of furniture and a book shelf filled with books . (p=0.000019)
+Captions for image 16228881_1825882044356252_381896560541171712_n.jpg:
+  0) a slice of pizza sitting on top of a white plate . (p=0.002540)
+  1) a slice of pizza on a white plate . (p=0.001029)
+  2) a slice of pizza on a white plate (p=0.000748)
+Captions for image 16123790_364886307229771_8516326510473248768_n.jpg:
+  0) a close up of a sandwich on a plate (p=0.004254)
+  1) a close up of a plate of food with a sandwich (p=0.001683)
+  2) a close up of a sandwich on a plate on a table (p=0.000464)
+Captions for image 14591084_1776629345973222_6793274296622907392_n.jpg:
+  0) a little girl sitting in front of a box of donuts . (p=0.000072)
+  1) a little girl sitting at a table with a donut . (p=0.000032)
+  2) a little girl sitting at a table with a cake . (p=0.000028)
+Captions for image 14676478_179558069169872_1915743421914415104_n.jpg:
+  0) a little girl holding a toothbrush in her mouth . (p=0.000228)
+  1) a little girl holding a toothbrush in her hand . (p=0.000129)
+  2) a young boy is holding a toothbrush in his mouth . (p=0.000100)
+Captions for image 15043849_179314052529707_5198000340535869440_n.jpg:
+  0) a wine glass sitting on a table next to a glass of wine . (p=0.000217)
+  1) a glass of wine sitting on a table next to a glass of wine . (p=0.000215)
+  2) a glass of wine sitting on a table next to a wine glass . (p=0.000210)
+Captions for image 15535544_1107356592717399_1281519160525848576_n.jpg:
+  0) a small child wearing a hat and a tie (p=0.000197)
+  1) a small child wearing a hat and a hat (p=0.000196)
+  2) a little boy wearing a hat and a tie . (p=0.000160)
+Captions for image 14677224_1159004187547186_423515652632870912_n.jpg:
+  0) a close up of a toaster oven (p=0.000036)
+  1) a close up of a car dashboard with a car (p=0.000008)
+  2) a close up of a car dashboard with a digital camera (p=0.000007)
+Captions for image 14714677_1673829156240338_6772110673473175552_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.000623)
+  1) a vase filled with flowers on top of a table . (p=0.000536)
+  2) a vase filled with flowers on top of a window sill . (p=0.000374)
+Captions for image 14334370_1752414558330037_260580617945612288_n.jpg:
+  0) a house with a lot of lawn chairs (p=0.000009)
+  1) a house with a lot of lawn chairs and umbrellas . (p=0.000001)
+  2) a house with a lot of lawn chairs and tables . (p=0.000001)
+Captions for image 14591039_402629083194262_6881810576368992256_n.jpg:
+  0) a little girl holding a tennis racquet on a tennis court . (p=0.001247)
+  1) a little girl holding a tennis racquet on top of a tennis court . (p=0.000428)
+  2) a little girl holding a tennis racquet in her hands . (p=0.000384)
+Captions for image 14295481_1779972682246285_7506703694889484288_n.jpg:
+  0) a kitchen with a lot of pots and pans (p=0.000094)
+  1) a kitchen with a lot of pots and pans on the wall (p=0.000006)
+  2) a kitchen with a lot of pots and pans hanging from the ceiling (p=0.000004)
+Captions for image 14369154_216580388758729_2887449119452823552_n.jpg:
+  0) a computer mouse sitting on top of a desk . (p=0.000879)
+  1) a computer mouse sitting on top of a table . (p=0.000439)
+  2) a computer mouse sitting on top of a desk next to a keyboard . (p=0.000068)
+Captions for image 14288067_1110977385662847_5462364420942331904_n.jpg:
+  0) a large clock mounted to the side of a wall . (p=0.000158)
+  1) a large clock mounted to a wall in a room . (p=0.000039)
+  2) a large clock mounted to a wall next to a window . (p=0.000010)
+Captions for image 14369202_1260734613970761_6475795519602950144_n.jpg:
+  0) a couple of vases that are on a table (p=0.000822)
+  1) a couple of vases sitting on top of a table . (p=0.000526)
+  2) a couple of vases that are on a table . (p=0.000473)
+Captions for image 14310871_1083989641678821_1996049676_n.jpg:
+  0) a woman sitting on a bed in a room . (p=0.000361)
+  1) a woman sitting on a bed with a laptop . (p=0.000098)
+  2) a woman is sitting on a bed in a room . (p=0.000074)
+Captions for image 47586147_2264635873569586_8210299271646393689_n.jpg:
+  0) a group of people sitting around a table eating food . (p=0.007737)
+  1) a group of people sitting around a table eating pizza . (p=0.003568)
+  2) a group of people sitting around a table with food . (p=0.003001)

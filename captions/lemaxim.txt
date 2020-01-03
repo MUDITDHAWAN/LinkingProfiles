@@ -1,0 +1,40 @@
+Captions for image 1516329_398245160358975_1159437629_n.jpg:
+  0) a banana peel is sitting on the ground . (p=0.000015)
+  1) a person holding a banana in their hand . (p=0.000009)
+  2) a banana peel is sitting on the ground (p=0.000005)
+Captions for image 11098723_1108355182515390_22629161_n.jpg:
+  0) a black and white photo of a rock (p=0.000044)
+  1) a black and white photo of a rock and a rock (p=0.000006)
+  2) a black and white photo of a rock and a rock . (p=0.000002)
+Captions for image 12523735_796114643825917_1671369786_n.jpg:
+  0) a group of people sitting around a table . (p=0.000861)
+  1) a group of people sitting around a table with food . (p=0.000083)
+  2) a group of people sitting around a table with a cake . (p=0.000050)
+Captions for image 28765924_587637338251449_5619350857205153792_n.jpg:
+  0) a close up of a box with a sign on it (p=0.000013)
+  1) a close up of a sign that says <UNK> . (p=0.000007)
+  2) a close up of a sign that says <UNK> (p=0.000006)
+Captions for image 36147827_192091111485993_1065417610444668928_n.jpg:
+  0) a large ship is sailing in the ocean . (p=0.000088)
+  1) a large ship is sailing in the water . (p=0.000064)
+  2) a large ship is sailing in the water (p=0.000063)
+Captions for image 11428186_1443773009283590_922549818_a.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000229)
+  1) a man in a suit and tie is smiling (p=0.000079)
+  2) a man in a suit and tie looking at the camera . (p=0.000048)
+Captions for image 18513343_1530295063658386_6031558457948110848_n.jpg:
+  0) a man in a suit and tie holding a microphone . (p=0.000292)
+  1) a man in a suit and tie standing in front of a microphone . (p=0.000229)
+  2) a man in a suit and tie holding a microphone (p=0.000148)
+Captions for image 11111235_1438431396450714_446367853_n.jpg:
+  0) a plane flying in the sky with a sky background (p=0.000040)
+  1) a plane flying in the sky over a city . (p=0.000024)
+  2) a plane flying in the sky over a mountain . (p=0.000020)
+Captions for image 11092993_752096901576035_283313153_n.jpg:
+  0) a close up of a toilet in a bath room (p=0.000085)
+  1) a close up of a toilet in a bathroom (p=0.000030)
+  2) a close up of a toilet in a bath tub (p=0.000013)
+Captions for image 61900784_179147049754862_3481495300021912639_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.001517)
+  1) a close up of a person with a cell phone (p=0.000508)
+  2) a close up of a person wearing a suit and tie (p=0.000434)

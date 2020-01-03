@@ -1,0 +1,12 @@
+Captions for image 11334570_1584879185127820_1587555168_n.jpg:
+  0) a bottle of beer sitting next to a bottle of beer . (p=0.000030)
+  1) a bottle of beer and a bottle of beer . (p=0.000029)
+  2) a bottle of beer sitting next to a bottle of alcohol . (p=0.000022)
+Captions for image 1390322_631540380230662_491310294_n.jpg:
+  0) a cat laying on top of a laptop computer . (p=0.010614)
+  1) a cat laying on a desk next to a laptop . (p=0.001282)
+  2) a cat laying on top of a laptop on a desk . (p=0.000947)
+Captions for image 11875336_1452545651741310_573725117_a.jpg:
+  0) a man and woman pose for a picture . (p=0.001035)
+  1) a man and a woman pose for a picture . (p=0.000782)
+  2) a man and woman pose for a picture (p=0.000445)

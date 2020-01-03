@@ -1,0 +1,784 @@
+Captions for image 15876548_213142075758907_64875072984186880_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000350)
+  1) a fire hydrant in the middle of a field . (p=0.000260)
+  2) a fire hydrant in the middle of a field (p=0.000069)
+Captions for image 1389748_1158190527533568_1455154730_a.jpg:
+  0) a man wearing a tie and a hat . (p=0.000426)
+  1) a man wearing a tie and a shirt . (p=0.000221)
+  2) a man wearing a tie and a hat (p=0.000094)
+Captions for image 17495312_1679312522373116_4782791236257841152_n.jpg:
+  0) a plate of food that includes a sandwich and salad . (p=0.000047)
+  1) a plate of food with a sandwich and a salad . (p=0.000037)
+  2) a plate of food that includes a sandwich and a salad . (p=0.000015)
+Captions for image 26066902_173880506554164_3817404998979944448_n.jpg:
+  0) a man standing next to a pile of luggage . (p=0.000752)
+  1) a man standing in front of a pile of luggage . (p=0.000499)
+  2) a group of people standing around a pile of luggage . (p=0.000402)
+Captions for image 45537906_516727115479942_2905214640699528281_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.001464)
+  1) a vase filled with flowers on top of a table . (p=0.001236)
+  2) a vase filled with flowers sitting on a table . (p=0.000614)
+Captions for image 27574447_1619674981448414_4062662324664664064_n.jpg:
+  0) a large body of water next to a lush green field . (p=0.000065)
+  1) a large body of water next to a forest . (p=0.000060)
+  2) a large body of water next to a lush green hillside . (p=0.000031)
+Captions for image 66101869_2136621046631773_7769884408163983003_n.jpg:
+  0) a clock on a pole on a city street (p=0.000018)
+  1) a white and black clock on a white wall (p=0.000003)
+  2) a white and black clock on a table (p=0.000003)
+Captions for image 59602580_159969111706699_5561897311247040029_n.jpg:
+  0) a blender sitting on top of a counter . (p=0.002353)
+  1) a blender sitting on a counter next to a blender . (p=0.000160)
+  2) a blender sitting on top of a counter next to a juicer . (p=0.000085)
+Captions for image 60823672_1577622825703164_653585810128100318_n.jpg:
+  0) a teddy bear sitting on top of a table . (p=0.000023)
+  1) a teddy bear sitting on top of a wooden table . (p=0.000018)
+  2) a teddy bear sitting on top of a wooden table (p=0.000001)
+Captions for image 64252345_344470836161954_8819511200114485350_n.jpg:
+  0) a large grassy field with a lot of trees . (p=0.000015)
+  1) a large grassy field with a large body of water . (p=0.000011)
+  2) a large grassy field with trees and a sky background (p=0.000009)
+Captions for image 59721184_449267322503497_6733428226752109602_n.jpg:
+  0) a lush green field filled with lots of trees . (p=0.000400)
+  1) a lush green field next to a lush green forest . (p=0.000230)
+  2) a lush green field next to a lush green field . (p=0.000183)
+Captions for image 58604291_592454047909056_1620390377315053070_n.jpg:
+  0) a large building with a large clock on it . (p=0.000049)
+  1) a large building with a clock on it (p=0.000038)
+  2) a large building with a large clock on it (p=0.000024)
+Captions for image 57390250_372092833401833_1093239786202259011_n.jpg:
+  0) a close up of a glass of wine (p=0.000476)
+  1) a close up of a glass of wine on a table (p=0.000471)
+  2) a glass of orange juice sitting next to a glass of wine . (p=0.000113)
+Captions for image 56584412_373275299945637_483591012767745296_n.jpg:
+  0) a birthday cake with a train on it (p=0.000045)
+  1) a birthday cake with a train on it . (p=0.000033)
+  2) a birthday cake with a train on the top (p=0.000003)
+Captions for image 56664976_414381775780194_2116607009936863154_n.jpg:
+  0) a glass of orange juice on a table . (p=0.000387)
+  1) a glass of orange juice sitting on a table . (p=0.000238)
+  2) a glass of orange juice on a table (p=0.000161)
+Captions for image 54225150_323849718489848_5071235850145706428_n.jpg:
+  0) a piece of luggage sitting on top of a wooden floor . (p=0.000545)
+  1) a piece of luggage sitting on top of a floor . (p=0.000381)
+  2) a piece of luggage sitting on top of a bed . (p=0.000258)
+Captions for image 54247796_401284907319531_8689869988173496899_n.jpg:
+  0) a close up of a luggage bag on a table (p=0.000194)
+  1) a close up of a luggage bag on the ground (p=0.000135)
+  2) a close up of a luggage bag on a floor (p=0.000091)
+Captions for image 53020514_586196245187869_7849703761431281653_n.jpg:
+  0) a group of people standing next to a train . (p=0.000290)
+  1) a group of people standing next to a red train . (p=0.000107)
+  2) a group of people sitting on a bench next to a train . (p=0.000063)
+Captions for image 53262998_121305992308596_2535105372719697680_n.jpg:
+  0) a sign that says `` <UNK> <UNK> '' on it . (p=0.000002)
+  1) a sign that says `` <UNK> <UNK> '' on the side . (p=0.000000)
+  2) a sign that says `` <UNK> <UNK> '' on it (p=0.000000)
+Captions for image 50748515_2523014357925151_4821842584631054546_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000380)
+  1) a cup of coffee sitting on a table . (p=0.000265)
+  2) a cup of coffee sitting on top of a wooden table . (p=0.000142)
+Captions for image 53030752_599928277156831_8660453758344933248_n.jpg:
+  0) a bench sitting in the middle of a lush green field . (p=0.000190)
+  1) a bench sitting in the middle of a forest . (p=0.000148)
+  2) a bench sitting in the middle of a field . (p=0.000101)
+Captions for image 53551278_793205044380312_9006552120083348108_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000540)
+  1) a fire hydrant sitting in the middle of a forest . (p=0.000525)
+  2) a fire hydrant sitting in the middle of a lush green forest . (p=0.000084)
+Captions for image 50000146_339689989962633_9112418823314793707_n.jpg:
+  0) a close up of a pair of scissors (p=0.001112)
+  1) a close up of a person holding a pair of scissors (p=0.000706)
+  2) a close up of a pair of scissors on a table (p=0.000212)
+Captions for image 47694093_135614397435974_5890181014477872655_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.000486)
+  1) a piece of cake on a plate with a fork (p=0.000238)
+  2) a piece of cake on a plate next to a fork . (p=0.000081)
+Captions for image 46464140_361887231030020_5453141650734203432_n.jpg:
+  0) a vase of flowers sitting on a table . (p=0.000791)
+  1) a vase of flowers sits on a table . (p=0.000490)
+  2) a vase of flowers sitting on a table (p=0.000310)
+Captions for image 46737407_2195800784073314_372972869207329075_n.jpg:
+  0) a close up of a plate of food (p=0.000506)
+  1) a close up of a plate of food on a table (p=0.000287)
+  2) a close up of a plate of food with meat (p=0.000233)
+Captions for image 43695412_1516319138513104_3103659174455482597_n.jpg:
+  0) a plate with a piece of cake on it (p=0.000098)
+  1) a plate with a piece of cake on top of it . (p=0.000033)
+  2) a plate with a piece of cake on top of it (p=0.000024)
+Captions for image 44877606_124838915187279_1190829240498406227_n.jpg:
+  0) a black and white photo of a toilet (p=0.000038)
+  1) a black and white photo of a white toilet (p=0.000029)
+  2) a white toilet with a black seat sitting next to a mouse . (p=0.000007)
+Captions for image 46391045_462713167587517_7300310728906496293_n.jpg:
+  0) a close up of a doughnut on a plate (p=0.001380)
+  1) a close up of a plate of doughnuts on a table (p=0.000388)
+  2) a close up of a plate of doughnuts (p=0.000315)
+Captions for image 34503992_458667834559099_1987261997556695040_n.jpg:
+  0) a cup of coffee and a doughnut on a table . (p=0.000804)
+  1) a cup of coffee and a donut on a table . (p=0.000449)
+  2) a cup of coffee and a donut on a plate . (p=0.000430)
+Captions for image 45782323_2245802635699885_389985442374653299_n.jpg:
+  0) a plate of food and a cup of coffee . (p=0.000387)
+  1) a plate of food and a cup of coffee (p=0.000266)
+  2) a plate of food on a table with a cup of coffee (p=0.000085)
+Captions for image 44545015_2207639736140095_4679802311429645862_n.jpg:
+  0) a bench sitting in the middle of a lush green field . (p=0.000221)
+  1) a bench sitting in the middle of a forest . (p=0.000197)
+  2) a bench sitting in the middle of a field . (p=0.000160)
+Captions for image 44458955_284314309091709_7761552707685155766_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000165)
+  1) a sign that is on the side of a wall . (p=0.000021)
+  2) a sign that is on the side of a street . (p=0.000014)
+Captions for image 43913393_262523907799661_8672313443104301010_n.jpg:
+  0) a red brick building with a white door . (p=0.000022)
+  1) a red brick building with a white door (p=0.000013)
+  2) a red brick building with a white door and a door . (p=0.000000)
+Captions for image 42605817_746063979065319_950603863778396737_n.jpg:
+  0) a park bench in the middle of a park . (p=0.000261)
+  1) a park bench in the middle of a forest . (p=0.000149)
+  2) a park bench in the middle of a park (p=0.000075)
+Captions for image 41173535_679836915731652_1727995133573885526_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.001240)
+  1) a cup of coffee sitting on a table next to a cup . (p=0.000123)
+  2) a cup of coffee sitting on top of a table next to a cup . (p=0.000114)
+Captions for image 40954269_1822811914500264_4816072549736047112_n.jpg:
+  0) a group of people sitting around a table . (p=0.001398)
+  1) a group of people sitting at a table with laptops . (p=0.000123)
+  2) a group of people sitting around a table with a laptop . (p=0.000032)
+Captions for image 43385931_156070978673229_3099012305014387708_n.jpg:
+  0) a bench in a grassy field with trees in the background . (p=0.000034)
+  1) a bench in a field near a tree (p=0.000034)
+  2) a bench in a grassy field with trees in the background (p=0.000017)
+Captions for image 39935147_304372750113271_2865238143101893752_n.jpg:
+  0) a green field with trees in the background (p=0.000036)
+  1) a green field with trees in the background . (p=0.000018)
+  2) a green field with trees in the background and trees . (p=0.000000)
+Captions for image 39887402_1669147509863074_4888653667479060480_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.006746)
+  1) a close up of a plate of food on a table (p=0.001689)
+  2) a close up of a plate of food with vegetables (p=0.000722)
+Captions for image 38999735_423836531474408_3288657510814187520_n.jpg:
+  0) a coffee cup sitting on top of a table . (p=0.001019)
+  1) a coffee cup sitting on top of a table (p=0.000179)
+  2) a cup of coffee sitting on a table (p=0.000159)
+Captions for image 37833722_255344021959328_983547003977859072_n.jpg:
+  0) a white plate topped with different types of food . (p=0.000730)
+  1) a white plate topped with different types of donuts . (p=0.000557)
+  2) a white plate topped with a piece of cake . (p=0.000210)
+Captions for image 37016272_1755079877937847_3836409318731677696_n.jpg:
+  0) a bunch of doughnuts are in a pan (p=0.000152)
+  1) a bunch of food that is in a pan (p=0.000098)
+  2) a bunch of food that is in a pan . (p=0.000064)
+Captions for image 36525870_428374241013594_2611596675839426560_n.jpg:
+  0) a piece of cake sitting on top of a white plate . (p=0.001677)
+  1) a piece of cake on a plate with a fork . (p=0.001167)
+  2) a piece of cake sitting on top of a plate . (p=0.000775)
+Captions for image 39742582_1144966538988733_4659954329778651136_n.jpg:
+  0) a close up of a plate of food (p=0.000366)
+  1) a close up of a pan of food on a stove (p=0.000316)
+  2) a close up of a pan of food (p=0.000245)
+Captions for image 37400703_1021728737990208_7790083313502257152_n.jpg:
+  0) a grill that has some food on it (p=0.000393)
+  1) a grill that has some hot dogs in it (p=0.000227)
+  2) a grill that has some hot dogs on it (p=0.000184)
+Captions for image 37090372_1071009146408354_7962257638886998016_n.jpg:
+  0) a tree filled with lots of unripe bananas . (p=0.000926)
+  1) a tree filled with lots of green leaves . (p=0.000368)
+  2) a tree filled with lots of green plants . (p=0.000179)
+Captions for image 36763155_484634811976755_3874870360025333760_n.jpg:
+  0) a vase of flowers sitting on a table . (p=0.000618)
+  1) a glass vase with some flowers in it (p=0.000412)
+  2) a vase of flowers sitting on a table (p=0.000278)
+Captions for image 36840163_1857495054301384_4464549393873240064_n.jpg:
+  0) a wooden cutting board topped with a cut in half sandwich . (p=0.000067)
+  1) a cutting board with a knife and a cutting board with a knife . (p=0.000004)
+  2) a cutting board with a knife and a cutting board with a knife on it . (p=0.000001)
+Captions for image 36678480_205144063673891_268479419285241856_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000423)
+  1) a close up of a person holding a nintendo wii remote (p=0.000062)
+  2) a close up of a person holding a nintendo wii game controller (p=0.000049)
+Captions for image 36539280_683774678626340_8143001403279802368_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.001505)
+  1) a close up of a sandwich on a plate (p=0.001315)
+  2) a close up of a plate of food with a sandwich (p=0.000805)
+Captions for image 36159735_412681405918491_4076601550829518848_n.jpg:
+  0) a white bowl filled with pasta and vegetables . (p=0.001339)
+  1) a white bowl filled with pasta and broccoli . (p=0.001192)
+  2) a white bowl filled with lots of vegetables . (p=0.000599)
+Captions for image 36544427_194384637923523_8183992236145377280_n.jpg:
+  0) a large field of grass with a sky background (p=0.000036)
+  1) a red and white train traveling through a rural countryside . (p=0.000018)
+  2) a red and white train traveling through a lush green field . (p=0.000017)
+Captions for image 35414192_220722358744900_2069270828955992064_n.jpg:
+  0) a lush green field next to a lush green field . (p=0.000457)
+  1) a lush green field filled with lots of lush green grass . (p=0.000131)
+  2) a lush green field next to a lush green park . (p=0.000120)
+Captions for image 34703224_1695516873878301_7400858391997841408_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.000190)
+  1) a piece of cake on a plate with a fork (p=0.000109)
+  2) a piece of cake on a white plate (p=0.000068)
+Captions for image 35272893_591848621199492_2743627896118575104_n.jpg:
+  0) a white toilet sitting on top of a grass covered field . (p=0.000008)
+  1) a white toilet sitting on top of a sidewalk . (p=0.000007)
+  2) a white toilet sitting on top of a grass covered yard . (p=0.000001)
+Captions for image 16122387_725466057612589_6390085311157764096_n.jpg:
+  0) a park bench sitting in the middle of a forest . (p=0.000173)
+  1) a park bench sitting in the middle of a park . (p=0.000081)
+  2) a park bench sitting in the middle of a field . (p=0.000070)
+Captions for image 33317753_1047782728712442_1873136899661496320_n.jpg:
+  0) a hot dog and french fries on a plate . (p=0.000126)
+  1) a hot dog and french fries are on a plate . (p=0.000107)
+  2) a hot dog and french fries on a table . (p=0.000060)
+Captions for image 33630396_1988541934796640_2649658710376316928_n.jpg:
+  0) a table with a bowl of salad and a bowl of fruit . (p=0.000001)
+  1) a table with a bowl of salad and a bowl of fruit (p=0.000000)
+  2) a table with a bowl of salad and a bowl of carrots . (p=0.000000)
+Captions for image 33104305_308352553033826_8257127553441988608_n.jpg:
+  0) a bike parked next to a brick wall . (p=0.000378)
+  1) a bike parked next to a brick building . (p=0.000214)
+  2) a bike parked next to a brick building (p=0.000029)
+Captions for image 33059576_350543615350377_4558208491566661632_n.jpg:
+  0) a wooden table topped with plates of food . (p=0.000586)
+  1) a wooden table topped with a plate of food . (p=0.000297)
+  2) a table topped with plates of food and a bowl of salad . (p=0.000030)
+Captions for image 33963097_171440486871141_5075401774676836352_n.jpg:
+  0) a pan filled with lots of food on top of a stove . (p=0.000027)
+  1) a pan filled with lots of food on top of a table . (p=0.000019)
+  2) a pan filled with lots of food on top of a wooden table . (p=0.000012)
+Captions for image 32285047_357393387997886_7394505392337715200_n.jpg:
+  0) a close up of a pan of food on a stove (p=0.000471)
+  1) a close up of a pan of food on a grill (p=0.000157)
+  2) a close up of a pan of food cooking (p=0.000137)
+Captions for image 31518371_2090310367919218_18468346487898112_n.jpg:
+  0) a close up of a keyboard and a mouse (p=0.000161)
+  1) a close up of a computer keyboard and mouse . (p=0.000086)
+  2) a close up of a computer keyboard and a mouse . (p=0.000063)
+Captions for image 31474784_631549013855407_4430951071602442240_n.jpg:
+  0) a bottle of wine next to a glass of wine . (p=0.002523)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.002090)
+  2) a bottle of wine and a glass of wine . (p=0.001882)
+Captions for image 31711461_1959700247437632_2736768373785362432_n.jpg:
+  0) a train traveling through a lush green forest . (p=0.001612)
+  1) a train traveling down tracks next to a forest . (p=0.001306)
+  2) a train traveling down train tracks next to a forest . (p=0.000777)
+Captions for image 31236174_170098936932483_8047673367194501120_n.jpg:
+  0) a white plate topped with a sandwich and a cup of coffee . (p=0.000364)
+  1) a white plate topped with a chocolate covered donut . (p=0.000205)
+  2) a white plate topped with a pastry and a cup of coffee . (p=0.000199)
+Captions for image 31210930_2074618916118688_528610062097186816_n.jpg:
+  0) a bunch of different types of apples on display . (p=0.000050)
+  1) a bunch of different types of apples on display (p=0.000020)
+  2) a bunch of different types of apples sitting on a table . (p=0.000019)
+Captions for image 30603299_162088057791275_7348480303750447104_n.jpg:
+  0) a train traveling through a lush green countryside . (p=0.000339)
+  1) a train traveling through a lush green field . (p=0.000095)
+  2) a train traveling through a rural countryside filled with trees . (p=0.000018)
+Captions for image 30830237_592767351109642_8647669041336418304_n.jpg:
+  0) a group of cows grazing in a field . (p=0.000218)
+  1) a group of horses grazing in a field . (p=0.000194)
+  2) a couple of horses standing in a field . (p=0.000128)
+Captions for image 30077869_2035230210078655_1845272891306803200_n.jpg:
+  0) a cup of coffee sitting next to a cup of coffee . (p=0.001364)
+  1) a cup of coffee sitting next to a plate of food . (p=0.000257)
+  2) a cup of coffee sitting next to a plate of food (p=0.000026)
+Captions for image 30856481_604429983269194_7270334984412463104_n.jpg:
+  0) a close up of a pan of food cooking (p=0.000092)
+  1) a close up of a pan of food on a grill (p=0.000090)
+  2) a close up of a pan of food on a stove (p=0.000090)
+Captions for image 29740679_604456766556732_6172480239055142912_n.jpg:
+  0) a bench sitting in the middle of a lush green field . (p=0.000414)
+  1) a bench sitting in the middle of a field . (p=0.000210)
+  2) a bench sitting in a field next to a tree . (p=0.000052)
+Captions for image 29417683_1210435252424139_2304030326856351744_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.004004)
+  1) a white plate topped with meat and veggies . (p=0.001678)
+  2) a white plate topped with meat , potatoes and vegetables . (p=0.000394)
+Captions for image 29715103_2048019545480899_2532117477098258432_n.jpg:
+  0) a loaf of bread sitting on top of a cutting board . (p=0.000630)
+  1) a close up of a loaf of bread (p=0.000498)
+  2) a loaf of bread sitting on top of a wooden cutting board . (p=0.000332)
+Captions for image 29402148_1432794503516184_1694893729652932608_n.jpg:
+  0) a slice of pizza sitting on top of a white plate . (p=0.000785)
+  1) a slice of pizza sitting on top of a wooden cutting board . (p=0.000355)
+  2) a slice of pizza sitting on top of a paper plate . (p=0.000249)
+Captions for image 29416467_965364736944170_4975317169685397504_n.jpg:
+  0) a grill that has some hot dogs on it (p=0.000286)
+  1) a grill that has some hot dogs in it (p=0.000248)
+  2) a grill that has a hot dog on it (p=0.000114)
+Captions for image 29715346_2098578447030480_1174663707095990272_n.jpg:
+  0) a couple of microwaves that are on a table . (p=0.000128)
+  1) a couple of microwaves that are sitting on a table . (p=0.000058)
+  2) a couple of microwaves are on a table (p=0.000053)
+Captions for image 29096079_187496842034468_6546813289173614592_n.jpg:
+  0) a blender sitting on top of a counter . (p=0.001948)
+  1) a blender sitting on top of a counter next to a sink . (p=0.000232)
+  2) a blender sitting on a counter next to a sink . (p=0.000180)
+Captions for image 29403859_196242760982237_4928164592053387264_n.jpg:
+  0) a flock of birds sitting on top of a tree . (p=0.003014)
+  1) a flock of birds flying over a forest . (p=0.002102)
+  2) a bird perched on top of a tree branch . (p=0.000537)
+Captions for image 29088376_2034040786839484_8966445383811072000_n.jpg:
+  0) a bench sitting in the middle of a lush green field . (p=0.000540)
+  1) a park bench sitting in the middle of a forest . (p=0.000362)
+  2) a park bench sitting in the middle of a park . (p=0.000339)
+Captions for image 29090468_1783264175027255_2093113794438889472_n.jpg:
+  0) a cutting board topped with a knife and a knife . (p=0.000147)
+  1) a cutting board with a knife and a knife on it . (p=0.000075)
+  2) a cutting board with a knife and a knife on it (p=0.000044)
+Captions for image 29089421_355405818291004_8273324570899906560_n.jpg:
+  0) a turkey in a pan in an oven . (p=0.000064)
+  1) a turkey in a pan in an oven (p=0.000037)
+  2) a turkey in a pan on a stove (p=0.000028)
+Captions for image 28764298_1973561136052080_5113453664500973568_n.jpg:
+  0) a bench sitting in the middle of a lush green field . (p=0.000546)
+  1) a park bench sitting in the middle of a park . (p=0.000475)
+  2) a park bench sitting in the middle of a forest . (p=0.000438)
+Captions for image 28763959_434076447029120_7046475318940401664_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002488)
+  1) a white plate topped with a piece of cake . (p=0.000387)
+  2) a plate of food with a fork and a knife . (p=0.000114)
+Captions for image 28764046_158256211658454_379628770564243456_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000553)
+  1) a cup of coffee sitting on top of a counter . (p=0.000188)
+  2) a cup of coffee sitting on a table (p=0.000097)
+Captions for image 28157666_554935978213015_535662351152578560_n.jpg:
+  0) a close up of a plate of food on a table (p=0.000628)
+  1) a close up of a plate of food with meat (p=0.000365)
+  2) a close up of a plate of food (p=0.000353)
+Captions for image 28153762_224923964740028_8747658508507283456_n.jpg:
+  0) a pizza sitting on top of a pan on top of a stove . (p=0.000068)
+  1) a pizza sitting on top of a pan in a kitchen . (p=0.000047)
+  2) a pizza sitting on top of a pan on a stove . (p=0.000031)
+Captions for image 28151586_425799087855068_5946515249334059008_n.jpg:
+  0) a cutting board topped with a knife and a knife . (p=0.000111)
+  1) a cutting board with a knife and a knife on a cutting board . (p=0.000065)
+  2) a cutting board with a knife and a cutting board (p=0.000051)
+Captions for image 27893174_205470600188942_4850376798678024192_n.jpg:
+  0) a computer keyboard and mouse on a desk . (p=0.000299)
+  1) a computer keyboard and mouse on a table . (p=0.000293)
+  2) a computer keyboard and mouse on a wooden desk . (p=0.000181)
+Captions for image 27578765_1592626854190541_5083557612629262336_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000424)
+  1) a close up of a street sign with a sky background (p=0.000178)
+  2) a close up of a person holding a sign (p=0.000082)
+Captions for image 27580985_152891262072094_3544585704220655616_n.jpg:
+  0) a man is standing in front of a window (p=0.000004)
+  1) a person standing in front of a mirror with a camera . (p=0.000002)
+  2) a person standing in front of a mirror with a camera (p=0.000000)
+Captions for image 28155431_1615961021858462_5724780428737380352_n.jpg:
+  0) a loaf of bread baking inside of an oven . (p=0.000436)
+  1) a loaf of bread baking inside of a oven . (p=0.000346)
+  2) a loaf of bread sitting on top of a stove . (p=0.000313)
+Captions for image 27879322_1968409913422992_4245949315287089152_n.jpg:
+  0) a woman holding a cell phone in her hand . (p=0.000205)
+  1) a woman holding a cell phone up to her ear . (p=0.000158)
+  2) a woman holding a cell phone up to her face . (p=0.000116)
+Captions for image 26863591_145071979516288_776547322820558848_n.jpg:
+  0) a tree filled with lots of green plants . (p=0.000252)
+  1) a bunch of flowers that are in a tree . (p=0.000124)
+  2) a bunch of flowers that are in a vase . (p=0.000111)
+Captions for image 20066659_442714656127661_7365552236111331328_n.jpg:
+  0) a bench sitting in the middle of a lush green field . (p=0.000302)
+  1) a park bench sitting in the middle of a field . (p=0.000220)
+  2) a park bench sitting in the middle of a lush green field . (p=0.000148)
+Captions for image 26355475_140409236634827_1369402536523464704_n.jpg:
+  0) a black cat laying on top of a bed . (p=0.010654)
+  1) a black cat laying on top of a couch . (p=0.002022)
+  2) a black cat laying on top of a white bed . (p=0.001470)
+Captions for image 25017960_1600777006656847_2485237045773991936_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000257)
+  1) a fire hydrant sitting in the middle of a forest . (p=0.000223)
+  2) a fire hydrant sitting in the middle of a field . (p=0.000075)
+Captions for image 25018037_380008499111830_4214837362468847616_n.jpg:
+  0) a train traveling through a lush green countryside . (p=0.000354)
+  1) a train traveling through a lush green field . (p=0.000122)
+  2) a train traveling down tracks next to a lush green field . (p=0.000056)
+Captions for image 25038431_1527056754052675_5636039609763758080_n.jpg:
+  0) a close up of a pair of scissors (p=0.000542)
+  1) a close up of a person holding a pair of scissors (p=0.000457)
+  2) a close up of a pair of scissors on a table (p=0.000175)
+Captions for image 26065487_160912417865543_986727465915252736_n.jpg:
+  0) a view of a river with a lot of trees . (p=0.000001)
+  1) a view of a river with a train passing by . (p=0.000001)
+  2) a view of a road with a lot of trees . (p=0.000001)
+Captions for image 25012062_113824342747156_8035334656297533440_n.jpg:
+  0) a group of people sitting at a table with umbrellas . (p=0.000029)
+  1) a group of people sitting at a table with umbrellas (p=0.000006)
+  2) a group of people sitting at a table in a large building . (p=0.000002)
+Captions for image 25021658_155876841804290_3986345914070466560_n.jpg:
+  0) a close up of a street sign on a pole (p=0.000148)
+  1) a close up of a sign on a pole (p=0.000141)
+  2) a close up of a street sign with a sky background (p=0.000109)
+Captions for image 25012748_198109600739015_6993203559667859456_n.jpg:
+  0) a birthday cake with a candle on top of it . (p=0.000074)
+  1) a birthday cake with a candle on it (p=0.000043)
+  2) a birthday cake with a candle on top of it (p=0.000035)
+Captions for image 24838455_1527204660704896_308172179889979392_n.jpg:
+  0) a coffee cup sitting on top of a table . (p=0.000926)
+  1) a cup of coffee sitting on top of a table . (p=0.000571)
+  2) a cup of coffee sitting on top of a desk . (p=0.000482)
+Captions for image 24327366_194215161138358_598866587369340928_n.jpg:
+  0) a display case filled with lots of different types of donuts . (p=0.002471)
+  1) a display case filled with lots of different flavored donuts . (p=0.002263)
+  2) a display case filled with different types of donuts . (p=0.001306)
+Captions for image 24177566_395883070857848_3583312088593858560_n.jpg:
+  0) a close up of a pizza on a pan (p=0.001318)
+  1) a pizza sitting on top of a pan on top of a stove . (p=0.000693)
+  2) a close up of a pizza on a pan on a stove (p=0.000633)
+Captions for image 24125261_251926285334198_2517434414137344000_n.jpg:
+  0) a plate of food that is on a table . (p=0.000667)
+  1) a plate of food that is on a table (p=0.000326)
+  2) a plate of food on a table with a fork (p=0.000096)
+Captions for image 23823541_695907020598043_1337020493156319232_n.jpg:
+  0) a fire hydrant in the middle of a park . (p=0.000403)
+  1) a fire hydrant in the middle of a field . (p=0.000244)
+  2) a fire hydrant sitting in the middle of a field . (p=0.000196)
+Captions for image 23596010_1938478849703784_5452587056742006784_n.jpg:
+  0) a group of people standing in front of a building . (p=0.001571)
+  1) a group of people standing around a building . (p=0.000798)
+  2) a group of people standing in front of a clock tower . (p=0.000454)
+Captions for image 23498718_130144401029319_8519698360448319488_n.jpg:
+  0) a room filled with lots of wooden pews . (p=0.000313)
+  1) a large cathedral with a clock on the wall . (p=0.000058)
+  2) a large cathedral with a clock on the wall (p=0.000030)
+Captions for image 23498517_146502402770221_7433078815745638400_n.jpg:
+  0) a black and white photo of a man in a suit . (p=0.000110)
+  1) a black and white photo of a person wearing a suit and tie (p=0.000109)
+  2) a black and white photo of a man in a suit (p=0.000083)
+Captions for image 23161640_137109646886843_2333748644391419904_n.jpg:
+  0) a close up of a plate of food on a table (p=0.000068)
+  1) a close up of a plate of food (p=0.000065)
+  2) a close up of a tray of food (p=0.000051)
+Captions for image 22220623_495530640814081_8008152302202388480_n.jpg:
+  0) a cup of coffee and a banana on a table . (p=0.000518)
+  1) a cup of coffee sitting next to a computer keyboard . (p=0.000377)
+  2) a cup of coffee sitting next to a laptop . (p=0.000292)
+Captions for image 21984845_742449719290532_4658586816486572032_n.jpg:
+  0) a cup of coffee sitting next to a laptop computer . (p=0.000812)
+  1) a cup of coffee and a cup of coffee on a table . (p=0.000398)
+  2) a cup of coffee sitting on a table next to a cup of coffee . (p=0.000168)
+Captions for image 22069252_1952879831666914_7928506935471505408_n.jpg:
+  0) a white plate topped with a chocolate covered donut . (p=0.000077)
+  1) a white plate topped with a chocolate covered doughnut . (p=0.000066)
+  2) a white plate topped with a pastry next to a cup of coffee . (p=0.000046)
+Captions for image 20837685_516484365357406_4242539326002429952_n.jpg:
+  0) a herd of sheep grazing on a lush green field . (p=0.001695)
+  1) a herd of sheep grazing on a lush green hillside . (p=0.000994)
+  2) a herd of cattle grazing on a lush green field . (p=0.000848)
+Captions for image 20184846_1824414774537911_8835344406203596800_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.001839)
+  1) a table topped with plates of food and bowls of food . (p=0.000697)
+  2) a table topped with plates of food and bowls of soup . (p=0.000139)
+Captions for image 20583314_1989986557693411_8979432407136468992_n.jpg:
+  0) a sign that reads `` <UNK> '' on a wall . (p=0.000001)
+  1) a sign that reads `` <UNK> '' on the side of a building . (p=0.000000)
+  2) a sign that reads `` <UNK> '' on a wall (p=0.000000)
+Captions for image 20066174_878757898948182_5261376757696561152_n.jpg:
+  0) a plate of pasta with broccoli and other vegetables . (p=0.000095)
+  1) a plate of pasta with broccoli and a fork . (p=0.000049)
+  2) a plate of pasta with broccoli and other vegetables (p=0.000043)
+Captions for image 19954866_577684899287479_5374972277534228480_n.jpg:
+  0) a clock that is on the side of a wall . (p=0.001081)
+  1) a clock that is on the side of a building . (p=0.000720)
+  2) a clock that is on top of a pole . (p=0.000538)
+Captions for image 16230113_379225985779987_5275634777808961536_n.jpg:
+  0) a black cat sitting on top of a wooden bench . (p=0.002297)
+  1) a black cat sitting on a wooden bench . (p=0.002081)
+  2) a black cat is sitting on a wooden bench . (p=0.000764)
+Captions for image 19932809_119279578687235_4761601581311328256_n.jpg:
+  0) a cat sitting on a table next to a plate of food . (p=0.000205)
+  1) a cat sitting on a table next to a bowl of soup . (p=0.000146)
+  2) a cat sitting on a table next to a bowl of food . (p=0.000111)
+Captions for image 19623291_305126446624563_5271185466568212480_n.jpg:
+  0) a cat wearing a hat and a tie . (p=0.000054)
+  1) a cat wearing a hat and a tie (p=0.000037)
+  2) a cat is wearing a red tie and a red hat . (p=0.000003)
+Captions for image 19623458_145257789362984_1333270132008419328_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002781)
+  1) a white plate topped with meat and veggies . (p=0.001166)
+  2) a plate of food with a fork and a knife . (p=0.000097)
+Captions for image 19533873_1896040693984025_457948375380131840_n.jpg:
+  0) a black and white cat sitting in a tree . (p=0.000222)
+  1) a black and white cat sitting in a forest . (p=0.000206)
+  2) a black and white cat sitting on a tree branch . (p=0.000155)
+Captions for image 19436788_1351387378271773_6050650979148234752_n.jpg:
+  0) a plate of food that includes meat and vegetables . (p=0.000512)
+  1) a plate of food that includes broccoli and meat . (p=0.000169)
+  2) a white plate topped with a salad and a salad . (p=0.000077)
+Captions for image 18949567_418088931903837_5974099401914712064_n.jpg:
+  0) a book and a book on a table . (p=0.000127)
+  1) a book and a book on a table (p=0.000044)
+  2) a book , a book , a book , a book , and a pair of scissors . (p=0.000000)
+Captions for image 18949541_1918669641713900_7800204635863515136_n.jpg:
+  0) a cup of coffee sitting next to a computer keyboard . (p=0.003081)
+  1) a cup of coffee sitting next to a keyboard . (p=0.002935)
+  2) a cup of coffee sitting next to a laptop computer . (p=0.001131)
+Captions for image 18645235_385742885156164_3144618532638031872_n.jpg:
+  0) a cutting board with a knife and a cutting board . (p=0.000102)
+  1) a cutting board with a knife and a knife on it . (p=0.000062)
+  2) a cutting board with a knife and a cutting board (p=0.000048)
+Captions for image 18809585_227255197776127_8262673245279354880_n.jpg:
+  0) a lush green field filled with lots of green grass . (p=0.000495)
+  1) a lush green field filled with lots of lush green grass . (p=0.000452)
+  2) a lush green field with lots of green grass . (p=0.000386)
+Captions for image 18722275_970744166395612_5881803101639278592_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.006134)
+  1) a close up of a plate of food on a table (p=0.001444)
+  2) a close up of a plate of food with vegetables (p=0.001109)
+Captions for image 18580557_775691089266789_2605481608777564160_n.jpg:
+  0) a close up of a person holding an open umbrella (p=0.001168)
+  1) a close up of a person holding a pair of scissors (p=0.000483)
+  2) a close up of a person holding a pair of red scissors (p=0.000038)
+Captions for image 18580751_1912868168970780_9150505721949847552_n.jpg:
+  0) a tree with a bunch of green leaves on it (p=0.000075)
+  1) a tree with a bunch of green leaves in it (p=0.000042)
+  2) a tree with a bunch of green leaves on it . (p=0.000026)
+Captions for image 18513087_1283382608447863_3847671659284660224_n.jpg:
+  0) a stop sign with graffiti written on it . (p=0.000139)
+  1) a stop sign with graffiti written on it (p=0.000125)
+  2) a stop sign with graffiti on it . (p=0.000042)
+Captions for image 18380865_1422782301093960_5953267513448988672_n.jpg:
+  0) a man in a white shirt is eating a banana (p=0.000018)
+  1) a man in a blue shirt is eating a banana (p=0.000016)
+  2) a man in a blue shirt is eating a banana . (p=0.000012)
+Captions for image 18299365_1850518528533172_3773833711108227072_n.jpg:
+  0) a lush green field filled with lots of green plants . (p=0.000530)
+  1) a lush green field filled with lots of lush green grass . (p=0.000308)
+  2) a lush green field filled with lots of green grass . (p=0.000274)
+Captions for image 18381924_842295395909260_3444211768757321728_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.000314)
+  1) a red fire hydrant in the middle of a forest . (p=0.000184)
+  2) a red fire hydrant sitting in the middle of a field . (p=0.000049)
+Captions for image 18380874_1326368514077435_6172913270542827520_n.jpg:
+  0) a cup of coffee and a cup of coffee . (p=0.000863)
+  1) a cup of coffee sitting next to a laptop computer . (p=0.000751)
+  2) a cup of coffee and a cup of coffee on a table . (p=0.000390)
+Captions for image 18161750_1946607548929237_6989071105344405504_n.jpg:
+  0) a piece of cake sitting on top of a white plate . (p=0.001762)
+  1) a piece of cake sitting on top of a plate . (p=0.000988)
+  2) a piece of cake on a plate with a fork . (p=0.000955)
+Captions for image 18095108_1333008860118205_7399618267435761664_n.jpg:
+  0) a large clock tower towering over a city . (p=0.002329)
+  1) a large building with a clock tower on top . (p=0.000533)
+  2) a large building with a clock tower on top of it . (p=0.000264)
+Captions for image 18011461_1148667068572266_3431006333460021248_n.jpg:
+  0) a black cat laying on top of a bed . (p=0.005241)
+  1) a black and white cat laying on top of a bed . (p=0.002715)
+  2) a black and white cat laying on a bed . (p=0.001386)
+Captions for image 18011606_1441222215942354_6921926889468592128_n.jpg:
+  0) a table topped with plates of food and drinks . (p=0.000181)
+  1) a table topped with lots of different types of food . (p=0.000126)
+  2) a table topped with plates of food and cups of coffee . (p=0.000107)
+Captions for image 17934017_1138490732963766_5283993033275080704_n.jpg:
+  0) a close up of a cup of coffee on a table (p=0.000289)
+  1) a close up of a plate of food (p=0.000087)
+  2) a close up of a cup of coffee and a doughnut (p=0.000030)
+Captions for image 17933815_1382613565166531_547322349842595840_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.001805)
+  1) a bottle of wine sitting on top of a wooden table . (p=0.001748)
+  2) a bottle of wine sitting on top of a table next to a glass . (p=0.000167)
+Captions for image 17934231_108497596374725_3708227394172092416_n.jpg:
+  0) a pizza sitting on top of a wooden table . (p=0.001335)
+  1) a pizza sitting on top of a white plate on a table . (p=0.000587)
+  2) a pizza sitting on top of a white plate on top of a table . (p=0.000191)
+Captions for image 17437671_440709062987682_7685819645202268160_n.jpg:
+  0) a group of people standing around a tv . (p=0.000717)
+  1) a group of people in a room with a television . (p=0.000246)
+  2) a group of people standing in a room with a television . (p=0.000061)
+Captions for image 17819323_1133292853438272_4553661899316658176_n.jpg:
+  0) a tree in the middle of a grassy field . (p=0.000107)
+  1) a tree in a field next to a tree . (p=0.000060)
+  2) a tree in the middle of a grassy field (p=0.000043)
+Captions for image 17817498_183820172130203_4328802614566191104_n.jpg:
+  0) a lush green field next to a lush green field . (p=0.000382)
+  1) a lush green field with a lush green field . (p=0.000172)
+  2) a lush green field next to a lush green hillside . (p=0.000090)
+Captions for image 16906133_678036252398604_2006994344329871360_n.jpg:
+  0) a man sitting in front of a laptop computer . (p=0.015037)
+  1) a man sitting at a desk with a laptop computer . (p=0.001346)
+  2) a man sitting at a table with a laptop computer . (p=0.001330)
+Captions for image 28154105_1566569430078745_3763966564911546368_n.jpg:
+  0) a plate of food that includes meat and vegetables . (p=0.000452)
+  1) a white plate topped with a sandwich and salad . (p=0.000385)
+  2) a white plate topped with a sandwich and a salad . (p=0.000263)
+Captions for image 17596634_1875158246078288_3202231374270431232_n.jpg:
+  0) a man sitting at a table with a box of donuts . (p=0.000399)
+  1) a man sitting at a table with a plate of food . (p=0.000386)
+  2) a man sitting at a table in front of a laptop computer . (p=0.000125)
+Captions for image 17437814_1252019378246562_8537980335420342272_n.jpg:
+  0) a wooden bench sitting in the middle of a forest . (p=0.001282)
+  1) a wooden bench in the middle of a forest . (p=0.000284)
+  2) a wooden bench sitting in the middle of a lush green forest . (p=0.000272)
+Captions for image 17662469_649054138629409_3257367621795840000_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.000890)
+  1) a red fire hydrant in the middle of a forest . (p=0.000385)
+  2) a red fire hydrant sitting in the middle of a lush green forest . (p=0.000060)
+Captions for image 17333632_374619829604350_1712503288840060928_n.jpg:
+  0) a plate of food on a table with a cup of coffee (p=0.000064)
+  1) a plate of food on a table next to a cup of coffee . (p=0.000052)
+  2) a plate of food on a table with a cup of coffee . (p=0.000051)
+Captions for image 17126582_1882620868685855_5269170405351882752_n.jpg:
+  0) a cup of coffee sitting next to a keyboard . (p=0.000807)
+  1) a cup of coffee sitting next to a computer keyboard . (p=0.000587)
+  2) a cup of coffee sitting next to a keyboard (p=0.000224)
+Captions for image 17126762_864428017031727_532068107770920960_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.000526)
+  1) a red fire hydrant sitting in the middle of a field . (p=0.000461)
+  2) a red fire hydrant sitting in the middle of a lush green field . (p=0.000388)
+Captions for image 17075913_1578428162186340_7854273906138415104_n.jpg:
+  0) a blender sitting on top of a wooden table . (p=0.002468)
+  1) a blender sitting on top of a wooden counter . (p=0.001795)
+  2) a blender sitting on top of a wooden counter top . (p=0.000277)
+Captions for image 17076684_1833976246889959_7215469341301538816_n.jpg:
+  0) a flock of birds standing on top of a lush green field . (p=0.000764)
+  1) a flock of birds standing on top of a grass covered field . (p=0.000411)
+  2) a flock of birds sitting on top of a green field . (p=0.000109)
+Captions for image 17076553_383364905373947_4429801935922528256_n.jpg:
+  0) a birthday cake with a train on it (p=0.000030)
+  1) a birthday cake with a train on it . (p=0.000023)
+  2) a birthday cake with a train on the top of it . (p=0.000001)
+Captions for image 16788820_443485839327109_809876715714117632_n.jpg:
+  0) a black cat laying on top of a bed . (p=0.000887)
+  1) a black cat is laying on a bed (p=0.000306)
+  2) a black cat laying on top of a pile of luggage . (p=0.000224)
+Captions for image 16790161_418931681783131_1092577776738762752_n.jpg:
+  0) a picture of a man in a suit and tie . (p=0.000024)
+  1) a picture of a man in a suit . (p=0.000013)
+  2) a picture of a man in a suit and tie (p=0.000011)
+Captions for image 16790315_1267670743268005_3303342789978226688_n.jpg:
+  0) a bunch of different types of electronics on a table . (p=0.000003)
+  1) a bunch of different types of electronics on a desk . (p=0.000002)
+  2) a bunch of different types of electronics on a table (p=0.000001)
+Captions for image 16788776_1920575848164712_6969687750433832960_n.jpg:
+  0) a smart phone sitting on top of a table . (p=0.002805)
+  1) a smart phone sitting on top of a wooden table . (p=0.001443)
+  2) a cell phone sitting on top of a table (p=0.000117)
+Captions for image 16789115_278523745900696_7567178320475848704_n.jpg:
+  0) a bunch of ties hanging from a rack . (p=0.000664)
+  1) a group of ties hanging from a rack . (p=0.000586)
+  2) a bunch of ties hanging from a rack (p=0.000186)
+Captions for image 16584052_1263132503777586_6513002499165650944_n.jpg:
+  0) a black cat sitting on top of a bed . (p=0.001170)
+  1) a black cat sitting on top of a wooden table . (p=0.000441)
+  2) a black cat sitting on top of a wooden chair . (p=0.000367)
+Captions for image 16464231_1283102278443891_7492363400383561728_n.jpg:
+  0) a man in a blue shirt is playing a video game (p=0.000031)
+  1) a man in a red shirt is playing a video game (p=0.000025)
+  2) a man in a red shirt is playing a video game . (p=0.000020)
+Captions for image 16465703_1855142118088296_1325899981013385216_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.001070)
+  1) a fire hydrant in the middle of a forest . (p=0.000728)
+  2) a red fire hydrant sitting in the middle of a field . (p=0.000175)
+Captions for image 16110917_1238979709517238_7542735923587317760_n.jpg:
+  0) a person standing on a beach with a surfboard . (p=0.000109)
+  1) a person standing on a beach with a surfboard (p=0.000071)
+  2) a person standing on a beach with a surf board (p=0.000065)
+Captions for image 16465654_1863104500603794_1089725939929055232_n.jpg:
+  0) a red and white fire hydrant sitting in the middle of a field . (p=0.000015)
+  1) a red and white fire hydrant sitting in a field . (p=0.000007)
+  2) a red and white fire hydrant sitting in the middle of a forest . (p=0.000006)
+Captions for image 16123800_1848383072074962_3824378831867740160_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000663)
+  1) a train traveling down tracks next to a river . (p=0.000276)
+  2) a train traveling down tracks next to a forest . (p=0.000272)
+Captions for image 15057327_674264946087892_409845888421199872_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.001478)
+  1) a close up of a vandalized street sign (p=0.000969)
+  2) a close up of a street sign on a pole (p=0.000471)
+Captions for image 15876351_1043929245712593_1021558993555816448_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000320)
+  1) a fire hydrant in the middle of a grassy field . (p=0.000063)
+  2) a fire hydrant in the middle of a forest (p=0.000043)
+Captions for image 15802818_1833575740250168_6353034522375749632_n.jpg:
+  0) a pan filled with food on top of a stove . (p=0.000453)
+  1) a plate of food that is on a table . (p=0.000266)
+  2) a plate of food that is on a table (p=0.000147)
+Captions for image 15802168_250933492022536_7140367650537865216_n.jpg:
+  0) a cup of coffee and a banana on a table . (p=0.002016)
+  1) a cup of coffee sitting next to a laptop computer . (p=0.001764)
+  2) a cup of coffee and a banana on a table (p=0.000357)
+Captions for image 15877487_612498785618993_3455750915657564160_n.jpg:
+  0) a street sign in front of a building . (p=0.000183)
+  1) a street sign on a pole on a city street (p=0.000134)
+  2) a street sign on the side of a building . (p=0.000115)
+Captions for image 15803084_1430404187019208_2685488908107513856_n.jpg:
+  0) a close up of a pair of scissors (p=0.000181)
+  1) a close up of a pair of scissors on a bed (p=0.000083)
+  2) a pair of scissors sitting on top of a bed . (p=0.000067)
+Captions for image 15802557_316244492104132_7844577682460246016_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.002075)
+  1) a close up of a pair of scissors (p=0.002050)
+  2) a close up of a pair of scissors on a table (p=0.001569)
+Captions for image 15877215_1608475569460896_2965205619696467968_n.jpg:
+  0) a white plate topped with a sandwich and salad . (p=0.000796)
+  1) a white plate topped with a sandwich and a salad . (p=0.000515)
+  2) a plate of food with a sandwich and a salad . (p=0.000088)
+Captions for image 15877240_1063756463753050_447312498756943872_n.jpg:
+  0) a view of a tree in the middle of a field . (p=0.000007)
+  1) a view of a tree in the middle of a park . (p=0.000007)
+  2) a view of a tree in the middle of a forest . (p=0.000005)
+Captions for image 15625194_201904686940182_826841669029593088_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.001603)
+  1) a table topped with plates of food and a bowl of fruit . (p=0.000052)
+  2) a table topped with plates of food and a bowl of soup . (p=0.000047)
+Captions for image 15538842_1175280542586425_4466851427624419328_n.jpg:
+  0) a black and white cat sitting on a bed . (p=0.000605)
+  1) a black and white cat sitting on top of a bed . (p=0.000464)
+  2) a black and white cat sitting on top of a couch . (p=0.000392)
+Captions for image 15534631_1425318161100078_6301712132794744832_n.jpg:
+  0) a view of a plane flying in the sky . (p=0.000379)
+  1) a view of a plane flying in the air . (p=0.000062)
+  2) a view of a plane flying in the sky (p=0.000057)
+Captions for image 15623908_1831445173812006_9021914040330354688_n.jpg:
+  0) a train traveling through a lush green countryside . (p=0.000246)
+  1) a train traveling through a lush green field . (p=0.000086)
+  2) a train traveling down tracks next to a lush green field . (p=0.000028)
+Captions for image 15538544_1635926833369972_3528762194298667008_n.jpg:
+  0) a train traveling through a lush green countryside . (p=0.000159)
+  1) a train traveling through a lush green field . (p=0.000078)
+  2) a train traveling over a bridge over a river . (p=0.000040)
+Captions for image 15337313_1167969179946688_5077097943161372672_n.jpg:
+  0) a table with a vase and a candle on it (p=0.000021)
+  1) a table topped with a candle and a vase . (p=0.000008)
+  2) a table topped with a glass of wine and a cake . (p=0.000008)
+Captions for image 15624352_1721006818214921_1267004309959081984_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.000306)
+  1) a bottle of wine sitting on top of a table next to a glass . (p=0.000024)
+  2) a bottle of wine sitting on a table next to a glass . (p=0.000012)
+Captions for image 14722943_1811060025799527_4781948348926001152_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000140)
+  1) a fire hydrant in the middle of a field . (p=0.000136)
+  2) a fire hydrant in the middle of a grassy area . (p=0.000076)
+Captions for image 15337149_227920760981537_3308402446136508416_n.jpg:
+  0) a tree filled with lots of yellow flowers . (p=0.000190)
+  1) a tree filled with lots of green and yellow flowers . (p=0.000127)
+  2) a tree filled with lots of yellow and green plants . (p=0.000034)
+Captions for image 15258673_1850159421923649_3704155872549666816_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.000961)
+  1) a black and white photo of a clock tower (p=0.000339)
+  2) a black and white photo of a street light . (p=0.000251)
+Captions for image 15306551_1833565410223799_4524090220555010048_n.jpg:
+  0) a bench in a forest with trees in the background (p=0.000032)
+  1) a bench in a forest with trees in the background . (p=0.000026)
+  2) a bench in a forest with trees and bushes . (p=0.000007)
+Captions for image 15043419_1122043561224691_4023496633856557056_n.jpg:
+  0) a kite is flying high in the sky . (p=0.000470)
+  1) a kite is flying high in the sky (p=0.000193)
+  2) a kite flying in the sky over a city . (p=0.000116)
+Captions for image 14583380_1820650018207999_7279446667336613888_n.jpg:
+  0) a tree in the middle of a forest . (p=0.000180)
+  1) a tree in the middle of a forest (p=0.000040)
+  2) a tree in the middle of a park (p=0.000014)
+Captions for image 15101737_120679755084504_7477375003902607360_n.jpg:
+  0) a large group of people standing in a room . (p=0.000028)
+  1) a large group of people standing around a christmas tree . (p=0.000023)
+  2) a large group of people standing around a christmas tree (p=0.000010)
+Captions for image 15043942_372065926470279_7304569219541106688_n.jpg:
+  0) a tree in the middle of a forest . (p=0.000210)
+  1) a tree in the middle of a park . (p=0.000141)
+  2) a tree in the middle of a park (p=0.000060)
+Captions for image 15057414_313717899021658_1006262948567449600_n.jpg:
+  0) a bowl of soup with a spoon in it . (p=0.000083)
+  1) a bowl of soup with a spoon in it (p=0.000051)
+  2) a bowl of soup sitting on top of a counter . (p=0.000046)

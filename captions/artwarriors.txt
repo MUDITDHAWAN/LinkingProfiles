@@ -1,0 +1,20 @@
+Captions for image 1208236_1410505042520513_1494931654_n.jpg:
+  0) a small bird is sitting on a branch . (p=0.000128)
+  1) a small bird is sitting on a branch (p=0.000112)
+  2) a small bird is sitting on a bird feeder . (p=0.000082)
+Captions for image 1209588_813801051980186_77796848_n.jpg:
+  0) a close up of a stuffed animal wearing a hat (p=0.000501)
+  1) a close up of a dog wearing a tie (p=0.000388)
+  2) a close up of a stuffed animal wearing a tie (p=0.000182)
+Captions for image 11950646_1479767855658875_1075929258_a.jpg:
+  0) a man in a suit and tie holding a microphone . (p=0.000075)
+  1) a man in a suit and tie holding a microphone (p=0.000033)
+  2) a man in a suit and tie holding a cell phone . (p=0.000028)
+Captions for image 1170196_639406946098505_1693341194_n.jpg:
+  0) a dog is sitting on a chair with a toy . (p=0.000015)
+  1) a dog sitting on a chair with a toy in its mouth . (p=0.000014)
+  2) a dog is sitting on a chair in front of a laptop . (p=0.000009)
+Captions for image 1172836_611751772215901_954694032_n.jpg:
+  0) a woman is holding a pair of scissors . (p=0.000189)
+  1) a woman is holding a pair of scissors (p=0.000112)
+  2) a woman is holding a pair of scissors in her hand . (p=0.000066)

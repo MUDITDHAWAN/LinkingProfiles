@@ -1,0 +1,124 @@
+Captions for image 12917821_253282105013621_1489995674_n.jpg:
+  0) a birthday cake with a train on it (p=0.000092)
+  1) a birthday cake with a train on it . (p=0.000078)
+  2) a birthday cake with a train on top of it . (p=0.000017)
+Captions for image 12383687_989053027810502_391139625_a.jpg:
+  0) a stop sign with a sign on it (p=0.000010)
+  1) a sign that says `` <UNK> <UNK> '' on it . (p=0.000001)
+  2) a sign that says `` <UNK> '' on the side of it . (p=0.000001)
+Captions for image 17439126_1812032145786635_9191274363272298496_n.jpg:
+  0) a green parrot sitting on top of a tree branch . (p=0.000270)
+  1) a green parrot sitting on top of a banana . (p=0.000158)
+  2) a green parrot sitting on top of a banana tree . (p=0.000135)
+Captions for image 13437183_1192580814128252_1410547951_n.jpg:
+  0) a group of people sitting around a table . (p=0.013215)
+  1) a group of people sitting around a dinner table . (p=0.009667)
+  2) a group of people sitting at a table with food . (p=0.001383)
+Captions for image 12959920_767937656675136_46910782_n.jpg:
+  0) a collage of photos with a variety of items . (p=0.000005)
+  1) a collage of photos with a variety of items (p=0.000003)
+  2) a collage of photos with a variety of different items . (p=0.000001)
+Captions for image 12724710_1717500361795001_390439557_n.jpg:
+  0) a group of men standing next to each other . (p=0.003080)
+  1) a group of men sitting next to each other . (p=0.001851)
+  2) a group of people sitting around a table . (p=0.000592)
+Captions for image 47586044_473466516391712_6925032358831877639_n.jpg:
+  0) a blue and white kite flying in a blue sky . (p=0.000015)
+  1) a blue and white kite flying in the sky . (p=0.000013)
+  2) a blue and white kite flying in the sky (p=0.000010)
+Captions for image 60968962_472423550232966_7101157768430261915_n.jpg:
+  0) a group of people standing next to each other . (p=0.001162)
+  1) a group of men standing next to each other . (p=0.000615)
+  2) a group of people standing next to each other on a street . (p=0.000097)
+Captions for image 64785782_491390038282289_1480605218213151908_n.jpg:
+  0) a picture of a man holding a skateboard . (p=0.000084)
+  1) a picture of a person holding a skateboard . (p=0.000070)
+  2) a picture of a man holding a skateboard (p=0.000015)
+Captions for image 62009058_2081742725468572_2452100727072525782_n.jpg:
+  0) a collage of photos of a man holding a skateboard . (p=0.000020)
+  1) a collage of photos of a person holding a skateboard . (p=0.000011)
+  2) a collage of photos of a man holding a skateboard (p=0.000011)
+Captions for image 43985536_308930566371061_348582532196893855_n.jpg:
+  0) a statue of a man holding a skateboard . (p=0.000008)
+  1) a painting of a man on a horse (p=0.000003)
+  2) a painting of a man on a horse in front of a building . (p=0.000000)
+Captions for image 18722274_1695925134044490_6502815377905418240_n.jpg:
+  0) a collage of photos with a variety of items (p=0.000004)
+  1) a collage of photos with a variety of items . (p=0.000004)
+  2) a collage of photos with a variety of different items . (p=0.000003)
+Captions for image 17437874_416101048755328_3767048659212959744_n.jpg:
+  0) a couple of kids standing next to each other . (p=0.000756)
+  1) a group of young children standing next to each other . (p=0.000482)
+  2) a couple of kids standing next to each other holding a teddy bear . (p=0.000018)
+Captions for image 14624649_1111834308934064_1866254197389787136_n.jpg:
+  0) a birthday cake with candles on top of it . (p=0.000796)
+  1) a birthday cake with lit candles on top of it . (p=0.000719)
+  2) a birthday cake with lit candles on it (p=0.000679)
+Captions for image 61079380_475917213145597_7373804027124278867_n.jpg:
+  0) a group of people sitting around a living room . (p=0.001474)
+  1) a group of people sitting in a room . (p=0.000677)
+  2) a group of people sitting around a living room together . (p=0.000466)
+Captions for image 17439140_1794001360918620_5097948647878819840_n.jpg:
+  0) a birthday cake with a train on it (p=0.000029)
+  1) a birthday cake with a train on it . (p=0.000019)
+  2) a teddy bear is sitting on the ground next to a teddy bear . (p=0.000000)
+Captions for image 17438035_638212306372379_6728072668685271040_n.jpg:
+  0) a little girl is holding a teddy bear . (p=0.000505)
+  1) a little girl is holding a teddy bear (p=0.000184)
+  2) a little girl holding a teddy bear in a room . (p=0.000063)
+Captions for image 15624593_1083186578493156_1383126752330514432_n.jpg:
+  0) a black and white photo of a person holding a kite (p=0.000015)
+  1) a black and white photo of a tree and a tree (p=0.000007)
+  2) a black and white photo of a person holding a kite . (p=0.000007)
+Captions for image 15251831_379312635746206_5500297941467791360_n.jpg:
+  0) a group of people standing next to each other . (p=0.001645)
+  1) a group of people standing around a table . (p=0.000863)
+  2) a group of people standing next to each other in a room . (p=0.000193)
+Captions for image 60300524_2323801817939330_1795055886214754429_n.jpg:
+  0) a group of people sitting around a table . (p=0.000317)
+  1) a group of people sitting at a table with laptops . (p=0.000051)
+  2) a group of people sitting at a table with a laptop . (p=0.000013)
+Captions for image 13627986_901973456579601_1642272650_n.jpg:
+  0) a bunch of green bananas hanging from a tree . (p=0.001496)
+  1) a bunch of green bananas hanging from a tree (p=0.000367)
+  2) a tree with a bunch of green leaves on it (p=0.000112)
+Captions for image 13561688_255140008199611_303521521_n.jpg:
+  0) a close up of a tree with a bird on it (p=0.000012)
+  1) a close up of a tree with a bunch of flowers in it (p=0.000006)
+  2) a close up of a tree with a bunch of birds on it (p=0.000005)
+Captions for image 16122797_295122647557563_6458203917674086400_n.jpg:
+  0) a birthday cake that has been decorated with flowers . (p=0.000004)
+  1) a birthday cake that has been decorated with stars . (p=0.000002)
+  2) a birthday cake that has been decorated with flowers (p=0.000001)
+Captions for image 12965748_1382908411734862_2120514953_n.jpg:
+  0) a close up of a stop sign with a sign on it (p=0.000016)
+  1) a close up of a sign that says <UNK> (p=0.000016)
+  2) a close up of a stop sign with a sticker on it (p=0.000015)
+Captions for image 13423641_1025474470881074_990355361_n.jpg:
+  0) a statue of a bear sitting on top of a rock . (p=0.000076)
+  1) a statue of a bear sitting on a rock . (p=0.000061)
+  2) a statue of a bear sitting on top of a stone wall . (p=0.000049)
+Captions for image 13437260_260458364322935_1912314518_n.jpg:
+  0) a woman laying in bed with a teddy bear . (p=0.000117)
+  1) a woman laying in a bed with a teddy bear . (p=0.000071)
+  2) a woman laying in a bed with a stuffed animal . (p=0.000048)
+Captions for image 13166810_1623602181295370_2054924207_n.jpg:
+  0) a close up of a vase with a flower in it (p=0.000733)
+  1) a close up of a vase with flowers in it (p=0.000592)
+  2) a close up of a vase on a table (p=0.000255)
+Captions for image 13259630_598168813685502_1729627317_n.jpg:
+  0) a large jetliner flying over a large body of water . (p=0.000966)
+  1) a large jetliner flying over a tall building . (p=0.000313)
+  2) a large jetliner flying over a large city . (p=0.000246)
+Captions for image 12976567_1592895754335813_1763835006_n.jpg:
+  0) a man sitting in front of a laptop computer . (p=0.001079)
+  1) a man sitting at a desk with a laptop . (p=0.000274)
+  2) a man sitting at a desk with a laptop computer . (p=0.000148)
+Captions for image 13437362_1642908586033559_1493148866_n.jpg:
+  0) a group of people standing around a table filled with bananas . (p=0.000017)
+  1) a group of people that are sitting in front of a store . (p=0.000012)
+  2) a group of people standing around a table filled with fruit . (p=0.000011)
+Captions for image 12501868_1059418264120687_1563324277_n.jpg:
+  0) a collage of pictures of a person holding a sign . (p=0.000003)
+  1) a collage of pictures of a person holding a sign (p=0.000002)
+  2) a collage of pictures of a man holding a sign . (p=0.000002)

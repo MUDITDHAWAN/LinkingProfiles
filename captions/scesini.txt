@@ -1,0 +1,44 @@
+Captions for image 11230312_339142202961869_2106068259_n.jpg:
+  0) a bunch of umbrellas hanging from a ceiling . (p=0.000197)
+  1) a bunch of umbrellas that are hanging from a ceiling . (p=0.000072)
+  2) a bunch of umbrellas hanging from a ceiling (p=0.000058)
+Captions for image 11208333_1571315506452315_878147249_n.jpg:
+  0) a tall building with a clock on it . (p=0.000420)
+  1) a tall building with a clock on it (p=0.000299)
+  2) a large building with a clock on it . (p=0.000291)
+Captions for image 1389114_648675595172935_1321963428_n.jpg:
+  0) a view of a mountain range with a plane flying in the sky . (p=0.000003)
+  1) a view of a snow capped mountain with a plane in the sky . (p=0.000001)
+  2) a view of a snow capped mountain with a plane flying in the sky . (p=0.000001)
+Captions for image 924194_593961680669609_1537274636_n.jpg:
+  0) a book with a sticker on it sitting on a table . (p=0.000003)
+  1) a book with a sticker on it on a table . (p=0.000003)
+  2) a book with a sticker on it on a table (p=0.000002)
+Captions for image 11809982_900329463369207_257382447_a.jpg:
+  0) a man wearing a hat and a tie . (p=0.000049)
+  1) a man wearing a hat and glasses is smiling . (p=0.000016)
+  2) a man wearing a hat and glasses is smiling (p=0.000005)
+Captions for image 10576187_306580002851238_803344541_n.jpg:
+  0) a close up of a black and white clock (p=0.000025)
+  1) a close up of a black and white picture (p=0.000003)
+  2) a close up of a black and white photo (p=0.000002)
+Captions for image 10608069_333398883493760_470342055_n.jpg:
+  0) a man in a suit and tie posing for a picture . (p=0.000134)
+  1) a man in a suit and tie is smiling . (p=0.000119)
+  2) a man in a suit and tie posing for the camera . (p=0.000057)
+Captions for image 1389013_240620706093725_138493542_n.jpg:
+  0) a hand holding a piece of chocolate cake . (p=0.000318)
+  1) a person holding a piece of food in their hand . (p=0.000146)
+  2) a person holding a piece of food in their hands . (p=0.000122)
+Captions for image 11205630_1595556100726094_2032146068_n.jpg:
+  0) a teddy bear with a red bow on it 's head . (p=0.000029)
+  1) a teddy bear with a bow tie sitting on a bed . (p=0.000008)
+  2) a teddy bear with a red bow on it (p=0.000003)
+Captions for image 11254356_987780534588763_419511030_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.004121)
+  1) a train traveling over a bridge over water . (p=0.001064)
+  2) a train on a bridge over a body of water (p=0.000879)
+Captions for image 11208313_1583331051945212_1561549917_n.jpg:
+  0) a large building with a clock on the side of it . (p=0.000042)
+  1) a large building with a clock on the front of it . (p=0.000021)
+  2) a large building with a clock on the side of it (p=0.000015)

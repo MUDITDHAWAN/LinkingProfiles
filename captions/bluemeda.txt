@@ -1,0 +1,24 @@
+Captions for image 42316051_408049310017678_5266749515969575103_n.jpg:
+  0) a train that is sitting on the tracks . (p=0.003265)
+  1) a train that is sitting on a train track . (p=0.000916)
+  2) a train that is sitting on a track . (p=0.000775)
+Captions for image 60222002_435336617245237_6392586549122083793_n.jpg:
+  0) a fire hydrant is spraying water onto a street . (p=0.000720)
+  1) a fire hydrant is spraying water onto the street . (p=0.000399)
+  2) a fire hydrant is spraying water on a street . (p=0.000299)
+Captions for image 64869929_1768315773313902_4195061053099003856_n.jpg:
+  0) a man in a field with a frisbee (p=0.000259)
+  1) a man in a field with a frisbee . (p=0.000154)
+  2) a man in a park with a frisbee in his hand . (p=0.000066)
+Captions for image 22708896_1927744867551736_1596561106246041600_n.jpg:
+  0) a red fire hydrant sitting in the middle of a field . (p=0.000111)
+  1) a red fire hydrant sitting in the middle of a lush green field . (p=0.000077)
+  2) a red fire hydrant sitting in the middle of a forest . (p=0.000062)
+Captions for image 44770307_362698944499192_8188180237280870400_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000118)
+  1) a man wearing a hat and a tie . (p=0.000053)
+  2) a man wearing a tie and a hat (p=0.000030)
+Captions for image 51010846_998637273593760_3042349790429075770_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.011264)
+  1) a laptop computer sitting on top of a wooden desk . (p=0.005734)
+  2) a laptop computer sitting on top of a table . (p=0.005322)

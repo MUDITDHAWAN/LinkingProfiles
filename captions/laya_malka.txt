@@ -1,0 +1,944 @@
+Captions for image 14723741_213608175729103_66198322343313408_n.jpg:
+  0) a woman sitting on a couch with a dog . (p=0.001063)
+  1) a woman is sitting on a couch with a dog . (p=0.000711)
+  2) a woman sitting on a couch with a dog and a cat . (p=0.000227)
+Captions for image 11324525_1673828592840861_1730409673_a.jpg:
+  0) a woman wearing a tie and a sweater . (p=0.000081)
+  1) a woman in a black shirt and a tie (p=0.000028)
+  2) a woman in a black shirt and a black tie (p=0.000024)
+Captions for image 28428732_362113894256503_7668434906078248960_n.jpg:
+  0) a close up of a pair of scissors (p=0.001630)
+  1) a close up of a pair of scissors on a table (p=0.000405)
+  2) a pair of scissors sitting on top of a table . (p=0.000205)
+Captions for image 57556944_122178872308723_1631928723465004560_n.jpg:
+  0) a cat laying on top of a blanket on a bed . (p=0.000349)
+  1) a cat laying on top of a blanket on top of a bed . (p=0.000095)
+  2) a cat laying on top of a bed next to a cat . (p=0.000067)
+Captions for image 53809431_307487356558559_5806078412335309899_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000106)
+  1) a pair of scissors sitting on top of a table (p=0.000016)
+  2) a pair of scissors sitting on a table next to a book . (p=0.000001)
+Captions for image 23100996_1025516544258089_1102938650900955136_n.jpg:
+  0) a dog laying on a couch in a living room . (p=0.000654)
+  1) a dog laying on a couch in a living room (p=0.000489)
+  2) a dog laying on a couch next to a remote control . (p=0.000412)
+Captions for image 58749563_354443818587069_4093415499211055458_n.jpg:
+  0) a birthday cake with a train on it (p=0.000042)
+  1) a birthday cake with a train on it . (p=0.000031)
+  2) a birthday cake with a number of people on it (p=0.000004)
+Captions for image 64585151_2228222467273308_1329596566359730552_n.jpg:
+  0) a man and woman pose for a picture . (p=0.000979)
+  1) a man and woman pose for a picture (p=0.000420)
+  2) a man and a woman sitting on a bus . (p=0.000241)
+Captions for image 64865776_679861092457825_7639253261949532813_n.jpg:
+  0) a woman laying on a bed with a dog . (p=0.000203)
+  1) a woman laying on a bed with a cat . (p=0.000080)
+  2) a woman laying on a bed with a white blanket . (p=0.000041)
+Captions for image 61477786_2380461542243127_1997458439753657473_n.jpg:
+  0) a dog laying on a bed with a blanket . (p=0.000405)
+  1) a dog laying on a bed with a blanket (p=0.000305)
+  2) a dog laying on a bed next to a pillow . (p=0.000217)
+Captions for image 66348100_159639375085730_8996582251355380017_n.jpg:
+  0) a woman is feeding a cow a carrot . (p=0.000095)
+  1) a man is feeding a cow a carrot . (p=0.000089)
+  2) a man is feeding a cow a carrot (p=0.000062)
+Captions for image 65117508_691143901338297_8736180158264318112_n.jpg:
+  0) a dog laying on a bed with a stuffed animal (p=0.000238)
+  1) a dog laying on a bed with a stuffed animal . (p=0.000179)
+  2) a dog laying on top of a bed next to pillows . (p=0.000102)
+Captions for image 64227987_639749603172244_9147191595409488070_n.jpg:
+  0) a stop sign that has a sign on it . (p=0.000035)
+  1) a stop sign with a sign on it (p=0.000034)
+  2) a stop sign with a sign on it . (p=0.000030)
+Captions for image 62392379_2382830775376639_6332768763886235432_n.jpg:
+  0) a woman and a man are posing for a picture . (p=0.000061)
+  1) a woman and a man are posing for a picture (p=0.000022)
+  2) a woman and a man are sitting on a couch . (p=0.000017)
+Captions for image 61939212_364876477482921_9182483398773291132_n.jpg:
+  0) a little girl sitting on a wooden bench . (p=0.006643)
+  1) a little boy sitting on a wooden bench . (p=0.002306)
+  2) a little girl sitting on a wooden bench (p=0.002114)
+Captions for image 65043065_636340730206542_4290524523487567141_n.jpg:
+  0) a small child holding a stuffed animal in a room . (p=0.000004)
+  1) a small child holding a stuffed animal in a room (p=0.000002)
+  2) a small child holding a stuffed animal on a stick (p=0.000002)
+Captions for image 62474363_336554193683212_2298381595353460222_n.jpg:
+  0) a man sitting in a car with a dog in his lap . (p=0.000053)
+  1) a man sitting in a car with a dog on his lap . (p=0.000023)
+  2) a man sitting in a car with a dog in his lap (p=0.000014)
+Captions for image 61668645_589984128161911_2821690411923476822_n.jpg:
+  0) a man and a woman pose for a picture . (p=0.000373)
+  1) a man and a woman pose for a picture (p=0.000152)
+  2) a man and a woman are posing for a picture . (p=0.000104)
+Captions for image 59726678_810226076031018_6073902727020122494_n.jpg:
+  0) a baseball player holding a bat on a field . (p=0.000313)
+  1) a baseball player holding a bat in his hand . (p=0.000288)
+  2) a baseball player holding a bat in his hands . (p=0.000216)
+Captions for image 60969810_201940724116750_383209893894411886_n.jpg:
+  0) a dog laying on the floor next to a stuffed animal . (p=0.000010)
+  1) a dog laying on the floor next to a stuffed animal (p=0.000007)
+  2) a dog laying on the floor with a stuffed animal . (p=0.000007)
+Captions for image 61704168_146051056550999_1829000792475498936_n.jpg:
+  0) a man and a woman riding on the back of a motorcycle . (p=0.000373)
+  1) a man and a woman on a motorcycle . (p=0.000244)
+  2) a man and a woman riding on a motorcycle . (p=0.000155)
+Captions for image 60651420_2322011194554649_1740791703087786810_n.jpg:
+  0) a close up of a pair of scissors (p=0.000377)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000053)
+  2) a close up of a pair of scissors on a box (p=0.000041)
+Captions for image 60612940_496277250909874_1281112631817255110_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.003151)
+  1) a white plate topped with meat and veggies . (p=0.001773)
+  2) a white plate topped with meat , potatoes and broccoli . (p=0.000684)
+Captions for image 60031226_105001410667792_8319053608248774241_n.jpg:
+  0) a sheep standing next to a wooden fence . (p=0.000087)
+  1) a sheep standing next to a wooden fence (p=0.000013)
+  2) a sheep standing next to a fence in a barn . (p=0.000008)
+Captions for image 62612056_826214497763782_3135486033330137943_n.jpg:
+  0) two people are riding horses in a field . (p=0.000218)
+  1) two people riding horses in a field (p=0.000161)
+  2) two people are riding horses in the grass . (p=0.000094)
+Captions for image 60162544_418961745352832_6149565764501198943_n.jpg:
+  0) a black and white photo of a person holding a pair of scissors . (p=0.000008)
+  1) a black and white photo of a sign on a wall . (p=0.000007)
+  2) a black and white photo of a person holding a pair of scissors (p=0.000006)
+Captions for image 60228801_182811735969922_5654400097582683299_n.jpg:
+  0) a man sitting on a couch with a dog on his lap . (p=0.000210)
+  1) a man sitting on a couch with a dog and a cat . (p=0.000148)
+  2) a man laying on a couch with a dog and a cat . (p=0.000089)
+Captions for image 58968151_432818720841615_7640696175854797637_n.jpg:
+  0) a street sign on the side of a road . (p=0.000236)
+  1) a street sign on the corner of a street (p=0.000218)
+  2) a street sign on the corner of a street . (p=0.000183)
+Captions for image 59834944_576552932835599_2779147670023541793_n.jpg:
+  0) a collage of photos of a person holding a pair of scissors (p=0.000007)
+  1) a collage of photos of a person holding a snowboard . (p=0.000004)
+  2) a collage of photos of a person holding a snowboard (p=0.000004)
+Captions for image 60160367_823983214647578_6162357039911899307_n.jpg:
+  0) a young boy petting a sheep in a pen . (p=0.000046)
+  1) a young boy is petting a sheep in a pen . (p=0.000025)
+  2) a young boy petting a sheep in a pen (p=0.000011)
+Captions for image 61021521_334719453874410_1889932848298702809_n.jpg:
+  0) a group of people riding on the backs of horses . (p=0.004048)
+  1) a group of people riding on the backs of brown horses . (p=0.001961)
+  2) a group of men riding on the backs of horses . (p=0.001684)
+Captions for image 47583429_368778083679123_961825507252067850_n.jpg:
+  0) a table topped with a cup and a vase . (p=0.000005)
+  1) a table topped with a cup and a cup . (p=0.000005)
+  2) a table with a cup and a vase with flowers (p=0.000001)
+Captions for image 60183108_449547592471182_8096494929520590812_n.jpg:
+  0) a stop sign with a sticker on it . (p=0.000028)
+  1) a stop sign with a sticker on it (p=0.000024)
+  2) a sign that says `` <UNK> '' on a wall . (p=0.000002)
+Captions for image 59482104_311252839814133_8364430810321541801_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.001355)
+  1) a person holding a cell phone in their hand . (p=0.000691)
+  2) a person holding a pair of scissors in their hand . (p=0.000378)
+Captions for image 57426300_2286397741601320_4009983429718854948_n.jpg:
+  0) a person laying on a bed with a laptop . (p=0.000510)
+  1) a person laying on a bed with a laptop (p=0.000422)
+  2) a woman laying on a bed with a laptop . (p=0.000322)
+Captions for image 58410596_358617774779480_2127986125529556197_n.jpg:
+  0) a woman sitting on a couch next to a cat . (p=0.000610)
+  1) a woman sitting on a couch next to a dog . (p=0.000509)
+  2) a woman sitting on a couch with a cat on her lap . (p=0.000263)
+Captions for image 58454094_678249335938514_4401358902010435244_n.jpg:
+  0) a man standing next to a pile of luggage . (p=0.000596)
+  1) a man standing in front of a pile of luggage . (p=0.000506)
+  2) a man standing next to a pile of luggage on a street . (p=0.000039)
+Captions for image 58468380_290856418505626_1181063508005430018_n.jpg:
+  0) a man and a woman posing for a picture . (p=0.001287)
+  1) a man and a woman posing for a picture (p=0.000448)
+  2) a man and a woman are posing for a picture . (p=0.000323)
+Captions for image 61281894_126006861938007_7604466957832471534_n.jpg:
+  0) a small brown bear walking through a lush green field . (p=0.000215)
+  1) a small brown bear standing in the grass . (p=0.000198)
+  2) a small brown bear standing in a field . (p=0.000107)
+Captions for image 10891101_896956517015809_841327981_n.jpg:
+  0) a young boy is playing a video game . (p=0.001439)
+  1) a young girl is playing a video game . (p=0.001363)
+  2) a young girl is playing a video game (p=0.000702)
+Captions for image 57062191_651443045317196_5243056020428914548_n.jpg:
+  0) a black and white horse standing in a field . (p=0.002428)
+  1) a black and white horse grazing in a field . (p=0.001202)
+  2) a black and white horse standing in a grassy field . (p=0.000871)
+Captions for image 58453812_2423743007912218_4208068778157651714_n.jpg:
+  0) a pair of shoes sitting on top of a skateboard . (p=0.000367)
+  1) a pair of shoes sitting on a skateboard . (p=0.000206)
+  2) a pair of shoes sitting on top of a bed . (p=0.000107)
+Captions for image 57488088_169173314036436_1048498024829380837_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000535)
+  1) a couple of people that are standing near a fence (p=0.000119)
+  2) a couple of people that are standing in the dirt (p=0.000039)
+Captions for image 54511867_740210979784556_6452627721649163147_n.jpg:
+  0) a man riding on the back of a brown horse . (p=0.013356)
+  1) a person riding a horse in a field (p=0.001967)
+  2) a man riding on the back of a white horse . (p=0.001871)
+Captions for image 56664973_384481089060900_7471128865904578521_n.jpg:
+  0) a man riding on the back of a brown horse . (p=0.005783)
+  1) a man riding on the back of a horse . (p=0.001548)
+  2) a man riding on the back of a black horse . (p=0.000718)
+Captions for image 56442082_427475888016529_8464193230006946298_n.jpg:
+  0) a fire hydrant sitting on the side of a road . (p=0.002525)
+  1) a fire hydrant on the side of a street . (p=0.000962)
+  2) a fire hydrant sitting on the side of a street . (p=0.000918)
+Captions for image 56956628_656164018138846_4896951344471717898_n.jpg:
+  0) a brown and white horse standing in a field . (p=0.000762)
+  1) a black and white horse standing in a field . (p=0.000664)
+  2) a black and white horse standing in a field (p=0.000224)
+Captions for image 55879619_2482098635136479_4555512629840770562_n.jpg:
+  0) a woman riding on the back of a brown horse . (p=0.013312)
+  1) a woman riding on the back of a white horse . (p=0.001897)
+  2) a person riding a horse in a field (p=0.001004)
+Captions for image 26864401_1816688981966292_8014016946901090304_n.jpg:
+  0) a dog laying on a bed with a person (p=0.000093)
+  1) a dog laying on top of a bed next to a person . (p=0.000059)
+  2) a dog laying on top of a bed next to a man . (p=0.000032)
+Captions for image 54266510_1999165566875750_8057891015124638869_n.jpg:
+  0) a woman is standing next to a train . (p=0.000157)
+  1) a woman is standing in front of a train . (p=0.000110)
+  2) a woman is standing next to a train (p=0.000099)
+Captions for image 56811551_2223645047720290_4493150213642546349_n.jpg:
+  0) a person is holding a skateboard in their hands . (p=0.000077)
+  1) a person is holding a skateboard in their hand . (p=0.000043)
+  2) a person is holding a skateboard in their hands (p=0.000018)
+Captions for image 55822338_154880475533076_260820521428086445_n.jpg:
+  0) a close up of a person holding a hot dog (p=0.000474)
+  1) a close up of a person holding a banana (p=0.000308)
+  2) a close up of a person holding a baseball bat (p=0.000212)
+Captions for image 54732047_143278393384789_9049532846584436281_n.jpg:
+  0) a man standing next to a brown horse . (p=0.001244)
+  1) a man standing next to a horse in a stable . (p=0.000438)
+  2) a man standing next to a horse in a barn . (p=0.000294)
+Captions for image 54511736_2144272495654752_7661504649550441965_n.jpg:
+  0) a woman is riding a horse in a field . (p=0.001131)
+  1) a woman riding a horse in a field . (p=0.000995)
+  2) a woman is riding a horse in a field (p=0.000676)
+Captions for image 54463872_539933629864104_5647774401105036444_n.jpg:
+  0) a piece of chocolate cake on a plate . (p=0.000657)
+  1) a piece of cake on a plate with a fork . (p=0.000503)
+  2) a piece of chocolate cake on a white plate . (p=0.000466)
+Captions for image 52740147_2379812692237674_5006223034373933494_n.jpg:
+  0) a woman petting a horse in a stable . (p=0.000454)
+  1) a woman petting a horse in a stable (p=0.000234)
+  2) a woman is petting a horse in a stable . (p=0.000204)
+Captions for image 53209961_536554713500999_3835278250621227423_n.jpg:
+  0) a man in a car taking a picture of himself . (p=0.000098)
+  1) a man sitting in a car holding a cell phone . (p=0.000089)
+  2) a man in a car taking a picture of himself in a mirror . (p=0.000079)
+Captions for image 54511554_409835486244195_5249299798583360541_n.jpg:
+  0) a close up of a tooth brush in a cup (p=0.000100)
+  1) a close up of a tooth brush on a table (p=0.000052)
+  2) a close up of a tooth brush in a glass (p=0.000040)
+Captions for image 50540677_311275129737940_6573199465725114161_n.jpg:
+  0) a woman holding a cell phone up to her ear . (p=0.000374)
+  1) a woman holding a cell phone in her hand . (p=0.000359)
+  2) a woman holding a cell phone up to her face . (p=0.000176)
+Captions for image 51978537_147292706270860_1795173209923857942_n.jpg:
+  0) a dog laying on a couch next to a remote control . (p=0.000237)
+  1) a dog laying on a couch with a stuffed animal (p=0.000232)
+  2) a dog laying on a couch with a stuffed animal . (p=0.000210)
+Captions for image 52961925_394661304417415_6440218521774943939_n.jpg:
+  0) a horse that is standing in the dirt . (p=0.000281)
+  1) a horse that is standing in a stable . (p=0.000059)
+  2) a horse that is standing in a barn . (p=0.000056)
+Captions for image 51162359_1002924373245577_6991960756617103552_n.jpg:
+  0) a dog laying on a bed with a blanket . (p=0.000437)
+  1) a dog laying on top of a bed next to pillows . (p=0.000417)
+  2) a dog laying on top of a bed next to a pillow . (p=0.000276)
+Captions for image 49702536_115907196148348_3464729099985123894_n.jpg:
+  0) a close up of a luggage bag on the ground (p=0.000075)
+  1) a close up of a luggage bag on a table (p=0.000071)
+  2) a close up of a luggage bag on a bed (p=0.000062)
+Captions for image 50682056_336526220296028_6288735224345097160_n.jpg:
+  0) a woman is holding a cell phone in her hand . (p=0.000088)
+  1) a woman is holding a cell phone to her ear . (p=0.000066)
+  2) a woman is holding a cell phone in her hand (p=0.000040)
+Captions for image 53354684_1007413022791492_3857346526804546463_n.jpg:
+  0) a man is petting a horse in a stable . (p=0.000144)
+  1) a woman is petting a horse in a stable . (p=0.000124)
+  2) a man is petting a horse in a stable (p=0.000121)
+Captions for image 50012314_376338713099268_3179026920415924122_n.jpg:
+  0) a little girl sitting on a bed with a laptop . (p=0.000268)
+  1) a little girl sitting on a bed with a book . (p=0.000249)
+  2) a little girl sitting on top of a bed with a book . (p=0.000106)
+Captions for image 49426801_109915760120437_5021192504726523128_n.jpg:
+  0) a man riding a skateboard down a street . (p=0.004852)
+  1) a person riding a skate board on a street (p=0.001810)
+  2) a person riding a skate board on a city street (p=0.001749)
+Captions for image 50310342_797946587232759_8090433402186441263_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000073)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000068)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000051)
+Captions for image 50517939_788131604878160_8824943085042041284_n.jpg:
+  0) a woman in a white shirt and a tie (p=0.000007)
+  1) a woman in a blue shirt and a red tie (p=0.000006)
+  2) a woman in a blue shirt and a red tie . (p=0.000004)
+Captions for image 53416990_312342619481309_5568694280845481885_n.jpg:
+  0) a horse that is standing in the dirt . (p=0.000452)
+  1) a horse that is standing in a stable . (p=0.000077)
+  2) a horse that is standing in a barn . (p=0.000049)
+Captions for image 49906736_2144564095565474_639559746049570661_n.jpg:
+  0) a close up of a blender on a table (p=0.001061)
+  1) a close up of a blender on a counter (p=0.000545)
+  2) a blender filled with liquid on a counter . (p=0.000543)
+Captions for image 49452308_235245597400566_179263060215376682_n.jpg:
+  0) a laptop computer sitting on top of a wooden desk . (p=0.001981)
+  1) a laptop computer sitting on top of a desk . (p=0.001645)
+  2) a laptop computer sitting on top of a table . (p=0.000907)
+Captions for image 47693645_367031357417683_6956557151463898412_n.jpg:
+  0) a teddy bear is sitting in the grass . (p=0.000024)
+  1) a teddy bear is sitting on a rock . (p=0.000018)
+  2) a teddy bear is sitting on a rock (p=0.000012)
+Captions for image 52514267_2038419072872435_1821083302905971370_n.jpg:
+  0) a woman wearing a tie and a hat . (p=0.000035)
+  1) a woman wearing a tie and a hat (p=0.000013)
+  2) a woman in a black shirt and a black tie (p=0.000007)
+Captions for image 53626489_2178258165624025_1182920255962833810_n.jpg:
+  0) a woman standing next to a brown horse . (p=0.001599)
+  1) a woman petting a horse in a stable . (p=0.000515)
+  2) a woman petting a horse in a stable (p=0.000255)
+Captions for image 47691367_371859663548632_2377864335655522299_n.jpg:
+  0) a dog is sitting on the floor next to a backpack . (p=0.000017)
+  1) a dog is sitting on the floor next to a suitcase . (p=0.000015)
+  2) a dog is sitting on the floor next to a bag . (p=0.000008)
+Captions for image 46877294_137222807275665_5308149874714707151_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.001683)
+  1) a table topped with plates of food and bowls of food . (p=0.000385)
+  2) a table topped with plates of food next to a bowl of soup . (p=0.000028)
+Captions for image 47694923_343808326205022_8350811113498896374_n.jpg:
+  0) a woman riding on the back of a brown horse . (p=0.019140)
+  1) a woman riding on the back of a white horse . (p=0.004127)
+  2) a woman riding on the back of a horse . (p=0.001085)
+Captions for image 50759150_477403689458993_7323777975257344641_n.jpg:
+  0) a woman is holding a cell phone to her ear . (p=0.000255)
+  1) a woman is holding a cell phone in her hand . (p=0.000206)
+  2) a woman is holding a cell phone to her ear (p=0.000136)
+Captions for image 54194869_659636411139756_1721622909126751429_n.jpg:
+  0) a woman is holding a large brown horse (p=0.000044)
+  1) a woman is holding a large brown horse . (p=0.000032)
+  2) a woman holding a small child in front of a horse . (p=0.000025)
+Captions for image 46126399_2283089078574366_8129971286049031753_n.jpg:
+  0) a man riding a skateboard down a street . (p=0.005315)
+  1) a person riding a skate board on a street (p=0.002081)
+  2) a person riding a skate board on a city street (p=0.002071)
+Captions for image 47585745_396782927733609_1240251974419602025_n.jpg:
+  0) a man riding on the back of a brown horse . (p=0.010650)
+  1) a man riding on the back of a white horse . (p=0.001641)
+  2) a man in a cowboy hat riding a horse . (p=0.000695)
+Captions for image 47581179_774331566246511_5437170336411653425_n.jpg:
+  0) a plate of food on a table (p=0.000415)
+  1) a plate of food that includes rice and vegetables . (p=0.000136)
+  2) a plate of food on a table with a fork (p=0.000026)
+Captions for image 34982636_157274315129836_4498764318828920832_n.jpg:
+  0) a man sitting on a couch holding a dog . (p=0.001074)
+  1) a man sitting on a couch with a dog . (p=0.000967)
+  2) a man sitting on a couch holding a dog (p=0.000174)
+Captions for image 46951007_293787094581960_2648680263375518910_n.jpg:
+  0) a dog laying on a couch with a stuffed animal (p=0.000253)
+  1) a dog laying on a bed with a stuffed animal (p=0.000218)
+  2) a dog laying on a couch with a stuffed animal . (p=0.000163)
+Captions for image 46621776_688231141570345_8972842932781039802_n.jpg:
+  0) a couple of women standing next to each other . (p=0.003727)
+  1) a couple of women standing next to each other in a room . (p=0.000195)
+  2) a couple of women standing next to each other in front of a mirror . (p=0.000105)
+Captions for image 47586156_752092948523297_2114103264812117184_n.jpg:
+  0) a woman brushing her teeth in a bathroom . (p=0.003103)
+  1) a woman brushing her teeth with a tooth brush . (p=0.000702)
+  2) a woman brushing her teeth in a bathroom (p=0.000560)
+Captions for image 46987102_1097053837140390_6414555307850765838_n.jpg:
+  0) a dog that is laying down on the floor . (p=0.001418)
+  1) a dog that is laying down on a rug . (p=0.000677)
+  2) a dog that is laying down on a carpet . (p=0.000538)
+Captions for image 45815633_311754706330862_7567990298161632128_n.jpg:
+  0) a man sitting in front of a plate of food . (p=0.000322)
+  1) a man sitting in front of a plate of food (p=0.000031)
+  2) a man sitting in front of a table with a cake . (p=0.000030)
+Captions for image 45868078_504617203376373_5694460080113772195_n.jpg:
+  0) a white and brown dog standing next to a white sheep . (p=0.000010)
+  1) a white and brown dog standing next to a white dog . (p=0.000009)
+  2) a white and brown dog standing next to a black and white dog . (p=0.000009)
+Captions for image 44847213_184657289129266_8187996509018903991_n.jpg:
+  0) a man standing next to a dog on a leash . (p=0.000514)
+  1) a man standing next to a brown dog on a leash . (p=0.000094)
+  2) a man standing next to a dog on top of a field . (p=0.000024)
+Captions for image 45306387_353156872124042_2523074946006150519_n.jpg:
+  0) a book is laying on top of a bed . (p=0.000097)
+  1) a book is laying on top of a bed (p=0.000087)
+  2) a book is laying on a bed with a book . (p=0.000021)
+Captions for image 43817792_165393834402985_4297994698606995921_n.jpg:
+  0) a white horse with a red ribbon around it 's neck . (p=0.000025)
+  1) a white horse with a red ribbon around its neck . (p=0.000020)
+  2) a brown horse with a white stripe on its head . (p=0.000010)
+Captions for image 43914387_482883045537271_3154716345428482420_n.jpg:
+  0) a black and white cow standing in a field . (p=0.002118)
+  1) a black and white cow standing on top of a lush green field . (p=0.000913)
+  2) a black and white cow standing on top of a grass covered field . (p=0.000834)
+Captions for image 43818084_143900556566821_6865272945740096586_n.jpg:
+  0) a group of people standing next to each other . (p=0.004966)
+  1) a group of people standing next to each other in a room . (p=0.000351)
+  2) a group of people standing next to each other in front of a building . (p=0.000343)
+Captions for image 44327328_739677773051674_7703045861830069803_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000731)
+  1) a close up of a pair of scissors (p=0.000617)
+  2) a close up of a pair of scissors on a table (p=0.000041)
+Captions for image 43090741_1769090563217988_5776335999653283899_n.jpg:
+  0) a woman riding on the back of a brown horse . (p=0.023001)
+  1) a woman riding on the back of a white horse . (p=0.004788)
+  2) a woman riding on the back of a horse . (p=0.001153)
+Captions for image 42003584_753542248333813_9021740958674327218_n.jpg:
+  0) a young boy is standing next to a horse . (p=0.000025)
+  1) a man is sitting on the ground next to a horse . (p=0.000013)
+  2) a man is sitting on the ground next to a horse (p=0.000008)
+Captions for image 42003240_125149895122259_7116587683400194115_n.jpg:
+  0) a stuffed animal is sitting on a table (p=0.000029)
+  1) a stuffed animal is sitting on a bed (p=0.000023)
+  2) a stuffed animal is sitting on a bed . (p=0.000023)
+Captions for image 44573111_200975384146530_3570525708303014980_n.jpg:
+  0) a close up of a pair of scissors (p=0.002223)
+  1) a close up of a pair of scissors on a table (p=0.000435)
+  2) a pair of scissors and a pair of scissors . (p=0.000114)
+Captions for image 43621822_286988895264352_2488757045505368653_n.jpg:
+  0) a man riding on the back of a brown horse . (p=0.013302)
+  1) a man riding on the back of a white horse . (p=0.002934)
+  2) a person riding a horse in a field (p=0.001708)
+Captions for image 40713479_1958336814204441_6283718761893540918_n.jpg:
+  0) a woman sitting on a couch with a cat on her lap . (p=0.000141)
+  1) a woman sitting on a couch with a cat and a dog . (p=0.000074)
+  2) a woman laying on a couch with a cat and a dog . (p=0.000046)
+Captions for image 41769212_1755288427902191_5084406184817532112_n.jpg:
+  0) a brown horse standing next to a brown horse . (p=0.001709)
+  1) a brown horse standing next to a wooden fence . (p=0.001557)
+  2) a brown horse standing next to a white horse . (p=0.001074)
+Captions for image 41696705_738093879916502_8359727740324499765_n.jpg:
+  0) a black and white dog laying on a bed . (p=0.001572)
+  1) a black and white dog laying on a couch . (p=0.000633)
+  2) a black and white dog laying on a bed (p=0.000368)
+Captions for image 40778983_1916333788669442_6449067270992778017_n.jpg:
+  0) a group of people standing around a table . (p=0.001015)
+  1) a group of people standing around a table with a cake . (p=0.000163)
+  2) a group of people standing around a table with food . (p=0.000151)
+Captions for image 42679403_793634220968337_1831945178700057801_n.jpg:
+  0) a woman riding on the back of a brown horse . (p=0.013189)
+  1) a woman riding on the back of a white horse . (p=0.001880)
+  2) a woman riding on the back of a horse . (p=0.000656)
+Captions for image 41299118_303608397106786_2587522519402196415_n.jpg:
+  0) a woman sitting on a couch holding a remote . (p=0.000244)
+  1) a woman sitting on a couch holding a remote control . (p=0.000199)
+  2) a woman sitting on a couch with a remote control . (p=0.000136)
+Captions for image 35256118_601883003524783_3693901784159354880_n.jpg:
+  0) a person laying on a bed with a laptop (p=0.000452)
+  1) a person laying on a bed with a book . (p=0.000431)
+  2) a person laying on a bed with a laptop . (p=0.000386)
+Captions for image 37086095_264331934349657_5756235424888520704_n.jpg:
+  0) a woman sitting on the ground next to a car . (p=0.000057)
+  1) a woman sitting on the ground with a suitcase . (p=0.000029)
+  2) a woman sitting on the ground next to a truck . (p=0.000023)
+Captions for image 32981563_2044775715762566_4183339236256120832_n.jpg:
+  0) a dog sitting on a couch in a living room . (p=0.000907)
+  1) a dog sitting on a couch in a living room (p=0.000478)
+  2) a dog sitting on a couch in a room . (p=0.000449)
+Captions for image 31909433_2009861342564653_6890324313946193920_n.jpg:
+  0) a table topped with lots of different types of food . (p=0.000013)
+  1) a table topped with lots of different types of drinks . (p=0.000006)
+  2) a bunch of different types of food on a table . (p=0.000006)
+Captions for image 33964336_169553767072870_4350472932187701248_n.jpg:
+  0) a man laying on a couch with a dog . (p=0.000322)
+  1) a man laying on a couch with a dog on his lap . (p=0.000144)
+  2) a man laying on a couch with a dog and a cat . (p=0.000072)
+Captions for image 32419729_1625267000861513_7076153749114191872_n.jpg:
+  0) a couple of horses standing in a field . (p=0.002086)
+  1) two horses are standing in a grassy field . (p=0.001378)
+  2) two horses are standing in a field of grass . (p=0.000565)
+Captions for image 31310755_1054849158002460_8187825125089869824_n.jpg:
+  0) a baby sheep is laying down in the grass . (p=0.000124)
+  1) a baby lamb is laying down in the grass . (p=0.000113)
+  2) a baby sheep is laying in the grass . (p=0.000084)
+Captions for image 31270209_2093205734272148_8161534719737987072_n.jpg:
+  0) a sheep is laying down in the grass . (p=0.000053)
+  1) a sheep is laying down in the grass (p=0.000015)
+  2) a baby sheep laying on the ground next to a fence . (p=0.000003)
+Captions for image 31108412_1996708537114493_7897668176933027840_n.jpg:
+  0) a group of people standing around a wooden bench . (p=0.000123)
+  1) a group of people on a street with a skateboard . (p=0.000025)
+  2) a group of people on a street with a building . (p=0.000012)
+Captions for image 30603150_2092391810984121_329467740140077056_n.jpg:
+  0) a man and woman pose for a picture . (p=0.000552)
+  1) a man and woman pose for a picture (p=0.000275)
+  2) a woman and a man are standing next to each other . (p=0.000054)
+Captions for image 29716793_559814827736692_6465732883674824704_n.jpg:
+  0) a man in a suit and tie standing on a sidewalk . (p=0.000243)
+  1) a man in a suit and tie standing on a street . (p=0.000114)
+  2) a man in a suit and tie standing in front of a building . (p=0.000072)
+Captions for image 29716882_424624594630687_1771807205125783552_n.jpg:
+  0) a man riding on the back of a brown horse . (p=0.014645)
+  1) a person riding a horse in a field (p=0.001343)
+  2) a man riding on the back of a brown horse in a field . (p=0.000864)
+Captions for image 29090258_209004399686372_2793321720000282624_n.jpg:
+  0) a close up of a horse in a stable (p=0.000533)
+  1) a brown horse standing next to a wooden fence . (p=0.000294)
+  2) a close up of a horse in a fence (p=0.000149)
+Captions for image 10632324_239070933103175_1492724142_n.jpg:
+  0) a woman laying in bed with two dogs . (p=0.001061)
+  1) a woman laying on a bed with a dog . (p=0.000887)
+  2) a woman laying in bed with two dogs (p=0.000119)
+Captions for image 20987025_1996479153972322_7210355224957943808_n.jpg:
+  0) a group of people standing on top of a lush green field . (p=0.001722)
+  1) a group of people standing in a field . (p=0.001499)
+  2) a group of people standing on top of a grass covered field . (p=0.001385)
+Captions for image 20838993_682693325264741_5289433622967746560_n.jpg:
+  0) a woman standing on a surfboard in the water . (p=0.001637)
+  1) a woman is standing on a surfboard in the water . (p=0.000879)
+  2) a woman standing on a surfboard in the water (p=0.000471)
+Captions for image 26277409_193537994724585_1266662860059049984_n.jpg:
+  0) a man and a dog are sitting on a couch . (p=0.000050)
+  1) a man and a dog are sitting on a couch (p=0.000031)
+  2) a man sitting on a couch with a dog on his lap . (p=0.000028)
+Captions for image 26267534_1897937660234170_6553665613141639168_n.jpg:
+  0) a man is sitting on a couch with a dog . (p=0.000303)
+  1) a man sitting on a couch with a dog on his lap . (p=0.000269)
+  2) a man is sitting on a couch with a dog (p=0.000178)
+Captions for image 26184395_142072406433456_1849455974704742400_n.jpg:
+  0) a black and white dog laying on top of a couch . (p=0.001305)
+  1) a black and white dog laying on a rug . (p=0.001005)
+  2) a black and white dog laying on top of a bed . (p=0.000859)
+Captions for image 33964075_1625045767593777_3581609984464519168_n.jpg:
+  0) a man sitting on a couch holding a dog . (p=0.000622)
+  1) a man sitting on a couch with a dog . (p=0.000575)
+  2) a man sitting on a couch holding a dog (p=0.000106)
+Captions for image 26865377_2070577393162451_6346812480563445760_n.jpg:
+  0) a man in a kitchen preparing food in a kitchen . (p=0.000101)
+  1) a man in a kitchen cutting a cake . (p=0.000100)
+  2) a man in a kitchen cutting a cake (p=0.000052)
+Captions for image 26866800_140179836673263_8239485605906481152_n.jpg:
+  0) a man standing in front of a refrigerator . (p=0.001184)
+  1) a man standing in front of a refrigerator in a kitchen . (p=0.000144)
+  2) a man standing in front of a refrigerator in a room . (p=0.000098)
+Captions for image 26158768_137367200288568_5126917764203675648_n.jpg:
+  0) a man sitting in front of a laptop computer . (p=0.006413)
+  1) a man sitting at a table with a laptop computer . (p=0.000718)
+  2) a man sitting in front of a laptop computer (p=0.000397)
+Captions for image 26071385_393979397700306_2312132469127643136_n.jpg:
+  0) a dog laying on a couch next to a remote control . (p=0.000146)
+  1) a dog laying on a couch next to a window . (p=0.000141)
+  2) a dog laying on a couch next to a window (p=0.000091)
+Captions for image 26066778_209592219615078_3594605958501761024_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000710)
+  1) a cup of coffee sitting next to a keyboard . (p=0.000625)
+  2) a cup of coffee sitting next to a computer keyboard . (p=0.000485)
+Captions for image 25023877_177602966166652_7780224813074743296_n.jpg:
+  0) a brown dog laying on top of a couch . (p=0.001103)
+  1) a brown dog laying on top of a bed . (p=0.000935)
+  2) a brown dog laying on top of a couch next to pillows . (p=0.000152)
+Captions for image 25036681_137393740277228_7555536012756123648_n.jpg:
+  0) a woman sitting on a couch with a dog . (p=0.001093)
+  1) a woman is sitting on a couch with a dog . (p=0.000766)
+  2) a woman sitting on a couch with a dog on her lap . (p=0.000442)
+Captions for image 27573428_149092372463583_2511475095474536448_n.jpg:
+  0) a man playing a video game with a dog . (p=0.000125)
+  1) a man is playing a video game on a television . (p=0.000049)
+  2) a man playing a video game with a dog (p=0.000048)
+Captions for image 13774588_1768846090060047_1047542309_n.jpg:
+  0) a black and white dog laying on top of a bed . (p=0.000515)
+  1) a black and white dog laying on a bed . (p=0.000371)
+  2) a black and white dog laying on top of a couch . (p=0.000198)
+Captions for image 22157900_1466380326774898_1599241681234821120_n.jpg:
+  0) a teddy bear is laying on a bed . (p=0.000212)
+  1) a teddy bear is laying on a bed (p=0.000104)
+  2) a teddy bear laying on a bed with a blanket . (p=0.000028)
+Captions for image 21827177_1726756537626408_1864942913809547264_n.jpg:
+  0) a woman brushing her teeth in front of a mirror . (p=0.000899)
+  1) a woman brushing her teeth in a bathroom . (p=0.000808)
+  2) a woman brushing her teeth with a tooth brush . (p=0.000236)
+Captions for image 21576437_795470477302180_4754394699203084288_n.jpg:
+  0) a teddy bear sitting on top of a motorcycle . (p=0.000098)
+  1) a teddy bear sitting on top of a bike . (p=0.000057)
+  2) a teddy bear sitting on top of a red motorcycle . (p=0.000023)
+Captions for image 10832159_1583275405224336_712599248_n.jpg:
+  0) a teddy bear sitting on top of a book . (p=0.000456)
+  1) a teddy bear sitting on top of a table . (p=0.000319)
+  2) a teddy bear sitting on a table next to a book . (p=0.000041)
+Captions for image 26866391_2045472702391403_8979811322036224000_n.jpg:
+  0) a cat sitting on top of a tv in a living room . (p=0.000546)
+  1) a cat sitting on top of a tv in a room . (p=0.000206)
+  2) a cat sitting on top of a tv in a living room (p=0.000068)
+Captions for image 20837373_1885389745122230_5070440919946231808_n.jpg:
+  0) a woman is standing on a surfboard in the water . (p=0.000330)
+  1) a woman standing on a beach holding a surfboard . (p=0.000319)
+  2) a woman in a bikini standing on a beach . (p=0.000195)
+Captions for image 20902842_1722688158040499_156495555860627456_n.jpg:
+  0) a woman sitting at a table with a cell phone . (p=0.001627)
+  1) a woman is sitting at a table with a cell phone . (p=0.000350)
+  2) a woman sitting at a table with a cell phone in her hand . (p=0.000315)
+Captions for image 20968624_478799709161705_6771504155371503616_n.jpg:
+  0) a group of people standing on top of a lush green field . (p=0.000371)
+  1) a group of people standing on top of a dirt field . (p=0.000231)
+  2) a group of people standing on top of a grass covered field . (p=0.000192)
+Captions for image 20766942_705059073029999_2742634895384772608_n.jpg:
+  0) a woman sitting on a bench with a laptop . (p=0.000441)
+  1) a woman is sitting on a bench with a laptop . (p=0.000120)
+  2) a woman sitting on a bench with a laptop on her lap . (p=0.000091)
+Captions for image 20837614_525699791108366_2669187797822210048_n.jpg:
+  0) a large body of water with trees in the background (p=0.000146)
+  1) a large body of water next to a river . (p=0.000135)
+  2) a large body of water next to a forest . (p=0.000092)
+Captions for image 26872077_1996276587307311_5631972254259609600_n.jpg:
+  0) a dog sitting on a chair in front of a tv . (p=0.000249)
+  1) a dog sitting on a chair in front of a television . (p=0.000192)
+  2) a dog is sitting on the floor in front of a television . (p=0.000108)
+Captions for image 20837657_109065116452817_544370272791166976_n.jpg:
+  0) a group of people sitting on top of a beach . (p=0.001428)
+  1) a group of people sitting on top of a sandy beach . (p=0.000539)
+  2) a group of people sitting on a beach next to a boat . (p=0.000070)
+Captions for image 20968686_1520719207949423_8284712453346951168_n.jpg:
+  0) a group of people standing on top of a river . (p=0.000130)
+  1) a group of people standing on top of a lush green field . (p=0.000087)
+  2) a group of people standing on top of a wooden bench . (p=0.000072)
+Captions for image 20688512_110070106367713_8924738051616276480_n.jpg:
+  0) a group of people sitting on a bus . (p=0.000458)
+  1) a group of people sitting on a train . (p=0.000305)
+  2) a group of people sitting on top of a train . (p=0.000144)
+Captions for image 20902381_109895209704727_7441550973744447488_n.jpg:
+  0) a man standing on a rock in the woods . (p=0.000066)
+  1) a man standing on a rock in a forest . (p=0.000046)
+  2) a man is standing on a rock in the woods . (p=0.000038)
+Captions for image 20838314_1944617545794100_1075890321260281856_n.jpg:
+  0) a man is standing on a rock in the woods . (p=0.000020)
+  1) a man is standing on a rock in the woods (p=0.000008)
+  2) a man and a woman are standing in the woods . (p=0.000008)
+Captions for image 20394455_1127862394011139_3454235170159198208_n.jpg:
+  0) a dog laying on a couch next to a remote control . (p=0.000175)
+  1) a dog laying on a couch with a stuffed animal (p=0.000173)
+  2) a dog laying on a couch with a stuffed animal . (p=0.000148)
+Captions for image 26869189_161516621068115_5807177439280889856_n.jpg:
+  0) a dog sitting in front of a flat screen tv . (p=0.000355)
+  1) a dog sitting in front of a tv in a living room . (p=0.000202)
+  2) a dog sitting in front of a tv in a room . (p=0.000041)
+Captions for image 20986965_116057885723519_5304822864451469312_n.jpg:
+  0) a woman standing next to a fire hydrant . (p=0.000106)
+  1) a woman standing next to a man on a bench . (p=0.000033)
+  2) a woman standing next to a man on a skateboard . (p=0.000024)
+Captions for image 19932516_240148816495464_8605440549219991552_n.jpg:
+  0) a man laying on a couch with a dog and a cat . (p=0.000079)
+  1) a woman laying on a couch with a dog and a cat . (p=0.000059)
+  2) a woman laying on a bed with a dog and a cat . (p=0.000046)
+Captions for image 20838637_109364013113649_6146517406563958784_n.jpg:
+  0) a group of people sitting on top of a beach . (p=0.000460)
+  1) a group of people sitting on top of a sandy beach . (p=0.000397)
+  2) a group of people sitting on a beach next to a body of water . (p=0.000032)
+Captions for image 19227300_809040672576383_1548245576024326144_n.jpg:
+  0) a woman riding on the back of a brown horse . (p=0.013345)
+  1) a woman riding on the back of a white horse . (p=0.002133)
+  2) a woman riding on the back of a horse . (p=0.000655)
+Captions for image 18646125_294308830995634_7275069554496110592_n.jpg:
+  0) a man standing next to a brown horse . (p=0.002275)
+  1) a man and a woman standing next to a horse . (p=0.000383)
+  2) a man and a woman standing next to a brown horse . (p=0.000236)
+Captions for image 20902253_1731099207194415_5737327132015591424_n.jpg:
+  0) a couple of people that are standing in the dirt . (p=0.000208)
+  1) a couple of people standing next to a river . (p=0.000170)
+  2) a couple of people that are standing in the sand . (p=0.000101)
+Captions for image 26867428_1823942501236417_6381576899340009472_n.jpg:
+  0) a dog is watching television in a living room . (p=0.001774)
+  1) a dog is watching television in a room . (p=0.000329)
+  2) a dog is watching television in a living room (p=0.000115)
+Captions for image 17494569_1451276211560993_4355552096087441408_n.jpg:
+  0) a brown horse standing next to a wooden fence . (p=0.002395)
+  1) a brown horse standing next to a brown horse . (p=0.001367)
+  2) a brown horse standing next to a white horse . (p=0.000876)
+Captions for image 17818430_628406377354903_2720537894237241344_n.jpg:
+  0) a brown cow standing in front of a building . (p=0.000011)
+  1) a brown cow standing in front of a doorway . (p=0.000009)
+  2) a brown cow standing in front of a wooden fence . (p=0.000001)
+Captions for image 14499007_1815065418767153_4343436865223786496_n.jpg:
+  0) a collage of photos of a collage of pictures (p=0.000033)
+  1) a collage of photos of a collage of photos (p=0.000030)
+  2) a collage of photos of a person holding a tennis racket (p=0.000022)
+Captions for image 15034585_336760743356294_6743343905942536192_n.jpg:
+  0) a dog laying on a couch with a stuffed animal (p=0.000173)
+  1) a dog laying on a couch with a stuffed animal . (p=0.000157)
+  2) a dog laying on a bed with a stuffed animal . (p=0.000155)
+Captions for image 20837635_1972844656335853_1417784359565393920_n.jpg:
+  0) a group of people riding on top of surfboards . (p=0.000606)
+  1) a group of people riding on top of a wave . (p=0.000340)
+  2) a group of people riding on top of a surfboard . (p=0.000311)
+Captions for image 17818569_277699409342741_3318923303535509504_n.jpg:
+  0) a brown horse standing next to a wooden fence . (p=0.000444)
+  1) a brown horse standing next to a brown horse . (p=0.000225)
+  2) a brown horse standing in front of a wooden fence . (p=0.000058)
+Captions for image 20838429_111099672902041_8136878231614652416_n.jpg:
+  0) a person riding a surf board on a body of water (p=0.003499)
+  1) a person riding a surf board on a river (p=0.002966)
+  2) a person riding a surf board on a wave (p=0.002635)
+Captions for image 14709662_260921734306082_2575341130317037568_n.jpg:
+  0) a dog laying on a bed with a blanket . (p=0.000408)
+  1) a dog laying on a bed next to a pillow . (p=0.000380)
+  2) a dog laying on a bed with a blanket (p=0.000233)
+Captions for image 14591941_136173220179294_456376155356790784_n.jpg:
+  0) a brown horse standing next to a white horse . (p=0.001164)
+  1) a brown and white horse standing next to a brown horse . (p=0.000873)
+  2) a brown and white horse standing next to a white horse . (p=0.000592)
+Captions for image 14241030_1780593625491175_656002365_n.jpg:
+  0) a woman riding on the back of a brown horse . (p=0.014611)
+  1) a woman riding on the back of a white horse . (p=0.002388)
+  2) a woman riding on the back of a horse . (p=0.001307)
+Captions for image 13774641_272737363107633_956268025_n.jpg:
+  0) a man sitting on a couch holding a dog . (p=0.003028)
+  1) a man sitting on a couch with a dog on his lap . (p=0.001524)
+  2) a man sitting on a couch holding a dog (p=0.000495)
+Captions for image 20969004_175989176279974_5384672907848843264_n.jpg:
+  0) a man and a child on a surfboard in the water . (p=0.000125)
+  1) a man and woman on a surfboard in the water . (p=0.000112)
+  2) a man and a woman on a surfboard in the water . (p=0.000093)
+Captions for image 20905753_1730277440377594_2931979937378205696_n.jpg:
+  0) a bird is standing on a rock in the water . (p=0.000226)
+  1) a bird standing on a rock in the middle of a river . (p=0.000192)
+  2) a bird standing on a rock in the middle of a lake . (p=0.000161)
+Captions for image 1922265_328173444034349_2091271460_n.jpg:
+  0) a bowl of soup with a spoon in it . (p=0.000678)
+  1) a bowl of soup with a spoon in it (p=0.000461)
+  2) a bowl of soup with a spoon inside of it . (p=0.000193)
+Captions for image 13744073_512302382301084_915849346_n.jpg:
+  0) a group of young children standing next to each other . (p=0.000429)
+  1) a group of young people standing next to each other . (p=0.000255)
+  2) a group of young children standing next to each other on a sidewalk . (p=0.000027)
+Captions for image 13652007_1566294527000426_1538807858_n.jpg:
+  0) a black and white dog laying on top of a bed . (p=0.000853)
+  1) a black and white dog laying on top of a couch . (p=0.000760)
+  2) a black and white dog laying on a bed . (p=0.000394)
+Captions for image 13658482_100913550362879_710369087_n.jpg:
+  0) a man standing next to a brown horse . (p=0.001779)
+  1) a man is standing next to a brown horse . (p=0.000859)
+  2) a man standing next to a brown horse in a field . (p=0.000805)
+Captions for image 13652017_137496893344695_1645906795_n.jpg:
+  0) a man and a woman are riding a horse . (p=0.000096)
+  1) a man and a woman riding on the back of a horse . (p=0.000089)
+  2) a man and a woman riding on the back of a brown horse . (p=0.000062)
+Captions for image 13636116_1036123679815042_772906625_n.jpg:
+  0) a group of people riding horses down a dirt road . (p=0.001517)
+  1) a group of people riding horses in a field . (p=0.000802)
+  2) a group of people riding horses on a dirt road . (p=0.000627)
+Captions for image 13652247_1749836658631120_385733092_n.jpg:
+  0) a man riding a horse in a rodeo . (p=0.000207)
+  1) a man riding a horse over a wooden fence . (p=0.000127)
+  2) a man riding a horse over a wooden obstacle . (p=0.000112)
+Captions for image 13385865_1175997565786340_1732897876_n.jpg:
+  0) a man and a woman standing next to a fire hydrant . (p=0.000059)
+  1) a man and a woman standing next to a tree . (p=0.000054)
+  2) a man and a woman standing next to each other . (p=0.000038)
+Captions for image 13395062_1317699111592248_728091672_n.jpg:
+  0) a woman laying on a bed with a teddy bear . (p=0.000045)
+  1) a woman laying in a bed with a blanket . (p=0.000038)
+  2) a woman laying on a bed with a bag . (p=0.000017)
+Captions for image 13395089_812382572230418_899383309_n.jpg:
+  0) a dog laying on a couch with a stuffed animal (p=0.000174)
+  1) a dog laying on a bed with a stuffed animal (p=0.000164)
+  2) a dog laying on a couch with a stuffed animal . (p=0.000139)
+Captions for image 20902676_1484556031603593_1801351585075298304_n.jpg:
+  0) a stream of water with a train passing by . (p=0.000022)
+  1) a stream of water with a train on it . (p=0.000015)
+  2) a stream of water with a train passing by (p=0.000007)
+Captions for image 13320277_614416648718469_1008008006_n.jpg:
+  0) a brown dog laying on top of a couch . (p=0.001593)
+  1) a brown dog laying on top of a bed . (p=0.001049)
+  2) a dog laying on a couch with a stuffed animal (p=0.000389)
+Captions for image 12677549_218300585206191_1117618215_n.jpg:
+  0) a woman riding on the back of a brown horse . (p=0.011347)
+  1) a man riding on the back of a brown horse . (p=0.010902)
+  2) a man riding on the back of a brown horse in a field . (p=0.000760)
+Captions for image 13102362_125945931142423_1183783522_n.jpg:
+  0) a brown and white dog laying on top of a rug . (p=0.000307)
+  1) a brown and white dog laying on a rug . (p=0.000266)
+  2) a brown and white dog laying on top of a bed . (p=0.000212)
+Captions for image 20902723_125330658104580_5787694926460354560_n.jpg:
+  0) a group of people on surfboards in the water . (p=0.000903)
+  1) a group of people riding on top of surfboards . (p=0.000445)
+  2) a group of people riding on top of a surfboard . (p=0.000284)
+Captions for image 12501519_591213414375813_570869086_n.jpg:
+  0) a dog that is laying down on a bed . (p=0.002153)
+  1) a dog that is laying down on a couch . (p=0.002021)
+  2) a dog that is laying down on a couch (p=0.000744)
+Captions for image 12912287_765983350204711_450659808_n.jpg:
+  0) a group of people standing next to each other . (p=0.004346)
+  1) a group of people posing for a picture . (p=0.003079)
+  2) a group of people posing for a picture (p=0.001653)
+Captions for image 10838347_610020405766094_298824309_n.jpg:
+  0) a birthday cake with candles on top of it . (p=0.000207)
+  1) a birthday cake with candles on a table (p=0.000149)
+  2) a birthday cake with candles on top of it (p=0.000142)
+Captions for image 1388828_975836759171380_1109612232_n.jpg:
+  0) a man sitting on a couch holding a dog . (p=0.001520)
+  1) a man sitting on a couch with a dog on his lap . (p=0.000606)
+  2) a man sitting on a couch with a dog and a cat . (p=0.000290)
+Captions for image 12797713_1560613870920135_907022888_n.jpg:
+  0) a woman riding on the back of a brown horse . (p=0.011743)
+  1) a woman riding on the back of a white horse . (p=0.002355)
+  2) a woman riding on the back of a horse . (p=0.000933)
+Captions for image 12446044_453920518142772_1978345571_n.jpg:
+  0) a woman riding on the back of a brown horse . (p=0.011387)
+  1) a woman riding on the back of a white horse . (p=0.002880)
+  2) a woman riding on the back of a horse . (p=0.000596)
+Captions for image 12784041_234493906890391_1694012899_n.jpg:
+  0) a large building with a clock on the top of it . (p=0.000065)
+  1) a large building with a clock on the side of it . (p=0.000063)
+  2) a large building with a clock tower in the middle of it . (p=0.000038)
+Captions for image 20902200_1508067092605523_7505760988222717952_n.jpg:
+  0) a group of people standing around a lake . (p=0.000165)
+  1) a group of people standing on a river bank . (p=0.000090)
+  2) a group of people standing in a river . (p=0.000086)
+Captions for image 12547736_1589070644664866_1088943998_n.jpg:
+  0) a woman riding on the back of a brown horse . (p=0.017850)
+  1) a woman riding on the back of a white horse . (p=0.003887)
+  2) a woman riding on the back of a horse . (p=0.001101)
+Captions for image 11358071_189917434682720_1570928887_n.jpg:
+  0) a woman sitting at a table with a plate of food . (p=0.000676)
+  1) a woman is cutting a cake with a knife . (p=0.000638)
+  2) a woman sitting at a table with a cake . (p=0.000292)
+Captions for image 11950744_945786588843621_1196178906_n.jpg:
+  0) a woman and a young girl standing next to each other . (p=0.000102)
+  1) a woman and a young girl are posing for a picture . (p=0.000025)
+  2) a woman and a young girl are standing together . (p=0.000021)
+Captions for image 11809988_843830059072075_306098160_n.jpg:
+  0) a group of people on horses in a field . (p=0.001427)
+  1) a group of people riding horses on a dirt field . (p=0.001022)
+  2) a group of people riding horses on top of a dirt field . (p=0.000422)
+Captions for image 11809983_1044863458859813_1307416658_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000201)
+  1) a man and a woman sitting on a bench . (p=0.000182)
+  2) a man and a woman standing next to each other on a bench . (p=0.000049)
+Captions for image 11950552_1498824200415602_1596292735_n.jpg:
+  0) a pile of luggage sitting on top of a wooden floor . (p=0.000218)
+  1) a pile of luggage sitting on top of a floor . (p=0.000212)
+  2) a bunch of items that are on a table . (p=0.000184)
+Captions for image 11262803_515269528626269_1432280996_n.jpg:
+  0) a group of people riding on the backs of horses . (p=0.002876)
+  1) a group of people riding on the back of horses . (p=0.001497)
+  2) a group of people riding on the backs of brown horses . (p=0.001040)
+Captions for image 11875395_1498773963749716_1024456086_n.jpg:
+  0) a little girl wearing a hat and holding a teddy bear . (p=0.000012)
+  1) a little girl wearing a hat and holding a teddy bear (p=0.000006)
+  2) a little girl wearing a hat and holding a stuffed animal (p=0.000003)
+Captions for image 11377822_548927578642937_403023289_n.jpg:
+  0) a woman standing on a sidewalk next to a building . (p=0.000004)
+  1) a woman standing on a sidewalk next to a man . (p=0.000002)
+  2) a woman standing on a sidewalk next to a wooden fence . (p=0.000001)
+Captions for image 11848904_1618372745092985_893398391_n.jpg:
+  0) a little girl is sitting on a bed (p=0.000125)
+  1) a little girl sitting on a bed with a book . (p=0.000084)
+  2) a little girl sitting on a bed with a teddy bear . (p=0.000079)
+Captions for image 11249437_135918576746903_537796529_n.jpg:
+  0) a group of people riding on the backs of horses . (p=0.002281)
+  1) a group of people riding horses down a dirt road . (p=0.000830)
+  2) a group of people riding horses on a field . (p=0.000625)
+Captions for image 11355761_1628176784126646_1796359929_n.jpg:
+  0) a woman is holding a cat in her arms . (p=0.000175)
+  1) a woman is holding a cat in her lap . (p=0.000172)
+  2) a woman is holding a cat in her lap (p=0.000119)
+Captions for image 10995223_1634853683402189_1039643128_n.jpg:
+  0) a woman laying on a bed with a dog . (p=0.000452)
+  1) a woman sitting on a couch with a dog . (p=0.000426)
+  2) a woman laying on a bed with a dog (p=0.000157)
+Captions for image 11385568_1453424254962397_1899580033_n.jpg:
+  0) a group of people sitting on top of a wooden bench . (p=0.000208)
+  1) a group of people sitting on top of a bench . (p=0.000124)
+  2) a group of people standing next to a wooden fence . (p=0.000039)
+Captions for image 11325216_1623832031192195_1860774466_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.000786)
+  1) a table topped with plates of food and cups . (p=0.000148)
+  2) a table topped with plates of food and cups of coffee . (p=0.000129)
+Captions for image 11296882_416749541843860_939522987_n.jpg:
+  0) a man sitting on the ground with a skateboard . (p=0.000061)
+  1) a man sitting on the ground next to a parking meter . (p=0.000035)
+  2) a man sitting on the ground next to a car . (p=0.000027)
+Captions for image 11821766_1616163528671866_473929185_n.jpg:
+  0) a woman and a child are sitting on a bench . (p=0.000061)
+  1) a woman and a child are sitting on a bench (p=0.000051)
+  2) a woman and a young girl are sitting on a bench . (p=0.000018)
+Captions for image 10549744_1027351497297276_576754575_n.jpg:
+  0) a woman and a child eating food at a table . (p=0.000075)
+  1) a woman and a child sitting at a table eating food . (p=0.000066)
+  2) a woman and a child sitting at a table eating pizza . (p=0.000038)
+Captions for image 11261321_694289817342625_799640828_n.jpg:
+  0) a man in a suit and tie holding a sign . (p=0.000003)
+  1) a man in a suit and tie holding a teddy bear . (p=0.000002)
+  2) a man in a suit and tie holding a sign (p=0.000001)
+Captions for image 11249252_510920749055619_234876231_n.jpg:
+  0) a group of people sitting on a bench . (p=0.002079)
+  1) a group of people sitting on a park bench . (p=0.001648)
+  2) a group of people sitting on a bench (p=0.001086)
+Captions for image 11249731_685794591553432_749675890_n.jpg:
+  0) a brown horse standing next to a wooden fence . (p=0.001064)
+  1) a white horse standing next to a wooden fence . (p=0.000798)
+  2) a brown horse standing next to a white horse . (p=0.000315)
+Captions for image 20838812_1287657508012227_960629062781370368_n.jpg:
+  0) a woman standing on a rock in a forest . (p=0.000028)
+  1) a woman standing on a rock in the woods . (p=0.000026)
+  2) a woman standing on a rock in a wooded area . (p=0.000021)
+Captions for image 11357662_1663192927233784_853618219_n.jpg:
+  0) a black and white dog laying on top of a bed . (p=0.006256)
+  1) a black and white dog laying on a bed . (p=0.005578)
+  2) a black and white dog laying on a bed (p=0.001964)
+Captions for image 11377927_1413059529022942_1409779080_n.jpg:
+  0) a man and a dog are sitting on a bench . (p=0.000017)
+  1) a man and a dog are sitting on a bench (p=0.000009)
+  2) a man and a dog are sitting in a field (p=0.000008)
+Captions for image 11382552_847955271955995_2067850195_n.jpg:
+  0) a couple of people standing next to an elephant . (p=0.000276)
+  1) a couple of people standing next to a brown elephant . (p=0.000101)
+  2) a couple of people that are standing next to a elephant (p=0.000028)
+Captions for image 11313563_1587078081565225_1867893987_n.jpg:
+  0) a man wearing a hat and a hat . (p=0.000893)
+  1) a man wearing a hat and sunglasses and a hat . (p=0.000138)
+  2) a man wearing a hat and a tie (p=0.000125)
+Captions for image 11257095_947686301937724_727281463_n.jpg:
+  0) a book and a book on a table . (p=0.000047)
+  1) a book and a book on a table (p=0.000013)
+  2) a book and a book on a desk . (p=0.000005)
+Captions for image 11192915_420870901407581_349565225_n.jpg:
+  0) a man riding on the back of a brown horse . (p=0.015917)
+  1) a man riding on the back of a white horse . (p=0.002625)
+  2) a man riding on the back of a brown horse through a forest . (p=0.001929)
+Captions for image 11189580_873186212748500_1954571534_n.jpg:
+  0) a woman riding on the back of a brown horse . (p=0.007499)
+  1) a woman riding on the back of a white horse . (p=0.000605)
+  2) a woman is riding a horse in a field . (p=0.000564)
+Captions for image 11116661_747539242010396_980957214_n.jpg:
+  0) a lone giraffe is standing in a grassy field . (p=0.000037)
+  1) a lone giraffe is standing in a grassy area . (p=0.000015)
+  2) a lone giraffe standing in a field near a tree . (p=0.000010)
+Captions for image 11123755_371220929737271_191237761_n.jpg:
+  0) a cup of coffee and a banana on a table . (p=0.000023)
+  1) a cup of coffee sitting next to a glass of orange juice . (p=0.000010)
+  2) a cup of coffee sitting next to a glass of water . (p=0.000005)
+Captions for image 11023196_1552274445047284_1589823639_n.jpg:
+  0) a couple of men standing next to each other . (p=0.003166)
+  1) a man and a woman standing next to each other . (p=0.000749)
+  2) a couple of men standing next to each other holding a surfboard . (p=0.000107)
+Captions for image 20839004_124774924825008_7743076906492231680_n.jpg:
+  0) a man sitting on a rock in the middle of a river . (p=0.000048)
+  1) a man sitting on top of a boat in the water . (p=0.000045)
+  2) a man sitting on a rock in the middle of a lake . (p=0.000031)
+Captions for image 10986009_855904351115656_675672089_n.jpg:
+  0) a man holding a dog in his arms . (p=0.000038)
+  1) a man holding a dog in his arms (p=0.000015)
+  2) a man is holding a dog with a toothbrush . (p=0.000015)
+Captions for image 10948894_786673034721505_1231305755_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.001470)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000923)
+  2) a bouquet of flowers in a vase on a table . (p=0.000623)
+Captions for image 10666183_1611798135722103_1154378179_n.jpg:
+  0) a black and white photo of a brick building (p=0.000232)
+  1) a black and white photo of a street sign (p=0.000224)
+  2) a black and white photo of a brick building . (p=0.000171)
+Captions for image 10932485_324223157779263_933743181_n.jpg:
+  0) a black and white photo of a man holding a white frisbee . (p=0.000006)
+  1) a black and white photo of a sign with a clock on it . (p=0.000006)
+  2) a black and white photo of a man holding a white frisbee (p=0.000004)
+Captions for image 10903443_923806784299252_1577502388_n.jpg:
+  0) a little girl laying on a bed with a blanket . (p=0.000037)
+  1) a woman laying on a bed with a blanket (p=0.000013)
+  2) a little girl laying on a bed with a blue blanket . (p=0.000012)
+Captions for image 10895153_932779396755825_1716444265_n.jpg:
+  0) a man is eating a piece of pizza . (p=0.000871)
+  1) a man is eating a piece of pizza (p=0.000606)
+  2) a man eating a piece of pizza in a kitchen . (p=0.000166)

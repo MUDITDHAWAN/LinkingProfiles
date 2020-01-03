@@ -1,0 +1,24 @@
+Captions for image 61557512_112897463096675_1260769606397472_n.jpg:
+  0) a pair of shoes sitting on top of a bed . (p=0.000210)
+  1) a pair of shoes sitting on top of a skateboard . (p=0.000120)
+  2) a pair of shoes sitting on a bed . (p=0.000106)
+Captions for image 12142505_265237893814092_859843993_a.jpg:
+  0) a woman sitting on a bench with her legs crossed . (p=0.000113)
+  1) a woman sitting on a bench in front of a store . (p=0.000091)
+  2) a woman sitting on a bench in front of a building . (p=0.000036)
+Captions for image 43913100_186560028931835_4544386153876143812_n.jpg:
+  0) a pile of luggage sitting on top of a bed . (p=0.000168)
+  1) a bag of luggage sitting on top of a bed . (p=0.000119)
+  2) a bag of luggage sitting on top of a table . (p=0.000047)
+Captions for image 45424767_311097673070306_7560591318590161234_n.jpg:
+  0) a view of a mountain range from a plane . (p=0.000059)
+  1) a view of a mountain range with a mountain in the background . (p=0.000027)
+  2) a view of a mountain range with a mountain range in the background . (p=0.000022)
+Captions for image 61065001_1074444979428424_3923040467407003589_n.jpg:
+  0) a room with a desk and a computer on it (p=0.000097)
+  1) a room with a desk and a computer (p=0.000071)
+  2) a room with a desk and a television (p=0.000030)
+Captions for image 52845389_561531301013630_7133199046765253509_n.jpg:
+  0) a person 's feet are on a skateboard . (p=0.000099)
+  1) a pair of feet on a skateboard on the ground . (p=0.000038)
+  2) a pair of feet on a skateboard on a sidewalk . (p=0.000016)

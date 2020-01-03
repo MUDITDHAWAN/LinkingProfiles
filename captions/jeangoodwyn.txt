@@ -1,0 +1,12 @@
+Captions for image 11254642_112685879063207_1432475112_n.jpg:
+  0) a car parked in front of a parking meter . (p=0.000126)
+  1) a car driving down a street next to a traffic light . (p=0.000108)
+  2) a car driving down a street next to a parking lot . (p=0.000055)
+Captions for image 11272777_699848183470740_723533872_n.jpg:
+  0) a woman is holding a cell phone to her ear . (p=0.000191)
+  1) a woman is holding a cell phone in her hand . (p=0.000128)
+  2) a woman is holding a cell phone to her ear (p=0.000068)
+Captions for image 11809587_997204403677010_1352895430_a.jpg:
+  0) a woman wearing a tie and a red tie . (p=0.000007)
+  1) a woman wearing a tie and a hat (p=0.000003)
+  2) a woman wearing a red tie and a red tie . (p=0.000002)

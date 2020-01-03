@@ -1,0 +1,40 @@
+Captions for image 11176218_1575645149356846_1291731696_n.jpg:
+  0) a street sign on a pole on a city street (p=0.000359)
+  1) a street sign on a pole near a building (p=0.000160)
+  2) a street sign on a pole on a street . (p=0.000083)
+Captions for image 11189443_1593731374245804_781284210_n.jpg:
+  0) a group of people on a court playing tennis . (p=0.001890)
+  1) a group of people on a court with tennis rackets . (p=0.000713)
+  2) a group of people on a court with a tennis racket . (p=0.000667)
+Captions for image 11117187_1512431748995871_1254516629_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001178)
+  1) a bridge over a river with a clock tower . (p=0.000163)
+  2) a bridge over a body of water with a clock tower . (p=0.000160)
+Captions for image 11190949_1437570039889629_2131247686_n.jpg:
+  0) a group of people riding bikes down a street . (p=0.003994)
+  1) a group of people riding bikes down a city street . (p=0.001254)
+  2) a group of people riding bikes down a street next to tall buildings . (p=0.000117)
+Captions for image 11123734_875901425815447_1167373641_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.000174)
+  1) a glass of wine sitting on a table next to a glass of water . (p=0.000012)
+  2) a glass of wine sitting on top of a table next to a glass of water . (p=0.000007)
+Captions for image 11820508_1683265695239161_380663419_a.jpg:
+  0) a young boy wearing a tie and glasses . (p=0.000260)
+  1) a young boy wearing a tie and a shirt . (p=0.000077)
+  2) a young boy wearing a tie and a hat . (p=0.000069)
+Captions for image 11192750_883883778334842_1316476621_n.jpg:
+  0) a street sign that is on a pole . (p=0.000016)
+  1) a street sign that is on the side of a building . (p=0.000006)
+  2) a street sign that is on a pole (p=0.000004)
+Captions for image 11205705_1412553392398213_464017060_n.jpg:
+  0) a crowd of people watching a man on a skateboard . (p=0.000160)
+  1) a crowd of people standing around a large building . (p=0.000054)
+  2) a crowd of people standing around a large crowd . (p=0.000049)
+Captions for image 11190921_1603965439875219_411979882_n.jpg:
+  0) a crowd of people watching a baseball game . (p=0.009484)
+  1) a group of people on a field playing baseball . (p=0.008838)
+  2) a crowd of people watching a baseball game (p=0.004255)
+Captions for image 11195822_389498337900378_1417195298_n.jpg:
+  0) a group of people walking down a street . (p=0.000043)
+  1) a group of people standing in front of a farmers market . (p=0.000011)
+  2) a group of people standing in front of a store . (p=0.000010)

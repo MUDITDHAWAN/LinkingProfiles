@@ -1,0 +1,12 @@
+Captions for image 12362426_1634819250112470_858692762_n.jpg:
+  0) a man riding a snowboard down a snow covered slope . (p=0.001925)
+  1) a person on a snowboard in the snow . (p=0.000736)
+  2) a man riding a snowboard on top of a snow covered slope . (p=0.000479)
+Captions for image 12298897_1684500848484733_1359473291_n.jpg:
+  0) a bunch of signs that are on a pole . (p=0.000166)
+  1) a bunch of signs that are on top of a pole . (p=0.000031)
+  2) a bunch of signs that are on a wall . (p=0.000023)
+Captions for image 12357344_977957382243713_1335437222_a.jpg:
+  0) a woman in a dress shirt and a tie . (p=0.000029)
+  1) a woman in a white shirt and black tie (p=0.000026)
+  2) a woman in a dress shirt and tie is smiling . (p=0.000010)

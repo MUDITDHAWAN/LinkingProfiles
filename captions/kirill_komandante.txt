@@ -1,0 +1,12 @@
+Captions for image 11325458_1435158106802452_716322816_n.jpg:
+  0) a man in a suit talking on a cell phone . (p=0.002381)
+  1) a man is talking on his cell phone . (p=0.002046)
+  2) a man is talking on a cell phone . (p=0.001708)
+Captions for image 11325027_486083604880373_315911455_n.jpg:
+  0) a man standing on a sidewalk talking on a cell phone . (p=0.000489)
+  1) a man standing in front of a building . (p=0.000467)
+  2) a man standing on a sidewalk talking on a phone . (p=0.000205)
+Captions for image 42355740_179310709625906_5631979667373162496_n.jpg:
+  0) a man wearing a hat and a hat . (p=0.000243)
+  1) a man wearing a hat and a tie . (p=0.000216)
+  2) a man wearing a hat and a tie (p=0.000063)

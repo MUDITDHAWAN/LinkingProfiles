@@ -1,0 +1,804 @@
+Captions for image 52696294_647013185728780_440454291446034303_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001732)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000214)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000126)
+Captions for image 66659486_364846260841909_3720513899741577216_n.jpg:
+  0) a young girl wearing a red tie and smiling . (p=0.000018)
+  1) a young girl wearing a red tie and smiling (p=0.000006)
+  2) a young girl wearing a red tie and a pink shirt . (p=0.000001)
+Captions for image 53759617_431393187628502_7913215763757400828_n.jpg:
+  0) a statue of a man is holding a clock . (p=0.000166)
+  1) a statue of a man is holding a large clock . (p=0.000098)
+  2) a statue of a man is holding a clock (p=0.000097)
+Captions for image 47081390_364848384328628_5318330641017024091_n.jpg:
+  0) a man is standing in front of a sign (p=0.000052)
+  1) a man is standing in front of a sign . (p=0.000051)
+  2) a man standing next to a sign on a pole . (p=0.000025)
+Captions for image 53203882_159327455062074_3063479911763577419_n.jpg:
+  0) two glasses of wine sitting on top of a table . (p=0.001604)
+  1) two glasses of wine sitting on a table . (p=0.001112)
+  2) two glasses of wine sitting on top of a wooden table . (p=0.000227)
+Captions for image 52755315_587429128389995_3569147028627648769_n.jpg:
+  0) a table topped with lots of ripe bananas . (p=0.000119)
+  1) a table topped with lots of different types of food . (p=0.000117)
+  2) a table topped with lots of different types of foods . (p=0.000030)
+Captions for image 65882207_427241964530619_948919554193550151_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000321)
+  1) a clock tower in the middle of a town square . (p=0.000159)
+  2) a clock tower in the middle of a city (p=0.000125)
+Captions for image 65387170_390290584935938_5670803334015529627_n.jpg:
+  0) a white plate topped with a piece of cake . (p=0.000343)
+  1) a white plate topped with a slice of cake . (p=0.000299)
+  2) a white plate topped with a piece of cake and fruit . (p=0.000026)
+Captions for image 65438039_147919009658558_8888807449178377499_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.002055)
+  1) a slice of cake on a plate with a fork . (p=0.001219)
+  2) a piece of cake on a plate with a fork (p=0.000988)
+Captions for image 66092354_628845500967332_2531981304838180624_n.jpg:
+  0) a crowd of people standing on a street corner . (p=0.000185)
+  1) a crowd of people standing on top of a street . (p=0.000148)
+  2) a crowd of people standing on a sidewalk next to a clock tower . (p=0.000017)
+Captions for image 65074974_120455505880674_5481461497668431903_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002070)
+  1) a city street filled with lots of tall buildings . (p=0.001278)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000219)
+Captions for image 64954223_2372395222853685_2984559727534743842_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000086)
+  1) a sign that is on the side of a wall . (p=0.000043)
+  2) a sign that is sitting on a sidewalk . (p=0.000032)
+Captions for image 64754479_2046901118747336_2940031036804181078_n.jpg:
+  0) a close up of a plate of food (p=0.000449)
+  1) a close up of a plate of food with vegetables (p=0.000232)
+  2) a close up of a plate of food with carrots (p=0.000148)
+Captions for image 64936412_436290523872535_6114202510246099445_n.jpg:
+  0) a group of young children standing next to each other . (p=0.000231)
+  1) a group of young children standing next to a fire hydrant . (p=0.000127)
+  2) a group of young children standing next to a red fire hydrant . (p=0.000092)
+Captions for image 64738132_668832206963991_3285631106199554468_n.jpg:
+  0) a woman is flying a kite on the beach . (p=0.001336)
+  1) a woman is flying a kite on a beach . (p=0.001005)
+  2) a woman is flying a kite on a beach (p=0.000403)
+Captions for image 64623045_144620976599430_8204975537523413337_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.002881)
+  1) a table topped with plates of food and drinks . (p=0.001171)
+  2) a table topped with plates of food and cups of coffee . (p=0.000377)
+Captions for image 64421062_143421046751366_2706178076346294501_n.jpg:
+  0) a woman walking down the street with a suitcase . (p=0.000576)
+  1) a woman walking down a street with a suitcase . (p=0.000408)
+  2) a woman walking down the street with a suitcase (p=0.000319)
+Captions for image 65198978_134051421129998_398322299746451484_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.000897)
+  1) a table topped with plates of food and drinks . (p=0.000502)
+  2) a table topped with plates of food and bowls of food . (p=0.000304)
+Captions for image 65017974_175389280148542_2128010433104642780_n.jpg:
+  0) a woman holding a teddy bear in a room . (p=0.000125)
+  1) a woman holding a teddy bear in a store . (p=0.000096)
+  2) a woman holding a teddy bear in front of a wall . (p=0.000028)
+Captions for image 62537003_148432566336241_5984577310020582803_n.jpg:
+  0) a woman standing next to a red fire hydrant . (p=0.000171)
+  1) a woman is standing in front of a store (p=0.000041)
+  2) a woman is standing in front of a store . (p=0.000033)
+Captions for image 65268971_2372329026156684_8431843696695290699_n.jpg:
+  0) a bottle of wine sitting next to a glass of orange juice . (p=0.000048)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.000034)
+  2) a bottle of wine and a glass of wine (p=0.000018)
+Captions for image 62111278_1251709988340085_1333048096578127438_n.jpg:
+  0) a woman is holding a large teddy bear . (p=0.000045)
+  1) a woman is holding a giant teddy bear . (p=0.000041)
+  2) a woman is holding a large teddy bear (p=0.000020)
+Captions for image 64430130_230828604559849_128661531581694361_n.jpg:
+  0) a sign that says `` <UNK> '' on a street corner . (p=0.000002)
+  1) a sign that says `` <UNK> '' on a pole . (p=0.000001)
+  2) a sign that says `` <UNK> '' on the side of a building . (p=0.000000)
+Captions for image 62121304_198806524369364_1638638997664684044_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.003462)
+  1) a person holding a cell phone in their hands . (p=0.000935)
+  2) a person holding a cell phone in their hand (p=0.000878)
+Captions for image 62201111_634812790353855_2981356392231166784_n.jpg:
+  0) a store front with a sign on it (p=0.000010)
+  1) a store front with a sign on it . (p=0.000009)
+  2) a store front with a sign on the wall . (p=0.000003)
+Captions for image 63647311_145797556535417_4220607468040122943_n.jpg:
+  0) a large building with a clock on the front . (p=0.000493)
+  1) a large building with a clock on the top . (p=0.000483)
+  2) a large building with a clock on it (p=0.000321)
+Captions for image 64438555_122226479000328_7181414498277525964_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.001714)
+  1) a table topped with plates of food and drinks . (p=0.000894)
+  2) a table topped with plates of food and a glass of wine . (p=0.000154)
+Captions for image 64267761_605689196505743_9066062867181857069_n.jpg:
+  0) a tall clock tower with a sky background (p=0.002507)
+  1) a large clock tower towering over a city . (p=0.002018)
+  2) a clock tower in the middle of a city . (p=0.000890)
+Captions for image 62499127_143369880168448_7749224458619398730_n.jpg:
+  0) a large clock tower towering over a city . (p=0.002442)
+  1) a large building with a clock tower on top . (p=0.000456)
+  2) a clock tower in the middle of a city . (p=0.000406)
+Captions for image 62010401_139912497078053_1409342593042555968_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.000995)
+  1) a white plate topped with a piece of cake . (p=0.000373)
+  2) a white plate topped with a piece of cake and ice cream . (p=0.000066)
+Captions for image 64723243_457161398351060_3085501388840226170_n.jpg:
+  0) a large body of water with a bridge in the background . (p=0.000058)
+  1) a large body of water next to a bridge . (p=0.000050)
+  2) a large body of water with a bridge in the background (p=0.000026)
+Captions for image 64324281_471205796954856_3989821691100922875_n.jpg:
+  0) a large building with a clock on the side of it . (p=0.000113)
+  1) a large building with a clock on the front of it . (p=0.000066)
+  2) a large building with a clock on the side of it (p=0.000050)
+Captions for image 62892625_2198824696903721_9168597048327388290_n.jpg:
+  0) a view of a city street at night . (p=0.000215)
+  1) a large building with a clock tower on top of it . (p=0.000075)
+  2) a large building with a clock tower in the center . (p=0.000038)
+Captions for image 64513041_2386788921607144_5551662429639087892_n.jpg:
+  0) a room filled with lots of different types of luggage . (p=0.000096)
+  1) a room filled with lots of different types of motorcycles . (p=0.000036)
+  2) a room filled with lots of different types of items . (p=0.000022)
+Captions for image 64543470_226772814945812_2392725207356359899_n.jpg:
+  0) a red and white fire hydrant in front of a building . (p=0.000041)
+  1) a red and white fire hydrant in front of a brick wall . (p=0.000029)
+  2) a red and white fire hydrant sitting in the middle of a forest . (p=0.000028)
+Captions for image 61690211_2276511582394592_5977217741464246690_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.001105)
+  1) a plate of food that includes rice and vegetables . (p=0.000299)
+  2) a plate of food that includes rice , meat and vegetables . (p=0.000068)
+Captions for image 64241606_2254243671558336_1455335412433779376_n.jpg:
+  0) a plate of food on a table with a drink (p=0.000096)
+  1) a plate of food on a table with a glass of wine (p=0.000050)
+  2) a plate of food on a table with a glass of wine . (p=0.000034)
+Captions for image 60708601_123633662183471_3832723149388472484_n.jpg:
+  0) a car driving down a street next to a traffic light . (p=0.000096)
+  1) a car driving down a street next to traffic lights . (p=0.000033)
+  2) a car driving down a street next to a car . (p=0.000023)
+Captions for image 61210939_357122421609559_6561684648181743101_n.jpg:
+  0) a black and white photo of a fire hydrant (p=0.000420)
+  1) a black and white photo of a street sign (p=0.000335)
+  2) a black and white photo of a fire hydrant . (p=0.000298)
+Captions for image 60590062_408135433114635_5621371198180686595_n.jpg:
+  0) a large building with a clock on it . (p=0.000640)
+  1) a large building with a clock on the front . (p=0.000534)
+  2) a large building with a clock on it (p=0.000490)
+Captions for image 61944324_445285996302234_1643145691822584031_n.jpg:
+  0) a close up of a sandwich on a plate (p=0.001031)
+  1) a close up of a plate of food on a table (p=0.000999)
+  2) a close up of a plate of food (p=0.000518)
+Captions for image 61444881_617578608724209_3497370124385997118_n.jpg:
+  0) a brick building with a clock on the side of it . (p=0.000072)
+  1) a brick building with a clock on the front . (p=0.000063)
+  2) a brick building with a clock on the front of it . (p=0.000060)
+Captions for image 61386036_143643993446689_2289726165565712693_n.jpg:
+  0) a plate of food with a fork and knife . (p=0.000581)
+  1) a plate of food on a table (p=0.000470)
+  2) a plate of food with a fork and knife (p=0.000373)
+Captions for image 60359691_447315209404484_3902035528513719240_n.jpg:
+  0) a large building with a clock on it . (p=0.000613)
+  1) a large building with a clock on it (p=0.000482)
+  2) a large building with a clock on the top . (p=0.000369)
+Captions for image 60717384_176713743324586_35906744732250715_n.jpg:
+  0) a white bowl filled with fruit on top of a table . (p=0.000091)
+  1) a white bowl filled with fruit sitting on top of a table . (p=0.000049)
+  2) a white bowl filled with fruit on top of a wooden table . (p=0.000025)
+Captions for image 60782952_170858457254575_7676458354543825998_n.jpg:
+  0) a clock tower in the middle of a river . (p=0.000172)
+  1) a clock tower in the middle of a lake . (p=0.000102)
+  2) a clock tower in the middle of a river (p=0.000080)
+Captions for image 59897327_142211766932660_1574546775319277551_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.003671)
+  1) a close up of a plate of food with a sandwich (p=0.001971)
+  2) a close up of a plate of food with meat (p=0.001909)
+Captions for image 60946498_1488675317938801_3098413793608269643_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000514)
+  1) a large building with a clock tower in the center . (p=0.000171)
+  2) a large building with a clock tower in the middle . (p=0.000164)
+Captions for image 60368737_644896319319361_2625357025446259111_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001368)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.000936)
+  2) a bottle of wine and a bottle of wine (p=0.000354)
+Captions for image 60360979_715523102210518_571856520472070648_n.jpg:
+  0) a panda bear sitting on top of a rock . (p=0.000178)
+  1) a panda bear sitting on top of a pile of rocks . (p=0.000056)
+  2) a panda bear sitting on top of a wooden bench . (p=0.000040)
+Captions for image 60577951_313389582908493_2042906699070335157_n.jpg:
+  0) a bottle of wine and a glass on a table . (p=0.000007)
+  1) a bottle of beer and a glass of orange juice . (p=0.000002)
+  2) a bottle of wine and a glass of wine . (p=0.000002)
+Captions for image 60260586_404687166783620_5571167365466086655_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000664)
+  1) a tall building with a clock on the top of it . (p=0.000329)
+  2) a tall building with a clock on it (p=0.000261)
+Captions for image 59542732_2389303794622932_573290862344359228_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001468)
+  1) a clock tower in the middle of a city . (p=0.000425)
+  2) a clock tower in the middle of a city (p=0.000197)
+Captions for image 60078428_439179670218585_1216128590084082112_n.jpg:
+  0) a park area with benches and trees in the background . (p=0.000038)
+  1) a park area with benches and trees and trees . (p=0.000027)
+  2) a park area with benches and trees in the background (p=0.000009)
+Captions for image 60988056_312151556348851_1370408004691183051_n.jpg:
+  0) a white plate topped with a cut in half sandwich . (p=0.001053)
+  1) a white plate topped with a sandwich and a bowl of soup . (p=0.000581)
+  2) a white plate topped with a cut in half sandwich and a bowl of soup . (p=0.000088)
+Captions for image 60841371_2316294455314695_6869095400680136629_n.jpg:
+  0) a street sign on a pole on a city street (p=0.000426)
+  1) a street sign on the side of a road . (p=0.000225)
+  2) a street sign on the corner of a street . (p=0.000218)
+Captions for image 60736720_137530200651775_3433920051969615534_n.jpg:
+  0) a man riding a skateboard down a street . (p=0.000165)
+  1) a group of people walking down a street . (p=0.000154)
+  2) a group of people walking down a street next to tall buildings . (p=0.000055)
+Captions for image 58858154_400152437238242_4407343679475728607_n.jpg:
+  0) a plate of food and a drink on a table . (p=0.000304)
+  1) a plate of food and a drink on a table (p=0.000056)
+  2) a plate of food and a glass of wine (p=0.000045)
+Captions for image 58787630_1552112734924446_6683267055940055711_n.jpg:
+  0) a brown dog sitting on top of a wooden table . (p=0.000124)
+  1) a brown dog sitting on top of a wooden chair . (p=0.000051)
+  2) a brown dog sitting on top of a table next to a man . (p=0.000002)
+Captions for image 59592275_847312172286143_1650058803824387991_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.002688)
+  1) a living room with a couch and a table (p=0.000836)
+  2) a living room filled with furniture and a large window . (p=0.000630)
+Captions for image 60238265_1122763171263661_7621286140718986033_n.jpg:
+  0) a store front of a restaurant with a sign on it . (p=0.000001)
+  1) a store front of a restaurant with a sign on the side of it . (p=0.000000)
+  2) a store front of a restaurant with a sign on it (p=0.000000)
+Captions for image 59631132_559646711225741_1990706396041243845_n.jpg:
+  0) a table with a plate of food on it (p=0.000430)
+  1) a table with a plate of food and a bottle of wine (p=0.000095)
+  2) a table with a plate of food and a glass of wine (p=0.000086)
+Captions for image 58740235_116348706238452_4999316977327049957_n.jpg:
+  0) a bathroom with a tub , toilet and sink . (p=0.000053)
+  1) a bathroom with a tub , toilet , and sink . (p=0.000022)
+  2) a bathroom with a tub , toilet and sink (p=0.000012)
+Captions for image 58409223_143408833486594_2137072161730860623_n.jpg:
+  0) a plate of food and a glass of wine . (p=0.000361)
+  1) a plate of food and a glass of wine (p=0.000230)
+  2) a glass of wine and a plate of food on a table . (p=0.000080)
+Captions for image 59330348_1032895787099778_4379573152731398539_n.jpg:
+  0) a living room with a couch a table and a tv (p=0.000106)
+  1) a living room with a table and a tv (p=0.000073)
+  2) a living room with a couch a table and a television (p=0.000065)
+Captions for image 58664067_392012918194102_6984542381254952536_n.jpg:
+  0) a living room with a table and chairs (p=0.000059)
+  1) a living room with a couch and a table (p=0.000041)
+  2) a living room with a couch and chairs (p=0.000020)
+Captions for image 59376428_626721267752286_3524281885503816107_n.jpg:
+  0) a couple of wine glasses sitting on a table . (p=0.001819)
+  1) a couple of wine glasses sitting on top of a table . (p=0.001201)
+  2) a couple of glasses of wine sitting on a table . (p=0.000787)
+Captions for image 59930918_457428465063332_1083489396031732015_n.jpg:
+  0) a blue and yellow fire hydrant sitting on a sidewalk . (p=0.000015)
+  1) a blue and yellow fire hydrant sitting next to a wall . (p=0.000012)
+  2) a blue and white fire hydrant sitting on a sidewalk . (p=0.000011)
+Captions for image 58409888_591049908066177_6838800781585583050_n.jpg:
+  0) a plate of food with a sandwich and french fries . (p=0.000017)
+  1) a tray of food that includes a sandwich and french fries . (p=0.000012)
+  2) a plate of food with a sandwich and a drink . (p=0.000006)
+Captions for image 59699152_148588186192802_7474165246824654817_n.jpg:
+  0) a clock on the side of a building . (p=0.000784)
+  1) a clock on the side of a building (p=0.000544)
+  2) a clock on the side of a brick building . (p=0.000316)
+Captions for image 57488331_241461616718004_186246148153233431_n.jpg:
+  0) a window that has a sign on it . (p=0.000003)
+  1) a window that has a sign on it (p=0.000001)
+  2) a window that has a bird on it (p=0.000001)
+Captions for image 60853483_460208254788381_409886481082633529_n.jpg:
+  0) a television that is sitting on a wall . (p=0.000403)
+  1) a television that is on top of a wall . (p=0.000171)
+  2) a television that is on top of a wall (p=0.000017)
+Captions for image 58831715_416029519215460_5671505086429381928_n.jpg:
+  0) a white plate topped with a slice of pizza . (p=0.000722)
+  1) a plate of food with a fork and knife . (p=0.000284)
+  2) a plate of food with a fork and knife (p=0.000190)
+Captions for image 60522625_1301653446664160_3338926577318801841_n.jpg:
+  0) a small boat in a body of water (p=0.001607)
+  1) a group of boats floating on top of a lake . (p=0.000439)
+  2) a group of boats floating on top of a body of water . (p=0.000274)
+Captions for image 58409737_383359662250948_3266146919321318979_n.jpg:
+  0) a vase filled with lots of purple flowers . (p=0.001507)
+  1) a vase filled with purple flowers on a table . (p=0.000723)
+  2) a vase filled with lots of flowers on top of a table . (p=0.000715)
+Captions for image 57787324_390388245143295_6847982760936000971_n.jpg:
+  0) a large clock tower towering over a city . (p=0.003353)
+  1) a tall clock tower towering over a city . (p=0.001210)
+  2) a clock tower in the middle of a river . (p=0.000539)
+Captions for image 58790409_2935249953153629_7964465741526042472_n.jpg:
+  0) a plate of food on a dining table . (p=0.000347)
+  1) a plate of food on a dining table (p=0.000129)
+  2) a plate of food on a table with a drink (p=0.000035)
+Captions for image 57156443_2115834118470464_4577325711070903533_n.jpg:
+  0) a group of people standing around a table with a cake . (p=0.000003)
+  1) a group of people standing in front of a table filled with cakes . (p=0.000001)
+  2) a group of people standing in front of a table filled with food . (p=0.000000)
+Captions for image 57009241_352985145331656_8727121352548179302_n.jpg:
+  0) a glass of wine and a glass of wine (p=0.000086)
+  1) a bottle of wine and a glass of wine on a table . (p=0.000072)
+  2) a bottle of wine and a glass of wine (p=0.000066)
+Captions for image 57247144_546918255832073_5652092294739784662_n.jpg:
+  0) a plate of food and a glass of wine (p=0.000278)
+  1) a plate of food on a table with a glass of wine . (p=0.000083)
+  2) a plate of food on a table with a glass of wine (p=0.000078)
+Captions for image 58410332_741423349585221_1676083332953017570_n.jpg:
+  0) a statue of a man on top of a horse . (p=0.000082)
+  1) a statue of a man riding a horse in front of a building . (p=0.000064)
+  2) a statue of a man on a horse in front of a building . (p=0.000047)
+Captions for image 57457111_413529759195715_9210932695188879119_n.jpg:
+  0) a man riding a motorcycle down a street . (p=0.005591)
+  1) a man riding a motorcycle down a city street . (p=0.002872)
+  2) a man riding a motorcycle down the street (p=0.000593)
+Captions for image 56830211_134503757691561_2302903790558217004_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.000847)
+  1) a group of people sitting on a bench in a park . (p=0.000102)
+  2) a group of people sitting on a bench near a river . (p=0.000026)
+Captions for image 56635277_417183709068557_3034173879799267937_n.jpg:
+  0) a sign that says `` <UNK> '' on a wall . (p=0.000001)
+  1) a sign that says `` <UNK> '' in front of a building . (p=0.000001)
+  2) a sign that says `` <UNK> '' in front of a store . (p=0.000001)
+Captions for image 57104324_410511386410515_8347953825900042723_n.jpg:
+  0) a plate of food on a table (p=0.000174)
+  1) a plate of food on a table with a fork (p=0.000010)
+  2) a plate of food on a table with a glass of wine (p=0.000006)
+Captions for image 56166673_441628779915576_3609077996790967725_n.jpg:
+  0) a group of people riding bikes down a street . (p=0.007123)
+  1) a group of people riding bikes down a city street . (p=0.001606)
+  2) a man riding a bike down a street next to tall buildings . (p=0.000068)
+Captions for image 57840103_419316052235042_3371820088537555234_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.002263)
+  1) a table topped with plates of food and bowls of food . (p=0.000291)
+  2) a table topped with plates and bowls of food (p=0.000041)
+Captions for image 56732825_404385690396909_2411157856353954396_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002062)
+  1) a city street filled with lots of traffic and traffic . (p=0.000111)
+  2) a group of people walking down a street next to tall buildings . (p=0.000048)
+Captions for image 57822051_227833991548237_962575255950066936_n.jpg:
+  0) a bouquet of flowers in a vase on a table . (p=0.000412)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000396)
+  2) a bouquet of flowers in a clear vase . (p=0.000321)
+Captions for image 57393821_183848182602263_1819164527183639778_n.jpg:
+  0) a large body of water with a sky background (p=0.000152)
+  1) a large body of water with a mountain in the background . (p=0.000122)
+  2) a large body of water with a mountain in the background (p=0.000079)
+Captions for image 52417481_1262059443941851_9128661664192962343_n.jpg:
+  0) a close up of a box of doughnuts (p=0.000681)
+  1) a close up of a plastic container of food (p=0.000165)
+  2) a close up of a box of doughnuts on a table (p=0.000132)
+Captions for image 55776552_444291022983363_1376204093650815423_n.jpg:
+  0) a sign that reads `` <UNK> '' on a wall . (p=0.000002)
+  1) a sign that says `` <UNK> '' on it 's side . (p=0.000001)
+  2) a sign that says `` <UNK> '' on a wall . (p=0.000001)
+Captions for image 54513188_520582735012711_6982616959703218357_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000444)
+  1) a tall building with a clock on it (p=0.000292)
+  2) a tall building with a clock on the top of it . (p=0.000244)
+Captions for image 54800771_327833604449028_7921090909798977589_n.jpg:
+  0) a group of people standing around a train . (p=0.001165)
+  1) a group of people standing next to a train . (p=0.000795)
+  2) a group of people standing next to each other at a train station . (p=0.000117)
+Captions for image 56800942_375308259731240_3354935030660264187_n.jpg:
+  0) a plate of food that includes rice and vegetables . (p=0.000097)
+  1) a plate of food that includes rice , meat and vegetables . (p=0.000015)
+  2) a plate of food that includes rice and vegetables (p=0.000004)
+Captions for image 56485994_632406197585342_343456503371239884_n.jpg:
+  0) a pizza sitting on top of a white plate . (p=0.004760)
+  1) a pizza sitting on top of a white plate on a table . (p=0.002763)
+  2) a pizza sitting on top of a wooden cutting board . (p=0.002701)
+Captions for image 56775874_2288286914830910_8162947626260044284_n.jpg:
+  0) a group of people walking down a street . (p=0.001159)
+  1) a group of people walking down a street next to tall buildings . (p=0.000360)
+  2) a crowd of people walking down a street next to tall buildings . (p=0.000304)
+Captions for image 54512737_130223674785018_6135970702488342421_n.jpg:
+  0) a woman holding a plate of food in front of her . (p=0.000195)
+  1) a woman holding a plate of food in front of her (p=0.000052)
+  2) a woman holding a plate of food in front of her face . (p=0.000037)
+Captions for image 56781249_324328694892744_5621081064591669439_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000645)
+  1) a clock tower in the middle of a city (p=0.000242)
+  2) a large building with a clock on it (p=0.000213)
+Captions for image 54513556_2452381774993725_3787922438969190815_n.jpg:
+  0) a box filled with different types of donuts . (p=0.002520)
+  1) a box filled with lots of different flavored donuts . (p=0.001803)
+  2) a box filled with different flavored donuts sitting on top of a table . (p=0.000141)
+Captions for image 54447040_373508399916447_6731799446134828566_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.001329)
+  1) a close up of a plate of food on a table (p=0.001265)
+  2) a close up of a pizza on a plate (p=0.000979)
+Captions for image 54446716_309991709690163_5384083261423596526_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000375)
+  1) a large building with a clock tower in the middle . (p=0.000189)
+  2) a large building with a clock tower in the center . (p=0.000133)
+Captions for image 54513687_659717137803481_7761323578217048215_n.jpg:
+  0) a close up of a pair of scissors (p=0.000272)
+  1) a close up of a person holding a pair of scissors (p=0.000179)
+  2) a close up of a pair of scissors on a table (p=0.000049)
+Captions for image 55847255_573202663090349_1010263692953068473_n.jpg:
+  0) a close up of a pair of scissors (p=0.000167)
+  1) a close up of a pair of scissors on a table (p=0.000036)
+  2) a close up of a pair of scissors on a sheet (p=0.000005)
+Captions for image 54731538_430472944356862_5269670630427847258_n.jpg:
+  0) a birthday cake with a train on it (p=0.000086)
+  1) a birthday cake with a train on it . (p=0.000061)
+  2) a birthday cake with a train on top (p=0.000010)
+Captions for image 54800623_414213119346186_5700060047122737031_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.001053)
+  1) a glass of wine sitting on top of a wooden table . (p=0.000272)
+  2) a glass of wine sitting on a table next to a glass of wine . (p=0.000049)
+Captions for image 54513040_355779825146079_7427869449168972223_n.jpg:
+  0) a building with a clock on the side of it (p=0.000287)
+  1) a clock tower in the middle of a city . (p=0.000219)
+  2) a building with a clock on the side of it . (p=0.000218)
+Captions for image 54248003_397681307736751_5495729544358802441_n.jpg:
+  0) a dining room with a table and chairs (p=0.000060)
+  1) a dining room table with two chairs and a table . (p=0.000008)
+  2) a dining room with a table and a table (p=0.000008)
+Captions for image 54800648_398408310940976_5531081854602732142_n.jpg:
+  0) a city street at night with a traffic light . (p=0.000051)
+  1) a city street at night with a red light (p=0.000014)
+  2) a city street at night with a traffic light on it . (p=0.000007)
+Captions for image 54018069_2384499078461796_8153206357973652618_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001071)
+  1) a large clock tower towering over a city at night . (p=0.000512)
+  2) a large building with a clock tower in the center . (p=0.000044)
+Captions for image 53512218_338775976981471_274395298928372915_n.jpg:
+  0) a man is standing on a bridge in the water . (p=0.000035)
+  1) a man is standing on a dock in the water . (p=0.000035)
+  2) a man is standing on a dock in the water (p=0.000011)
+Captions for image 53747581_312703736035010_1400394826987907198_n.jpg:
+  0) a group of people walking down a street . (p=0.001473)
+  1) a group of people walking down a street next to tall buildings . (p=0.000368)
+  2) a group of people walking down a street next to a building . (p=0.000185)
+Captions for image 54513115_422553995215548_4591934786734692139_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.000841)
+  1) a close up of a plate of food on a table (p=0.000634)
+  2) a close up of a plate of food (p=0.000455)
+Captions for image 56244857_341453836538408_2228538723727591389_n.jpg:
+  0) a pizza sitting on top of a pizza pan . (p=0.000981)
+  1) a pizza sitting on top of a pan on a table . (p=0.000835)
+  2) a pizza sitting on top of a pan on top of a table . (p=0.000496)
+Captions for image 53073134_571809396640642_2745215452215343837_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000578)
+  1) a train traveling over a bridge over a body of water . (p=0.000187)
+  2) a train traveling down train tracks next to a river . (p=0.000104)
+Captions for image 54247892_812693045777917_6510851166416519913_n.jpg:
+  0) a pizza sitting on top of a wooden table . (p=0.000111)
+  1) a pizza sitting on top of a pan covered in toppings . (p=0.000108)
+  2) a pizza sitting on top of a pan covered in cheese . (p=0.000092)
+Captions for image 53543365_2296058450445345_1897952078204712798_n.jpg:
+  0) a building with a large clock on the wall . (p=0.000015)
+  1) a building with a large clock on the wall (p=0.000013)
+  2) a building with a large window and a clock (p=0.000002)
+Captions for image 53109516_267518464172148_8031531824896313346_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000091)
+  1) a large building with a clock tower on top of it . (p=0.000080)
+  2) a large building with a clock on the side of it . (p=0.000065)
+Captions for image 54247305_369700446957063_8505089615520769582_n.jpg:
+  0) a statue of a man sitting on a bench . (p=0.000431)
+  1) a statue of a man sitting on a park bench . (p=0.000161)
+  2) a statue of a man is sitting on a bench . (p=0.000160)
+Captions for image 53558656_1066786276841781_8898269298743905725_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.000589)
+  1) a white plate topped with meat , potatoes and vegetables . (p=0.000154)
+  2) a white plate topped with meat , potatoes and veggies . (p=0.000090)
+Captions for image 53595451_418177742281249_3969530372804997664_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.004347)
+  1) a white plate topped with meat and veggies . (p=0.002339)
+  2) a white plate topped with meat , potatoes and veggies . (p=0.000720)
+Captions for image 47585306_316052942361071_430564043727672016_n.jpg:
+  0) a woman holding a cell phone in her hand . (p=0.000263)
+  1) a woman holding a cell phone up to her ear . (p=0.000240)
+  2) a woman holding a cell phone to her ear . (p=0.000126)
+Captions for image 52987475_564914887341716_1470655707334601937_n.jpg:
+  0) a group of people standing next to each other . (p=0.000644)
+  1) a woman and a man pose for a picture . (p=0.000231)
+  2) a woman and a man are posing for a picture . (p=0.000136)
+Captions for image 55935299_127176611783063_4868095829626907291_n.jpg:
+  0) a large building with a clock on it . (p=0.000681)
+  1) a large building with a clock on the top . (p=0.000497)
+  2) a large building with a clock on it (p=0.000444)
+Captions for image 52843950_2280730358851175_3158994118984223870_n.jpg:
+  0) a group of stuffed animals sitting on top of a table . (p=0.000274)
+  1) a group of teddy bears sitting on top of a table . (p=0.000230)
+  2) a group of teddy bears sitting on a table . (p=0.000150)
+Captions for image 52720517_381460325774565_6517321758312775290_n.jpg:
+  0) a group of people walking down a street . (p=0.000195)
+  1) a group of people walking down a street next to tall buildings . (p=0.000096)
+  2) a group of people standing on top of a tall building . (p=0.000055)
+Captions for image 52944700_304285283543518_4571579465303452395_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000431)
+  1) a large building with a clock tower on top of it . (p=0.000172)
+  2) a large building with a clock tower in the middle . (p=0.000155)
+Captions for image 54512320_2540430596032007_1435018214100976772_n.jpg:
+  0) a plate of food on a table with a drink (p=0.000093)
+  1) a plate of food on a table with a cup of coffee (p=0.000086)
+  2) a plate of food on a table with a cup of coffee . (p=0.000067)
+Captions for image 52006377_101877860936158_6928137640834896571_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001455)
+  1) a city street filled with traffic and traffic lights . (p=0.000258)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000066)
+Captions for image 47694814_764691567242049_1182499469382436349_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001359)
+  1) a large clock tower towering over a city at night . (p=0.000663)
+  2) a large building with a clock tower in the center . (p=0.000077)
+Captions for image 51816648_413216469247854_5368238893900952451_n.jpg:
+  0) a bathroom that has a tub and a toilet in it (p=0.000053)
+  1) a bathroom with a tub , toilet and a window . (p=0.000036)
+  2) a bathroom that has a tub and a toilet in it . (p=0.000021)
+Captions for image 52561575_147047392981917_7946753438044166013_n.jpg:
+  0) a table topped with lots of different flavored donuts . (p=0.000631)
+  1) a table topped with lots of different types of donuts . (p=0.000279)
+  2) a table topped with lots of different types of cakes . (p=0.000088)
+Captions for image 51944549_805299289862928_2552459836743764573_n.jpg:
+  0) a piece of chocolate cake on a white plate . (p=0.002489)
+  1) a piece of cake on a plate with a fork . (p=0.001780)
+  2) a piece of chocolate cake on a plate (p=0.001187)
+Captions for image 53192822_1121095954728259_8666490058461633864_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001886)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000159)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000089)
+Captions for image 53123389_119137482560398_2860710905814259014_n.jpg:
+  0) a large body of water with boats floating on top of it . (p=0.000126)
+  1) a large body of water with boats in it . (p=0.000122)
+  2) a large body of water with boats floating on it . (p=0.000085)
+Captions for image 52029420_196976451260161_4137018570994868028_n.jpg:
+  0) a city street at night with a red light . (p=0.000035)
+  1) a city street at night with a red light (p=0.000018)
+  2) a city street at night with a red traffic light . (p=0.000017)
+Captions for image 53347711_330765440890481_6328089851896138783_n.jpg:
+  0) a car parked in front of a tall building . (p=0.000236)
+  1) a car driving down a street next to a tall building . (p=0.000100)
+  2) a car parked in front of a building with a clock tower . (p=0.000028)
+Captions for image 51790173_251848545738353_5419066019499513870_n.jpg:
+  0) a red fire hydrant in front of a building . (p=0.000231)
+  1) a red fire hydrant sitting on the side of a road . (p=0.000151)
+  2) a fire hydrant in front of a building (p=0.000150)
+Captions for image 51679247_150030835997586_3674945401384046123_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001258)
+  1) a city street filled with lots of tall buildings . (p=0.000227)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000073)
+Captions for image 51367037_422850495149787_7589125571484216127_n.jpg:
+  0) a sandwich and french fries on a plate . (p=0.002919)
+  1) a sandwich and french fries on a white plate . (p=0.001265)
+  2) a sandwich and french fries on a plate (p=0.001169)
+Captions for image 51790176_1991988537776964_3906663007168020217_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001202)
+  1) a bottle of wine and a wine glass on a table . (p=0.000590)
+  2) a bottle of wine and a wine glass on a table (p=0.000178)
+Captions for image 51722753_602738030189079_6824232612447024640_n.jpg:
+  0) a table topped with two plates of food . (p=0.000137)
+  1) a table topped with two plates of pizza . (p=0.000130)
+  2) a table topped with two pizzas and a bowl of salad . (p=0.000015)
+Captions for image 51520514_631859673914832_8590454597953022462_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.001128)
+  1) a living room filled with furniture and a table . (p=0.000357)
+  2) a living room filled with furniture and a large window . (p=0.000340)
+Captions for image 53215453_143073746715174_7924919941463383452_n.jpg:
+  0) a group of people walking down a street . (p=0.002137)
+  1) a group of people walking down a street next to tall buildings . (p=0.001123)
+  2) a crowd of people walking down a street next to tall buildings . (p=0.000732)
+Captions for image 52106884_310116106359936_5925966091845590216_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.001067)
+  1) a large clock mounted to the side of a wall . (p=0.000581)
+  2) a large clock mounted to the side of a brick building . (p=0.000084)
+Captions for image 52974704_314457876092193_4768683976329948868_n.jpg:
+  0) a close up of a vase with a flower in it (p=0.000028)
+  1) a close up of a vase with a flower in it . (p=0.000003)
+  2) a close up of a cup of coffee and a stuffed animal (p=0.000001)
+Captions for image 52895389_401324740434258_552818121135593926_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001697)
+  1) a city street filled with lots of traffic and tall buildings . (p=0.000093)
+  2) a city street with cars parked on the side . (p=0.000077)
+Captions for image 47691560_348883449027832_4541968339825551744_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000419)
+  1) a large clock tower towering over a city at night . (p=0.000280)
+  2) a bridge over a river with a clock tower . (p=0.000029)
+Captions for image 51665107_389807205180421_1067601795507820051_n.jpg:
+  0) a bowl filled with fruit on top of a table . (p=0.000124)
+  1) a bowl filled with fruit sitting on top of a table . (p=0.000097)
+  2) a bowl filled with fruit on top of a wooden table . (p=0.000060)
+Captions for image 49522035_412552319317976_6823320555405950007_n.jpg:
+  0) a tall building with a clock on it (p=0.000394)
+  1) a large building with a clock on the top . (p=0.000283)
+  2) a large building with a clock on the top of it . (p=0.000213)
+Captions for image 50790061_289066748445055_4631565692863638165_n.jpg:
+  0) a slice of pizza sitting on top of a white plate . (p=0.002153)
+  1) a slice of pizza sitting on top of a plate . (p=0.000545)
+  2) a slice of pizza sitting on top of a white plate on a table . (p=0.000060)
+Captions for image 50687436_325225961442425_3889722537171363599_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.001186)
+  1) a large clock tower in the middle of a city . (p=0.000681)
+  2) a clock tower in the middle of a city (p=0.000407)
+Captions for image 50545415_1336352389852720_4410030952685451197_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000030)
+  1) a sign that is on the side of a wall . (p=0.000005)
+  2) a sign that is on a wall in a building . (p=0.000003)
+Captions for image 50576489_383006575863460_3686646739730509354_n.jpg:
+  0) a tray of food that is on a table . (p=0.000145)
+  1) a tray of food that is sitting on a table . (p=0.000087)
+  2) a tray of food that is on a table (p=0.000047)
+Captions for image 50229699_286468692049286_6372078337380073086_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000552)
+  1) a large clock tower towering over a city at night . (p=0.000251)
+  2) a city street with a clock tower in the background . (p=0.000019)
+Captions for image 50740943_295160581201679_5616820906568758336_n.jpg:
+  0) a black and white photo of a city street (p=0.000505)
+  1) a black and white photo of a city street . (p=0.000460)
+  2) a black and white photo of a city street at night . (p=0.000209)
+Captions for image 50703691_2727736783918223_217349726368413019_n.jpg:
+  0) a pizza sitting on top of a white plate . (p=0.003686)
+  1) a pizza sitting on top of a white plate on a table . (p=0.002111)
+  2) a pizza sitting on top of a white plate on top of a table . (p=0.000663)
+Captions for image 51466899_1008231499366732_1131468518122507954_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001655)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000303)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000112)
+Captions for image 50699784_768082380233296_4792796486998653364_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.000736)
+  1) a city street filled with lots of tall buildings . (p=0.000418)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000079)
+Captions for image 50250890_758486404519888_6882681376411422342_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000534)
+  1) a large building with a clock tower in the middle . (p=0.000259)
+  2) a large building with a clock tower in the center . (p=0.000223)
+Captions for image 50060920_2198787790383735_4748449473123906992_n.jpg:
+  0) a kitchen with a stove and a microwave (p=0.000114)
+  1) a kitchen with a stove , sink and microwave . (p=0.000050)
+  2) a kitchen with a stove , sink and microwave (p=0.000005)
+Captions for image 50241666_2780764798815812_4324477943262500721_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.000607)
+  1) a plate of food with meat and vegetables . (p=0.000364)
+  2) a white plate topped with meat and veggies . (p=0.000283)
+Captions for image 49997672_127871864923982_2279756870879887251_n.jpg:
+  0) a large body of water with a mountain in the background . (p=0.000100)
+  1) a large body of water with a mountain in the background (p=0.000059)
+  2) a large body of water with a mountain in the distance . (p=0.000024)
+Captions for image 50863771_236775263876336_4540429172039110846_n.jpg:
+  0) a white plate topped with a sandwich and salad . (p=0.000207)
+  1) a white plate topped with a sandwich and a salad . (p=0.000142)
+  2) a white plate topped with a salad and a sandwich . (p=0.000110)
+Captions for image 50122741_1871511129638750_5776605038501395210_n.jpg:
+  0) a man standing in front of a building holding a skateboard . (p=0.000040)
+  1) a man standing in front of a building holding a bat . (p=0.000024)
+  2) a man standing in front of a building with a skateboard . (p=0.000023)
+Captions for image 50196371_1162926063886010_6261590457369541821_n.jpg:
+  0) a large building with a clock on the front of it . (p=0.000007)
+  1) a large building with a clock tower in the middle . (p=0.000007)
+  2) a large building with a clock tower in the center . (p=0.000006)
+Captions for image 50019892_296297121080120_2838134395192110158_n.jpg:
+  0) a group of wine glasses sitting on a table . (p=0.002134)
+  1) a group of wine glasses sitting on top of a table . (p=0.001725)
+  2) a bunch of wine glasses sitting on a table . (p=0.001264)
+Captions for image 49844026_2295242254132870_7963680849025774590_n.jpg:
+  0) a large building with a clock on it (p=0.000025)
+  1) a large building with a clock tower in the center . (p=0.000023)
+  2) a large building with a clock on the side of it . (p=0.000018)
+Captions for image 50530676_306937116481640_5971911517822265875_n.jpg:
+  0) a hot dog and french fries on a plate . (p=0.000893)
+  1) a plate with a sandwich and french fries . (p=0.000558)
+  2) a hot dog and french fries on a plate (p=0.000210)
+Captions for image 49796463_298284270877927_225603849365473704_n.jpg:
+  0) a brown and white dog standing on top of a sidewalk . (p=0.000049)
+  1) a brown and white dog standing on a sidewalk . (p=0.000044)
+  2) a brown and white dog standing on top of a street . (p=0.000024)
+Captions for image 50335324_241931696699532_6625095840259804799_n.jpg:
+  0) a bowl of food sitting on top of a table . (p=0.000211)
+  1) a bowl of food sitting on a table . (p=0.000197)
+  2) a bowl of food sitting on top of a counter . (p=0.000133)
+Captions for image 50857252_2100751810215586_270642997185950379_n.jpg:
+  0) a group of people standing around a train station . (p=0.000354)
+  1) a group of people standing around a luggage carousel . (p=0.000155)
+  2) a group of people standing around a train . (p=0.000137)
+Captions for image 49696391_2271454966463596_1135852860340669938_n.jpg:
+  0) a train is pulling into a train station . (p=0.000991)
+  1) a train station with a train on the tracks . (p=0.000196)
+  2) a train is pulling into a train station (p=0.000142)
+Captions for image 50019889_288440528538608_2507991227221313423_n.jpg:
+  0) a large bridge spanning the width of a river . (p=0.001461)
+  1) a large body of water next to a bridge . (p=0.000168)
+  2) a large body of water with a bridge in the background . (p=0.000145)
+Captions for image 49791074_2232273493687777_1480144375193066383_n.jpg:
+  0) a teddy bear sitting on a chair in a room . (p=0.000129)
+  1) a teddy bear sitting on a table in a room . (p=0.000079)
+  2) a teddy bear sitting on a table in a restaurant . (p=0.000069)
+Captions for image 47107734_1930141983770367_4725468070040011605_n.jpg:
+  0) a group of people standing next to each other . (p=0.000025)
+  1) a group of people that are standing in front of a wall . (p=0.000006)
+  2) a group of people that are standing in front of a clock . (p=0.000005)
+Captions for image 49687280_409516083126819_7489899368569491045_n.jpg:
+  0) a cup of coffee sitting next to a banana . (p=0.000185)
+  1) a banana and a cup of coffee on a table . (p=0.000182)
+  2) a cup of coffee and a banana on a table . (p=0.000141)
+Captions for image 45622370_329768204297659_9036201492443567611_n.jpg:
+  0) a close up of a plate of food on a table (p=0.001546)
+  1) a close up of a plate of food (p=0.001157)
+  2) a close up of a plate of food with meat (p=0.000876)
+Captions for image 49858648_902751899929558_4917954872410407392_n.jpg:
+  0) a tall building with a clock on top of it . (p=0.000139)
+  1) a large building with a clock on the top of it . (p=0.000058)
+  2) a large building with a clock tower in the middle of it . (p=0.000028)
+Captions for image 50481124_165692704410461_6448397452154088447_n.jpg:
+  0) a picture of a book on a table . (p=0.000026)
+  1) a picture of a book on a desk . (p=0.000026)
+  2) a picture of a book and a book . (p=0.000008)
+Captions for image 49505747_2086949064699737_3345228447358885227_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.001179)
+  1) a table topped with plates of food and cups of coffee . (p=0.000529)
+  2) a table topped with plates of food and a cup of coffee . (p=0.000207)
+Captions for image 49319637_2232131990367997_4894830038974706478_n.jpg:
+  0) a stop sign with a sticker on it . (p=0.000021)
+  1) a stop sign with a sticker on it (p=0.000019)
+  2) a sign that says `` <UNK> '' on it 's side . (p=0.000003)
+Captions for image 49608788_566405647165705_1734413161692182154_n.jpg:
+  0) a white plate topped with rice and vegetables . (p=0.000612)
+  1) a plate of food that includes rice and vegetables . (p=0.000255)
+  2) a plate of food that includes rice , meat and vegetables . (p=0.000054)
+Captions for image 47582745_232332484326615_4830836597418196972_n.jpg:
+  0) a group of people walking down a street . (p=0.003353)
+  1) a crowd of people walking down a street . (p=0.001507)
+  2) a group of people walking down a street next to tall buildings . (p=0.000774)
+Captions for image 47692162_242486196649607_152089469075174842_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000168)
+  1) a clock tower in the middle of a building . (p=0.000095)
+  2) a clock tower in the middle of a city (p=0.000066)
+Captions for image 47694261_2292181957482552_6583642941146305601_n.jpg:
+  0) a plate of food with meat and vegetables . (p=0.000483)
+  1) a plate of food with meat and vegetables (p=0.000087)
+  2) a plate of food with a fork and a spoon . (p=0.000049)
+Captions for image 49327556_232700707629584_3456490250471411568_n.jpg:
+  0) a hot dog with mustard and ketchup on it . (p=0.000625)
+  1) a hot dog with mustard and ketchup on a bun . (p=0.000479)
+  2) a hot dog on a bun with mustard and ketchup . (p=0.000397)
+Captions for image 49294539_302645353700624_7706516788865167005_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000657)
+  1) a street sign that is on a pole . (p=0.000111)
+  2) a sign that is on the side of a pole . (p=0.000050)
+Captions for image 47694889_201248927406376_1304725524849836050_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000143)
+  1) a person holding a pair of scissors in their hands (p=0.000043)
+  2) a person holding a pair of scissors in front of a wall . (p=0.000008)
+Captions for image 47690059_2232447203456907_267224316579610423_n.jpg:
+  0) a city street with buildings and cars on it . (p=0.000038)
+  1) a city street with buildings and cars on it (p=0.000024)
+  2) a city street with buildings and cars on the street . (p=0.000022)
+Captions for image 47691112_667114563686284_2045430405179747500_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001179)
+  1) a large clock tower towering over a city at night . (p=0.001130)
+  2) a clock tower in the middle of a city . (p=0.000322)
+Captions for image 47691613_1617402418360791_257859173583939018_n.jpg:
+  0) a table topped with plates of food and a bowl of salad . (p=0.000055)
+  1) a plate of food on a table with a glass of wine . (p=0.000022)
+  2) a plate of food on a table with a glass of wine (p=0.000020)
+Captions for image 49831069_1277592602387969_8690835866294057603_n.jpg:
+  0) a large building with a clock on it (p=0.000246)
+  1) a large building with a clock on the side of it . (p=0.000210)
+  2) a large building with a clock on the front of it . (p=0.000177)
+Captions for image 47581356_949222935271592_7290214507589290801_n.jpg:
+  0) a large clock tower towering over a city . (p=0.002772)
+  1) a clock tower in the middle of a city . (p=0.000925)
+  2) a clock tower in the middle of a city (p=0.000347)
+Captions for image 47690543_2240134029384791_1628575629213956145_n.jpg:
+  0) a person holding a glass of wine in front of a window . (p=0.000011)
+  1) a person holding a bottle of wine in front of a window . (p=0.000007)
+  2) a person holding a glass of wine in front of a window (p=0.000003)
+Captions for image 47581891_208000556810065_2518694209392086721_n.jpg:
+  0) a city street at night with a traffic light . (p=0.000038)
+  1) a city street at night with traffic lights . (p=0.000034)
+  2) a city street at night with traffic lights (p=0.000022)
+Captions for image 49805649_269288017084655_1845184377116975355_n.jpg:
+  0) a cat sitting on top of a red chair . (p=0.000090)
+  1) a cat sitting on top of a couch next to a table . (p=0.000010)
+  2) a cat sitting on top of a couch next to a window . (p=0.000008)
+Captions for image 47500700_2099488286781123_710147305553246625_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000660)
+  1) a sign that is on the side of a wall . (p=0.000049)
+  2) a sign that is on the side of a pole . (p=0.000025)
+Captions for image 47584570_738308036562390_4728866059626431805_n.jpg:
+  0) a wooden table topped with plates of food . (p=0.001273)
+  1) a table topped with plates of food and a bowl of fruit . (p=0.000036)
+  2) a table topped with plates of food and a cup of coffee . (p=0.000033)
+Captions for image 47581973_125542708468265_4035618332398725978_n.jpg:
+  0) a tall clock tower with a sky background (p=0.005429)
+  1) a tall clock tower with a clock on each of it 's sides . (p=0.001043)
+  2) a tall clock tower with a clock on it 's side . (p=0.000310)
+Captions for image 47584656_2203265936403904_4315981726041647643_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.003760)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.001912)
+  2) a bottle of wine sitting on top of a wooden table . (p=0.001770)

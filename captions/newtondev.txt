@@ -1,0 +1,16 @@
+Captions for image 1515967_1578168492407541_203729490_n.jpg:
+  0) a table with a bunch of books on it (p=0.000038)
+  1) a table topped with a book and a book . (p=0.000011)
+  2) a table topped with a book and a laptop . (p=0.000008)
+Captions for image 11226715_798082316944067_392077758_n.jpg:
+  0) a birthday cake with candles on a table (p=0.000059)
+  1) a birthday cake with candles on a table . (p=0.000050)
+  2) a birthday cake with candles on a table with candles . (p=0.000001)
+Captions for image 11192829_1431039380533644_1361250986_n.jpg:
+  0) a young boy sitting at a table with a plate of food . (p=0.000745)
+  1) a little boy sitting at a table with a plate of food . (p=0.000710)
+  2) a little boy sitting at a table with a cake . (p=0.000359)
+Captions for image 11887100_976260949078969_457815977_a.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000149)
+  1) a man in a suit and tie is smiling (p=0.000069)
+  2) a man in a suit and tie looking at his cell phone . (p=0.000034)

@@ -1,0 +1,44 @@
+Captions for image 31072975_123530988510073_1762770314762125312_n.jpg:
+  0) a black and white photo of a city street (p=0.001214)
+  1) a black and white photo of a city street . (p=0.000832)
+  2) a black and white photo of a street with a street light (p=0.000027)
+Captions for image 57116473_399451537273148_6118010162432180224_n.jpg:
+  0) a woman in a red dress and a red tie (p=0.000006)
+  1) a woman in a red dress and a red tie . (p=0.000004)
+  2) a woman in a red dress and a white dress (p=0.000001)
+Captions for image 33372330_862188140635439_6698973225872785408_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.000507)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000360)
+  2) a vase filled with flowers on top of a wooden table . (p=0.000280)
+Captions for image 41994124_475586712948113_8821418732340292813_n.jpg:
+  0) a black and white photo of a fire place . (p=0.000033)
+  1) a black and white photo of a fire hydrant . (p=0.000033)
+  2) a black and white photo of a fire hydrant (p=0.000030)
+Captions for image 32708347_400859163727009_3522417977846661120_n.jpg:
+  0) a couple of birds sitting on top of a tree . (p=0.000451)
+  1) a group of birds sitting on top of a tree . (p=0.000423)
+  2) a couple of trees that are in the snow . (p=0.000138)
+Captions for image 31694934_196197794350262_7702436920915132416_n.jpg:
+  0) a man in a suit and tie holding a teddy bear . (p=0.000016)
+  1) a man in a tie is holding a knife (p=0.000015)
+  2) a man in a suit and tie holding a knife . (p=0.000009)
+Captions for image 31326671_588982091464192_6075072665704464384_n.jpg:
+  0) a bird perched on top of a tree branch . (p=0.001316)
+  1) a bird perched on top of a tree . (p=0.001066)
+  2) a bird perched on top of a tree branch (p=0.000092)
+Captions for image 32926745_1465759406863295_5447460450633515008_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.000050)
+  1) a vase filled with flowers sitting on top of a green field . (p=0.000025)
+  2) a vase filled with lots of flowers on top of a green field . (p=0.000010)
+Captions for image 30926892_576992182672735_3380626556056502272_n.jpg:
+  0) a cat laying on top of a bed next to a cat . (p=0.000145)
+  1) a cat laying on top of a bed next to a stuffed animal . (p=0.000141)
+  2) a cat laying on top of a couch next to a cat . (p=0.000138)
+Captions for image 33621824_1691893647514126_3778646522611105792_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000455)
+  1) a fire hydrant sitting in the middle of a forest . (p=0.000318)
+  2) a fire hydrant in the middle of a forest (p=0.000075)
+Captions for image 32738098_461892954269959_8135654007021502464_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000141)
+  1) a bunch of colorful flowers in a vase . (p=0.000076)
+  2) a bunch of colorful flowers in a vase (p=0.000067)

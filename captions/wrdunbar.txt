@@ -1,0 +1,80 @@
+Captions for image 1889389_1382237745376284_544822344_n.jpg:
+  0) a man sitting in a chair with a guitar . (p=0.000108)
+  1) a man sitting in a chair with a guitar in front of him . (p=0.000020)
+  2) a man sitting on a chair with a guitar in front of him . (p=0.000019)
+Captions for image 11374036_108481832834049_9017085_a.jpg:
+  0) a man and a woman sitting on a boat . (p=0.000445)
+  1) a man and a woman are sitting on a boat (p=0.000243)
+  2) a man and a woman are sitting on a boat . (p=0.000235)
+Captions for image 11230378_961800533844309_626111637_n.jpg:
+  0) a cat is sitting on top of a box . (p=0.000459)
+  1) a cat is sitting on top of a box (p=0.000280)
+  2) a cat is sitting on top of a book shelf . (p=0.000256)
+Captions for image 10570253_546368898824650_800404661_n.jpg:
+  0) a man is sitting at a table with an umbrella . (p=0.000004)
+  1) a man is sitting at a table with a glass of wine . (p=0.000001)
+  2) a man is sitting at a table with an umbrella (p=0.000001)
+Captions for image 1171137_212847048895998_1664825747_n.jpg:
+  0) a cat laying on top of a suitcase . (p=0.000965)
+  1) a cat laying in a suitcase on a bed . (p=0.000691)
+  2) a cat laying in a suitcase on a bed (p=0.000380)
+Captions for image 924191_1439409789612666_1962093820_n.jpg:
+  0) a wooden bench sitting on top of a sandy beach . (p=0.000961)
+  1) a bench on a beach near a body of water (p=0.000792)
+  2) a bench on a beach near the ocean (p=0.000314)
+Captions for image 925052_333932526775653_1844991892_n.jpg:
+  0) a large body of water filled with lots of boats . (p=0.001029)
+  1) a large body of water with boats in it . (p=0.000191)
+  2) a large body of water with boats in it (p=0.000181)
+Captions for image 1742293_704052702948642_495177802_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.005648)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000467)
+  2) a city street filled with lots of traffic and traffic . (p=0.000366)
+Captions for image 11374557_1597836070505611_1904643662_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.001870)
+  1) a table topped with plates of food and bowls of food . (p=0.000646)
+  2) a table topped with plates of food and a bowl of soup . (p=0.000067)
+Captions for image 1742667_1404873619763426_723633099_n.jpg:
+  0) a donut with a bite taken out of it (p=0.000340)
+  1) a donut with a bite taken out of it . (p=0.000296)
+  2) a person holding a donut with sprinkles on it . (p=0.000059)
+Captions for image 1740639_755844577759836_1755449378_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000848)
+  1) a train traveling down tracks next to a river . (p=0.000110)
+  2) a train traveling over a bridge in a city . (p=0.000079)
+Captions for image 1743089_202051826669834_1173281760_n.jpg:
+  0) a cup of coffee and a glass of wine . (p=0.000112)
+  1) a cup of coffee and a glass of wine (p=0.000073)
+  2) a glass of wine and a glass of wine (p=0.000064)
+Captions for image 925774_212808882245121_1127130170_n.jpg:
+  0) a man standing in front of an open refrigerator . (p=0.000013)
+  1) a man is standing in front of a machine (p=0.000006)
+  2) a man is standing in front of a machine . (p=0.000002)
+Captions for image 1599708_265379086957831_1670459975_n.jpg:
+  0) a man standing in front of a wooden table . (p=0.000044)
+  1) a man standing in front of a table with a clock . (p=0.000004)
+  2) a man standing in front of a table with a glass of wine . (p=0.000004)
+Captions for image 1660348_229982783792723_1303637191_n.jpg:
+  0) a herd of animals grazing on a lush green field . (p=0.002675)
+  1) a herd of animals grazing on a lush green hillside . (p=0.002108)
+  2) a herd of cattle grazing on a lush green field . (p=0.001615)
+Captions for image 10362263_1427831357477239_1717706506_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003872)
+  1) a group of people riding bikes down a street . (p=0.000354)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000146)
+Captions for image 1739444_442589135869292_1891402834_n.jpg:
+  0) a glass of wine and a glass of wine (p=0.000179)
+  1) a bottle of wine and a glass of wine (p=0.000170)
+  2) a bottle of wine and a glass of wine on a table . (p=0.000134)
+Captions for image 915502_237833466395607_569413806_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.002576)
+  1) a fire hydrant in the middle of a forest . (p=0.001682)
+  2) a red fire hydrant in the middle of a forest . (p=0.001062)
+Captions for image 1517217_504241183021789_2114861578_n.jpg:
+  0) a man is holding a glass of wine (p=0.000111)
+  1) a man holding a glass of wine in his hand . (p=0.000101)
+  2) a man holding a glass of wine in his hand (p=0.000020)
+Captions for image 1170102_257217714430281_1689759233_n.jpg:
+  0) a man in a suit and tie holding a microphone . (p=0.000016)
+  1) a man in a suit and tie holding a cell phone . (p=0.000014)
+  2) a man in a suit and tie holding a microphone (p=0.000006)

@@ -1,0 +1,40 @@
+Captions for image 11241517_1589914784625104_1630429542_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.000407)
+  1) a red fire hydrant in the middle of a forest . (p=0.000251)
+  2) a red fire hydrant sitting in the middle of a field . (p=0.000139)
+Captions for image 11208325_1629898730583769_2060124245_n.jpg:
+  0) a traffic light suspended over a city street . (p=0.000776)
+  1) a traffic light suspended over a street next to tall buildings . (p=0.000162)
+  2) a traffic light suspended over a street next to a tall building . (p=0.000069)
+Captions for image 11186979_651970141604629_755725562_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.000871)
+  1) a living room filled with furniture and a tv . (p=0.000755)
+  2) a living room filled with furniture and a flat screen tv . (p=0.000698)
+Captions for image 13686816_1751592325091355_1971638326_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.001157)
+  1) a red stop sign sitting on the side of a street . (p=0.000363)
+  2) a red stop sign sitting next to a traffic light . (p=0.000248)
+Captions for image 40705500_1935663586727436_2176199507283279872_n.jpg:
+  0) a man in a suit and tie standing next to a tree . (p=0.000041)
+  1) a man in a suit and tie standing in front of a tree . (p=0.000033)
+  2) a man in a suit and tie standing in front of a house . (p=0.000032)
+Captions for image 1389113_608801972514027_316022044_n.jpg:
+  0) a close up of a plate of food on a table (p=0.000512)
+  1) a close up of a plate of food (p=0.000279)
+  2) a close up of a cake on a plate (p=0.000260)
+Captions for image 11230310_1583135905292323_1293922065_n.jpg:
+  0) a tree filled with lots of green leaves . (p=0.000426)
+  1) a tree filled with lots of yellow flowers . (p=0.000394)
+  2) a tree filled with lots of green plants . (p=0.000382)
+Captions for image 14073094_288697604827390_114791522_n.jpg:
+  0) a group of people standing next to each other . (p=0.005548)
+  1) a group of people posing for a picture . (p=0.004606)
+  2) a group of people posing for a picture (p=0.002168)
+Captions for image 14027248_748573481911881_1710849251_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000077)
+  1) a large building with a clock tower in the middle of it . (p=0.000048)
+  2) a large building with a clock tower in the center . (p=0.000028)
+Captions for image 11269560_1639820892917959_2045073590_n.jpg:
+  0) a fire hydrant in the middle of a grassy field . (p=0.000250)
+  1) a fire hydrant in the middle of a grassy area . (p=0.000240)
+  2) a fire hydrant in the middle of a field . (p=0.000229)

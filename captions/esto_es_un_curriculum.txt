@@ -1,0 +1,156 @@
+Captions for image 11208598_413574888827813_457606688_n.jpg:
+  0) a street sign on a pole on a city street (p=0.000244)
+  1) a street sign on a pole with a sky background (p=0.000222)
+  2) a street sign on a pole on a street . (p=0.000187)
+Captions for image 11925814_1640292632912941_969790225_a.jpg:
+  0) a street sign on a pole with a sky background (p=0.000445)
+  1) a street sign on a pole near a building (p=0.000126)
+  2) a street sign on a pole near a building . (p=0.000070)
+Captions for image 11256395_807968039294582_2027360384_n.jpg:
+  0) a street sign on a pole with a sky background (p=0.000448)
+  1) a street sign on a pole in front of a building . (p=0.000105)
+  2) a street sign on a pole in front of a building (p=0.000046)
+Captions for image 11256823_1587184241570725_1231498564_n.jpg:
+  0) a close up of a box of doughnuts (p=0.000079)
+  1) a close up of a box of doughnuts with stickers (p=0.000008)
+  2) a close up of a box with a bunch of stickers on it (p=0.000004)
+Captions for image 11259847_911109028930287_327536275_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.000296)
+  1) a red stop sign sitting on the side of a street . (p=0.000181)
+  2) a red stop sign sitting on top of a metal pole . (p=0.000147)
+Captions for image 10881760_1407281469595122_1871331563_n.jpg:
+  0) a street sign that is on a pole . (p=0.000354)
+  1) a street sign that is on a pole (p=0.000031)
+  2) a street sign that reads `` <UNK> st '' . (p=0.000024)
+Captions for image 11208510_810936382308219_89575010_n.jpg:
+  0) a street sign that is on a pole . (p=0.000700)
+  1) a street sign with a street name on it (p=0.000093)
+  2) a street sign that is on a pole (p=0.000073)
+Captions for image 11256745_1566874820252866_2143590964_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.001840)
+  1) a close up of a sign on a pole (p=0.000459)
+  2) a close up of a stop sign with a sky background (p=0.000235)
+Captions for image 11235867_702828086518618_139120947_n.jpg:
+  0) a street sign that is on a pole . (p=0.000296)
+  1) a street sign that is on a pole (p=0.000033)
+  2) a street sign that reads `` <UNK> st '' . (p=0.000020)
+Captions for image 11241362_569804676496091_1384367279_n.jpg:
+  0) a street sign on a pole with a sky background (p=0.000082)
+  1) a street sign on a pole in front of a building . (p=0.000082)
+  2) a street sign on a pole with a building in the background (p=0.000059)
+Captions for image 11256146_1570263276569630_899509547_n.jpg:
+  0) a street sign on a pole on a city street (p=0.000466)
+  1) a street sign on a pole near a building (p=0.000310)
+  2) a street sign on a pole on a street . (p=0.000201)
+Captions for image 11230314_651257905005362_1981580559_n.jpg:
+  0) a black and white photo of a street sign . (p=0.001045)
+  1) a black and white photo of a street sign (p=0.000722)
+  2) a black and white picture of a street sign . (p=0.000562)
+Captions for image 11208350_2114207318717882_1001500877_n.jpg:
+  0) a stop sign with a street sign on top of it . (p=0.000032)
+  1) a stop sign with a street sign on it . (p=0.000026)
+  2) a stop sign with a street sign on it (p=0.000017)
+Captions for image 11226801_566150313528215_1367787426_n.jpg:
+  0) a black and white photo of a street sign (p=0.000819)
+  1) a black and white photo of a street sign . (p=0.000720)
+  2) a street sign on a pole on a city street (p=0.000284)
+Captions for image 11241865_871937072865026_818150084_n.jpg:
+  0) a black and white photo of a street sign (p=0.001619)
+  1) a black and white photo of a street sign . (p=0.001237)
+  2) a black and white picture of a street sign . (p=0.000716)
+Captions for image 11236065_1120306144662191_2103247974_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.005513)
+  1) a close up of a street sign on a pole (p=0.001227)
+  2) a close up of a vandalized street sign (p=0.000892)
+Captions for image 11258870_569753413165831_1959523322_n.jpg:
+  0) a sign that reads `` <UNK> '' on a pole . (p=0.000004)
+  1) a sign that reads `` <UNK> '' on a street corner . (p=0.000002)
+  2) a sign that reads `` <UNK> '' is on a pole . (p=0.000002)
+Captions for image 11236415_890085841030364_406548279_n.jpg:
+  0) a sign that reads `` <UNK> '' on a pole . (p=0.000004)
+  1) a sign that says `` <UNK> '' on a pole . (p=0.000003)
+  2) a sign that reads `` <UNK> '' is on a pole . (p=0.000001)
+Captions for image 11232664_354203641446170_1103516147_n.jpg:
+  0) a black and white photo of a street sign . (p=0.001301)
+  1) a black and white photo of a street sign (p=0.001170)
+  2) a black and white picture of a street sign . (p=0.000678)
+Captions for image 11241501_1667329823500166_1813917056_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.003259)
+  1) a close up of a street sign on a pole (p=0.001366)
+  2) a close up of a street sign near a building (p=0.000480)
+Captions for image 11249945_1620574741521894_1394029377_n.jpg:
+  0) a street sign on a pole on a city street (p=0.000466)
+  1) a street sign on a pole near a building (p=0.000310)
+  2) a street sign on a pole on a street . (p=0.000201)
+Captions for image 11246816_482722901884123_1889848081_n.jpg:
+  0) a sign that says `` <UNK> '' on a street corner . (p=0.000000)
+  1) a sign that says `` <UNK> <UNK> '' and `` <UNK> '' . (p=0.000000)
+  2) a sign that says `` <UNK> '' on a street corner (p=0.000000)
+Captions for image 11252674_1586071994984134_2097162571_n.jpg:
+  0) a collage of photos with a sign on it (p=0.000020)
+  1) a collage of photos with a sign and a sign (p=0.000005)
+  2) a collage of photos with a sign that says <UNK> . (p=0.000002)
+Captions for image 11245909_746368435480776_1125295579_n.jpg:
+  0) a collage of photos showing different angles of a sign . (p=0.000026)
+  1) a collage of photos showing different angles of a sign (p=0.000022)
+  2) a collage of photos showing different scenes (p=0.000013)
+Captions for image 11230436_1421715111481307_602731109_n.jpg:
+  0) a collage of photos with a sign and a sign (p=0.000005)
+  1) a collage of photos with a sign and a sign . (p=0.000001)
+  2) a collage of photos with a sign that reads `` <UNK> '' . (p=0.000001)
+Captions for image 11251156_1576069015981688_1193358577_n.jpg:
+  0) a computer monitor sitting on top of a desk . (p=0.001224)
+  1) a computer monitor sitting on top of a table . (p=0.000383)
+  2) a computer monitor sitting on top of a wooden desk . (p=0.000347)
+Captions for image 11235881_1430833217233999_944505814_n.jpg:
+  0) a picture of a sign that says `` <UNK> '' . (p=0.000001)
+  1) a picture of a sign that says `` <UNK> <UNK> '' . (p=0.000000)
+  2) a picture of a sign that says `` <UNK> '' (p=0.000000)
+Captions for image 11232796_554421631362574_101338605_n.jpg:
+  0) a sign that reads `` <UNK> '' on a wall . (p=0.000002)
+  1) a sign that says `` <UNK> '' on a wall . (p=0.000001)
+  2) a sign that says `` <UNK> '' on it 's side . (p=0.000001)
+Captions for image 11246552_359060050957908_1853611786_n.jpg:
+  0) a computer monitor and keyboard on a desk . (p=0.000493)
+  1) a computer monitor and keyboard on a table . (p=0.000144)
+  2) a computer monitor and keyboard on a desk (p=0.000139)
+Captions for image 11241392_375424999308475_385756773_n.jpg:
+  0) a sign that says `` <UNK> '' on it 's side . (p=0.000001)
+  1) a sign that reads `` <UNK> '' on a wall . (p=0.000001)
+  2) a sign that says `` <UNK> '' on a wall . (p=0.000001)
+Captions for image 11254446_1567018670226684_66661815_n.jpg:
+  0) a close up of a box of doughnuts (p=0.000034)
+  1) a close up of a sign on a building (p=0.000026)
+  2) a close up of a sign on a pole (p=0.000025)
+Captions for image 11243959_1583794258559961_1518939312_n.jpg:
+  0) a picture of a man holding a cell phone . (p=0.000003)
+  1) a picture of a man holding a wii game controller . (p=0.000002)
+  2) a picture of a man holding a wii remote . (p=0.000002)
+Captions for image 11257839_1434926670156385_1017180588_n.jpg:
+  0) a stop sign with a sign on it (p=0.000004)
+  1) a street sign that reads `` <UNK> '' on a pole . (p=0.000002)
+  2) a street sign that reads `` <UNK> '' in front of a building . (p=0.000001)
+Captions for image 11230549_1610279332589410_2064105468_n.jpg:
+  0) a street sign with a picture of a man on it . (p=0.000002)
+  1) a street sign with a picture of a person on it . (p=0.000001)
+  2) a sign that says `` <UNK> '' on a pole . (p=0.000001)
+Captions for image 11256273_461499004017605_2127719796_n.jpg:
+  0) a sign that says `` <UNK> '' on a wall . (p=0.000002)
+  1) a sign that says `` <UNK> '' on it 's side . (p=0.000001)
+  2) a sign that says `` <UNK> '' on the side of a building . (p=0.000001)
+Captions for image 11226637_1611065172483451_1495683168_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.000902)
+  1) a red stop sign sitting on the side of a street . (p=0.000591)
+  2) a red stop sign sitting next to a street sign . (p=0.000388)
+Captions for image 11253674_809937269091160_307216060_n.jpg:
+  0) a street sign with a building in the background (p=0.000257)
+  1) a street sign that is on a pole . (p=0.000176)
+  2) a street sign with a building in the background . (p=0.000071)
+Captions for image 11241384_1443512275960163_1201714914_n.jpg:
+  0) a sign that reads `` <UNK> '' on a pole . (p=0.000002)
+  1) a sign that reads `` <UNK> '' on the side of a building . (p=0.000002)
+  2) a sign that reads `` <UNK> '' on a street corner . (p=0.000002)
+Captions for image 11242873_1442288912748217_660609444_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000246)
+  1) a sign that is on the side of a wall . (p=0.000026)
+  2) a sign that is on a pole on a street . (p=0.000023)

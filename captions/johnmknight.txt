@@ -1,0 +1,780 @@
+Captions for image 36159622_263094134464834_24251296613662720_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.000088)
+  1) a bottle of beer and a bottle of wine . (p=0.000082)
+  2) a bottle of wine and a bottle of wine (p=0.000041)
+Captions for image 10932398_1021779151180772_259617993_a.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000126)
+  1) a man in a suit and tie sitting in a car (p=0.000056)
+  2) a man in a suit and tie is sitting in a car . (p=0.000045)
+Captions for image 43503456_258001628235241_3139385715096819690_n.jpg:
+  0) a cat laying on top of a window sill . (p=0.000781)
+  1) a cat laying on top of a wooden table . (p=0.000529)
+  2) a cat laying on top of a wooden shelf . (p=0.000396)
+Captions for image 12724671_235761573438264_726707660_n.jpg:
+  0) a man in a suit and tie standing in a room . (p=0.000120)
+  1) a man in a suit and tie standing in a living room . (p=0.000037)
+  2) a man in a suit and tie standing in a room (p=0.000025)
+Captions for image 15034706_1171399936275305_8429004542535794688_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000278)
+  1) a cup of coffee sitting on top of a table next to a book . (p=0.000003)
+  2) a cup of coffee sitting on top of a table next to a cup . (p=0.000003)
+Captions for image 47335473_406892546720629_7250255431181531144_n.jpg:
+  0) a crowd of people walking down a street . (p=0.001776)
+  1) a group of people walking down a street . (p=0.001280)
+  2) a crowd of people walking down a street next to tall buildings . (p=0.000380)
+Captions for image 41271905_1637361733042203_179177857838875351_n.jpg:
+  0) a man in a suit and tie holding a glass of wine . (p=0.000018)
+  1) a man in a suit and tie holding a glass of wine (p=0.000006)
+  2) a man in a suit and tie holding a glass of beer . (p=0.000006)
+Captions for image 64802327_612636582565333_7879388882137588765_n.jpg:
+  0) a kite that is flying in the sky . (p=0.001000)
+  1) a kite that is flying in the air . (p=0.000884)
+  2) a kite that is flying through the air . (p=0.000234)
+Captions for image 65193389_422180181964513_2936038453929427439_n.jpg:
+  0) a gray and white cat wearing a tie . (p=0.000209)
+  1) a gray and white cat wearing a red tie . (p=0.000151)
+  2) a gray and white cat wearing a red bow tie . (p=0.000151)
+Captions for image 62253736_425513281380217_5705518741258582011_n.jpg:
+  0) a cat sitting on top of a chair . (p=0.000636)
+  1) a black and white cat sitting on a chair . (p=0.000554)
+  2) a black and white cat sitting on a chair (p=0.000219)
+Captions for image 64603689_2234611936587787_8812308617433710183_n.jpg:
+  0) a box of donuts sitting on top of a table . (p=0.000043)
+  1) a box of donuts sitting on a table . (p=0.000028)
+  2) a box of donuts sitting on a table (p=0.000019)
+Captions for image 65302933_498073264331550_2584133153031293236_n.jpg:
+  0) a man in a suit and tie sitting at a table . (p=0.000114)
+  1) a man in a suit and tie sitting at a table (p=0.000022)
+  2) a man in a suit and tie sitting in a chair (p=0.000008)
+Captions for image 62376617_2710021655692103_9077187637177502429_n.jpg:
+  0) a black cat sitting on a wooden bench . (p=0.004478)
+  1) a black cat is sitting on a wooden bench . (p=0.001624)
+  2) a black cat sitting on a wooden bench (p=0.001253)
+Captions for image 62155959_869005233467548_6535213507654352006_n.jpg:
+  0) a close up of a cat on a table (p=0.000614)
+  1) a close up of a cat on a desk (p=0.000430)
+  2) a close up of a cat wearing a hat (p=0.000338)
+Captions for image 61359500_1054552848265847_7804358194275644673_n.jpg:
+  0) a clock that is on top of a table . (p=0.000192)
+  1) a clock that is on the side of a wall . (p=0.000189)
+  2) a clock that is on top of a wall . (p=0.000102)
+Captions for image 60450369_2357298214516219_2747306888782422305_n.jpg:
+  0) a bike parked next to a parking meter . (p=0.000225)
+  1) a bicycle parked next to a parking meter . (p=0.000163)
+  2) a bicycle parked next to a parking meter (p=0.000091)
+Captions for image 60669998_2287176131367628_1157387978191882575_n.jpg:
+  0) a white truck with a blue car parked on the side of it . (p=0.000000)
+  1) a white truck with a blue car parked in front of it . (p=0.000000)
+  2) a white truck with a blue car parked on the side of the road . (p=0.000000)
+Captions for image 59906298_452645358826622_2597962039753172570_n.jpg:
+  0) a black and white cat sitting on a bookshelf . (p=0.001974)
+  1) a black and white cat sitting on top of a bookshelf . (p=0.001213)
+  2) a black cat sitting on top of a wooden shelf . (p=0.001173)
+Captions for image 58629997_1170940546414042_5535303706407698584_n.jpg:
+  0) a man is laying down on a bed (p=0.000096)
+  1) a man is laying down on a bed . (p=0.000084)
+  2) a man is laying on a bed with a blanket . (p=0.000010)
+Captions for image 60482295_632130477269889_9147062364023739250_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000268)
+  1) a man in a suit and tie standing in a room . (p=0.000157)
+  2) a man in a suit and tie standing in front of a mirror . (p=0.000124)
+Captions for image 57354236_312005892804946_7105502651536311823_n.jpg:
+  0) a man with a beard wearing a tie . (p=0.000160)
+  1) a man with a beard wearing a tie (p=0.000082)
+  2) a man with a beard wearing a white shirt and tie . (p=0.000064)
+Captions for image 56697195_354386961856712_3395907783097599774_n.jpg:
+  0) a brown and white cat is sitting on a ledge (p=0.000044)
+  1) a brown and white cat sitting on a wooden bench . (p=0.000037)
+  2) a brown and white cat is sitting on a bench (p=0.000022)
+Captions for image 57511909_130786054742864_2344870793943904465_n.jpg:
+  0) a close up of a plate of food (p=0.002087)
+  1) a close up of a plate of food on a table (p=0.001942)
+  2) a close up of a plate of food with a fork (p=0.000631)
+Captions for image 56862463_2257229124590034_1237847847824711278_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002418)
+  1) a white plate topped with meat and veggies . (p=0.001263)
+  2) a white plate topped with a sandwich and a salad . (p=0.000676)
+Captions for image 58968153_293607568217611_8938476699442450563_n.jpg:
+  0) a close up of a cat on a window sill (p=0.000462)
+  1) a close up of a cat on a bed (p=0.000326)
+  2) a close up of a cat looking at a mirror (p=0.000249)
+Captions for image 56169861_814086465640517_5173287819540100675_n.jpg:
+  0) a black and white cat sitting on a window sill . (p=0.001150)
+  1) a black and white cat is sitting on a window sill . (p=0.000648)
+  2) a black and white cat sitting on a bed (p=0.000317)
+Captions for image 54513434_379538492645360_389025791003498810_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.006583)
+  1) a close up of a plate of food on a table (p=0.001405)
+  2) a close up of a plate of food with meat (p=0.000713)
+Captions for image 54277712_151007835911307_7738253995445054431_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000267)
+  1) a man in a suit and tie is smiling (p=0.000102)
+  2) a man in a suit and tie looking at his cell phone . (p=0.000053)
+Captions for image 53748324_111724573146357_4252208675855370925_n.jpg:
+  0) a black and white cat sitting on a wooden bench . (p=0.002997)
+  1) a black and white cat sitting on top of a wooden bench . (p=0.002283)
+  2) a black and white cat is sitting on a bench . (p=0.001379)
+Captions for image 57487901_394551697794449_6772714969899909065_n.jpg:
+  0) a black and white cat sitting on a wooden chair . (p=0.003775)
+  1) a black and white cat sitting on a wooden bench . (p=0.002857)
+  2) a black and white cat sitting on top of a wooden chair . (p=0.002330)
+Captions for image 49829003_234259527497089_2589605743583765211_n.jpg:
+  0) a close up of a person typing on a keyboard (p=0.001058)
+  1) a close up of a person typing on a laptop (p=0.000833)
+  2) a close up of a person typing on a computer keyboard (p=0.000485)
+Captions for image 49395926_138595490484358_3165575358825153302_n.jpg:
+  0) a man in a suit and tie holding a glass of wine . (p=0.000047)
+  1) a man in a suit and tie holding a glass . (p=0.000021)
+  2) a man in a suit and tie holding a glass (p=0.000020)
+Captions for image 49409627_1831073460336033_348266051918860296_n.jpg:
+  0) a cat laying on top of a bed . (p=0.000694)
+  1) a cat laying on top of a blanket on a bed . (p=0.000122)
+  2) a cat laying on top of a bed next to a window . (p=0.000068)
+Captions for image 49467988_2275342906082667_1821137454410547177_n.jpg:
+  0) a black cat sitting on top of a wooden chair . (p=0.003803)
+  1) a black and white cat sitting on top of a wooden chair . (p=0.001295)
+  2) a black and white cat sitting on top of a wooden table . (p=0.000609)
+Captions for image 50813740_415493309205212_3571119224655445993_n.jpg:
+  0) a couple of men standing next to each other . (p=0.002724)
+  1) a couple of men standing next to each other holding wine glasses . (p=0.000268)
+  2) a man and a woman are standing together . (p=0.000090)
+Captions for image 47585757_2400838763278177_6636734808163259586_n.jpg:
+  0) a man with glasses and a tie is smiling . (p=0.000076)
+  1) a man with glasses and a tie in a room . (p=0.000069)
+  2) a man with glasses and a tie is smiling (p=0.000025)
+Captions for image 49281703_2543191779041405_5195376677680136089_n.jpg:
+  0) a city street with a traffic light on the side of the road . (p=0.000003)
+  1) a city street with a traffic light on the side of it . (p=0.000002)
+  2) a city street with a traffic light and a street light . (p=0.000002)
+Captions for image 47585911_338501200072344_3920270582262127087_n.jpg:
+  0) a close up of a stuffed animal on a table (p=0.000338)
+  1) a close up of a teddy bear on a table (p=0.000113)
+  2) a close up of a stuffed animal on a desk (p=0.000060)
+Captions for image 47691688_2238037086410029_482670336317745764_n.jpg:
+  0) a display case filled with lots of different types of donuts . (p=0.002425)
+  1) a display case filled with lots of different kinds of donuts . (p=0.001198)
+  2) a display case filled with lots of different flavored donuts . (p=0.001017)
+Captions for image 47581887_514302622396500_682968475124858713_n.jpg:
+  0) a group of people sitting at a table in a restaurant . (p=0.000232)
+  1) a group of people sitting around a table in a restaurant . (p=0.000204)
+  2) a group of people sitting around a table in a room . (p=0.000175)
+Captions for image 45684940_645251262554554_7663562894569764575_n.jpg:
+  0) a cup of coffee sitting next to a keyboard . (p=0.002043)
+  1) a cup of coffee sitting on top of a table . (p=0.001190)
+  2) a cup of coffee sitting on top of a desk . (p=0.001070)
+Captions for image 46930148_105459893755099_445180979178078783_n.jpg:
+  0) a birthday cake with a train on it (p=0.000109)
+  1) a birthday cake with a train on it . (p=0.000066)
+  2) a birthday cake with a train on top of it . (p=0.000036)
+Captions for image 45480316_1466333563469149_7088087024705618567_n.jpg:
+  0) a close up of a cell phone on a table (p=0.000684)
+  1) a close up of a laptop on a table (p=0.000456)
+  2) a close up of a cell phone on a desk (p=0.000279)
+Captions for image 43255705_1066648503501298_544880873129645520_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000290)
+  1) a group of people standing on top of a grass covered field . (p=0.000272)
+  2) a man and a woman standing next to each other on a field . (p=0.000106)
+Captions for image 45320525_759369911063724_4863472054728088016_n.jpg:
+  0) a cat laying on top of a blanket on a bed . (p=0.001068)
+  1) a cat laying on top of a blanket on top of a bed . (p=0.000433)
+  2) a cat laying on top of a bed next to a pillow . (p=0.000191)
+Captions for image 45482269_386271118580718_8647039676136129064_n.jpg:
+  0) a black cat sitting on a wooden bench . (p=0.005982)
+  1) a black and white cat sitting on a wooden bench . (p=0.005511)
+  2) a black and white cat sitting on top of a wooden bench . (p=0.002278)
+Captions for image 43214411_255769185285591_4306027184251011365_n.jpg:
+  0) a man wearing a hat and a bow tie . (p=0.000820)
+  1) a man wearing a hat and a tie . (p=0.000370)
+  2) a man wearing a hat and a hat . (p=0.000309)
+Captions for image 49688751_1545739292195895_4587036189699264172_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.001307)
+  1) a man and a woman are standing together . (p=0.000216)
+  2) a man and a woman are standing together (p=0.000214)
+Captions for image 30590164_936767476498006_8633783223089889280_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.000916)
+  1) a glass of wine sitting on a table next to a wine glass . (p=0.000034)
+  2) a glass of wine sitting on top of a table next to a glass of wine . (p=0.000032)
+Captions for image 36650004_196772517681284_7611541754935771136_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000112)
+  1) a man in a suit and tie sitting in a car (p=0.000057)
+  2) a man in a suit and tie sitting on a motorcycle . (p=0.000017)
+Captions for image 36950089_206012646731956_2413135539990429696_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000400)
+  1) a man wearing a tie and a hat (p=0.000107)
+  2) a man in a suit and tie holding a beer . (p=0.000035)
+Captions for image 37604337_657662067923336_971237868225691648_n.jpg:
+  0) a man in a suit and tie sitting in a chair . (p=0.000094)
+  1) a man in a suit and tie holding a camera . (p=0.000093)
+  2) a man in a suit and tie sitting on a bench . (p=0.000061)
+Captions for image 39033810_255866865041120_4134042744093933568_n.jpg:
+  0) a man wearing a helmet and goggles on his head . (p=0.000070)
+  1) a man wearing a helmet and goggles on his head (p=0.000061)
+  2) a man wearing a helmet and goggles and a helmet . (p=0.000045)
+Captions for image 36747860_230131970942064_507602685562716160_n.jpg:
+  0) a man brushing his teeth with a tooth brush . (p=0.005883)
+  1) a man brushing his teeth in front of a mirror . (p=0.004137)
+  2) a man is brushing his teeth with a toothbrush . (p=0.001296)
+Captions for image 39196300_1029520543892779_5934294267785641984_n.jpg:
+  0) a man with a hat and a hat on . (p=0.000025)
+  1) a man wearing a hat and a hat on a snowboard . (p=0.000005)
+  2) a man with a hat and a hat on a snowboard . (p=0.000004)
+Captions for image 37044409_412268515847669_4733002192951181312_n.jpg:
+  0) a young boy is eating a donut with sprinkles . (p=0.000032)
+  1) a young boy is eating a donut with sprinkles (p=0.000006)
+  2) a young boy is eating a doughnut with a smile . (p=0.000002)
+Captions for image 36820555_209454033242192_980201941713813504_n.jpg:
+  0) a man wearing a hat and a hat on his head . (p=0.000028)
+  1) a man wearing a hat and a hat on a cell phone . (p=0.000024)
+  2) a man wearing a hat and a hat on his head (p=0.000018)
+Captions for image 37024298_200385860649268_8461967991330832384_n.jpg:
+  0) a person holding a doughnut in their hand . (p=0.001629)
+  1) a person holding a half eaten doughnut in their hand . (p=0.000501)
+  2) a person holding a half eaten doughnut in their hands . (p=0.000324)
+Captions for image 36482327_204561643579120_3968198689402388480_n.jpg:
+  0) a man wearing a hat and a hat . (p=0.001031)
+  1) a man wearing a hat and a tie . (p=0.000527)
+  2) a man wearing a hat and a tie (p=0.000159)
+Captions for image 36520356_2017952581550895_5127088965895061504_n.jpg:
+  0) a tall building with a clock on top of it . (p=0.000061)
+  1) a tall building with a clock on the top of it . (p=0.000053)
+  2) a tall building with a clock on it (p=0.000029)
+Captions for image 35575510_2381611105392695_8978948484581294080_n.jpg:
+  0) a man in a car talking on a cell phone . (p=0.001424)
+  1) a man in a car talking on his cell phone . (p=0.000652)
+  2) a man in a car talking on a phone . (p=0.000321)
+Captions for image 12338457_1075292372503668_1139381051_n.jpg:
+  0) a picture of a person holding a cell phone . (p=0.000030)
+  1) a picture of a person holding a cell phone (p=0.000006)
+  2) a sign that reads `` <UNK> '' on a wall . (p=0.000004)
+Captions for image 36498612_1411453798954093_1107802486615310336_n.jpg:
+  0) a man in a hat and sunglasses is smiling . (p=0.000042)
+  1) a man in a suit and tie is smiling . (p=0.000030)
+  2) a man in a hat and sunglasses is smiling (p=0.000019)
+Captions for image 35616836_1764970363609808_2040688525975748608_n.jpg:
+  0) a cup of coffee and a doughnut on a table . (p=0.000503)
+  1) a cup of coffee and a donut on a plate . (p=0.000433)
+  2) a cup of coffee and a donut on a table . (p=0.000378)
+Captions for image 36149574_1124520137701843_6173706490872856576_n.jpg:
+  0) a man in a mirror taking a picture of himself . (p=0.000080)
+  1) a man in a mirror taking a picture of himself in the mirror . (p=0.000049)
+  2) a man in a mirror taking a selfie in a mirror . (p=0.000045)
+Captions for image 35575912_246549412799336_2408414511938666496_n.jpg:
+  0) a train traveling down tracks next to a river . (p=0.000087)
+  1) a train traveling down tracks next to a lush green hillside . (p=0.000029)
+  2) a train traveling down tracks next to a lush green field . (p=0.000025)
+Captions for image 36147733_232834924212311_7318237849881411584_n.jpg:
+  0) a man wearing a hat and sunglasses sitting on a boat . (p=0.000152)
+  1) a man wearing a hat and sunglasses sitting in a boat . (p=0.000093)
+  2) a man wearing a hat and sunglasses sitting on a boat (p=0.000052)
+Captions for image 34891635_420457985095222_4545760057140183040_n.jpg:
+  0) a man in a car talking on a cell phone . (p=0.000775)
+  1) a man in a car talking on a cell phone (p=0.000298)
+  2) a man in a car talking on his cell phone . (p=0.000241)
+Captions for image 35171222_256456861774968_3999602334924537856_n.jpg:
+  0) a piece of luggage sitting on top of a table . (p=0.000100)
+  1) a piece of luggage sitting on top of a bed . (p=0.000078)
+  2) a piece of luggage sitting on top of a wooden table . (p=0.000052)
+Captions for image 33169638_258167551619769_4928285594167017472_n.jpg:
+  0) a man in a suit and tie looking at his cell phone . (p=0.000125)
+  1) a man in a suit and tie holding a cell phone . (p=0.000085)
+  2) a man in a suit and tie looking at his cell phone (p=0.000076)
+Captions for image 34372223_2084348228551230_1640456900371808256_n.jpg:
+  0) a close up of a cat wearing a tie (p=0.000961)
+  1) a close up of a cat with a bow tie (p=0.000243)
+  2) a close up of a cat with a bow tie on (p=0.000034)
+Captions for image 34507212_404103166770087_6143837428575633408_n.jpg:
+  0) a man wearing a suit and tie sitting in a car . (p=0.000244)
+  1) a man in a suit and tie sitting in a car . (p=0.000231)
+  2) a man in a suit and tie sitting in a car (p=0.000107)
+Captions for image 33228980_2252268641667380_8352204595933478912_n.jpg:
+  0) a man wearing a helmet and sunglasses sitting on a motorcycle . (p=0.000130)
+  1) a man wearing a helmet and a helmet on his head . (p=0.000030)
+  2) a man wearing a helmet and a helmet on a motorcycle . (p=0.000026)
+Captions for image 34287579_1248952978572224_3637162066428559360_n.jpg:
+  0) a collage of photos of a bathroom with a toilet (p=0.000002)
+  1) a collage of photos of a bathroom with a clock (p=0.000000)
+  2) a collage of photos of a bathroom with a clock on the wall . (p=0.000000)
+Captions for image 30995540_169792133684505_5891255701887516672_n.jpg:
+  0) a cup of coffee sitting next to a cup of coffee . (p=0.001001)
+  1) a cup of coffee and a banana on a table . (p=0.000829)
+  2) a cup of coffee sitting next to a laptop computer . (p=0.000827)
+Captions for image 31905542_165327570816268_2085222565126602752_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000321)
+  1) a man in a suit and tie is smiling (p=0.000100)
+  2) a man in a suit and tie looking at the camera . (p=0.000069)
+Captions for image 31104041_2044581319135299_4822581853397450752_n.jpg:
+  0) a black and white photo of a street sign . (p=0.000569)
+  1) a black and white photo of a street sign (p=0.000488)
+  2) a black and white photo of a restaurant sign . (p=0.000338)
+Captions for image 30593090_216670745589969_6668745190208962560_n.jpg:
+  0) a man in a suit and tie sitting at a table . (p=0.000062)
+  1) a man in a suit and tie sitting in a car . (p=0.000046)
+  2) a man in a suit and tie sitting at a table (p=0.000017)
+Captions for image 31056971_1462130093893703_5258425698552381440_n.jpg:
+  0) a television that is sitting on a wall . (p=0.000345)
+  1) a television that is on top of a table . (p=0.000160)
+  2) a television that is on top of a desk . (p=0.000155)
+Captions for image 30591450_447073202388303_7593907753089761280_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000068)
+  1) a man in a suit and tie sitting in a car (p=0.000025)
+  2) a man in a suit and tie sitting in front of a window . (p=0.000018)
+Captions for image 12353804_1511026289225772_597273215_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.001058)
+  1) a close up of a person wearing a suit and tie (p=0.000733)
+  2) a close up of a person wearing a tie (p=0.000231)
+Captions for image 30078380_232638820623328_3283179825488986112_n.jpg:
+  0) a computer keyboard sitting on top of a desk . (p=0.001283)
+  1) a computer keyboard sitting on top of a wooden desk . (p=0.000756)
+  2) a computer keyboard sitting on top of a table . (p=0.000327)
+Captions for image 29401051_202600343667136_8872991160352636928_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000242)
+  1) a man in a suit and tie sitting in a car (p=0.000076)
+  2) a man in a suit and tie is smiling (p=0.000051)
+Captions for image 28764774_710982462624527_4319878265230589952_n.jpg:
+  0) a plate of food that includes meat and vegetables . (p=0.000471)
+  1) a plate of food with a fork and knife . (p=0.000139)
+  2) a plate of food with a fork and a knife . (p=0.000071)
+Captions for image 26151914_1494545147307357_70754578269732864_n.jpg:
+  0) a man sitting in a car wearing a tie . (p=0.000383)
+  1) a man sitting in a car with a cell phone . (p=0.000107)
+  2) a man sitting in a car wearing a tie (p=0.000072)
+Captions for image 28153107_427659461000386_4974670996150681600_n.jpg:
+  0) a close up of a blue and yellow fire hydrant . (p=0.000020)
+  1) a close up of a blue and yellow fire hydrant (p=0.000013)
+  2) a close up of a blue and yellow toothbrush . (p=0.000011)
+Captions for image 28427436_184919328950650_6290156304241524736_n.jpg:
+  0) a plate of food with meat and vegetables . (p=0.000695)
+  1) a plate of food that includes rice and vegetables . (p=0.000281)
+  2) a plate of food with meat and vegetables (p=0.000121)
+Captions for image 23969952_1863065300673519_9117520467605848064_n.jpg:
+  0) a little girl is holding a stuffed animal . (p=0.000041)
+  1) a little girl is holding a stuffed animal (p=0.000037)
+  2) a little girl holding a teddy bear in a room . (p=0.000027)
+Captions for image 23507521_967194700100841_8601030378016210944_n.jpg:
+  0) a tall building with a clock on top of it . (p=0.000261)
+  1) a tall building with a clock on it (p=0.000184)
+  2) a tall building with a clock on top (p=0.000079)
+Captions for image 21480164_124972801530670_7578379668198260736_n.jpg:
+  0) a man in a suit and tie sitting at a table . (p=0.000041)
+  1) a man in a suit and tie sitting in a chair . (p=0.000020)
+  2) a man in a suit and tie sitting at a table (p=0.000012)
+Captions for image 23416578_179137432638498_724015779686645760_n.jpg:
+  0) a yellow fire hydrant sitting on the side of a road . (p=0.001109)
+  1) a red fire hydrant sitting in the middle of a field . (p=0.000202)
+  2) a yellow fire hydrant sitting in the middle of a road . (p=0.000195)
+Captions for image 23101776_192739441270912_7591349060682907648_n.jpg:
+  0) a motorcycle is parked on the side of the road . (p=0.000250)
+  1) a motorcycle is parked on the side of the street . (p=0.000175)
+  2) a motorcycle is parked on the side of a street . (p=0.000127)
+Captions for image 23161671_298278977324427_2823898279375273984_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000402)
+  1) a man in a suit and tie is smiling (p=0.000144)
+  2) a man in a suit and tie looking at the camera (p=0.000121)
+Captions for image 22802093_294415734376865_8666151221913976832_n.jpg:
+  0) a group of people standing next to each other . (p=0.000214)
+  1) a group of people standing next to each other in a room . (p=0.000014)
+  2) a man standing next to a woman in front of a truck . (p=0.000007)
+Captions for image 22858257_1598897956799144_3502638231814406144_n.jpg:
+  0) a white refrigerator freezer sitting in a kitchen . (p=0.000296)
+  1) a white refrigerator freezer sitting inside of a kitchen . (p=0.000206)
+  2) a white refrigerator freezer sitting in a kitchen next to a stove . (p=0.000010)
+Captions for image 22500268_1798953810148022_4129895317514485760_n.jpg:
+  0) a man in a kitchen holding a bottle of wine . (p=0.000040)
+  1) a man in a kitchen holding a bottle of beer . (p=0.000034)
+  2) a man in a black shirt is holding a glass of wine . (p=0.000012)
+Captions for image 20905156_1501628883209347_6229811146149330944_n.jpg:
+  0) a picture of a person holding a cell phone . (p=0.000037)
+  1) a picture of a person holding a camera . (p=0.000023)
+  2) a picture of a person in a car . (p=0.000019)
+Captions for image 20905748_499073000447712_8536646670765522944_n.jpg:
+  0) a woman holding a pair of scissors in her hands . (p=0.000345)
+  1) a woman holding a pair of scissors in her hand . (p=0.000204)
+  2) a woman is holding a pair of scissors . (p=0.000193)
+Captions for image 20633545_258493024640828_8084514355414040576_n.jpg:
+  0) a gray and white cat wearing a tie . (p=0.000195)
+  1) a gray and white cat wearing a blue tie . (p=0.000192)
+  2) a gray and white cat wearing a red tie . (p=0.000155)
+Captions for image 20837827_141724986424060_4172317594260340736_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000104)
+  1) a pair of scissors sitting on top of a piece of paper . (p=0.000023)
+  2) a pair of scissors sitting on top of a table (p=0.000011)
+Captions for image 20634678_1035608063241420_9034394833040441344_n.jpg:
+  0) a cat laying on top of a white bed . (p=0.003081)
+  1) a cat laying on top of a bed . (p=0.002309)
+  2) a cat laying on top of a bed next to a window . (p=0.000323)
+Captions for image 20902186_864541497037257_58375361536196608_n.jpg:
+  0) a black and white cat sitting on a window sill . (p=0.009429)
+  1) a black and white cat is sitting on a window sill . (p=0.003347)
+  2) a black and white cat sitting on a window sill (p=0.002510)
+Captions for image 20583212_359331407835064_8097619580534390784_n.jpg:
+  0) a white plate topped with a sandwich and salad . (p=0.000571)
+  1) a white plate topped with a sandwich and a salad . (p=0.000332)
+  2) a plate of food with a sandwich and a salad . (p=0.000128)
+Captions for image 20180704_254182141746410_3887759037189586944_n.jpg:
+  0) a desk with a monitor , keyboard and mouse . (p=0.000055)
+  1) a computer desk with a monitor and keyboard on it . (p=0.000044)
+  2) a computer desk with a monitor and keyboard on it (p=0.000017)
+Captions for image 19984248_304819656650060_6880291377716920320_n.jpg:
+  0) a man with glasses and a tie is smiling . (p=0.000085)
+  1) a man with glasses and a tie on . (p=0.000069)
+  2) a man with glasses and a tie on (p=0.000039)
+Captions for image 20180722_1904500769816725_2987922199941218304_n.jpg:
+  0) a close up of a pair of scissors (p=0.000287)
+  1) a close up of a person holding a pair of scissors (p=0.000115)
+  2) a close up of a pair of scissors on a table (p=0.000033)
+Captions for image 20066964_114683595837296_7265763721870311424_n.jpg:
+  0) a white and black bird flying over a lush green field . (p=0.000119)
+  1) a white and black bird is standing in the grass . (p=0.000116)
+  2) a white and black bird is standing in the grass (p=0.000052)
+Captions for image 19986077_197722574092999_6404702665414017024_n.jpg:
+  0) a cat laying on top of a bed . (p=0.002456)
+  1) a cat laying on top of a bed next to a window . (p=0.001896)
+  2) a cat laying on a bed next to a window . (p=0.000634)
+Captions for image 19985336_2348447248714719_8582869035790630912_n.jpg:
+  0) a plate with a sandwich and salad on it . (p=0.000338)
+  1) a plate with a sandwich and salad on it (p=0.000262)
+  2) a plate of food with a sandwich and salad . (p=0.000223)
+Captions for image 19623479_486751918330602_584392418732802048_n.jpg:
+  0) a man wearing a hat and glasses holding a glass of wine . (p=0.000017)
+  1) a man in a hat and glasses is holding a glass of wine . (p=0.000008)
+  2) a man wearing a hat and glasses is holding a glass of wine . (p=0.000005)
+Captions for image 19534876_1233719296773444_4243768077491109888_n.jpg:
+  0) a plane flying over a body of water . (p=0.001355)
+  1) a plane flying over a body of water (p=0.000952)
+  2) a large body of water with a mountain in the background . (p=0.000315)
+Captions for image 19379948_1460203984035633_7857600478568251392_n.jpg:
+  0) a cat laying on top of a blanket next to a remote control . (p=0.000164)
+  1) a cat laying on top of a blanket on a bed . (p=0.000158)
+  2) a cat laying on top of a blanket next to a remote . (p=0.000119)
+Captions for image 18722727_232954260537216_5212757800920285184_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.000457)
+  1) a boat floating on top of a river next to a bridge . (p=0.000049)
+  2) a boat floating on top of a lake next to a forest . (p=0.000047)
+Captions for image 18809509_424803407889868_800473378740764672_n.jpg:
+  0) a cup of coffee sitting next to a keyboard . (p=0.000921)
+  1) a cup of coffee sitting next to a laptop . (p=0.000467)
+  2) a cup of coffee sitting on top of a table . (p=0.000385)
+Captions for image 18812299_109793559564263_6805819427943088128_n.jpg:
+  0) a wooden box with a pair of scissors on it . (p=0.000005)
+  1) a wooden box with a pair of scissors on it (p=0.000002)
+  2) a wooden box filled with lots of different types of scissors . (p=0.000002)
+Captions for image 18580210_382275102167947_2102971921204248576_n.jpg:
+  0) a man in a suit and bow tie standing in front of a lake . (p=0.000012)
+  1) a man in a suit and bow tie standing on a pier . (p=0.000006)
+  2) a man in a suit and bow tie standing in front of a body of water . (p=0.000005)
+Captions for image 18443941_1229579143834855_2030716380713582592_n.jpg:
+  0) a bird standing on a beach near the water . (p=0.000632)
+  1) a bird standing on a beach near the ocean . (p=0.000316)
+  2) a bird standing on a beach near the water (p=0.000248)
+Captions for image 18252605_1927504104185615_5016095444619493376_n.jpg:
+  0) a man in a suit and tie holding a microphone . (p=0.000028)
+  1) a man in a suit and tie holding a microphone (p=0.000012)
+  2) a man in a suit and tie standing in front of a crowd . (p=0.000010)
+Captions for image 17882888_284911321951388_5025384123145912320_n.jpg:
+  0) a close up of a person wearing a tie (p=0.000041)
+  1) a close up of a cake with a train on it (p=0.000040)
+  2) a close up of a person wearing a suit and tie (p=0.000029)
+Captions for image 17934698_802309563250186_6247885085790437376_n.jpg:
+  0) a black and white photo of a cat looking at the camera . (p=0.000288)
+  1) a black and white photo of a cat staring at the camera . (p=0.000219)
+  2) a black and white photo of a cat looking at the camera (p=0.000127)
+Captions for image 17881814_203970223441558_81003431094910976_n.jpg:
+  0) a black cat laying on top of a bed . (p=0.001342)
+  1) a black cat laying on top of a bed next to a book . (p=0.000046)
+  2) a black cat laying on top of a bed next to a window . (p=0.000029)
+Captions for image 17817474_1954554974775039_2315544970968170496_n.jpg:
+  0) a kitchen with a stove and a sink (p=0.000171)
+  1) a kitchen area with a stove and a sink (p=0.000040)
+  2) a kitchen area with a stove , sink and a refrigerator . (p=0.000008)
+Captions for image 17494068_604537779734736_8546470291763625984_n.jpg:
+  0) a close up of a book on a desk (p=0.000168)
+  1) a close up of a book on a table (p=0.000109)
+  2) a close up of a book on a book (p=0.000022)
+Captions for image 17663186_411342339228987_7210473972213743616_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000051)
+  1) a man in a suit and tie sitting in a car (p=0.000022)
+  2) a man in a suit and tie sitting in a vehicle . (p=0.000008)
+Captions for image 17332494_1344422518957922_6508205939819020288_n.jpg:
+  0) a black and white cat sitting on a wooden bench . (p=0.001650)
+  1) a black and white cat sitting on top of a wooden bench . (p=0.000606)
+  2) a black and white cat sitting on top of a wooden table . (p=0.000460)
+Captions for image 17127279_1318768488203147_8714124511961677824_n.jpg:
+  0) a close up of a pair of scissors (p=0.001696)
+  1) a pair of scissors sitting on top of a table . (p=0.001229)
+  2) a close up of a pair of scissors on a table (p=0.000611)
+Captions for image 17265881_388790374816101_1485615469560856576_n.jpg:
+  0) a man sitting in a car seat talking on a cell phone . (p=0.000441)
+  1) a man sitting in a car seat talking on his cell phone . (p=0.000284)
+  2) a man sitting in a car seat talking on his cell phone (p=0.000149)
+Captions for image 16583841_177792032715338_5119004244011122688_n.jpg:
+  0) a man in a car talking on a cell phone . (p=0.002305)
+  1) a man in a car talking on a cell phone (p=0.000760)
+  2) a man sitting in a car seat talking on a cell phone . (p=0.000467)
+Captions for image 16584090_386507838382647_6387426722106572800_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000024)
+  1) a man in a suit and tie is smiling (p=0.000010)
+  2) a man in a suit and tie sitting in a chair . (p=0.000008)
+Captions for image 17126262_1271832906186863_593296886664790016_n.jpg:
+  0) a man with glasses and a tie is smiling . (p=0.000235)
+  1) a man in a suit and tie is smiling . (p=0.000112)
+  2) a man with glasses and a tie is smiling (p=0.000073)
+Captions for image 16122805_831458980326172_2336546927253913600_n.jpg:
+  0) a table topped with lots of different colored tooth brushes . (p=0.000081)
+  1) a table topped with lots of different colored toothbrushes . (p=0.000043)
+  2) a table topped with lots of different colored tooth brush . (p=0.000011)
+Captions for image 17266290_377095229355704_6443682199454613504_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.002604)
+  1) a bottle of wine sitting on top of a wooden table . (p=0.001249)
+  2) a bottle of wine sitting next to a bottle of wine . (p=0.000961)
+Captions for image 15877516_1851568445083746_3024617760568115200_n.jpg:
+  0) a flat screen tv sitting on top of a tv stand . (p=0.002802)
+  1) a flat screen tv sitting on top of a table . (p=0.001608)
+  2) a flat screen tv mounted to a wall . (p=0.001004)
+Captions for image 16123363_1347722165290591_7602306909529440256_n.jpg:
+  0) a white plate topped with a piece of food . (p=0.000180)
+  1) a white plate topped with a sandwich and a salad . (p=0.000172)
+  2) a white plate topped with a piece of meat and vegetables . (p=0.000032)
+Captions for image 14597286_859975940806505_6816270689692024832_n.jpg:
+  0) a cat sitting on top of a wooden table . (p=0.000218)
+  1) a cat sitting on a table next to a glass . (p=0.000065)
+  2) a cat sitting on top of a table next to a glass . (p=0.000056)
+Captions for image 15624676_839591199516073_5493394777971884032_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000333)
+  1) a man in a suit and tie is smiling (p=0.000128)
+  2) a man in a suit and tie looking at the camera . (p=0.000120)
+Captions for image 15625170_1754771188178540_3507573999641034752_n.jpg:
+  0) a birthday cake with a teddy bear on top of it . (p=0.000069)
+  1) a cake with a teddy bear on top of it . (p=0.000069)
+  2) a birthday cake with a teddy bear on top . (p=0.000036)
+Captions for image 15624484_1653689741595309_6166641226721263616_n.jpg:
+  0) a man holding a snowboard in his hands . (p=0.000667)
+  1) a man holding a snowboard in his hand . (p=0.000420)
+  2) a man holding a snowboard in his hands (p=0.000203)
+Captions for image 15538765_1801288403421316_3187008597129166848_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000136)
+  1) a man in a suit and tie is smiling (p=0.000066)
+  2) a man in a suit and tie holding a cell phone . (p=0.000039)
+Captions for image 15403490_1626553940974672_2135697463170826240_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.000581)
+  1) a living room filled with lots of furniture and a fire place . (p=0.000120)
+  2) a living room filled with lots of furniture and a tv . (p=0.000080)
+Captions for image 15047041_159010077907256_6676271145437626368_n.jpg:
+  0) a black cat sitting on a wooden bench . (p=0.006607)
+  1) a black cat sitting on top of a wooden chair . (p=0.005459)
+  2) a black cat sitting on a wooden chair . (p=0.005112)
+Captions for image 14733493_610982945747960_3693509919933202432_n.jpg:
+  0) a black cat sitting on top of a wooden table . (p=0.001781)
+  1) a black cat sitting on top of a table . (p=0.001293)
+  2) a black cat is sitting on a table (p=0.000706)
+Captions for image 15251847_1791910111064332_3866319973492195328_n.jpg:
+  0) a man wearing a hat and a bow tie . (p=0.000982)
+  1) a man wearing a hat and a hat . (p=0.000711)
+  2) a man wearing a hat and a bow tie (p=0.000348)
+Captions for image 14582512_579853515545459_5872348177813733376_n.jpg:
+  0) a cat laying on top of a bed . (p=0.001433)
+  1) a cat laying on top of a blanket on a bed . (p=0.000835)
+  2) a cat laying on top of a blanket on top of a bed . (p=0.000448)
+Captions for image 14723741_352324635159224_2469244043557601280_n.jpg:
+  0) a window with a clock on the wall (p=0.000006)
+  1) a window with a clock on the wall . (p=0.000005)
+  2) a window with a clock on the front of it . (p=0.000004)
+Captions for image 13737059_660280434119612_378360360_n.jpg:
+  0) a man in a suit and tie holding a microphone . (p=0.000085)
+  1) a man in a suit and tie holding a microphone (p=0.000033)
+  2) a man in a suit and tie is holding a microphone . (p=0.000013)
+Captions for image 14719824_1799264306979113_6240436379843559424_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000461)
+  1) a car is parked on the side of the street . (p=0.000238)
+  2) a car is parked on the side of the road (p=0.000157)
+Captions for image 14295455_841695415945684_1543616569_n.jpg:
+  0) a black cat sitting on top of a desk . (p=0.004006)
+  1) a black and white cat sitting on top of a desk . (p=0.001108)
+  2) a black and white cat sitting on a desk (p=0.000611)
+Captions for image 14145598_1748040492103544_1612535461_n.jpg:
+  0) a white van is driving down the street (p=0.000642)
+  1) a white van is driving down the street . (p=0.000234)
+  2) a white van is driving down a street (p=0.000229)
+Captions for image 14135080_1821594071409536_910667091_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000444)
+  1) a train traveling down tracks next to a forest . (p=0.000081)
+  2) a train traveling down tracks next to a tall building . (p=0.000074)
+Captions for image 14276445_202384513507664_1076198705_n.jpg:
+  0) a row of motorcycles parked next to each other . (p=0.009206)
+  1) a row of motorcycles parked in front of a building . (p=0.001994)
+  2) a row of motorcycles parked on the side of a street . (p=0.001228)
+Captions for image 14052788_1774174069497711_2038491496_n.jpg:
+  0) a slice of pizza sitting on top of a white plate . (p=0.005057)
+  1) a slice of pizza on a white plate . (p=0.001624)
+  2) a slice of pizza on a plate with a fork . (p=0.001191)
+Captions for image 14596797_312412325795062_2325199009477558272_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000288)
+  1) a cup of coffee sitting next to a toilet . (p=0.000170)
+  2) a cup of coffee sitting on top of a toilet . (p=0.000120)
+Captions for image 13721313_834671876634480_278607826_n.jpg:
+  0) a statue of a man and a woman holding a teddy bear . (p=0.000006)
+  1) a statue of a man and a woman in a dress . (p=0.000002)
+  2) a statue of a man and a woman holding a teddy bear (p=0.000002)
+Captions for image 13627968_1631400917171842_1337114477_n.jpg:
+  0) a man in a suit and tie is smiling (p=0.000019)
+  1) a man in a suit and tie looking at the camera (p=0.000014)
+  2) a man in a suit and tie looking at the camera . (p=0.000011)
+Captions for image 13714267_269988580060532_2054531097_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000186)
+  1) a man wearing a tie and a hat (p=0.000056)
+  2) a man in a suit and tie holding a cell phone . (p=0.000052)
+Captions for image 13704328_1731741903711353_75435219_n.jpg:
+  0) a close up of a person wearing a tie (p=0.000762)
+  1) a close up of a person wearing a shirt and tie (p=0.000556)
+  2) a close up of a person wearing a hat (p=0.000413)
+Captions for image 13744031_169414113469801_1853557702_n.jpg:
+  0) a man sitting in a chair holding a book . (p=0.000552)
+  1) a man sitting in a chair with a book in his hand . (p=0.000132)
+  2) a man sitting in a chair holding a book (p=0.000104)
+Captions for image 13707040_670971076383512_574792253_n.jpg:
+  0) a cat that is laying down on a blanket . (p=0.001246)
+  1) a cat that is laying down on a bed . (p=0.001150)
+  2) a cat laying on top of a blanket . (p=0.000742)
+Captions for image 13774468_629384687236636_1259470732_n.jpg:
+  0) a white toilet sitting in the middle of a road . (p=0.000073)
+  1) a white toilet sitting in the middle of a street . (p=0.000040)
+  2) a white toilet sitting in the middle of a dirt road . (p=0.000020)
+Captions for image 13731326_158949477861169_2143054992_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.001618)
+  1) a bottle of wine sitting on top of a table . (p=0.001195)
+  2) a glass of wine sitting on a table next to a glass . (p=0.000090)
+Captions for image 13702977_823233974479955_444567675_n.jpg:
+  0) a man in a suit and tie sitting on a bench . (p=0.000533)
+  1) a man in a suit and tie sitting in a chair . (p=0.000313)
+  2) a man in a suit and tie sitting on a bench (p=0.000267)
+Captions for image 10616679_1268956529784719_835373290_n.jpg:
+  0) a man taking a picture of himself in a mirror . (p=0.002693)
+  1) a man taking a picture of himself in the mirror . (p=0.001436)
+  2) a man taking a picture of himself in a mirror (p=0.001235)
+Captions for image 13437176_506007366266851_1233977296_n.jpg:
+  0) a room filled with lots of wooden furniture . (p=0.000130)
+  1) a room filled with lots of furniture and a table . (p=0.000015)
+  2) a room filled with lots of furniture and a large window . (p=0.000007)
+Captions for image 13329005_136426146763504_1479845923_n.jpg:
+  0) a sign that reads `` <UNK> '' on a wall . (p=0.000006)
+  1) a sign that reads `` <UNK> '' on a brick wall . (p=0.000003)
+  2) a sign that reads `` <UNK> '' is on a pole . (p=0.000001)
+Captions for image 13388586_1106369712742919_2099133207_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000075)
+  1) a man in a suit and tie is smiling (p=0.000034)
+  2) a man in a suit and tie sitting in a chair . (p=0.000028)
+Captions for image 13277576_499205563620065_1951926893_n.jpg:
+  0) a close up of a cat looking at the camera (p=0.000558)
+  1) a close up of a cat looking at the camera . (p=0.000240)
+  2) a close up of a cat looking at a cat (p=0.000190)
+Captions for image 12677228_1195815757104454_1409004196_n.jpg:
+  0) a microwave oven sitting on top of a counter . (p=0.002483)
+  1) a microwave oven sitting on top of a wooden counter . (p=0.000466)
+  2) a microwave oven sitting on top of a kitchen counter . (p=0.000437)
+Captions for image 12446292_815403405271178_1783786119_n.jpg:
+  0) a black and white cat sitting on a couch . (p=0.000549)
+  1) a black and white cat is sitting on a couch . (p=0.000212)
+  2) a black and white cat sitting on a couch (p=0.000164)
+Captions for image 12940900_1063365627039690_1346166964_n.jpg:
+  0) a couple of men standing next to each other . (p=0.000851)
+  1) a couple of men standing next to each other holding wii controllers . (p=0.000113)
+  2) a couple of men standing next to each other in front of a table . (p=0.000066)
+Captions for image 12935113_1734295270144669_1710165247_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000254)
+  1) a group of people standing around a building . (p=0.000134)
+  2) a group of people standing in front of a large building . (p=0.000095)
+Captions for image 12446347_541945662644708_1813223322_n.jpg:
+  0) a cat that is laying down on the ground . (p=0.000830)
+  1) a cat that is laying down on a carpet . (p=0.000706)
+  2) a cat that is laying down on the floor . (p=0.000621)
+Captions for image 12907290_1147153895349400_180751628_n.jpg:
+  0) a group of colorful kites hanging from a ceiling . (p=0.000143)
+  1) a bunch of colorful kites hanging from a ceiling . (p=0.000080)
+  2) a group of colorful kites hanging on a wall . (p=0.000041)
+Captions for image 10601702_567858353391771_1356505397_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000282)
+  1) a man in a suit and tie is smiling (p=0.000102)
+  2) a man in a suit and tie looking at the camera (p=0.000096)
+Captions for image 12728530_1566905630294366_172038408_n.jpg:
+  0) a black and white cat sitting on a bed . (p=0.000826)
+  1) a black cat is sitting on a desk (p=0.000794)
+  2) a black and white cat sitting on a desk . (p=0.000653)
+Captions for image 12797694_681072575329553_1482823610_n.jpg:
+  0) a cat that is sitting on a table . (p=0.001081)
+  1) a cat that is sitting on a chair . (p=0.000798)
+  2) a cat that is sitting on top of a table . (p=0.000442)
+Captions for image 13649278_1587648668201700_922639403_n.jpg:
+  0) a cat that is sitting on a table . (p=0.000538)
+  1) a cat that is sitting on a chair . (p=0.000410)
+  2) a cat that is sitting on top of a table . (p=0.000159)
+Captions for image 12298864_1660774460861005_1371657757_n.jpg:
+  0) a glass of wine and a glass of wine . (p=0.000442)
+  1) a glass of wine and a glass of wine (p=0.000421)
+  2) a glass of wine sitting on a table next to a glass of wine . (p=0.000101)
+Captions for image 12677375_1708705409405922_1682735888_n.jpg:
+  0) a large building with a clock on the side of it . (p=0.000031)
+  1) a large building with a clock tower in the center . (p=0.000025)
+  2) a building with a clock tower in the middle of it . (p=0.000017)
+Captions for image 12750373_560331120783926_938143670_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000548)
+  1) a close up of a pair of scissors (p=0.000514)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000272)
+Captions for image 1516663_1706915656259356_901977940_n.jpg:
+  0) a black and white cat laying on a bed . (p=0.000551)
+  1) a black and white cat laying on top of a bed . (p=0.000495)
+  2) a black and white cat laying on a bed (p=0.000205)
+Captions for image 1390235_542798042561485_1767653390_n.jpg:
+  0) a man wearing a hat and sunglasses sitting in a car . (p=0.000063)
+  1) a man in a suit and tie sitting in a car . (p=0.000061)
+  2) a man in a suit and tie sitting in a car (p=0.000030)
+Captions for image 12547708_1544285122551858_629198725_n.jpg:
+  0) a glass of wine sitting on a table . (p=0.000793)
+  1) a glass of orange juice on a table . (p=0.000575)
+  2) a glass of orange juice sitting on a table . (p=0.000434)
+Captions for image 12479163_579982335485919_801449378_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000383)
+  1) a close up of a pair of scissors (p=0.000261)
+  2) a close up of a pair of scissors on a table (p=0.000061)
+Captions for image 12555838_718012494965746_712034736_n.jpg:
+  0) two glasses of wine sitting on top of a table . (p=0.003494)
+  1) three glasses of wine sitting on a table . (p=0.001825)
+  2) two glasses of wine sitting on a table . (p=0.001700)
+Captions for image 10424453_928144973928789_472226979_n.jpg:
+  0) a black and white photo of a vase with flowers . (p=0.000019)
+  1) a black and white photo of a vase with flowers (p=0.000009)
+  2) a black and white photo of a vase with flowers in it . (p=0.000007)
+Captions for image 12394058_889330051184474_1908765583_n.jpg:
+  0) a close up of a person riding a skate board (p=0.000234)
+  1) a close up of a person on a skate board (p=0.000145)
+  2) a close up of a skate board on a ledge (p=0.000058)
+Captions for image 12331632_199165563754300_1192352864_n.jpg:
+  0) a view of a building with a clock on it . (p=0.000018)
+  1) a view of a building with a clock on the wall . (p=0.000005)
+  2) a view of a building with a clock on the ceiling . (p=0.000004)
+Captions for image 12317740_456058871258322_1511120382_n.jpg:
+  0) a cup of coffee and a banana on a table . (p=0.000022)
+  1) a cup of coffee sitting next to a white plate . (p=0.000007)
+  2) a cup of coffee sitting next to a red fire hydrant . (p=0.000006)
+Captions for image 1172950_1547084785611892_805092338_n.jpg:
+  0) a black and white photo of a toaster (p=0.000056)
+  1) a black and white photo of a clock on a wall (p=0.000051)
+  2) a black and white photo of a clock (p=0.000048)
+Captions for image 12362393_1509528859342000_1995046821_n.jpg:
+  0) a black and white dog laying on top of a bed . (p=0.000087)
+  1) a black and white dog laying on top of a couch . (p=0.000086)
+  2) a black and white dog laying on a bed . (p=0.000082)
+Captions for image 12338489_433200800206689_365485256_n.jpg:
+  0) a glass window with a red light (p=0.000002)
+  1) a glass window with a red light in front of it . (p=0.000001)
+  2) a glass window with a red light on it . (p=0.000001)
+Captions for image 12357299_999445486781571_623799064_n.jpg:
+  0) a man in a wedding dress holding a cake . (p=0.000032)
+  1) a man in a wedding dress holding a knife . (p=0.000025)
+  2) a man in a suit and tie holding a cake . (p=0.000013)
+Captions for image 12317934_1646696555619658_2009324783_n.jpg:
+  0) a car parked in front of a parking meter . (p=0.000757)
+  1) a car is parked on the side of the road . (p=0.000488)
+  2) a car is parked on the side of the street . (p=0.000336)
+Captions for image 12331880_956950197712176_945803553_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000935)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.000649)
+  2) a bottle of beer and a glass of wine . (p=0.000565)

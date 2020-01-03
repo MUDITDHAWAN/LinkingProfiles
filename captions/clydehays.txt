@@ -1,0 +1,80 @@
+Captions for image 29088477_167809600540476_839716752622354432_n.jpg:
+  0) a man riding a skateboard down a street . (p=0.001259)
+  1) a man riding a skateboard down a sidewalk . (p=0.001029)
+  2) a man riding a skateboard down the side of a ramp . (p=0.000671)
+Captions for image 26227469_2071952766368108_8300585535781470208_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000194)
+  1) a man in a suit and tie sitting in a car (p=0.000115)
+  2) a man in a suit and tie sitting on a car . (p=0.000056)
+Captions for image 1172131_779934328690098_1142975947_n.jpg:
+  0) a close up of a person wearing a suit and tie (p=0.000843)
+  1) a close up of a person wearing a tie (p=0.000514)
+  2) a close up of a person with a tie (p=0.000305)
+Captions for image 11202532_866050663454360_467841376_n.jpg:
+  0) a car parked in a parking lot next to a parking meter . (p=0.000050)
+  1) a car parked on the side of a road next to a forest . (p=0.000025)
+  2) a car parked on the side of a road next to a tree . (p=0.000025)
+Captions for image 11199458_891653490893652_1200774412_n.jpg:
+  0) a group of people standing in front of a tv . (p=0.000091)
+  1) a group of people standing in front of a tv (p=0.000012)
+  2) a group of people standing in front of a table (p=0.000006)
+Captions for image 59726644_134006637704587_1570957669949547727_n.jpg:
+  0) a man and a woman sitting on a couch . (p=0.000347)
+  1) a man and a woman are sitting on a couch . (p=0.000213)
+  2) a man and woman are sitting on a couch . (p=0.000193)
+Captions for image 58769537_355149668539347_4896892152013504127_n.jpg:
+  0) a man with a tie and a tie . (p=0.000035)
+  1) a man with a tie and glasses on . (p=0.000026)
+  2) a man with a tie and a shirt . (p=0.000022)
+Captions for image 61599504_205677537074277_2677779672470141955_n.jpg:
+  0) a close up of a pair of scissors (p=0.003359)
+  1) a close up of a person holding a pair of scissors (p=0.000636)
+  2) a close up of a pair of scissors on a bed (p=0.000292)
+Captions for image 62243757_1088611244657992_7367057033811187173_n.jpg:
+  0) a couple of women standing next to each other . (p=0.002810)
+  1) a couple of women standing next to each other in a room . (p=0.000124)
+  2) a couple of women standing next to each other in front of a wall . (p=0.000024)
+Captions for image 58994653_476601322881124_5600537911751947570_n.jpg:
+  0) a group of people standing next to each other . (p=0.004480)
+  1) a group of people standing around each other . (p=0.002400)
+  2) a group of people standing next to each other in a room . (p=0.000372)
+Captions for image 54511389_263446327940316_8687396470608720030_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.001085)
+  1) a pair of scissors sitting on a table . (p=0.000642)
+  2) a pair of scissors sitting on a table (p=0.000341)
+Captions for image 56726670_794885334212946_3483537131686323706_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.001547)
+  1) a man and a woman are standing together (p=0.000279)
+  2) a man and a woman are standing together . (p=0.000273)
+Captions for image 29092968_396604350750677_4906377477091229696_n.jpg:
+  0) a black and white photo of a man in a suit . (p=0.000166)
+  1) a black and white photo of a man in a suit and tie (p=0.000148)
+  2) a black and white photo of a man in a suit (p=0.000118)
+Captions for image 62105717_351371278882039_5751733254311575326_n.jpg:
+  0) a close up of a pair of scissors (p=0.000557)
+  1) a close up of a pair of scissors on a bed (p=0.000159)
+  2) a close up of a pair of red scissors (p=0.000099)
+Captions for image 1941095_1471522019779732_1712817298_n.jpg:
+  0) a man in a suit and tie holding a cell phone . (p=0.000023)
+  1) a man in a suit and tie holding a cup . (p=0.000015)
+  2) a man in a suit and tie holding a cell phone (p=0.000009)
+Captions for image 29402925_223865194830376_2903212912149528576_n.jpg:
+  0) a man standing in front of a building holding a skateboard . (p=0.000015)
+  1) a man standing in front of a building with a skateboard . (p=0.000011)
+  2) a man standing in front of a building holding a bat . (p=0.000009)
+Captions for image 28764224_219090948826273_1336896523220287488_n.jpg:
+  0) a man sitting on a bench in front of a building . (p=0.000051)
+  1) a man sitting on a bench in front of a store . (p=0.000015)
+  2) a man sitting on a bench in front of a wall . (p=0.000013)
+Captions for image 28763734_1628749693869558_1683751107018358784_n.jpg:
+  0) a man sitting on a bench in front of a building . (p=0.000024)
+  1) a man sitting on the ground with a skateboard . (p=0.000011)
+  2) a man sitting on a bench in front of a store . (p=0.000005)
+Captions for image 29088165_223323291742225_4516997172259979264_n.jpg:
+  0) a man is holding a skateboard in his hand . (p=0.000067)
+  1) a man is holding a skateboard in his hand (p=0.000023)
+  2) a man is holding a skateboard in front of his face . (p=0.000014)
+Captions for image 29414923_860839177421498_6583902732661293056_n.jpg:
+  0) a man sitting on a bench in front of a building . (p=0.000029)
+  1) a man sitting on a bench with a baseball bat . (p=0.000027)
+  2) a man sitting on a bench in front of a store . (p=0.000022)

@@ -1,0 +1,12 @@
+Captions for image 11176198_1046794495348363_1433922395_n.jpg:
+  0) a giraffe standing in front of a window . (p=0.000114)
+  1) a giraffe standing in front of a building . (p=0.000099)
+  2) a giraffe standing in a doorway of a building . (p=0.000067)
+Captions for image 11850157_576682032471882_87927390_a.jpg:
+  0) a man wearing a tie and a hat . (p=0.000333)
+  1) a man wearing a hat and a tie . (p=0.000307)
+  2) a man wearing a hat and a hat . (p=0.000116)
+Captions for image 14482062_1623088107995062_5244778796451627008_n.jpg:
+  0) a cat laying on top of a stuffed animal . (p=0.000549)
+  1) a cat laying on top of a blanket on a bed . (p=0.000333)
+  2) a cat laying on top of a blanket next to a stuffed animal . (p=0.000176)

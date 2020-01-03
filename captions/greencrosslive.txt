@@ -1,0 +1,616 @@
+Captions for image 11420844_1615130135423865_1113819324_a.jpg:
+  0) a man is holding a pair of scissors (p=0.000187)
+  1) a man is holding a pair of scissors . (p=0.000125)
+  2) a man is holding a pair of scissors in his hand . (p=0.000052)
+Captions for image 57488049_430587901100337_4188866123985235627_n.jpg:
+  0) a plane flying over a large body of water . (p=0.000208)
+  1) a plane flying over a large body of water (p=0.000104)
+  2) a plane flying over a large body of water with mountains in the background . (p=0.000003)
+Captions for image 62449483_381677702471977_2592036394002379111_n.jpg:
+  0) a street light with a red light on it (p=0.000007)
+  1) a street light with a red light in the background (p=0.000003)
+  2) a street light with a red light in the background . (p=0.000003)
+Captions for image 56175011_914273908919551_3100268426903952684_n.jpg:
+  0) a picture of a clock on a building . (p=0.000061)
+  1) a picture of a building with a clock on it . (p=0.000042)
+  2) a picture of a clock on a building (p=0.000009)
+Captions for image 56352792_609065036233839_1986751639249851332_n.jpg:
+  0) a computer desk with a computer monitor and keyboard . (p=0.000032)
+  1) a desk with a keyboard and monitor on it (p=0.000025)
+  2) a desk with a computer and a keyboard (p=0.000015)
+Captions for image 56373752_2187291941339877_6499967309940941517_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.003663)
+  1) a laptop computer sitting on top of a wooden desk . (p=0.002220)
+  2) a laptop computer sitting on top of a table . (p=0.000683)
+Captions for image 66400732_440213279909132_1069873042984840736_n.jpg:
+  0) a close up of a keyboard and a mouse (p=0.000324)
+  1) a close up of a keyboard and a mouse on a table (p=0.000166)
+  2) a black and white photo of a keyboard and a mouse (p=0.000098)
+Captions for image 64438864_1269359359905155_7298706015990871000_n.jpg:
+  0) a tree with a bunch of flowers in it (p=0.000101)
+  1) a tree with a bunch of green leaves on it (p=0.000083)
+  2) a tree with a bunch of green leaves in it (p=0.000069)
+Captions for image 66290608_1340229276126670_395759144041662804_n.jpg:
+  0) a plane flying in the sky over a field . (p=0.000049)
+  1) a plane flying in the sky over a field (p=0.000039)
+  2) a plane flying in the sky over a mountain . (p=0.000029)
+Captions for image 66420795_644685836006356_2559850129186015297_n.jpg:
+  0) a dog sitting on a couch in a living room . (p=0.001453)
+  1) a dog sitting on a couch in a living room (p=0.000572)
+  2) a dog sitting in a living room next to a window . (p=0.000307)
+Captions for image 66523581_171650700535721_7415123225901835445_n.jpg:
+  0) a bunch of yellow flowers are in a field (p=0.000045)
+  1) a group of red and yellow flowers in a field . (p=0.000024)
+  2) a group of red and white flowers in a field . (p=0.000019)
+Captions for image 65424259_323971565215377_356710876380576514_n.jpg:
+  0) a building that has a clock on the side of it . (p=0.000033)
+  1) a building that has a sign on the side of it . (p=0.000025)
+  2) a building that has a sign on the side of it (p=0.000021)
+Captions for image 65034102_885610465131037_7839110502715348395_n.jpg:
+  0) a plane flying over a large body of water . (p=0.000275)
+  1) a plane flying over a large body of water (p=0.000085)
+  2) a view of a city skyline from a plane . (p=0.000017)
+Captions for image 64785792_628595237653599_7460366384210016832_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000029)
+  1) a man in a suit and tie sitting in a chair . (p=0.000019)
+  2) a man in a suit and tie sitting in a car (p=0.000012)
+Captions for image 65031270_373662876618286_6400451636239667200_n.jpg:
+  0) a view of a street light from a street . (p=0.000002)
+  1) a view of a street light from a distance . (p=0.000001)
+  2) a view of a street light and a street light . (p=0.000001)
+Captions for image 65398507_2301704133405001_3514698482321538377_n.jpg:
+  0) a view of a city street from a plane . (p=0.000001)
+  1) a view of a street light from a distance . (p=0.000001)
+  2) a view of a city street from the top of a building . (p=0.000000)
+Captions for image 64677693_1370716359737618_824739540224803933_n.jpg:
+  0) a black and white photo of a stop sign . (p=0.001681)
+  1) a black and white photo of a stop sign (p=0.001392)
+  2) a close up of a stop sign with a sky background (p=0.000769)
+Captions for image 66011088_480989456009223_3532687890503585510_n.jpg:
+  0) a plane flying over a large body of water . (p=0.000465)
+  1) a large body of water with a sky background (p=0.000369)
+  2) a plane flying over a large body of water (p=0.000124)
+Captions for image 64948138_2699672510107140_3004311879491374720_n.jpg:
+  0) a plane flying over a large body of water . (p=0.000124)
+  1) a plane flying over a large body of water (p=0.000055)
+  2) a plane flying in the sky over a mountain . (p=0.000033)
+Captions for image 49993864_133231574379297_9182698455858696495_n.jpg:
+  0) a close up of a traffic light on a pole (p=0.000129)
+  1) a close up of a traffic light with a blurry background (p=0.000128)
+  2) a close up of a traffic light with a sky background (p=0.000105)
+Captions for image 65400008_910882449082281_7353731593807020990_n.jpg:
+  0) a group of people flying kites in the sky . (p=0.000287)
+  1) a group of people standing on top of a lush green field . (p=0.000196)
+  2) a group of people standing on top of a hill flying kites . (p=0.000101)
+Captions for image 65276613_2554807481196790_6456809585501206929_n.jpg:
+  0) a person flying a kite on a beach . (p=0.000402)
+  1) a man flying a kite on a beach . (p=0.000199)
+  2) a person flying a kite in the sky (p=0.000105)
+Captions for image 61901923_323671295211711_3964651396291256272_n.jpg:
+  0) a couple of men standing next to each other . (p=0.004441)
+  1) a man and a woman posing for a picture . (p=0.002109)
+  2) a man and a woman posing for a picture (p=0.000840)
+Captions for image 61042645_1197433690458951_6995752210434359509_n.jpg:
+  0) a black and white photo of a stop sign . (p=0.000836)
+  1) a black and white photo of a stop sign (p=0.000721)
+  2) a black and white photo of a stop sign with a sign on it . (p=0.000006)
+Captions for image 64503407_2395500143822806_878443004725688870_n.jpg:
+  0) a view of a plane flying in the sky . (p=0.000146)
+  1) a view of a plane in the sky . (p=0.000085)
+  2) a view of a plane flying in the air . (p=0.000036)
+Captions for image 61699151_142257786918688_5989071756921390491_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000689)
+  1) a close up of a person holding a nintendo wii remote (p=0.000233)
+  2) a close up of a person holding a wii remote (p=0.000209)
+Captions for image 65475904_882551808764726_8134010936646176463_n.jpg:
+  0) a view of a sunset from the sky . (p=0.000016)
+  1) a view of a sunset and a sunset . (p=0.000011)
+  2) a view of a sunset from a plane . (p=0.000007)
+Captions for image 59303971_415809935642004_5547265821378876550_n.jpg:
+  0) a group of young people riding skateboards down a street . (p=0.000160)
+  1) a group of young people standing next to each other . (p=0.000116)
+  2) a group of young people standing next to each other on a street . (p=0.000026)
+Captions for image 60269945_174886646839609_1431960553242982727_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000118)
+  1) a clock tower in the middle of a building . (p=0.000085)
+  2) a clock tower in the middle of a city (p=0.000046)
+Captions for image 64913354_153483855705586_7471641108801342608_n.jpg:
+  0) a plane flying over a large body of water . (p=0.000082)
+  1) a plane flying over a large body of water (p=0.000053)
+  2) a plane flying over a mountain with a sky background (p=0.000002)
+Captions for image 59426399_140110400477682_343234501083257423_n.jpg:
+  0) a close up of a cake on a table (p=0.000733)
+  1) a close up of a cake on a plate (p=0.000164)
+  2) a close up of a cake sitting on a table (p=0.000104)
+Captions for image 64947557_405431383514141_4244870946828527320_n.jpg:
+  0) a plane flying over a large body of water . (p=0.000050)
+  1) a plane flying over a large body of water (p=0.000027)
+  2) a view of a sunset and a sunset . (p=0.000003)
+Captions for image 58961843_288583098687590_4546058473151264273_n.jpg:
+  0) a collage of photos of a man holding a skateboard . (p=0.000003)
+  1) a collage of photos of a man holding a skateboard (p=0.000002)
+  2) a collage of photos with a sign that says <UNK> . (p=0.000001)
+Captions for image 59441189_332732550744424_350147762479558001_n.jpg:
+  0) a black and white photo of a red and white fire hydrant . (p=0.000004)
+  1) a black and white photo of a red and white fire hydrant (p=0.000003)
+  2) a black and white photo of a white and blue fire hydrant . (p=0.000002)
+Captions for image 65726934_125545105339720_594454118122049012_n.jpg:
+  0) a view of a city skyline from a plane . (p=0.000011)
+  1) a view of a city skyline from the sky . (p=0.000006)
+  2) a view of a city skyline from a plane (p=0.000002)
+Captions for image 59495389_135467877621797_2849902905246154076_n.jpg:
+  0) a train traveling through a lush green forest . (p=0.001436)
+  1) a train traveling down tracks next to a forest . (p=0.000755)
+  2) a train traveling down tracks next to a lush green forest . (p=0.000259)
+Captions for image 59884715_125285305329529_551819001623348460_n.jpg:
+  0) a couple of birds standing on top of a lush green field . (p=0.000176)
+  1) a couple of birds standing on top of a tree . (p=0.000172)
+  2) a couple of birds standing on top of a grass covered field . (p=0.000126)
+Captions for image 58409234_289528125258537_6938928691279204412_n.jpg:
+  0) a close up of a stuffed animal on a table (p=0.000138)
+  1) a close up of a stuffed animal on a desk (p=0.000086)
+  2) a close up of a teddy bear on a table (p=0.000051)
+Captions for image 57190461_1237000673121266_1316524416193350160_n.jpg:
+  0) a view of a mountain range from a plane . (p=0.000025)
+  1) a view of a mountain range with a plane flying overhead . (p=0.000006)
+  2) a view of a mountain range from a plane (p=0.000004)
+Captions for image 57253569_631545747273907_6824949623000978100_n.jpg:
+  0) a computer monitor sitting on top of a desk . (p=0.000264)
+  1) a computer monitor sitting on top of a table . (p=0.000134)
+  2) a computer monitor sitting on top of a wooden desk . (p=0.000110)
+Captions for image 58430438_1382327178574242_3610283376217365909_n.jpg:
+  0) a sign that is on a pole with a sign on it . (p=0.000003)
+  1) a sign that reads `` <UNK> '' is on the side of a building . (p=0.000001)
+  2) a sign that is on a pole with a sign on it (p=0.000001)
+Captions for image 65494697_203359037295942_6465624217756795703_n.jpg:
+  0) a view of a mountain range from below . (p=0.000035)
+  1) a view of a mountain range from below (p=0.000005)
+  2) a plane flying over a snowy mountain with a sky background (p=0.000002)
+Captions for image 56852952_1102384599946464_782274788374696991_n.jpg:
+  0) a large body of water with a sky background (p=0.000129)
+  1) a large body of water with a mountain in the background (p=0.000048)
+  2) a large body of water with a mountain in the background . (p=0.000041)
+Captions for image 56337587_2360461967516316_8836181560824971340_n.jpg:
+  0) a bird flying over a body of water . (p=0.000333)
+  1) a bird flying over a body of water with a sky background (p=0.000033)
+  2) a bird flying over a body of water with trees in the background (p=0.000013)
+Captions for image 54732569_710379136026516_2402582569082261954_n.jpg:
+  0) a man in a suit and tie standing in the woods . (p=0.000026)
+  1) a man in a suit and tie is smiling (p=0.000019)
+  2) a man in a suit and tie standing in the woods (p=0.000017)
+Captions for image 50011567_335855230594815_2646629953665412603_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.001482)
+  1) a group of people standing on a beach flying kites . (p=0.000449)
+  2) a group of people standing on top of a beach . (p=0.000297)
+Captions for image 53602198_335167183778191_3121216614843349274_n.jpg:
+  0) a bird sitting on top of a sandy beach . (p=0.000236)
+  1) a bird sitting on top of a sandy beach next to the ocean . (p=0.000016)
+  2) a bird sitting on top of a rock next to a body of water . (p=0.000014)
+Captions for image 49421988_599691260478144_7941270919988072387_n.jpg:
+  0) a bench sitting in the middle of a lush green field . (p=0.000201)
+  1) a bench sitting in the middle of a lake . (p=0.000152)
+  2) a bench sitting in the middle of a field . (p=0.000086)
+Captions for image 54731614_280081559566370_7359716489575069183_n.jpg:
+  0) a red and white fire hydrant sitting in the grass . (p=0.000098)
+  1) a red and white fire hydrant sitting in a field . (p=0.000039)
+  2) a red and white fire hydrant sitting in the middle of a field . (p=0.000024)
+Captions for image 53817191_123532345414481_1490576265836581019_n.jpg:
+  0) a small bird perched on top of a tree branch . (p=0.013489)
+  1) a small bird perched on a tree branch . (p=0.004593)
+  2) a small bird perched on a tree branch (p=0.002485)
+Captions for image 54512546_593153474444380_4151617102379866822_n.jpg:
+  0) a man and a woman pose for a picture . (p=0.000646)
+  1) a man and a woman pose for a picture (p=0.000209)
+  2) a man and a woman pose for a photo . (p=0.000149)
+Captions for image 56398515_131689667953564_6328595268753282897_n.jpg:
+  0) a dog is standing in the grass with a frisbee . (p=0.000739)
+  1) a black and white dog standing on top of a lush green field . (p=0.000371)
+  2) a black and white dog standing in a field . (p=0.000309)
+Captions for image 53845884_2182998468681396_2814108040304093045_n.jpg:
+  0) a small bird perched on top of a tree branch . (p=0.009892)
+  1) a small bird perched on a tree branch . (p=0.004240)
+  2) a small bird perched on a tree branch (p=0.002189)
+Captions for image 54247254_799164523802225_4530138049876380331_n.jpg:
+  0) a small bird sitting on a tree branch . (p=0.001858)
+  1) a bird sitting on a branch of a tree . (p=0.001728)
+  2) a small bird sitting on a tree branch (p=0.001603)
+Captions for image 49933705_1034467630089791_5924094611073275106_n.jpg:
+  0) a bird perched on top of a tree branch . (p=0.006929)
+  1) a bird perched on top of a tree . (p=0.001285)
+  2) a bird is perched on a branch of a tree . (p=0.000903)
+Captions for image 54457852_601589226988399_3261928176653825854_n.jpg:
+  0) a small bird perched on top of a tree branch . (p=0.004417)
+  1) a bird sitting on a branch in a tree . (p=0.001277)
+  2) a bird is perched on a branch in a tree . (p=0.000677)
+Captions for image 52882770_200164900944518_4471807044881412334_n.jpg:
+  0) a view of a mountain from a window . (p=0.000006)
+  1) a view of a mountain range with a sky background (p=0.000002)
+  2) a view of a mountain range with a sky background . (p=0.000002)
+Captions for image 52390064_389936395135283_7142058860508569560_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.000096)
+  1) a group of people standing on top of a snow covered slope . (p=0.000044)
+  2) a group of people standing on top of a beach . (p=0.000034)
+Captions for image 51989839_839808223040800_978403049303151454_n.jpg:
+  0) a black and white photo of a man in a suit (p=0.000259)
+  1) a black and white photo of a black and white photo (p=0.000178)
+  2) a black and white photo of a black and white photo of a man in a suit . (p=0.000016)
+Captions for image 53293053_1632090186934844_362800291366125760_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000055)
+  1) a man in a car with a bow tie . (p=0.000031)
+  2) a man in a suit and tie sitting in a car (p=0.000030)
+Captions for image 54446667_438041047004167_3639400498529123730_n.jpg:
+  0) a close up of a green plant in a field (p=0.000130)
+  1) a close up of a plant in a field (p=0.000107)
+  2) a close up of a green plant in a field . (p=0.000082)
+Captions for image 52016876_1942568849204329_5244726974696424750_n.jpg:
+  0) a small bird perched on top of a tree branch . (p=0.008175)
+  1) a small bird perched on a tree branch . (p=0.003751)
+  2) a small bird sitting on a tree branch . (p=0.003233)
+Captions for image 53298704_120950028995660_3425657426030718673_n.jpg:
+  0) a small bird perched on a tree branch . (p=0.004069)
+  1) a bird sitting on a branch of a tree . (p=0.003168)
+  2) a small bird perched on a tree branch (p=0.002282)
+Captions for image 52161753_631994060574858_5779333062019964600_n.jpg:
+  0) a view of a sunset from the sky . (p=0.000030)
+  1) a view of a sunset from a plane . (p=0.000013)
+  2) a view of a sunset from the sky (p=0.000007)
+Captions for image 51202742_1687059808105890_3510401446657289238_n.jpg:
+  0) a small bird perched on a tree branch . (p=0.003219)
+  1) a small bird sitting on a tree branch . (p=0.003112)
+  2) a small bird sitting on a tree branch (p=0.002627)
+Captions for image 51734357_800699116961142_5125331402657548485_n.jpg:
+  0) a plane flying over a large body of water . (p=0.000168)
+  1) a plane flying over a large body of water (p=0.000077)
+  2) a view of a sunset over a river . (p=0.000010)
+Captions for image 50905698_411219969686615_681324003132383761_n.jpg:
+  0) a bench sitting in the middle of a forest . (p=0.000235)
+  1) a bench sitting in the middle of a snow covered forest . (p=0.000167)
+  2) a bench sitting in the middle of a snow covered field . (p=0.000117)
+Captions for image 50895196_554462795037008_228898281287936289_n.jpg:
+  0) a person is standing in the snow with a snowboard . (p=0.000025)
+  1) a person is standing in the snow with a kite . (p=0.000006)
+  2) a person is standing in the snow with a snowboard (p=0.000006)
+Captions for image 51383615_591907141254764_9200587344837140890_n.jpg:
+  0) a stop sign on the side of a road . (p=0.000085)
+  1) a stop sign on the side of the road . (p=0.000042)
+  2) a stop sign on the side of the road (p=0.000018)
+Captions for image 50667500_312546026132637_505039298043167763_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.000496)
+  1) a red stop sign sitting on the side of a street . (p=0.000033)
+  2) a red stop sign sitting on the side of the road . (p=0.000021)
+Captions for image 50905701_1890788527697368_1487660779388347430_n.jpg:
+  0) a view of a city street with a stop light . (p=0.000004)
+  1) a view of a city street with a traffic light . (p=0.000003)
+  2) a view of a city street with a stop light (p=0.000000)
+Captions for image 50666188_297416927635237_553889561811456219_n.jpg:
+  0) a view of a plane flying in the sky . (p=0.000127)
+  1) a view of a plane flying in the air . (p=0.000026)
+  2) a view of a plane flying in the sky (p=0.000022)
+Captions for image 51433427_633105870479872_1769384273747070763_n.jpg:
+  0) a close up of a cat laying on a bed (p=0.000866)
+  1) a close up of a cat laying on a couch (p=0.000614)
+  2) a cat sitting on top of a bed next to a window . (p=0.000043)
+Captions for image 51177594_486201581909731_3607397079725097957_n.jpg:
+  0) a snow covered mountain with lots of trees . (p=0.000210)
+  1) a snow covered mountain with a lot of trees . (p=0.000030)
+  2) a snow covered mountain with a lot of trees (p=0.000011)
+Captions for image 50954322_1271461443005512_6258212416667668972_n.jpg:
+  0) a snow covered street with a traffic light on it . (p=0.000018)
+  1) a snow covered street with a traffic light on it (p=0.000004)
+  2) a snow covered street with a traffic light on the side of it . (p=0.000003)
+Captions for image 50628698_145202893150089_5115546693218300265_n.jpg:
+  0) a group of people riding skis on top of a snow covered slope . (p=0.000377)
+  1) a group of people standing on top of a snow covered slope . (p=0.000285)
+  2) a group of people standing on top of a snow covered field . (p=0.000082)
+Captions for image 49627636_116172616112945_5744428265052135691_n.jpg:
+  0) a nintendo wii controller sitting on top of a table . (p=0.002705)
+  1) a nintendo wii game controller sitting on top of a table . (p=0.002439)
+  2) a nintendo wii game controller sitting on top of a wooden table . (p=0.000798)
+Captions for image 50511835_301456263893153_5104511223158277456_n.jpg:
+  0) a snow covered street with a red fire hydrant . (p=0.000009)
+  1) a snow covered mountain with a red stop sign on it . (p=0.000005)
+  2) a snow covered mountain with a red stop sign (p=0.000002)
+Captions for image 49699915_338146740124004_1318274425608874294_n.jpg:
+  0) a flock of birds sitting on top of a tree . (p=0.002358)
+  1) a bird perched on top of a tree branch . (p=0.001902)
+  2) a bird perched on top of a tree . (p=0.000975)
+Captions for image 43772860_510011986170630_6155868722893422592_n.jpg:
+  0) a black and white photo of an airplane . (p=0.002114)
+  1) a black and white photo of an airplane (p=0.001032)
+  2) a black and white photo of a plane (p=0.001027)
+Captions for image 44474209_366745270729111_7795287087288156160_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000179)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000058)
+  2) a pair of scissors sitting on a table . (p=0.000058)
+Captions for image 47582926_2013262118759340_768396071616270820_n.jpg:
+  0) a black and white photo of a keyboard and mouse (p=0.000024)
+  1) a black and white photo of a keyboard and a monitor (p=0.000021)
+  2) a black and white photo of a keyboard and a mouse (p=0.000020)
+Captions for image 45681930_565719887232199_165405151983566848_n.jpg:
+  0) a man in a suit and tie standing outside . (p=0.000145)
+  1) a man in a suit and tie standing in front of a building . (p=0.000089)
+  2) a man in a suit and tie standing outside (p=0.000073)
+Captions for image 49567414_595615537561110_2405156166964077386_n.jpg:
+  0) a plane flying over a snowy mountain range . (p=0.000387)
+  1) a plane flying over a snowy mountain range (p=0.000076)
+  2) a plane flying over a mountain with a mountain in the background . (p=0.000024)
+Captions for image 46215700_282853195755540_739946793559289924_n.jpg:
+  0) a red fire hydrant sitting in the middle of a field . (p=0.000162)
+  1) a red fire hydrant sitting in the middle of a snow covered field . (p=0.000078)
+  2) a red and white fire hydrant sitting in the middle of a field . (p=0.000036)
+Captions for image 46983639_290567204901354_6804897977069469696_n.jpg:
+  0) a black and white photo of a city street . (p=0.000153)
+  1) a black and white photo of a city street (p=0.000148)
+  2) a black and white photo of a street with cars (p=0.000014)
+Captions for image 47585666_138004803876362_8264174551443889026_n.jpg:
+  0) a group of people skiing down a snow covered slope . (p=0.000417)
+  1) a snow covered mountain with lots of trees . (p=0.000225)
+  2) a group of people skiing down a snow covered mountain . (p=0.000215)
+Captions for image 47691118_576675386112147_3890317510553108480_n.jpg:
+  0) a tall building with a clock on it (p=0.000731)
+  1) a large building with a clock on the top . (p=0.000453)
+  2) a tall building with a clock on the front of it . (p=0.000244)
+Captions for image 47583304_218894665714616_6705149676110492806_n.jpg:
+  0) a view of a sunset from the sky . (p=0.000009)
+  1) a view of a sunset from the beach . (p=0.000009)
+  2) a view of a sunset from a plane . (p=0.000007)
+Captions for image 47368750_2023375537960775_4099346284584894464_n.jpg:
+  0) a man standing on top of a wooden bench . (p=0.000091)
+  1) a man and a woman are sitting on a bench . (p=0.000046)
+  2) a man and a woman are sitting on a bench overlooking the ocean . (p=0.000018)
+Captions for image 47692985_2120747764905645_9188023532590727168_n.jpg:
+  0) a group of people standing next to each other . (p=0.003507)
+  1) a group of people standing next to each other in a forest . (p=0.001035)
+  2) a group of people standing next to each other on a snow covered slope . (p=0.000425)
+Captions for image 49401274_2191819894470134_1983951947866046464_n.jpg:
+  0) a man sitting in front of a laptop computer . (p=0.004900)
+  1) a man sitting in front of a computer keyboard . (p=0.002278)
+  2) a man sitting in front of a computer monitor . (p=0.001936)
+Captions for image 46658076_239162540320130_541750750762500096_n.jpg:
+  0) a large building with a clock on it (p=0.000293)
+  1) a large building with a clock on the front . (p=0.000213)
+  2) a large building with a clock on the front of it . (p=0.000164)
+Captions for image 47582790_272671043417372_3553692018435686400_n.jpg:
+  0) a view of a sunset from the sky . (p=0.000028)
+  1) a view of a beach with a sunset in the background . (p=0.000006)
+  2) a view of a beach with a sunset in the distance . (p=0.000002)
+Captions for image 47412354_348127465739889_5123405013531492352_n.jpg:
+  0) a view of a mountain range with a plane flying in the sky . (p=0.000001)
+  1) a view of a mountain range with a plane in the sky . (p=0.000001)
+  2) a view of a mountain range with a plane flying over it . (p=0.000000)
+Captions for image 46417168_311964569421652_1122506951398260736_n.jpg:
+  0) a large clock on a wall in a room . (p=0.000007)
+  1) a person holding a lit up clock in the dark . (p=0.000001)
+  2) a large clock on a wall in a room (p=0.000001)
+Captions for image 49933404_2230260940562997_8427787954394497024_n.jpg:
+  0) a large building with a large clock on it 's side . (p=0.000026)
+  1) a large building with a clock on the side of it . (p=0.000022)
+  2) a large building with a large clock on it . (p=0.000017)
+Captions for image 47689944_213006199641954_1545250033269342986_n.jpg:
+  0) a view of a city street at sunset . (p=0.000100)
+  1) a view of a city street at night . (p=0.000091)
+  2) a view of a city street at sunset (p=0.000018)
+Captions for image 46841102_1844594485669710_2275520535808966656_n.jpg:
+  0) a black and white photo of a clock on a pole (p=0.000026)
+  1) a black and white photo of a clock on a pole . (p=0.000022)
+  2) a black and white photo of a clock on a wall . (p=0.000015)
+Captions for image 49276829_220675885399741_2735806574447472599_n.jpg:
+  0) a plane flying over a body of water . (p=0.001100)
+  1) a plane flying over a body of water (p=0.000593)
+  2) a plane is flying over the water at sunset . (p=0.000075)
+Captions for image 46788522_302525020264666_5476556010795565056_n.jpg:
+  0) a view of a mountain range from a plane . (p=0.000009)
+  1) a view of a mountain range with a plane flying in the sky . (p=0.000002)
+  2) a view of a mountain range with a plane flying overhead . (p=0.000002)
+Captions for image 46590617_543649909443082_3187251919911387136_n.jpg:
+  0) a man flying through the air while riding a snowboard . (p=0.006723)
+  1) a man flying through the air while riding skis . (p=0.002213)
+  2) a man flying through the air on top of a snowboard . (p=0.000311)
+Captions for image 46673845_768905066777549_4769789154777104384_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.002877)
+  1) a black and white photo of a clock tower (p=0.000887)
+  2) a black and white photo of a street sign (p=0.000181)
+Captions for image 46658829_378697832887418_1584338423890575360_n.jpg:
+  0) a man in a black shirt is brushing his teeth (p=0.000195)
+  1) a man in a black shirt is brushing his teeth . (p=0.000086)
+  2) a man in a black shirt and a white tie (p=0.000006)
+Captions for image 47161590_614065349016456_4761602302865833984_n.jpg:
+  0) a group of people walking down a street . (p=0.000924)
+  1) a group of people walking down a sidewalk . (p=0.000667)
+  2) a group of people walking down a street next to tall buildings . (p=0.000027)
+Captions for image 46330768_2303377226401008_7779413360608542720_n.jpg:
+  0) a man in a suit and tie holding a cell phone . (p=0.000057)
+  1) a man in a suit and tie holding a glass of wine . (p=0.000025)
+  2) a man in a suit and tie holding a cell phone (p=0.000025)
+Captions for image 46977228_1934774559892436_4262728829094592512_n.jpg:
+  0) a view of a mountain range with mountains in the background . (p=0.000111)
+  1) a view of a mountain range with a mountain in the background . (p=0.000038)
+  2) a view of a mountain range with mountains in the distance . (p=0.000030)
+Captions for image 45557799_644230192641551_2982311203126116352_n.jpg:
+  0) a man wearing a tie and glasses looking into a mirror (p=0.000002)
+  1) a man wearing a tie and glasses looking into the camera . (p=0.000001)
+  2) a man wearing a tie and glasses looking into a mirror . (p=0.000001)
+Captions for image 47198207_356485568234414_4549556760985206784_n.jpg:
+  0) a black and white photo of a city street (p=0.000201)
+  1) a black and white photo of a city street . (p=0.000186)
+  2) a black and white photo of a train station . (p=0.000094)
+Captions for image 43914289_351901242044382_2583431401298722816_n.jpg:
+  0) an airplane flying over a city with a clock tower . (p=0.000015)
+  1) a plane flying over a city with a clock tower . (p=0.000011)
+  2) a plane flying over a city with a clock tower (p=0.000011)
+Captions for image 42930359_535614533569676_5420455169450049536_n.jpg:
+  0) a large body of water with a sky background (p=0.000214)
+  1) a large body of water with a cloudy sky . (p=0.000032)
+  2) a large body of water with a cloudy sky in the background . (p=0.000016)
+Captions for image 43205975_940366656152514_5078913116599746560_n.jpg:
+  0) a view of a window from a window . (p=0.000021)
+  1) a window with a view of a city skyline . (p=0.000004)
+  2) a window with a view of a city in the background . (p=0.000003)
+Captions for image 45390361_360958337782513_536328281536856064_n.jpg:
+  0) a man standing in a kitchen preparing food . (p=0.002503)
+  1) a man standing in a kitchen preparing food (p=0.000121)
+  2) a man standing in front of a table with a cake . (p=0.000094)
+Captions for image 44828634_1365535010255209_6108310657398996992_n.jpg:
+  0) a black and white photo of an airplane . (p=0.000822)
+  1) a black and white photo of an airplane (p=0.000296)
+  2) a black and white photo of a large clock . (p=0.000183)
+Captions for image 45337239_1462448747232523_7201922937140543488_n.jpg:
+  0) a man and woman are sitting on a bus . (p=0.000032)
+  1) a man and woman are sitting on a motorcycle . (p=0.000017)
+  2) a man and woman are sitting on a bus (p=0.000011)
+Captions for image 44839786_290046304974718_4309603273234448384_n.jpg:
+  0) a group of people riding skis down a snow covered slope . (p=0.003110)
+  1) a group of people skiing down a snow covered slope . (p=0.001322)
+  2) a group of people riding skis on top of a snow covered slope . (p=0.000472)
+Captions for image 45729325_1179694305516158_9197351097751044096_n.jpg:
+  0) a black and white photo of a snow covered mountain . (p=0.001366)
+  1) a black and white photo of a snow covered mountain (p=0.000587)
+  2) a black and white photo of a snow capped mountain (p=0.000447)
+Captions for image 45451711_303006927090992_3684426240195821568_n.jpg:
+  0) a group of people standing next to each other . (p=0.000844)
+  1) a group of people standing next to each other on a snow covered slope . (p=0.000065)
+  2) a group of people standing next to each other on a ski slope . (p=0.000039)
+Captions for image 43388267_579195005849703_2012683853147144192_n.jpg:
+  0) a train traveling down train tracks near a forest . (p=0.000755)
+  1) a train traveling down tracks next to a forest . (p=0.000631)
+  2) a train traveling down train tracks next to a forest . (p=0.000477)
+Captions for image 43083232_306177356655004_595021857200013312_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000613)
+  1) a very tall building with a clock on it 's side . (p=0.000437)
+  2) a very tall building with a clock on it . (p=0.000436)
+Captions for image 45560316_872124429845178_1051218186571087872_n.jpg:
+  0) a traffic light sitting on the side of a road . (p=0.000497)
+  1) a traffic light sitting on the side of a street . (p=0.000123)
+  2) a street with a traffic light on it (p=0.000012)
+Captions for image 43037093_1087378068106123_5437732422722519040_n.jpg:
+  0) a train traveling through a lush green countryside . (p=0.000210)
+  1) a train traveling through a lush green forest . (p=0.000101)
+  2) a train traveling down tracks next to a lush green field . (p=0.000029)
+Captions for image 44921024_756045841403097_2594634119115702272_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.001231)
+  1) a train traveling down train tracks next to a forest . (p=0.001102)
+  2) a train traveling down tracks next to a lush green field . (p=0.000555)
+Captions for image 45748414_195527701281895_3192099348850671616_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000417)
+  1) a fire hydrant in the middle of a field . (p=0.000277)
+  2) a black and white photo of a snow covered road . (p=0.000097)
+Captions for image 42664926_185578518990212_4637775685597790208_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.000440)
+  1) a train traveling down tracks next to a lush green hillside . (p=0.000208)
+  2) a train traveling down tracks next to a lush green field . (p=0.000199)
+Captions for image 42437700_546068315821465_8009447398050889728_n.jpg:
+  0) a view of a mountain range from below . (p=0.000056)
+  1) a view of a mountain range from the plane . (p=0.000011)
+  2) a view of a mountain range with a plane flying overhead . (p=0.000006)
+Captions for image 42717351_2045863748799090_3950903792404267008_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000233)
+  1) a man in a suit and tie is smiling (p=0.000083)
+  2) a man in a suit and tie holding a camera . (p=0.000033)
+Captions for image 43985562_308418443312648_314091688500920320_n.jpg:
+  0) a view of a city street at sunset . (p=0.000063)
+  1) a view of a city street at sunset (p=0.000013)
+  2) a view of a beach with a sunset in the background . (p=0.000004)
+Captions for image 44532064_711316649238060_7946317499128086528_n.jpg:
+  0) a view of a sunset from the sky . (p=0.000019)
+  1) a view of a beach with a sunset in the background . (p=0.000008)
+  2) a view of a beach with a sunset in the distance . (p=0.000002)
+Captions for image 44228075_280917825866859_2179444359370375168_n.jpg:
+  0) a stop sign on the side of a road . (p=0.000166)
+  1) a stop sign on the side of the road . (p=0.000142)
+  2) a stop sign on the side of the road (p=0.000058)
+Captions for image 43984995_332179820665674_8222986261405630464_n.jpg:
+  0) a view of a mountain range from below . (p=0.000046)
+  1) a view of a mountain from a plane . (p=0.000031)
+  2) a view of a snowy mountain with a mountain in the background . (p=0.000005)
+Captions for image 44349722_192177498351446_2460218732425773056_n.jpg:
+  0) a man in a suit and tie standing in a field . (p=0.000041)
+  1) a man in a suit and tie standing in front of a car . (p=0.000022)
+  2) a man in a suit and tie standing next to a car . (p=0.000015)
+Captions for image 42402577_488334055002799_1205528480251379712_n.jpg:
+  0) a view of a mountain from a plane . (p=0.000019)
+  1) a view of a mountain from the horizon . (p=0.000013)
+  2) a view of a mountain from a plane window . (p=0.000009)
+Captions for image 43779250_2287409554817112_2437484559994978304_n.jpg:
+  0) a man and a woman posing for a picture . (p=0.001427)
+  1) a man and woman pose for a picture . (p=0.001324)
+  2) a man and woman pose for a picture (p=0.000653)
+Captions for image 43375222_431845330679468_3576849069051478016_n.jpg:
+  0) a view of a mountain range from below . (p=0.000029)
+  1) a view of a mountain range from the window . (p=0.000005)
+  2) a view of a mountain range from below (p=0.000005)
+Captions for image 44282052_332537874223111_6231779001380110336_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.001538)
+  1) a close up of a person wearing a suit and tie (p=0.001391)
+  2) a close up of a person wearing a tie (p=0.001155)
+Captions for image 43693989_311736962746860_8069098841615368192_n.jpg:
+  0) a person standing on a beach flying a kite . (p=0.000188)
+  1) a couple of people standing on top of a sandy beach . (p=0.000122)
+  2) a couple of people standing on top of a beach . (p=0.000052)
+Captions for image 43779106_1991541984477429_1946485668242784256_n.jpg:
+  0) a view of a sunset from the sky . (p=0.000029)
+  1) a view of a sunset from the water . (p=0.000016)
+  2) a view of a sunset and a mountain range . (p=0.000007)
+Captions for image 44236629_2258265684449729_2927692378900791296_n.jpg:
+  0) a view of a mountain range from a plane . (p=0.000032)
+  1) a view of a mountain range from a plane (p=0.000006)
+  2) a view of a mountain range with a plane in the sky . (p=0.000003)
+Captions for image 43985448_182797305986985_7106172151719264256_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000200)
+  1) a man in a suit and tie looking at the camera . (p=0.000090)
+  2) a man in a suit and tie looking at the camera (p=0.000072)
+Captions for image 43579339_1942028942766500_7847599174773112832_n.jpg:
+  0) a silhouette of a sunset and a sunset . (p=0.000069)
+  1) a silhouette of a person on a beach flying a kite . (p=0.000058)
+  2) a silhouette of a sunset and a sunset (p=0.000031)
+Captions for image 43597821_172403217031731_1311224258151579648_n.jpg:
+  0) a stop sign on the side of the road . (p=0.000146)
+  1) a stop sign on the side of a road . (p=0.000128)
+  2) a train traveling down tracks next to a lush green field . (p=0.000080)
+Captions for image 43282934_2302855283283007_7901805278411096064_n.jpg:
+  0) a view of a sunset from the sky . (p=0.000050)
+  1) a view of a sunset from a plane . (p=0.000020)
+  2) a view of a sunset and a sunset . (p=0.000016)
+Captions for image 43748733_547453639034468_4689343197552312320_n.jpg:
+  0) a view of a sunset from the sky . (p=0.000041)
+  1) a view of a sunset from the water . (p=0.000024)
+  2) a view of a sunset from the sky (p=0.000008)
+Captions for image 43598559_268021797233100_537402122145103872_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000251)
+  1) a man with a beard wearing a tie (p=0.000144)
+  2) a man in a suit and tie is smiling (p=0.000091)
+Captions for image 43985366_742197852793316_5689499291035369472_n.jpg:
+  0) a view of a sunset from the sky . (p=0.000029)
+  1) a view of a sunset from a sunset . (p=0.000009)
+  2) a view of a sunset from a plane . (p=0.000008)
+Captions for image 44561342_202982570611787_6605989112354701312_n.jpg:
+  0) a bus driving down a street next to a tall building . (p=0.000048)
+  1) a bus driving down a road next to a forest . (p=0.000045)
+  2) a bus driving down a road next to a tall building . (p=0.000028)
+Captions for image 43296755_318393828993652_5153103050230988800_n.jpg:
+  0) a view of a plane flying in the sky . (p=0.000253)
+  1) a view of a plane in the sky . (p=0.000103)
+  2) a view of a plane flying in the air . (p=0.000058)
+Captions for image 43820624_323018455146006_4629928969326559232_n.jpg:
+  0) a view of a mountain range from below . (p=0.000027)
+  1) a view of a mountain range from below (p=0.000004)
+  2) a view of a mountain range with a plane flying in the sky . (p=0.000002)
+Captions for image 43817813_304915933436655_7715478292756692992_n.jpg:
+  0) a view of a sunset from the sky . (p=0.000075)
+  1) a view of a sunset from a sunset . (p=0.000027)
+  2) a view of a beach with a sunset in the background . (p=0.000012)
+Captions for image 42973393_352629358636442_552614535530283008_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000055)
+  1) a man wearing a hat and sunglasses sitting in a car . (p=0.000035)
+  2) a man in a suit and tie sitting in a car (p=0.000035)
+Captions for image 42833399_2135709136695241_3525553832253718528_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.001208)
+  1) a black and white photo of a clock tower (p=0.000801)
+  2) a black and white photo of a <UNK> (p=0.000287)
+Captions for image 44198533_340588003378327_5898294878407753728_n.jpg:
+  0) a stop sign on the side of the road . (p=0.000329)
+  1) a stop sign on the side of a road . (p=0.000270)
+  2) a stop sign on the side of the road (p=0.000122)
+Captions for image 42798629_2236190323267592_2335710813085499392_n.jpg:
+  0) a plane flying over a large body of water . (p=0.000284)
+  1) a plane flying over a large body of water (p=0.000093)
+  2) a plane flying over the water in the sunset . (p=0.000005)

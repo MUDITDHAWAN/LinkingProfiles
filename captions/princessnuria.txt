@@ -1,0 +1,60 @@
+Captions for image 11190219_1611644942415929_273159096_n.jpg:
+  0) a cat laying on a couch with a remote (p=0.000214)
+  1) a cat laying on a couch with a remote control . (p=0.000155)
+  2) a cat laying on top of a bed next to a pillow . (p=0.000097)
+Captions for image 11186810_1058336807513124_926974473_n.jpg:
+  0) a cat laying on a rug next to a pair of shoes . (p=0.000084)
+  1) a cat laying on top of a couch next to a remote control . (p=0.000083)
+  2) a cat laying on top of a rug next to a pair of shoes . (p=0.000066)
+Captions for image 11123681_1575820162699173_1837756997_n.jpg:
+  0) a cat laying on top of a computer keyboard . (p=0.006283)
+  1) a cat laying on top of a laptop computer . (p=0.002278)
+  2) a cat laying on top of a keyboard next to a mouse . (p=0.000397)
+Captions for image 11187105_642538695881048_881513620_n.jpg:
+  0) a cat that is laying down on a rug . (p=0.000993)
+  1) a cat that is laying down on a chair . (p=0.000728)
+  2) a cat that is laying down on a rug (p=0.000245)
+Captions for image 25008592_1552769798109924_1138982402996043776_n.jpg:
+  0) a cat laying on top of a blanket on a bed . (p=0.000900)
+  1) a cat laying on top of a blanket on a couch . (p=0.000240)
+  2) a cat laying on top of a bed next to a pillow . (p=0.000126)
+Captions for image 11191486_369959396537618_1642682865_n.jpg:
+  0) a vase of flowers is sitting on a table . (p=0.000075)
+  1) a picture of a vase with flowers in it . (p=0.000072)
+  2) a vase of flowers is sitting on a table (p=0.000021)
+Captions for image 11376424_487765224705203_907528615_n.jpg:
+  0) a cat sitting on top of a wooden chair . (p=0.000323)
+  1) a cat sitting on top of a wooden table . (p=0.000290)
+  2) a cat sitting on top of a blue chair . (p=0.000179)
+Captions for image 25009473_339619636512547_7107296531207684096_n.jpg:
+  0) a cat laying on top of a blanket on a bed . (p=0.000526)
+  1) a cat laying on top of a blanket on a couch . (p=0.000176)
+  2) a cat laying on top of a bed next to a stuffed animal . (p=0.000051)
+Captions for image 11327433_993601227319556_198185743_n.jpg:
+  0) a fire hydrant sitting on the side of a road . (p=0.002438)
+  1) a fire hydrant sitting on the side of a street . (p=0.000852)
+  2) a fire hydrant sitting on a sidewalk next to a street . (p=0.000200)
+Captions for image 11189933_856074907775195_1743566960_n.jpg:
+  0) a group of people sitting around a living room . (p=0.000534)
+  1) a group of people sitting around a living room together . (p=0.000191)
+  2) a group of people sitting on a couch playing a video game . (p=0.000056)
+Captions for image 11192798_1469112316682830_854729364_n.jpg:
+  0) a laptop computer sitting on top of a table . (p=0.001876)
+  1) a laptop computer sitting on top of a wooden table . (p=0.001561)
+  2) a laptop computer sitting on top of a wooden desk . (p=0.001469)
+Captions for image 11191538_1589140934696069_1044395788_n.jpg:
+  0) a woman holding a nintendo wii game controller . (p=0.005722)
+  1) a man and a woman playing a video game . (p=0.000992)
+  2) a man and a woman are playing a video game . (p=0.000454)
+Captions for image 11142375_356849324518342_368423828_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.000135)
+  1) a person holding a pair of scissors in a box . (p=0.000056)
+  2) a person holding a pair of scissors in their hands (p=0.000042)
+Captions for image 11141942_1086814184669312_298177462_n.jpg:
+  0) a group of people standing around a cake . (p=0.000580)
+  1) a group of people standing around a table . (p=0.000423)
+  2) a group of people standing around a table with a cake . (p=0.000098)
+Captions for image 11184558_1621483614734404_1352286072_n.jpg:
+  0) a group of people standing next to each other . (p=0.003351)
+  1) a group of people standing around each other . (p=0.001891)
+  2) a group of people standing next to each other in a room . (p=0.000153)

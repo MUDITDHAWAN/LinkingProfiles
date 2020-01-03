@@ -1,0 +1,784 @@
+Captions for image 58454190_595008224346226_22170424056554211_n.jpg:
+  0) a man and a cat laying on a bed . (p=0.000246)
+  1) a man and a cat laying on a bed (p=0.000084)
+  2) a man laying on a bed with a cat on his lap . (p=0.000026)
+Captions for image 11820572_645322452274254_1777290468_a.jpg:
+  0) a man and a woman are sitting together . (p=0.000054)
+  1) a man and a woman are sitting together (p=0.000047)
+  2) a man and a woman are sitting on a couch . (p=0.000030)
+Captions for image 57204167_417133918871118_8472711994579592924_n.jpg:
+  0) a man holding a book in his hand . (p=0.000076)
+  1) a man holding a book in his hands . (p=0.000053)
+  2) a man holding a book in his hand (p=0.000021)
+Captions for image 52794910_618019421956543_2026125698725115951_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.002019)
+  1) a person holding a smart phone in their hand . (p=0.001403)
+  2) a person holding a cell phone in their hands . (p=0.000978)
+Captions for image 57506457_419101555333508_6997450618511791601_n.jpg:
+  0) a collage of photos with a sign and a sign (p=0.000002)
+  1) a collage of photos with a sign and a sign . (p=0.000001)
+  2) a collage of photos with a sign that reads `` <UNK> '' . (p=0.000000)
+Captions for image 56618648_2352547408354485_1339810187100521593_n.jpg:
+  0) a man sitting in front of a laptop computer . (p=0.000301)
+  1) a man sitting at a desk with a laptop . (p=0.000055)
+  2) a man sitting at a table with a laptop . (p=0.000051)
+Captions for image 58787629_345924122730565_312428130560752167_n.jpg:
+  0) a room filled with lots of different types of books . (p=0.000036)
+  1) a room filled with lots of books and a clock . (p=0.000021)
+  2) a room filled with lots of different types of clocks . (p=0.000020)
+Captions for image 64763837_133134267887074_4306018105892946386_n.jpg:
+  0) a dog sitting on a bench in front of a building . (p=0.000293)
+  1) a dog sitting on a bench in front of a window . (p=0.000201)
+  2) a dog sitting on a bench in front of a building (p=0.000079)
+Captions for image 64875216_2558615267506771_7891077983435198601_n.jpg:
+  0) a table topped with lots of different types of books . (p=0.000045)
+  1) a table topped with lots of different types of cake . (p=0.000043)
+  2) a table topped with lots of different flavored donuts . (p=0.000033)
+Captions for image 65143774_149513936193148_654443477235865999_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.000320)
+  1) a person holding a cell phone in their hand (p=0.000103)
+  2) a person holding a cell phone in their hands . (p=0.000085)
+Captions for image 64566214_715436828911933_3976097251051175271_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.000194)
+  1) a book shelf filled with lots of different types of books . (p=0.000063)
+  2) a book shelf filled with lots of different colored ties . (p=0.000021)
+Captions for image 62106264_317754302469528_3420092421484562113_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.010018)
+  1) a laptop computer sitting on top of a wooden desk . (p=0.005070)
+  2) an open laptop computer sitting on top of a wooden desk . (p=0.002018)
+Captions for image 64240184_143174380197869_7456674456718385170_n.jpg:
+  0) a birthday cake with a train on it (p=0.000307)
+  1) a birthday cake with a train on it . (p=0.000246)
+  2) a birthday cake with a train on top of it . (p=0.000060)
+Captions for image 61825634_457678881628189_8818079616500587425_n.jpg:
+  0) a cat laying on top of a laptop computer . (p=0.009854)
+  1) a cat laying on a laptop on a desk . (p=0.001050)
+  2) a cat laying on top of a laptop on a desk . (p=0.000894)
+Captions for image 64944710_2349025568702727_4314935981130986299_n.jpg:
+  0) a dog sitting on the floor next to a window . (p=0.000027)
+  1) a dog sitting on the floor next to a window (p=0.000025)
+  2) a dog is sitting on the floor in front of a door . (p=0.000014)
+Captions for image 64620072_2084521488515720_8246605598894811574_n.jpg:
+  0) a dog laying on a couch next to a remote control . (p=0.000261)
+  1) a dog laying on a couch with a stuffed animal . (p=0.000240)
+  2) a dog laying on a couch with a stuffed animal (p=0.000235)
+Captions for image 64603258_2328365824045122_8911235857930998780_n.jpg:
+  0) a bunch of books that are on a table . (p=0.000139)
+  1) a bunch of different types of books on a table . (p=0.000027)
+  2) a bunch of books that are stacked on a table . (p=0.000026)
+Captions for image 61328808_2023327457963420_5580674241474502625_n.jpg:
+  0) a collage of photos with a clock on the wall (p=0.000011)
+  1) a collage of photos with a clock on the wall . (p=0.000006)
+  2) a collage of photos with a clock and a painting (p=0.000001)
+Captions for image 61938835_2281669002073636_1149413451785366093_n.jpg:
+  0) a man in a suit is holding a book . (p=0.000069)
+  1) a man in a suit and tie holding a book . (p=0.000052)
+  2) a man in a suit is holding a book (p=0.000022)
+Captions for image 61192914_349677065743141_4478314007605560920_n.jpg:
+  0) a pile of luggage sitting on top of a table . (p=0.000291)
+  1) a pile of luggage sitting on top of a wooden floor . (p=0.000195)
+  2) a pile of luggage sitting on top of a wooden table . (p=0.000115)
+Captions for image 61551049_106656780494563_1735260802038109319_n.jpg:
+  0) a man is holding a banana in his hand . (p=0.000095)
+  1) a man is holding a banana in his hand (p=0.000042)
+  2) a man is holding a banana in his hands . (p=0.000032)
+Captions for image 61253832_595281810962730_5518957761886719927_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000342)
+  1) a man in a suit and tie looking at the camera . (p=0.000153)
+  2) a man in a suit and tie is smiling (p=0.000122)
+Captions for image 65301621_434199604068900_2214903601398595727_n.jpg:
+  0) a dog sitting on a bench in front of a building . (p=0.000199)
+  1) a dog sitting on a wooden bench in front of a window . (p=0.000067)
+  2) a dog sitting on a wooden bench in front of a building . (p=0.000065)
+Captions for image 61075770_426189521494227_1603237901275762016_n.jpg:
+  0) a man with a beard and a dog sitting on a boat . (p=0.000013)
+  1) a man with a beard and a dog sitting on a boat (p=0.000007)
+  2) a man with a beard and a dog in a hat (p=0.000005)
+Captions for image 60876420_180448539619845_8762392815639919476_n.jpg:
+  0) a group of colorful umbrellas hanging from a ceiling . (p=0.000018)
+  1) a bunch of different colored ties hanging from a wall . (p=0.000016)
+  2) a bunch of different colored ties hanging from a ceiling . (p=0.000011)
+Captions for image 60639459_406365503284358_4480442690834354534_n.jpg:
+  0) a man sitting in a chair with a dog on his lap . (p=0.000199)
+  1) a man sitting on a couch with a dog on his lap . (p=0.000186)
+  2) a man sitting in a chair holding a dog (p=0.000105)
+Captions for image 59999859_119893445891522_2836257163040835688_n.jpg:
+  0) a book and a book on a table . (p=0.000232)
+  1) a book with a book on top of it . (p=0.000073)
+  2) a book with a book on top of it (p=0.000066)
+Captions for image 61366543_141651713577891_695936739600575779_n.jpg:
+  0) a man sitting on a boat with a dog . (p=0.001090)
+  1) a man sitting on a boat with a dog on his lap . (p=0.000286)
+  2) a man sitting on a boat with a dog in his lap . (p=0.000210)
+Captions for image 60170114_443190583140819_5356360018146053016_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.001124)
+  1) a person holding a cell phone in their hands . (p=0.000474)
+  2) a man holding a cell phone in his hand . (p=0.000463)
+Captions for image 60620878_1283848665111737_1318132253038650556_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000801)
+  1) a man and a woman pose for a picture . (p=0.000495)
+  2) a man and a woman pose for a picture (p=0.000212)
+Captions for image 59875225_1295498177273497_3065668834370466301_n.jpg:
+  0) a pile of books sitting on top of a table . (p=0.000163)
+  1) a pile of books sitting on top of a bed . (p=0.000039)
+  2) a pile of books sitting on top of a wooden table . (p=0.000031)
+Captions for image 58718073_583006992220655_1714880713296310551_n.jpg:
+  0) a man holding a banana in his right hand . (p=0.000153)
+  1) a young boy holding a baseball bat in his hands . (p=0.000076)
+  2) a young boy holding a banana in his right hand . (p=0.000051)
+Captions for image 60851247_753346445059982_4302077307494902769_n.jpg:
+  0) a table topped with lots of different types of cake . (p=0.000042)
+  1) a table topped with lots of different colored ties . (p=0.000041)
+  2) a table topped with lots of different types of scissors . (p=0.000019)
+Captions for image 59952430_606959169780665_5196595010477389376_n.jpg:
+  0) a dog is sitting on a wooden bench . (p=0.000778)
+  1) a dog is sitting on a wooden bench (p=0.000228)
+  2) a dog sitting on a wooden bench in the snow . (p=0.000061)
+Captions for image 58454014_210263806600116_9082742327110628961_n.jpg:
+  0) a man in a suit and tie holding a cell phone . (p=0.000030)
+  1) a man in a suit and tie holding a cell phone to his ear . (p=0.000011)
+  2) a man in a suit and tie holding a cell phone (p=0.000010)
+Captions for image 59401818_429285364297452_8584547846705052956_n.jpg:
+  0) a group of colorful kites flying in the sky . (p=0.000078)
+  1) a group of colorful kites flying in the air . (p=0.000059)
+  2) a group of colorful kites sitting on top of a beach . (p=0.000029)
+Captions for image 59487763_1058226417700556_6150668281666395465_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.001736)
+  1) a person holding a cell phone in their hands . (p=0.000859)
+  2) a person holding a cell phone in their hand (p=0.000492)
+Captions for image 58468481_699989137084545_7484319412145167900_n.jpg:
+  0) a woman is sitting on a motorcycle with a dog . (p=0.000003)
+  1) a woman is sitting on a bench with a dog . (p=0.000001)
+  2) a woman is sitting on a motorcycle with a dog (p=0.000001)
+Captions for image 59843717_135993120824642_5305176341918714860_n.jpg:
+  0) a bunch of colorful kites hanging from a tree . (p=0.000041)
+  1) a group of colorful kites hanging from a tree . (p=0.000038)
+  2) a group of colorful kites sitting on top of a beach . (p=0.000033)
+Captions for image 59002763_172715493725872_6542655031684846460_n.jpg:
+  0) a dog laying on a bed with a book . (p=0.000074)
+  1) a dog laying on a bed with a book (p=0.000042)
+  2) a dog is sitting on a table with a book . (p=0.000023)
+Captions for image 58729926_2292136844393746_6741741635949941271_n.jpg:
+  0) a brown dog sitting on a wooden bench . (p=0.001062)
+  1) a brown dog laying on a wooden bench . (p=0.000889)
+  2) a brown dog sitting on a wooden bench (p=0.000257)
+Captions for image 57258353_803394803350105_5885003145725905733_n.jpg:
+  0) a collage of pictures of a man and a woman . (p=0.000004)
+  1) a collage of photos of a man and a woman (p=0.000004)
+  2) a collage of pictures of a man and a woman (p=0.000003)
+Captions for image 56915031_571510989924719_1155652613779810285_n.jpg:
+  0) a brown and white dog laying on a rug . (p=0.000346)
+  1) a brown and white dog laying on top of a rug . (p=0.000329)
+  2) a brown and white dog laying on top of a couch . (p=0.000185)
+Captions for image 58453734_321465765192786_7130441400423906726_n.jpg:
+  0) a man in a suit and tie taking a selfie . (p=0.000159)
+  1) a man in a suit and tie taking a selfie (p=0.000105)
+  2) a man in a suit and tie taking a picture of himself . (p=0.000072)
+Captions for image 59916274_2009772239330143_6972537392880883938_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000128)
+  1) a man wearing a hat and a tie . (p=0.000099)
+  2) a man wearing a tie and a hat (p=0.000041)
+Captions for image 57438318_637892390005830_8386919243882322896_n.jpg:
+  0) a man sitting on a couch holding a dog . (p=0.001267)
+  1) a man sitting on a couch with a dog on his lap . (p=0.000505)
+  2) a man sitting on a couch holding a dog (p=0.000256)
+Captions for image 57987882_281418896145351_6335530770384565506_n.jpg:
+  0) a man in a suit and tie standing in front of a sign . (p=0.000017)
+  1) a man in a suit and tie standing in front of a poster . (p=0.000015)
+  2) a man in a suit and tie standing in front of a wall . (p=0.000010)
+Captions for image 59941801_2168657439897365_8015689751534799876_n.jpg:
+  0) a person is taking a picture of a television . (p=0.000040)
+  1) a person holding a wii remote in front of a television . (p=0.000037)
+  2) a person holding a wii remote in front of a tv . (p=0.000026)
+Captions for image 57123555_2239344086152258_1927707563298907493_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.000034)
+  1) a person holding a cell phone in their hand (p=0.000012)
+  2) a person holding a cell phone in their hands . (p=0.000011)
+Captions for image 57506468_2212955455464251_2510291062233251184_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.004180)
+  1) a book shelf filled with books and a clock . (p=0.000891)
+  2) a book shelf filled with books on top of a shelf . (p=0.000149)
+Captions for image 49906803_2348732422059397_6807876850407177731_n.jpg:
+  0) a close up of a sign with a sky background (p=0.000115)
+  1) a black and white photo of a person holding a stop sign . (p=0.000008)
+  2) a black and white photo of a person holding a stop sign (p=0.000007)
+Captions for image 49646944_2069312056470327_5893731456988122617_n.jpg:
+  0) a man in a suit and tie eating a donut . (p=0.000015)
+  1) a man in a suit and tie eating a doughnut . (p=0.000014)
+  2) a man in a suit and tie is eating a donut . (p=0.000008)
+Captions for image 50977147_256997185199859_858020988076677594_n.jpg:
+  0) a man holding a book in his hand . (p=0.000168)
+  1) a man holding a book in front of a book . (p=0.000056)
+  2) a man holding a book in his hand (p=0.000052)
+Captions for image 56286854_848153275546569_4443852606528315328_n.jpg:
+  0) a pile of books sitting on top of a table . (p=0.000091)
+  1) a pile of luggage sitting on top of a table . (p=0.000090)
+  2) a pile of luggage sitting on top of a wooden floor . (p=0.000042)
+Captions for image 56182700_214863689473197_6251096157787638509_n.jpg:
+  0) a group of young children standing next to each other . (p=0.000130)
+  1) a group of young girls standing next to each other . (p=0.000112)
+  2) a group of young people standing next to each other . (p=0.000072)
+Captions for image 56966849_815892015431385_3808538412959701306_n.jpg:
+  0) a dog is sitting on a book shelf . (p=0.000072)
+  1) a dog is sitting on the floor next to a book . (p=0.000067)
+  2) a dog is sitting on a book shelf (p=0.000033)
+Captions for image 56474693_698261107275786_5597713708772734071_n.jpg:
+  0) a baseball player holding a baseball bat on a field . (p=0.000030)
+  1) a baseball player holding a bat in front of a screen . (p=0.000007)
+  2) a baseball player holding a baseball bat in front of a crowd . (p=0.000006)
+Captions for image 51455497_2260759077279464_8074887536593635252_n.jpg:
+  0) a birthday cake with a train on it (p=0.000012)
+  1) a birthday cake with a train on it . (p=0.000010)
+  2) a birthday cake with a baseball bat on top of it . (p=0.000002)
+Captions for image 57029179_166316631027879_4568761025877391788_n.jpg:
+  0) a dog laying on a couch next to a cat . (p=0.000131)
+  1) a dog laying on a couch next to a stuffed animal (p=0.000070)
+  2) a dog laying on a couch next to a cat (p=0.000070)
+Captions for image 53334698_443250809816323_1846405003367231057_n.jpg:
+  0) a man with a beard wearing a red tie . (p=0.000090)
+  1) a man with a beard wearing a blue shirt and tie . (p=0.000031)
+  2) a man with a beard wearing a red tie (p=0.000021)
+Captions for image 55932217_2241899529408817_6495920629466335491_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.002467)
+  1) a person holding a cell phone in their hands . (p=0.000986)
+  2) a person holding a smart phone in their hand . (p=0.000969)
+Captions for image 56757841_2414634905488988_5598910498614038033_n.jpg:
+  0) a dog sitting on a couch next to a book . (p=0.000121)
+  1) a dog is sitting on the floor next to a book . (p=0.000078)
+  2) a dog sitting on a couch next to a book (p=0.000043)
+Captions for image 56226285_349054785736618_6350449051462080700_n.jpg:
+  0) a dog sitting on a chair in a living room . (p=0.000406)
+  1) a dog sitting on a chair in a room . (p=0.000398)
+  2) a dog sitting on a chair in a living room (p=0.000249)
+Captions for image 54238004_677084709378439_8428098612774054117_n.jpg:
+  0) a man in a suit and tie standing in a kitchen . (p=0.000021)
+  1) a man in a suit and tie standing in a room . (p=0.000019)
+  2) a man in a suit and tie standing in front of a bookshelf . (p=0.000007)
+Captions for image 56411013_299377687626071_1311544306572118757_n.jpg:
+  0) a birthday cake with a train on it (p=0.000229)
+  1) a birthday cake with a train on it . (p=0.000192)
+  2) a cake shaped like a train with a train on it . (p=0.000005)
+Captions for image 54511194_660826424371667_5503294767564229367_n.jpg:
+  0) a group of young men standing next to each other . (p=0.001668)
+  1) a group of young men standing next to each other holding wii controllers . (p=0.000656)
+  2) a group of young men standing next to each other holding nintendo wii controllers . (p=0.000228)
+Captions for image 53813377_327154421274665_3530504053641828299_n.jpg:
+  0) a dog is sitting on the floor next to a book . (p=0.000107)
+  1) a dog is sitting on a book shelf . (p=0.000091)
+  2) a dog sitting in a chair with a book . (p=0.000036)
+Captions for image 54732371_605899403210220_5262561611340361317_n.jpg:
+  0) a man is holding a banana in his hand . (p=0.000261)
+  1) a man is holding a banana in his hand (p=0.000108)
+  2) a man in a black shirt is holding a banana (p=0.000018)
+Captions for image 50722784_2316458211964938_5788738770823922211_n.jpg:
+  0) a dog is sitting on a couch with a frisbee . (p=0.000013)
+  1) a dog sitting on a couch with a frisbee in its mouth . (p=0.000012)
+  2) a dog sitting on a couch with a frisbee in its mouth (p=0.000005)
+Captions for image 54511453_355193538451936_3845509445200496126_n.jpg:
+  0) a graffiti covered wall with graffiti on it . (p=0.000380)
+  1) a bunch of graffiti that are on a wall . (p=0.000087)
+  2) a graffiti covered wall with graffiti on it (p=0.000083)
+Captions for image 54731708_129671771487677_5458816701669489248_n.jpg:
+  0) a bunch of signs that are on a pole . (p=0.000193)
+  1) a bunch of signs that are on a wall . (p=0.000160)
+  2) a bunch of signs that are on the wall . (p=0.000033)
+Captions for image 53655993_304941283523912_4865274594455622282_n.jpg:
+  0) a man holding a dog in his hands . (p=0.000026)
+  1) a man holding a dog in his hands (p=0.000009)
+  2) a dog is sitting on the floor next to a book . (p=0.000006)
+Captions for image 54731948_1259832580841352_4817063496501526384_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.001771)
+  1) a book shelf filled with lots of different types of books . (p=0.000244)
+  2) a book shelf filled with lots of books and a clock . (p=0.000032)
+Captions for image 55827199_565400137289049_2591766418966923883_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.001134)
+  1) a book shelf filled with books and a clock . (p=0.000382)
+  2) a book shelf filled with lots of books and a clock . (p=0.000064)
+Captions for image 54201508_853968834943205_716107069662991542_n.jpg:
+  0) a dog laying on the floor with a stuffed animal (p=0.000037)
+  1) a dog laying on the floor next to a shoe . (p=0.000034)
+  2) a dog laying on the floor next to a shoe (p=0.000032)
+Captions for image 53311968_322982678572242_2564045459101983665_n.jpg:
+  0) a man in a suit and tie holding a glass of wine . (p=0.000004)
+  1) a man in a suit and tie holding a glass of beer . (p=0.000003)
+  2) a man in a suit and tie holding a glass (p=0.000002)
+Captions for image 53192817_394003368080343_3662971562808900325_n.jpg:
+  0) a dog sitting on a couch with a remote . (p=0.000050)
+  1) a dog sitting on a couch with a remote control . (p=0.000024)
+  2) a dog is sitting on a couch with a toy . (p=0.000016)
+Captions for image 54800404_1144583239046126_232213713177637552_n.jpg:
+  0) a man sitting in a chair talking on a cell phone . (p=0.000693)
+  1) a man sitting in a chair holding a cell phone . (p=0.000465)
+  2) a man sitting in a chair talking on a phone . (p=0.000301)
+Captions for image 52587373_796178390737631_1500508292946183745_n.jpg:
+  0) a dog is sitting on the floor with a toy . (p=0.000030)
+  1) a dog is sitting on the floor in front of a mirror . (p=0.000012)
+  2) a dog is sitting on the floor with a toy (p=0.000006)
+Captions for image 52340203_123446542065284_842531606190045113_n.jpg:
+  0) a man in a suit and tie standing in front of a sign . (p=0.000019)
+  1) a man in a suit and tie standing in front of a poster . (p=0.000016)
+  2) a man in a suit and tie standing in front of a wall . (p=0.000011)
+Captions for image 53160613_295537967784188_2889253977545821661_n.jpg:
+  0) a close up of a stuffed animal on a table (p=0.000062)
+  1) a close up of a bird on a table (p=0.000038)
+  2) a close up of a person holding a pair of scissors (p=0.000032)
+Captions for image 51536039_260573128219201_4939467749982634597_n.jpg:
+  0) a brown dog laying on top of a couch . (p=0.000610)
+  1) a brown dog laying on top of a rug . (p=0.000366)
+  2) a brown dog laying on a floor next to a stuffed animal . (p=0.000026)
+Captions for image 52035785_1988403498133991_3406798858037720837_n.jpg:
+  0) a man sitting at a table with a book . (p=0.000160)
+  1) a man sitting at a desk with a book . (p=0.000130)
+  2) a man sitting at a table with a book and a laptop . (p=0.000003)
+Captions for image 51080370_176412033329497_60779480882534766_n.jpg:
+  0) a man wearing a tie and a white shirt . (p=0.000256)
+  1) a man in a suit and tie is smiling . (p=0.000233)
+  2) a man in a suit and tie is smiling (p=0.000079)
+Captions for image 52895389_325999144696398_2559954690419770943_n.jpg:
+  0) a brown and white dog sitting on a couch . (p=0.000244)
+  1) a brown and white dog sitting on top of a couch . (p=0.000149)
+  2) a brown and white dog sitting on top of a wooden floor . (p=0.000035)
+Captions for image 52156981_289668321729622_3920807108371159787_n.jpg:
+  0) a man in a suit and tie is smiling (p=0.000050)
+  1) a man in a suit and tie looking at his cell phone . (p=0.000037)
+  2) a man in a suit and tie holding a glass of wine . (p=0.000024)
+Captions for image 53584788_763378670713991_8221015433629930982_n.jpg:
+  0) a brown dog laying on top of a couch . (p=0.000741)
+  1) a brown dog laying on top of a rug . (p=0.000268)
+  2) a brown dog laying on top of a couch next to a remote control . (p=0.000021)
+Captions for image 50837901_329538297677569_9139039804454770634_n.jpg:
+  0) a dog and a cat sitting on the floor . (p=0.000027)
+  1) a dog and a cat sitting on a rug . (p=0.000024)
+  2) a dog and a cat sitting on a floor . (p=0.000024)
+Captions for image 51875015_530099240731733_8090955604880640684_n.jpg:
+  0) a birthday cake with a train on it (p=0.000106)
+  1) a birthday cake with a train on it . (p=0.000084)
+  2) a birthday cake that has been decorated with a train . (p=0.000002)
+Captions for image 49722721_313440645972899_8598673821697431866_n.jpg:
+  0) a close up of a stop sign with a sky background (p=0.000219)
+  1) a close up of a stop sign with a sticker on it (p=0.000110)
+  2) a close up of a stop sign with a sign on it (p=0.000038)
+Captions for image 47692098_2413771788696764_4598771072230645101_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.009159)
+  1) a person holding a cell phone in their hand (p=0.002480)
+  2) a person holding a cell phone in their hands . (p=0.002024)
+Captions for image 52341763_472604419942111_3260303035052526225_n.jpg:
+  0) a dog laying on the floor with a stuffed animal (p=0.000037)
+  1) a dog laying on the floor with a stuffed animal . (p=0.000035)
+  2) a dog laying on the floor next to a stuffed animal (p=0.000031)
+Captions for image 50623726_817849938560490_5373657542394906709_n.jpg:
+  0) a brown dog sitting on a wooden bench . (p=0.001140)
+  1) a small dog sitting on a wooden bench . (p=0.001005)
+  2) a small dog sitting on a wooden bench (p=0.000322)
+Captions for image 50118986_306250823358721_5612206791931190029_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000677)
+  1) a close up of a stop sign with a sky background (p=0.000339)
+  2) a close up of a stop sign with a sign on it (p=0.000050)
+Captions for image 51840547_2083113511758115_8801768874237271180_n.jpg:
+  0) a dog and a cat sitting next to each other . (p=0.000118)
+  1) a dog and a cat sitting next to each other (p=0.000036)
+  2) a dog and a cat sitting on a table . (p=0.000034)
+Captions for image 50058450_472975713107548_4141134194712077651_n.jpg:
+  0) a pair of shoes and a pair of shoes . (p=0.000555)
+  1) a close up of a pair of shoes (p=0.000380)
+  2) a pair of shoes and a pair of shoes (p=0.000222)
+Captions for image 52784787_725503191176552_4177063187162787579_n.jpg:
+  0) a brown dog laying on top of a couch . (p=0.000863)
+  1) a brown dog laying on top of a bed . (p=0.000845)
+  2) a brown dog laying on top of a bed next to a teddy bear . (p=0.000021)
+Captions for image 50305190_2235725410019646_3406155661285235872_n.jpg:
+  0) a man holding a nintendo wii game controller . (p=0.008339)
+  1) a man and a woman playing a video game . (p=0.000787)
+  2) a man and a woman playing a video game (p=0.000440)
+Captions for image 51691674_2385007138186007_4342740127664161339_n.jpg:
+  0) a dog that is sitting on a couch . (p=0.000277)
+  1) a dog that is laying down on a couch . (p=0.000111)
+  2) a dog that is laying down on a blanket . (p=0.000104)
+Captions for image 50758906_2268338826565318_1616942375980467875_n.jpg:
+  0) a close up of a computer keyboard and mouse . (p=0.000032)
+  1) a close up of a computer keyboard and a mouse . (p=0.000012)
+  2) a close up of a computer keyboard and mouse (p=0.000010)
+Captions for image 51169697_2224849854264269_2358453064275070659_n.jpg:
+  0) a dog and a cat sitting on a rug . (p=0.000042)
+  1) a dog and a cat are playing with a frisbee . (p=0.000031)
+  2) a dog and a cat sitting on the floor . (p=0.000030)
+Captions for image 49485952_1876185752490159_8803948933747876707_n.jpg:
+  0) a man is brushing his teeth with a toothbrush . (p=0.000504)
+  1) a man is brushing his teeth in a bathroom . (p=0.000478)
+  2) a man is brushing his teeth in the bathroom . (p=0.000458)
+Captions for image 50337756_296909647689478_7562392057752549575_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000099)
+  1) a man in a suit and tie is smiling (p=0.000046)
+  2) a man in a suit and tie holding a cell phone . (p=0.000031)
+Captions for image 47693779_452017295335120_6553479299174120741_n.jpg:
+  0) a clock on the wall of a building . (p=0.000023)
+  1) a clock on the wall of a store . (p=0.000019)
+  2) a clock on the wall of a building (p=0.000013)
+Captions for image 49330413_302952493900396_498326033853731846_n.jpg:
+  0) a close up of a stop sign with a sky background (p=0.000050)
+  1) a close up of a stop sign with stickers on it (p=0.000040)
+  2) a close up of a stop sign with stickers (p=0.000015)
+Captions for image 49813307_220940948721014_5866196291721534518_n.jpg:
+  0) a close up of a vandalized stop sign (p=0.000577)
+  1) a close up of a stop sign with a sky background (p=0.000140)
+  2) a close up of a stop sign with graffiti on it (p=0.000055)
+Captions for image 50624112_508665029643438_5267427890864953321_n.jpg:
+  0) a close up of a stop sign with a sky background (p=0.000349)
+  1) a close up of a stop sign with stickers on it (p=0.000215)
+  2) a close up of a stop sign with a sticker on it (p=0.000098)
+Captions for image 49906768_110952586676084_7726098221967187617_n.jpg:
+  0) a close up of a vandalized stop sign (p=0.001770)
+  1) a close up of a stop sign with a sky background (p=0.000985)
+  2) a close up of a stop sign with a sticker on it (p=0.000237)
+Captions for image 49907107_2219007555034019_7295160970072404689_n.jpg:
+  0) a dog is sitting on the floor in a room . (p=0.000019)
+  1) a dog is sitting on the floor next to a suitcase . (p=0.000014)
+  2) a dog is sitting on a couch with a toy . (p=0.000014)
+Captions for image 49342862_1350747128400834_2553128677363436412_n.jpg:
+  0) a collage of photos of a man and a woman (p=0.000009)
+  1) a collage of photos of a man in a suit (p=0.000006)
+  2) a collage of photos showing a man in a suit (p=0.000003)
+Captions for image 46149180_279072679407793_1014448605888171768_n.jpg:
+  0) a pile of luggage sitting on top of a table . (p=0.000502)
+  1) a pile of luggage sitting on top of a floor . (p=0.000464)
+  2) a pile of luggage sitting on top of a wooden floor . (p=0.000461)
+Captions for image 47693908_337369200438754_7907003880969326342_n.jpg:
+  0) a small dog is wearing a santa hat (p=0.000128)
+  1) a brown dog laying on top of a bed . (p=0.000110)
+  2) a brown dog laying on top of a blanket . (p=0.000095)
+Captions for image 47693630_2280360192008795_906479582623741815_n.jpg:
+  0) a brown and white dog sitting on top of a couch . (p=0.000381)
+  1) a brown and white dog sitting on a red couch . (p=0.000247)
+  2) a brown and white dog is sitting on a couch (p=0.000148)
+Captions for image 46393200_337375480383787_7006568203114462742_n.jpg:
+  0) a man in a suit and tie holding a microphone . (p=0.000051)
+  1) a man in a suit and tie holding a microphone (p=0.000033)
+  2) a man in a suit and tie holding up a cell phone . (p=0.000009)
+Captions for image 49393767_554092475057720_1413487412081260930_n.jpg:
+  0) a collage of photos with a man holding a cell phone (p=0.000004)
+  1) a collage of photos with a man in a suit and tie (p=0.000004)
+  2) a collage of photos with a man in a suit (p=0.000003)
+Captions for image 47689767_2133638020283014_4996968950303477106_n.jpg:
+  0) a collage of photos of a variety of items . (p=0.000007)
+  1) a collage of photos of a person holding a cell phone (p=0.000006)
+  2) a collage of photos of a variety of items (p=0.000005)
+Captions for image 47585770_370750567060189_3240951873915848546_n.jpg:
+  0) a display case filled with lots of different items . (p=0.000319)
+  1) a display case filled with different types of items . (p=0.000151)
+  2) a display case filled with lots of different types of items . (p=0.000143)
+Captions for image 46657886_770518736660467_7517057326028646034_n.jpg:
+  0) a man sitting in front of a laptop computer . (p=0.005750)
+  1) a person sitting at a desk with a laptop (p=0.000464)
+  2) a man sitting in front of a laptop computer (p=0.000391)
+Captions for image 47098879_437341770133799_49203447727024263_n.jpg:
+  0) a woman holding a dog in her arms . (p=0.000315)
+  1) a woman holding a dog in her lap . (p=0.000228)
+  2) a woman holding a dog in her arms (p=0.000082)
+Captions for image 45461779_2335267106695466_8479990378562041981_n.jpg:
+  0) a stack of books sitting on top of a table . (p=0.000056)
+  1) a stack of books sitting on a table . (p=0.000029)
+  2) a stack of books sitting on top of a book . (p=0.000010)
+Captions for image 47693849_380840592719386_4772668329662075367_n.jpg:
+  0) a small dog is wearing a santa hat . (p=0.000125)
+  1) a small dog is wearing a santa hat (p=0.000117)
+  2) a small dog wearing a santa hat on a leash . (p=0.000021)
+Captions for image 46658076_156095628699677_5729813232813047169_n.jpg:
+  0) a man sitting in a car with a laptop . (p=0.000089)
+  1) a man sitting in a car with a laptop in his lap . (p=0.000047)
+  2) a man sitting in a car with a bag on his head . (p=0.000027)
+Captions for image 47584528_1117809991730775_2843523830856797112_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000472)
+  1) a man and a woman standing next to each other on a sidewalk . (p=0.000020)
+  2) a man and a woman standing next to each other in a parking lot . (p=0.000020)
+Captions for image 47581957_762555227456956_3425894775730295164_n.jpg:
+  0) a remote control sitting on top of a table . (p=0.001881)
+  1) a close up of a nintendo wii remote (p=0.001221)
+  2) a close up of a nintendo wii controller (p=0.000974)
+Captions for image 47691690_919716838218022_247047067423933373_n.jpg:
+  0) a man holding a wii game controller in front of a tv . (p=0.000104)
+  1) a man holding a wii game controller in a room . (p=0.000091)
+  2) a man holding a wii game controller in front of a television . (p=0.000070)
+Captions for image 45298960_356580418281266_1444105812508730790_n.jpg:
+  0) a teddy bear sitting on top of a table . (p=0.000127)
+  1) a teddy bear sitting on top of a book . (p=0.000108)
+  2) a teddy bear sitting on a table next to a book . (p=0.000018)
+Captions for image 45491498_455942798264908_8065316004253880652_n.jpg:
+  0) a group of people sitting on a train . (p=0.000282)
+  1) a group of people standing in a room . (p=0.000231)
+  2) a group of people sitting on a bus . (p=0.000218)
+Captions for image 47468055_2386634738225038_7929776994205395129_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000259)
+  1) a man and a woman standing next to each other on a sidewalk . (p=0.000024)
+  2) a man and a woman standing next to each other on a street . (p=0.000022)
+Captions for image 47075728_1997454627226019_4000786702366136590_n.jpg:
+  0) a teddy bear is sitting on top of a table . (p=0.000003)
+  1) a teddy bear is sitting on top of a table (p=0.000001)
+  2) a teddy bear is sitting on top of a red umbrella . (p=0.000000)
+Captions for image 46693478_155196718791312_4019612063904165353_n.jpg:
+  0) a woman with a toothbrush in her mouth . (p=0.000477)
+  1) a man with a toothbrush in his mouth . (p=0.000349)
+  2) a woman with a toothbrush in her mouth (p=0.000183)
+Captions for image 47583474_955177941344137_3566032095700162885_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.000923)
+  1) a person holding a cell phone in their hands . (p=0.000462)
+  2) a person holding a cell phone in their hand (p=0.000284)
+Captions for image 47694154_913779492152810_3638347427305093256_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.001135)
+  1) a book shelf filled with lots of different types of books . (p=0.000275)
+  2) a book shelf filled with different types of books . (p=0.000263)
+Captions for image 45315349_168586347440795_3010113644918507463_n.jpg:
+  0) a man holding a cell phone up to his ear . (p=0.000327)
+  1) a man holding a cell phone in his hand . (p=0.000251)
+  2) a man holding a cell phone in his hands . (p=0.000250)
+Captions for image 46301692_618525908603199_8485768515731381443_n.jpg:
+  0) a group of people standing in front of a tv . (p=0.000063)
+  1) a group of people standing around a tv . (p=0.000034)
+  2) a group of people standing in front of a television . (p=0.000020)
+Captions for image 46354141_619419855157042_2647000017294228998_n.jpg:
+  0) a group of people sitting on a bus . (p=0.001901)
+  1) a group of people standing next to each other . (p=0.001889)
+  2) a group of people sitting on a bus (p=0.000434)
+Captions for image 46739454_2006021936147189_7872675585068484958_n.jpg:
+  0) a man in a hat is holding a banana . (p=0.000008)
+  1) a man in a hat is holding a cell phone . (p=0.000007)
+  2) a man in a hat is holding a banana (p=0.000005)
+Captions for image 46585582_2298069403760079_4077432271963090088_n.jpg:
+  0) a man standing in front of a refrigerator . (p=0.001438)
+  1) a man standing in front of a refrigerator in a kitchen . (p=0.000230)
+  2) a man standing in front of a refrigerator in a room . (p=0.000088)
+Captions for image 45802668_2192499877677518_1108486106262994701_n.jpg:
+  0) a collage of photos of a man holding a tennis racket . (p=0.000010)
+  1) a collage of photos with a person holding a sign (p=0.000009)
+  2) a collage of photos with a person holding a sign . (p=0.000007)
+Captions for image 45776029_2711495632197603_6646459230509352884_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.001751)
+  1) a book shelf filled with books and a clock . (p=0.000328)
+  2) a book shelf filled with books and a clock (p=0.000055)
+Captions for image 47382563_220381858837371_3075163588153987605_n.jpg:
+  0) a group of people standing next to each other . (p=0.001958)
+  1) a group of people standing around a table . (p=0.000984)
+  2) a group of people standing next to each other in front of a building . (p=0.000063)
+Captions for image 46350661_210345573214930_4866443508385235135_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.009215)
+  1) a person holding a smart phone in their hand . (p=0.004820)
+  2) a person holding a cell phone in their hands . (p=0.002541)
+Captions for image 46580061_203402277214936_9171862497920615321_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.000546)
+  1) a person holding a cell phone in their hands . (p=0.000238)
+  2) a person holding a cell phone in their hand (p=0.000165)
+Captions for image 45679055_117932605900555_3653440571711306542_n.jpg:
+  0) a collage of photos of a person holding a cell phone (p=0.000011)
+  1) a collage of photos of a man holding a cell phone (p=0.000004)
+  2) a collage of photos of a person holding a sign (p=0.000003)
+Captions for image 46003082_338968913584588_870692534170739314_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.003442)
+  1) a person holding a smart phone in their hand . (p=0.001981)
+  2) a person holding a cell phone in their hands . (p=0.001339)
+Captions for image 44831415_1445769445554439_6555085057004658041_n.jpg:
+  0) a display case filled with lots of different colored vases . (p=0.000321)
+  1) a display case filled with lots of bottles of booze . (p=0.000070)
+  2) a display case filled with lots of different types of vases . (p=0.000049)
+Captions for image 42821399_266944840689910_9102151354051985665_n.jpg:
+  0) a woman sitting in front of a laptop computer . (p=0.007764)
+  1) a woman sitting at a table with a laptop . (p=0.001091)
+  2) a woman sitting at a table with a laptop computer . (p=0.000596)
+Captions for image 41607833_545273675903836_6753180489973208444_n.jpg:
+  0) a man sitting in a chair holding a dog . (p=0.000588)
+  1) a man sitting in a chair with a dog . (p=0.000439)
+  2) a man sitting in a chair with a dog on his lap . (p=0.000175)
+Captions for image 40744055_470897163394968_545550042427838831_n.jpg:
+  0) a group of people standing next to each other . (p=0.000144)
+  1) a group of people standing in front of a store . (p=0.000024)
+  2) a group of people standing in front of a store window . (p=0.000011)
+Captions for image 42068829_329370217632925_1574265968480511374_n.jpg:
+  0) a bunch of different colored ties hanging from a rack . (p=0.000007)
+  1) a bunch of different colored ties hanging from a wall . (p=0.000005)
+  2) a bunch of different colored ties hanging on a wall . (p=0.000004)
+Captions for image 43397509_2083072401754153_2000030627597577783_n.jpg:
+  0) a woman standing in front of a bus . (p=0.001731)
+  1) a woman is standing in front of a bus . (p=0.000789)
+  2) a woman is standing in front of a bus (p=0.000571)
+Captions for image 45451051_336543653564829_1595003047526963022_n.jpg:
+  0) a statue of a man in a suit and tie . (p=0.000001)
+  1) a statue of a man in a suit and tie (p=0.000001)
+  2) a statue of a man in a suit with a clock . (p=0.000000)
+Captions for image 44921028_1168432133324200_6786057016258428113_n.jpg:
+  0) a display case filled with lots of different flavored donuts . (p=0.002274)
+  1) a display case filled with lots of different types of donuts . (p=0.000769)
+  2) a display case filled with different types of donuts . (p=0.000503)
+Captions for image 41633322_324362598319897_4745947174213061527_n.jpg:
+  0) a bunch of different types of doughnuts on display . (p=0.000029)
+  1) a bunch of different types of doughnuts on display (p=0.000019)
+  2) a bunch of different types of doughnuts on a table . (p=0.000012)
+Captions for image 45852090_256133985049359_3592576295747590678_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000405)
+  1) a man and a woman sitting on a boat . (p=0.000195)
+  2) a man and a woman standing next to each other on a boat . (p=0.000094)
+Captions for image 44420911_355431315019439_6202360833771167830_n.jpg:
+  0) a display of different types of different types of fruit . (p=0.000000)
+  1) a display of different types of different types of ties . (p=0.000000)
+  2) a large display of different types of different types of scissors . (p=0.000000)
+Captions for image 44619725_340714483147102_5589246397294911896_n.jpg:
+  0) a man riding a skateboard down a street . (p=0.000091)
+  1) a man riding a motorcycle down a street . (p=0.000077)
+  2) a statue of a man riding a horse in a park . (p=0.000002)
+Captions for image 42537364_260430711294848_1985606205540579903_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000013)
+  1) a man in a suit and tie sitting in a car (p=0.000007)
+  2) a man in a black shirt and a black tie (p=0.000002)
+Captions for image 43461999_345291799538494_2511046124051333554_n.jpg:
+  0) a brown and white dog sitting on a wooden bench . (p=0.000280)
+  1) a brown and white dog sitting on top of a wooden bench . (p=0.000171)
+  2) a brown and white dog sitting on top of a red chair . (p=0.000079)
+Captions for image 44637158_366259154112988_6791388080073361732_n.jpg:
+  0) a dog is sitting on the floor with a toy . (p=0.000026)
+  1) a dog is sitting on the floor in front of a mirror . (p=0.000008)
+  2) a dog is sitting on the floor with a toy (p=0.000006)
+Captions for image 43438079_191534145062665_7180456302500647709_n.jpg:
+  0) a man eating a hot dog on a bun . (p=0.001726)
+  1) a man eating a hot dog in a restaurant . (p=0.000800)
+  2) a man eating a hot dog on a bun (p=0.000595)
+Captions for image 44431806_2131801700471111_2517212538136784688_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.000818)
+  1) a vase filled with flowers sitting on top of a table . (p=0.000769)
+  2) a vase filled with flowers sitting on a table . (p=0.000349)
+Captions for image 44576000_305756180263903_8626688520834320207_n.jpg:
+  0) a bunch of yellow flowers in a vase . (p=0.000094)
+  1) a bunch of colorful flowers in a vase . (p=0.000073)
+  2) a bunch of yellow flowers in a vase (p=0.000063)
+Captions for image 46108862_1264371767035244_1690131044953450313_n.jpg:
+  0) a brown and white dog laying on top of a couch . (p=0.000163)
+  1) a brown and white dog laying on top of a bed . (p=0.000120)
+  2) a brown and white dog laying on top of a wooden bench . (p=0.000112)
+Captions for image 44341719_181569109443143_7541749212556859775_n.jpg:
+  0) a black and white photo of a street sign (p=0.000656)
+  1) a black and white photo of a street sign . (p=0.000471)
+  2) a black and white street sign on a pole (p=0.000252)
+Captions for image 44175728_1472109926266306_8402294528236581795_n.jpg:
+  0) a street sign sitting on the side of a road . (p=0.000852)
+  1) a street sign on a pole near a body of water (p=0.000166)
+  2) a street sign sitting on the side of the road . (p=0.000070)
+Captions for image 43914411_994223120775551_7475687361878500149_n.jpg:
+  0) a picture of a man holding a cell phone . (p=0.000014)
+  1) a picture of a man holding a cell phone (p=0.000002)
+  2) a sign that says `` <UNK> '' on a wall . (p=0.000001)
+Captions for image 43985480_318677848685458_5010593575157565049_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000299)
+  1) a man and a woman are standing together (p=0.000031)
+  2) a man and a woman standing next to each other in a parking lot . (p=0.000007)
+Captions for image 44327327_782023632137824_4478744556528051241_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.004667)
+  1) a person holding a cell phone in their hand (p=0.001332)
+  2) a person holding a cell phone in their hands . (p=0.001029)
+Captions for image 43817346_313115249486984_1999884187554752248_n.jpg:
+  0) a black and white dog laying on top of a bed . (p=0.003273)
+  1) a black and white dog laying on a bed . (p=0.002537)
+  2) a black and white dog laying on a bed (p=0.000563)
+Captions for image 44271166_741407849536922_3502454600087709170_n.jpg:
+  0) a close up of a plate of food with a sandwich (p=0.002050)
+  1) a close up of a plate of food with french fries (p=0.002032)
+  2) a close up of a plate of food (p=0.000843)
+Captions for image 43568276_475719272917110_5945708937684256840_n.jpg:
+  0) a man and woman pose for a picture . (p=0.001264)
+  1) a man and a woman posing for a picture . (p=0.001200)
+  2) a man and a woman pose for a picture . (p=0.000806)
+Captions for image 43571980_243476949682146_3688772549923561802_n.jpg:
+  0) a man holding a stop sign in front of a building . (p=0.000031)
+  1) a man holding a stop sign in front of a sign . (p=0.000012)
+  2) a man holding a stop sign in front of a building (p=0.000007)
+Captions for image 44741194_125011405155540_7739369252801850421_n.jpg:
+  0) a man standing in front of a refrigerator . (p=0.001328)
+  1) a man standing in a living room holding a nintendo wii game controller . (p=0.000629)
+  2) a man standing in a living room holding a wii controller . (p=0.000452)
+Captions for image 43330164_551008938703333_4752372842910412399_n.jpg:
+  0) a bunch of different types of scissors on a table . (p=0.000005)
+  1) a bunch of different types of books on a table . (p=0.000003)
+  2) a bunch of different types of items on a table . (p=0.000003)
+Captions for image 43913605_445052419354335_8199308676914334270_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.002616)
+  1) a book shelf filled with lots of different types of books . (p=0.001021)
+  2) a book shelf filled with lots of books and a clock . (p=0.000153)
+Captions for image 43215317_1925767777730019_281916441290873403_n.jpg:
+  0) a bunch of different types of ties on display (p=0.000027)
+  1) a bunch of different types of ties on display . (p=0.000021)
+  2) a bunch of different types of ties hanging from a wall . (p=0.000014)
+Captions for image 43913800_192029695023434_1778884163280994388_n.jpg:
+  0) a dog laying on a couch with a stuffed animal (p=0.000021)
+  1) a dog laying on a couch with a stuffed animal . (p=0.000017)
+  2) a dog laying on a bed with a stuffed animal (p=0.000015)
+Captions for image 42748229_316417459089601_7997140268797538791_n.jpg:
+  0) a display case filled with lots of teddy bears . (p=0.002592)
+  1) a display case filled with lots of stuffed animals . (p=0.002569)
+  2) a display case filled with lots of different teddy bears . (p=0.000322)
+Captions for image 44257462_571026973352742_6390473102419012710_n.jpg:
+  0) a smart phone sitting on top of a table . (p=0.002840)
+  1) a smart phone sitting on top of a wooden table . (p=0.001476)
+  2) a smart phone sitting on top of a table next to a smart phone . (p=0.000150)
+Captions for image 43613394_2093751284010456_4888548545862761082_n.jpg:
+  0) a dog sitting in the back of a truck . (p=0.000328)
+  1) a dog sitting in the back seat of a car . (p=0.000297)
+  2) a dog sitting in the back of a car . (p=0.000232)
+Captions for image 43325516_187281805502538_8921725400803001067_n.jpg:
+  0) a man wearing a tie and a white shirt . (p=0.000287)
+  1) a man with a beard wearing a white shirt and tie . (p=0.000058)
+  2) a man with a beard wearing a tie (p=0.000043)
+Captions for image 43129905_187669998801198_3027025912224241687_n.jpg:
+  0) a man in a car talking on a cell phone . (p=0.001539)
+  1) a man in a car talking on a cell phone (p=0.000445)
+  2) a man sitting in a car seat talking on a cell phone . (p=0.000441)
+Captions for image 41785437_599380590479496_8106971924892568309_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.000988)
+  1) a person holding a cell phone in their hands . (p=0.000403)
+  2) a person holding a cell phone in their hand (p=0.000301)
+Captions for image 41505747_1837126249698484_4510170968886866381_n.jpg:
+  0) a display case filled with lots of different colored ties . (p=0.000097)
+  1) a display case filled with lots of different types of ties . (p=0.000033)
+  2) a display case filled with lots of different types of books . (p=0.000024)
+Captions for image 43690820_450475452143826_5563441198931474292_n.jpg:
+  0) a book is sitting on top of a book . (p=0.000038)
+  1) a book is sitting on top of a book (p=0.000025)
+  2) a book is sitting on top of a book shelf . (p=0.000015)
+Captions for image 42966446_513963049070786_1280887789047861607_n.jpg:
+  0) a person holding a pair of scissors in a room . (p=0.000007)
+  1) a person holding a pair of scissors in front of a building . (p=0.000005)
+  2) a person holding a pair of scissors in a room (p=0.000005)
+Captions for image 42367776_272626623592264_8734219088726415877_n.jpg:
+  0) a man sitting on a skateboard on a sidewalk . (p=0.000214)
+  1) a man sitting on a skateboard on the sidewalk . (p=0.000153)
+  2) a man sitting on a bench with a skateboard . (p=0.000078)
+Captions for image 42903571_287130741918728_5762047841376738649_n.jpg:
+  0) a brown and white dog sitting on a couch . (p=0.000648)
+  1) a brown and white dog sitting in a chair . (p=0.000603)
+  2) a brown and white dog sitting on top of a couch . (p=0.000451)
+Captions for image 42002486_2154901061426653_3928008983450569074_n.jpg:
+  0) a small dog wearing a santa hat on a couch . (p=0.000036)
+  1) a brown dog with a red collar sitting on a couch . (p=0.000027)
+  2) a small dog wearing a santa hat on a leash . (p=0.000022)
+Captions for image 41661003_278737022740019_6236759506371877225_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.001080)
+  1) a book shelf filled with lots of different types of books . (p=0.000282)
+  2) a book shelf filled with lots of different items . (p=0.000184)
+Captions for image 41832084_490636281405886_7411000256833386699_n.jpg:
+  0) a bunch of items that are on a table . (p=0.000169)
+  1) a table topped with lots of different types of items . (p=0.000055)
+  2) a table topped with lots of different types of food . (p=0.000046)
+Captions for image 41640990_1781077331941351_295418128184988391_n.jpg:
+  0) a display of different types of doughnuts on display . (p=0.000021)
+  1) a bunch of different types of doughnuts on display . (p=0.000016)
+  2) a bunch of different types of doughnuts on display (p=0.000011)
+Captions for image 41381792_542572872831276_7413623612168039200_n.jpg:
+  0) a brown and white dog with a red collar (p=0.000082)
+  1) a brown and white dog with a red collar . (p=0.000070)
+  2) a brown and white dog sitting on a wooden floor . (p=0.000055)
+Captions for image 42400787_299197367335067_6351529695338471814_n.jpg:
+  0) a birthday cake with a train on it (p=0.000075)
+  1) a birthday cake with a train on it . (p=0.000052)
+  2) a birthday cake with a train on the top of it . (p=0.000005)
+Captions for image 41453191_163782224545924_2010994242279879317_n.jpg:
+  0) a man in a suit and tie standing in a room . (p=0.000034)
+  1) a man in a suit and tie standing on a sidewalk . (p=0.000011)
+  2) a man in a suit and tie standing in a room (p=0.000007)
+Captions for image 41455686_1084658915029828_5601250312374469850_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000046)
+  1) a man in a suit and tie is smiling . (p=0.000016)
+  2) a man in a suit and tie is smiling (p=0.000007)

@@ -1,0 +1,864 @@
+Captions for image 1169121_1592903394353048_1901807750_n.jpg:
+  0) a large clock tower towering over a city at night . (p=0.001102)
+  1) a large clock tower towering over a city . (p=0.001090)
+  2) a clock tower in the middle of a city . (p=0.000353)
+Captions for image 52678131_2244159449140659_1579142643038814208_n.jpg:
+  0) a man in a suit and tie standing in front of a building . (p=0.000075)
+  1) a man in a suit and tie standing in front of a building (p=0.000015)
+  2) a man in a suit and tie is standing in front of a building . (p=0.000013)
+Captions for image 15535145_751926251622385_531176047358509056_n.jpg:
+  0) a group of people standing in a kitchen preparing food . (p=0.001482)
+  1) a group of people standing around a table filled with food . (p=0.000568)
+  2) a group of people standing around a table with food . (p=0.000516)
+Captions for image 49858539_350937292161345_843652778953032496_n.jpg:
+  0) a view of a city skyline from the distance . (p=0.000008)
+  1) a view of a city skyline from a distance . (p=0.000006)
+  2) a view of a city skyline from the distance (p=0.000001)
+Captions for image 15623835_1833564326929115_7406029618521571328_n.jpg:
+  0) a large building with a large clock tower . (p=0.000288)
+  1) a large building with a clock tower in the center . (p=0.000079)
+  2) a large building with a clock tower in the middle . (p=0.000077)
+Captions for image 11282202_1594086657514363_1142859593_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.000903)
+  1) a large clock hanging from the ceiling of a building . (p=0.000377)
+  2) a large clock mounted to the side of a wall . (p=0.000092)
+Captions for image 54511290_201511100812203_7679067569075753797_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000296)
+  1) a close up of a flower in a vase (p=0.000099)
+  2) a close up of a flower in a tree (p=0.000072)
+Captions for image 55872690_229017777963418_2045197755872507883_n.jpg:
+  0) a woman wearing a hat and a scarf around her neck . (p=0.000008)
+  1) a woman wearing a red hat and a red hat . (p=0.000002)
+  2) a woman wearing a hat and a scarf around her neck (p=0.000002)
+Captions for image 65276923_357712108272780_89592894967459185_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.000867)
+  1) a city street filled with lots of tall buildings . (p=0.000279)
+  2) a city street filled with lots of traffic and trees . (p=0.000032)
+Captions for image 60085174_437946460302061_4227756625901643449_n.jpg:
+  0) a large building with a large clock on it . (p=0.000302)
+  1) a large building with a clock on it . (p=0.000236)
+  2) a large building with a clock on it (p=0.000205)
+Captions for image 52053948_997269960419945_2496198223280040426_n.jpg:
+  0) a large building with a blue roof and a white door . (p=0.000000)
+  1) a large building with a blue roof and a white building . (p=0.000000)
+  2) a large building with a white roof and a white building . (p=0.000000)
+Captions for image 49385205_1091807717657202_1350890279774560243_n.jpg:
+  0) a group of boats floating on top of a body of water . (p=0.000527)
+  1) a large body of water filled with lots of boats . (p=0.000458)
+  2) a group of boats floating on top of a river . (p=0.000315)
+Captions for image 60703133_594756284344782_8702594510414364931_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000759)
+  1) a large clock tower towering over a city at night . (p=0.000203)
+  2) a large clock tower towering over the city of london . (p=0.000049)
+Captions for image 54446698_2080666152003208_3286339835096122866_n.jpg:
+  0) a bridge over a body of water with a clock tower . (p=0.000086)
+  1) a bridge over a body of water with a clock tower (p=0.000050)
+  2) a bridge over a body of water next to a bridge . (p=0.000048)
+Captions for image 50555375_385604418663956_2295584379000986342_n.jpg:
+  0) a group of people standing next to a building . (p=0.000029)
+  1) a group of people standing next to a building (p=0.000003)
+  2) a group of people standing around a table with a vase of flowers . (p=0.000003)
+Captions for image 37731140_2164602593822518_7890400181735129088_n.jpg:
+  0) a group of people sitting on a park bench . (p=0.000296)
+  1) a group of people sitting on benches in a park . (p=0.000197)
+  2) a group of people sitting on a bench in the rain . (p=0.000051)
+Captions for image 50089417_192912655000070_7413726772738573504_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000021)
+  1) a group of people standing in front of a building . (p=0.000004)
+  2) a group of people standing in front of a large building . (p=0.000003)
+Captions for image 47581927_313157876207716_6999203488965410518_n.jpg:
+  0) a group of people sitting at a table in a restaurant . (p=0.000049)
+  1) a group of people sitting at a table with wine glasses . (p=0.000041)
+  2) a group of people sitting at a table with wine glasses (p=0.000012)
+Captions for image 47402393_324977038342138_7172102863839626382_n.jpg:
+  0) a building with a clock on the front of it . (p=0.000289)
+  1) a building with a clock on the front of it (p=0.000262)
+  2) a building with a clock on the top of it . (p=0.000176)
+Captions for image 44524658_704440673261324_3380276822671480942_n.jpg:
+  0) a large building with a clock on the wall . (p=0.000043)
+  1) a large building with a clock on the side of it . (p=0.000038)
+  2) a large building with a clock on the wall (p=0.000026)
+Captions for image 46577633_374659819950839_4912055029109896681_n.jpg:
+  0) a street scene with focus on a tall building . (p=0.000028)
+  1) a large building with a clock tower on top of it . (p=0.000020)
+  2) a large building with a clock tower in the middle of it . (p=0.000013)
+Captions for image 40602640_2106601533000993_7731966746049677264_n.jpg:
+  0) a man in a suit and tie holding a beer . (p=0.000067)
+  1) a man in a suit and tie standing in front of a tree . (p=0.000036)
+  2) a man in a suit and tie holding a beer (p=0.000018)
+Captions for image 39894915_483160932160290_2598116800721846272_n.jpg:
+  0) a group of people sitting on top of a sandy beach . (p=0.001028)
+  1) a group of people sitting on top of a beach . (p=0.000360)
+  2) a group of people on a beach with surfboards . (p=0.000217)
+Captions for image 38814155_900311466827114_1451162745150898176_n.jpg:
+  0) a man standing on a beach holding a surfboard . (p=0.003158)
+  1) a person walking on a beach with a surfboard (p=0.000799)
+  2) a person walking on the beach with a surfboard . (p=0.000555)
+Captions for image 38507960_267362213867843_2378267994754121728_n.jpg:
+  0) a large building with a large clock tower . (p=0.000190)
+  1) a large building with a clock tower on top . (p=0.000092)
+  2) a large building with a clock tower on top of it . (p=0.000074)
+Captions for image 43915458_280149145941046_821317956869430888_n.jpg:
+  0) a group of people standing around a table with umbrellas . (p=0.000002)
+  1) a group of people standing around a table with umbrellas (p=0.000000)
+  2) a group of people standing next to a building with lots of umbrellas . (p=0.000000)
+Captions for image 21827488_130552917592105_4208424409360236544_n.jpg:
+  0) a group of people sitting on top of a wooden bench . (p=0.000180)
+  1) a group of people riding on top of a river . (p=0.000165)
+  2) a group of people sitting on top of a wooden bench next to a river . (p=0.000020)
+Captions for image 37130742_1476077852492747_3629001370868121600_n.jpg:
+  0) a couple of people standing on top of a beach . (p=0.000275)
+  1) a couple of people standing on top of a sandy beach . (p=0.000268)
+  2) a couple of people standing on a beach next to the ocean . (p=0.000150)
+Captions for image 37681728_1725327580918168_7306139592728510464_n.jpg:
+  0) a statue of a man standing next to a building . (p=0.000003)
+  1) a statue of a man standing next to a clock tower . (p=0.000002)
+  2) a statue of a man standing next to a clock . (p=0.000002)
+Captions for image 36652370_203040897029769_1855383630868643840_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001531)
+  1) a large building with a clock tower on top . (p=0.000426)
+  2) a large building with a clock tower on top of it . (p=0.000411)
+Captions for image 36798415_233121400627648_7689476255804030976_n.jpg:
+  0) a man in a suit and tie standing on a boat . (p=0.000029)
+  1) a man in a suit and tie standing in front of a body of water . (p=0.000019)
+  2) a man in a suit and tie standing in a boat . (p=0.000016)
+Captions for image 35415621_456657221427843_5459059134370414592_n.jpg:
+  0) a room with a window and a clock on the wall . (p=0.000007)
+  1) a room with a window and a clock (p=0.000006)
+  2) a room with a window and a clock on the wall (p=0.000006)
+Captions for image 28753716_149094569249158_6804046980839374848_n.jpg:
+  0) a large body of water with a large body of water . (p=0.000109)
+  1) a large body of water with a large river . (p=0.000047)
+  2) a large body of water with a large body of water in it . (p=0.000017)
+Captions for image 28430076_984182441739290_3843624949688303616_n.jpg:
+  0) a group of birds sitting on top of a tree branch . (p=0.000285)
+  1) a group of birds perched on top of a tree branch . (p=0.000199)
+  2) a group of birds sitting on top of a tree . (p=0.000193)
+Captions for image 28153901_1459271510868087_2896677144451088384_n.jpg:
+  0) a large body of water with a mountain in the background . (p=0.000092)
+  1) a large body of water with a mountain in the background (p=0.000081)
+  2) a large body of water with a bridge in the background . (p=0.000046)
+Captions for image 27891283_2068875553401889_5225349094548963328_n.jpg:
+  0) a man is standing in front of a clock . (p=0.000121)
+  1) a man is standing in front of a large clock . (p=0.000097)
+  2) a man is standing in front of a clock (p=0.000092)
+Captions for image 28155177_130313984464633_7759767849484156928_n.jpg:
+  0) a large building with a clock on it (p=0.000046)
+  1) a large building with a clock on the top of it . (p=0.000025)
+  2) a large building with a clock tower in the center . (p=0.000022)
+Captions for image 27879682_2089891417914722_6495624108003295232_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000032)
+  1) a group of people standing in front of a large building . (p=0.000023)
+  2) a large group of people standing in front of a building . (p=0.000018)
+Captions for image 36636020_407641493062853_3428214196695728128_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000050)
+  1) a group of people standing in front of a large building . (p=0.000039)
+  2) a group of people standing in front of a building (p=0.000005)
+Captions for image 27576712_588297818169223_2485264078298152960_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000017)
+  1) a group of people standing in front of a tall building . (p=0.000017)
+  2) a group of people standing in front of a large building . (p=0.000015)
+Captions for image 26872915_1214703021966616_2882586864286433280_n.jpg:
+  0) a room filled with lots of wooden furniture . (p=0.000380)
+  1) a room filled with lots of furniture and a window . (p=0.000040)
+  2) a room filled with lots of wooden furniture and windows . (p=0.000015)
+Captions for image 26368403_542507436113692_6535689560100175872_n.jpg:
+  0) a person holding an umbrella in the rain . (p=0.000227)
+  1) a person holding an umbrella in the rain (p=0.000119)
+  2) a person holding an umbrella over a body of water . (p=0.000033)
+Captions for image 26222040_149462692429539_1589280638463115264_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000036)
+  1) a large building with a clock on it (p=0.000030)
+  2) a large building with a clock on the top of it . (p=0.000029)
+Captions for image 25012783_599957663728578_6054385113909690368_n.jpg:
+  0) a passenger train that is pulling into a station . (p=0.001442)
+  1) a train is pulling into a train station . (p=0.000901)
+  2) a train station with a train on the tracks . (p=0.000335)
+Captions for image 26262751_163610120947293_7101244862158077952_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000297)
+  1) a clock tower in the middle of a town . (p=0.000194)
+  2) a clock tower in the middle of a city (p=0.000132)
+Captions for image 25005966_138090546851669_6022502764217630720_n.jpg:
+  0) a large clock mounted to the side of a wall . (p=0.000178)
+  1) a large clock mounted to the side of a building . (p=0.000154)
+  2) a large metal clock hanging from the ceiling of a building . (p=0.000042)
+Captions for image 24327515_151360258821387_1622713668917526528_n.jpg:
+  0) a group of people walking down a street . (p=0.000220)
+  1) a group of people walking down a street next to tall buildings . (p=0.000090)
+  2) a large building with a clock tower in the middle of it . (p=0.000042)
+Captions for image 24127161_1759892474034475_4094321847158439936_n.jpg:
+  0) a large cathedral with a clock tower on top of it . (p=0.000141)
+  1) a large cathedral with a clock on it . (p=0.000124)
+  2) a large cathedral with a clock on it 's face . (p=0.000108)
+Captions for image 23824569_693325767544314_1649957501174546432_n.jpg:
+  0) a large bridge spanning the width of a river . (p=0.000873)
+  1) a train traveling over a bridge over a river . (p=0.000759)
+  2) a train traveling over a bridge over a river (p=0.000022)
+Captions for image 26403555_553837628315353_8523309968382754816_n.jpg:
+  0) a view of a city street at night . (p=0.000292)
+  1) a view of a city street at night (p=0.000056)
+  2) a view of a city skyline from a distance . (p=0.000009)
+Captions for image 23734049_837733083073433_1571745914786152448_n.jpg:
+  0) a white and black truck parked in front of a building . (p=0.000002)
+  1) a white and black truck parked in front of a church . (p=0.000001)
+  2) a white and black truck parked in a field . (p=0.000001)
+Captions for image 23416878_1984407628482706_2636370253361184768_n.jpg:
+  0) a man standing in a river next to a bridge . (p=0.000104)
+  1) a man is standing in a boat in the water . (p=0.000078)
+  2) a man standing in a river next to a boat . (p=0.000063)
+Captions for image 23668218_500936653596281_5037231120417030144_n.jpg:
+  0) a boat floating on a river next to a forest . (p=0.000107)
+  1) a boat floating on top of a river next to a forest . (p=0.000069)
+  2) a boat floating on top of a river near a forest . (p=0.000043)
+Captions for image 23596243_1640717619318422_4739439807762006016_n.jpg:
+  0) a large building with a clock on it (p=0.000108)
+  1) a very tall building with a clock on it 's side . (p=0.000090)
+  2) a large building with a clock on the front of it . (p=0.000089)
+Captions for image 23417327_727483367459144_6726370311152861184_n.jpg:
+  0) a large building with a clock on it (p=0.000546)
+  1) a large building with a clock on the top . (p=0.000518)
+  2) a very tall building with a clock on it 's side . (p=0.000494)
+Captions for image 23164765_706694539529205_2209020650926899200_n.jpg:
+  0) a large body of water with a clock on top of it . (p=0.000072)
+  1) a large body of water next to a river . (p=0.000066)
+  2) a large body of water with a clock on it 's side . (p=0.000031)
+Captions for image 26318729_161433177833302_2653284380033679360_n.jpg:
+  0) a large building with a large clock on it . (p=0.000018)
+  1) a large building with a clock tower in the center . (p=0.000008)
+  2) a large building with a large clock on it (p=0.000007)
+Captions for image 23348281_706594769528999_5873509704474296320_n.jpg:
+  0) a large building with a clock on it . (p=0.000183)
+  1) a large building with a clock on it (p=0.000141)
+  2) a large building with a clock on the top . (p=0.000093)
+Captions for image 21911400_1725552694408397_8856908208636166144_n.jpg:
+  0) a group of boats floating on top of a river . (p=0.000437)
+  1) a group of boats floating on top of a lake . (p=0.000337)
+  2) a group of boats floating on top of a body of water . (p=0.000324)
+Captions for image 23421913_162552254482359_2747010139914502144_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000601)
+  1) a large building with a clock on the front of it . (p=0.000241)
+  2) a large building with a clock on the top of it . (p=0.000237)
+Captions for image 22069783_1942828462643367_4672007652983701504_n.jpg:
+  0) a row of bikes parked next to each other . (p=0.001617)
+  1) a group of bikes parked next to each other . (p=0.001169)
+  2) a row of bikes parked next to each other on a sidewalk . (p=0.000191)
+Captions for image 26309296_162323827645524_5151858733780828160_n.jpg:
+  0) a large clock on the side of a building . (p=0.000604)
+  1) a large clock on the side of a building (p=0.000066)
+  2) a large clock on the side of a tall building . (p=0.000026)
+Captions for image 21576938_149532768972766_6941410192563109888_n.jpg:
+  0) a group of colorful vases sitting on top of a table . (p=0.000053)
+  1) a bunch of different colored vases on a table . (p=0.000046)
+  2) a bunch of different colored vases on display . (p=0.000035)
+Captions for image 18512899_1328111820557559_5669759711537266688_n.jpg:
+  0) a large clock tower towering over a city . (p=0.004002)
+  1) a large building with a clock tower on top . (p=0.000531)
+  2) a clock tower in the middle of a city . (p=0.000446)
+Captions for image 23161168_127996844580336_1199625069177864192_n.jpg:
+  0) a large building with a clock on the top of it . (p=0.000066)
+  1) a large building with a clock on the front of it . (p=0.000062)
+  2) a large building with a clock tower in the middle of it . (p=0.000044)
+Captions for image 21480563_1612000485555561_1038221710022672384_n.jpg:
+  0) a view of a bridge over a body of water . (p=0.000129)
+  1) a view of a bridge over a river . (p=0.000023)
+  2) a view of a bridge over a body of water (p=0.000013)
+Captions for image 20481863_222285171628924_3218965030712115200_n.jpg:
+  0) a man standing in a kitchen preparing food . (p=0.003836)
+  1) a man in a kitchen preparing food in a kitchen . (p=0.000499)
+  2) a man in a kitchen preparing food in a kitchen (p=0.000203)
+Captions for image 19955439_111199679524332_5004742471666630656_n.jpg:
+  0) a person standing on a beach with a surfboard . (p=0.000194)
+  1) a person standing on the beach with a surfboard . (p=0.000174)
+  2) a person standing on a beach with a surfboard (p=0.000161)
+Captions for image 20635192_135232710329360_6392868574519623680_n.jpg:
+  0) a group of people walking down a sidewalk . (p=0.000221)
+  1) a group of people walking down a street next to trees . (p=0.000069)
+  2) a group of people walking down a sidewalk next to a forest . (p=0.000025)
+Captions for image 23160953_893601717465088_5586238020857626624_n.jpg:
+  0) a person sitting on a bench in front of a building . (p=0.000063)
+  1) a man sitting on a bench in front of a building . (p=0.000053)
+  2) a person sitting on a bench in front of a house . (p=0.000037)
+Captions for image 19051756_1909881792617347_1733039550411833344_n.jpg:
+  0) a view of a mountain range with mountains in the background . (p=0.000088)
+  1) a view of a mountain range with mountains in the distance . (p=0.000019)
+  2) a view of a mountain range with a mountain in the background . (p=0.000017)
+Captions for image 20184485_164503540761882_1956533860195893248_n.jpg:
+  0) a group of people sitting on top of a sandy beach . (p=0.000374)
+  1) a group of people standing on top of a sandy beach . (p=0.000358)
+  2) a group of people sitting on top of a beach . (p=0.000097)
+Captions for image 22070853_1704686399544393_7648132544130449408_n.jpg:
+  0) a group of teddy bears sitting in a cage . (p=0.000009)
+  1) a group of teddy bears sitting on top of a wooden fence . (p=0.000007)
+  2) a group of teddy bears sitting on a fence . (p=0.000007)
+Captions for image 18646410_421123298247042_7585834730696736768_n.jpg:
+  0) a large bridge spanning the width of a river . (p=0.002914)
+  1) a large bridge spanning the width of a large river . (p=0.000224)
+  2) a large bridge spanning the width of a river with a clock tower . (p=0.000024)
+Captions for image 18723586_1177249115736870_1175728858985398272_n.jpg:
+  0) a herd of sheep grazing on a lush green field . (p=0.007220)
+  1) a herd of sheep grazing on a lush green hillside . (p=0.004589)
+  2) a herd of sheep grazing in a field . (p=0.000991)
+Captions for image 20687118_1951815145095174_1261280011906711552_n.jpg:
+  0) a close up of a bird with a bird on it (p=0.000155)
+  1) a close up of a bird on a table (p=0.000071)
+  2) a close up of a bird with a bird on its head (p=0.000023)
+Captions for image 18580446_763738880452483_6217442709783707648_n.jpg:
+  0) a large building with a clock on it . (p=0.000713)
+  1) a large building with a clock on it (p=0.000588)
+  2) a large building with a clock on the front . (p=0.000577)
+Captions for image 18579761_130447564173736_8147189906926469120_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000357)
+  1) a tall building with a clock on it (p=0.000283)
+  2) a large building with a clock tower on top of it . (p=0.000213)
+Captions for image 21984961_130626394251165_5628447185621221376_n.jpg:
+  0) a group of people standing next to a building . (p=0.000039)
+  1) a group of people standing next to each other . (p=0.000035)
+  2) a group of people standing next to a building (p=0.000004)
+Captions for image 17126950_1884723478465738_6296784040074674176_n.jpg:
+  0) a group of boats floating on top of a river . (p=0.000341)
+  1) a group of boats sitting on top of a river . (p=0.000117)
+  2) a group of people sitting on a bench next to a river . (p=0.000029)
+Captions for image 11325449_1595754920709282_1355341724_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.000356)
+  1) a large clock mounted to the side of a wall . (p=0.000061)
+  2) a large cathedral with a clock mounted to it 's side . (p=0.000059)
+Captions for image 21980678_384688685282403_6028497482000891904_n.jpg:
+  0) a group of people walking down a street . (p=0.000101)
+  1) a large building with a clock on it (p=0.000064)
+  2) a group of people walking down a street next to tall buildings . (p=0.000048)
+Captions for image 18514168_1604323486252582_2902853719739596800_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000464)
+  1) a large building with a clock tower on top of it . (p=0.000148)
+  2) a large building with a clock tower in the middle of it . (p=0.000063)
+Captions for image 20589377_514108498929906_7216765231718989824_n.jpg:
+  0) a train traveling through a lush green forest . (p=0.000982)
+  1) a train traveling down tracks next to a forest . (p=0.000185)
+  2) a train traveling down tracks next to a lush green forest . (p=0.000097)
+Captions for image 17077656_805608369604564_6045886490322403328_n.jpg:
+  0) a couple of people standing next to each other . (p=0.001045)
+  1) a man and a woman standing next to each other . (p=0.000780)
+  2) a man and a woman standing in front of a building . (p=0.000125)
+Captions for image 17125627_189233751570059_6069758446834548736_n.jpg:
+  0) a tall building with a clock on it . (p=0.000225)
+  1) a man standing in front of a large building . (p=0.000143)
+  2) a tall building with a clock on it (p=0.000140)
+Captions for image 14590931_179120822580083_5250886948616142848_n.jpg:
+  0) a man sitting at a table in a restaurant . (p=0.000361)
+  1) a man sitting at a table in a restaurant (p=0.000081)
+  2) a man sitting at a table in front of a window . (p=0.000052)
+Captions for image 16789699_269413646833499_3960471673869697024_n.jpg:
+  0) a bridge over a river with a bridge in the background . (p=0.000183)
+  1) a bridge over a river with a bridge in the background (p=0.000074)
+  2) a bridge over a body of water with a bridge over it . (p=0.000036)
+Captions for image 17126380_1224392094326535_2316364519447724032_n.jpg:
+  0) a boat on a river with trees in the background (p=0.000045)
+  1) a boat on a river with trees in the background . (p=0.000017)
+  2) a boat is sitting in the water next to a tree . (p=0.000002)
+Captions for image 18579902_1786053515038015_6827008137996795904_n.jpg:
+  0) a large building with a clock on the top of it . (p=0.000043)
+  1) a large building with a clock tower in the middle . (p=0.000035)
+  2) a large building with a clock on the front of it . (p=0.000027)
+Captions for image 16584880_1676310442669600_2644259884945637376_n.jpg:
+  0) a person riding a horse on a beach (p=0.000598)
+  1) a person riding a horse on a beach . (p=0.000290)
+  2) a person riding a horse on the beach (p=0.000283)
+Captions for image 16465062_120160078511159_2619699273377251328_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.000218)
+  1) a vase filled with flowers on top of a table . (p=0.000135)
+  2) a vase filled with flowers sitting on top of a wooden table . (p=0.000036)
+Captions for image 16463986_720622968101335_2644479473738579968_n.jpg:
+  0) a close up of an elephant on a dirt ground (p=0.000058)
+  1) a close up of a person riding a horse (p=0.000037)
+  2) a close up of a person riding a motorcycle (p=0.000035)
+Captions for image 16908944_886630771440640_9187018892495552512_n.jpg:
+  0) a large clock tower towering over a city . (p=0.002978)
+  1) a clock tower in the middle of a city . (p=0.001052)
+  2) a clock tower in the middle of a city (p=0.000367)
+Captions for image 17126489_271717976585677_175720873154576384_n.jpg:
+  0) a tree filled with lots of green plants . (p=0.000131)
+  1) a bunch of flowers that are sitting in the grass . (p=0.000113)
+  2) a bunch of flowers that are sitting in a field . (p=0.000029)
+Captions for image 16465514_655725277968856_7325635892394065920_n.jpg:
+  0) a statue of a man holding a cell phone . (p=0.000021)
+  1) a statue of a man holding a cell phone (p=0.000017)
+  2) a statue of an elephant standing on a stone wall . (p=0.000004)
+Captions for image 14574025_299541637110729_9013345949942022144_n.jpg:
+  0) a large building with a clock on it . (p=0.000317)
+  1) a large building with a clock on it (p=0.000221)
+  2) a large building with a clock on the top . (p=0.000202)
+Captions for image 16122823_585585944966660_7871362687656001536_n.jpg:
+  0) a group of people standing next to a building . (p=0.000121)
+  1) a group of people sitting on a bench in front of a building . (p=0.000043)
+  2) a group of people standing next to a building (p=0.000017)
+Captions for image 15877385_1634457733523390_383887737444368384_n.jpg:
+  0) a man standing on a beach holding a surfboard . (p=0.008450)
+  1) a man standing on top of a sandy beach . (p=0.005130)
+  2) a man standing on a beach holding a white surfboard . (p=0.001405)
+Captions for image 17076702_400337866999415_4536896576081100800_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.007895)
+  1) a clock that is on the side of a building . (p=0.001932)
+  2) a large clock mounted to the side of a wall . (p=0.000427)
+Captions for image 16110364_1842658602613746_7529292534216916992_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.001015)
+  1) a group of people standing on top of a beach . (p=0.000607)
+  2) a group of people standing on top of a beach next to the ocean . (p=0.000026)
+Captions for image 15877204_371261873237648_4330006386525077504_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.002529)
+  1) a train traveling over a bridge over a body of water . (p=0.000445)
+  2) a train on a bridge over a body of water (p=0.000400)
+Captions for image 15802690_1268601806540916_1447628236174393344_n.jpg:
+  0) a man standing in front of a building . (p=0.001434)
+  1) a man is standing in front of a building . (p=0.000570)
+  2) a man is standing in front of a building (p=0.000456)
+Captions for image 15534828_406745162990003_1863706306825682944_n.jpg:
+  0) a group of people walking down a city street . (p=0.000218)
+  1) a group of people walking down a street . (p=0.000122)
+  2) a group of people walking down a city street (p=0.000036)
+Captions for image 17126670_770010893146309_1688036011205984256_n.jpg:
+  0) a large building with a clock on the wall . (p=0.000021)
+  1) a large building with a clock on the wall (p=0.000017)
+  2) a large building with a large clock mounted to it 's side . (p=0.000011)
+Captions for image 15801989_242955516128052_5335775263529631744_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.001845)
+  1) a clock that is on the side of a building . (p=0.000949)
+  2) a clock that is on top of a building . (p=0.000427)
+Captions for image 15538370_986761564761344_1721304505758253056_n.jpg:
+  0) a statue of a bear sitting on a ledge . (p=0.000028)
+  1) a statue of a bear sitting on top of a wooden bench . (p=0.000020)
+  2) a statue of a bear sitting on top of a table . (p=0.000012)
+Captions for image 12479094_221482384874187_2052988099_n.jpg:
+  0) a large clock tower towering over a city . (p=0.002786)
+  1) a clock tower in the middle of a city . (p=0.000993)
+  2) a clock tower in the middle of a city (p=0.000479)
+Captions for image 12934964_1722706974654763_1893474873_n.jpg:
+  0) a couple of people are sitting on a bench (p=0.000403)
+  1) a group of people sitting on top of a wooden bench . (p=0.000121)
+  2) a group of people sitting on top of a bench . (p=0.000098)
+Captions for image 15538185_1186890841399216_3178289323892015104_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000015)
+  1) a group of people walking down a street next to a traffic light . (p=0.000004)
+  2) a group of people walking down a street next to a building . (p=0.000003)
+Captions for image 15538977_172825973190887_9183364893233905664_n.jpg:
+  0) a large building with a large clock on it . (p=0.000029)
+  1) a large building with a clock on it (p=0.000023)
+  2) a large building with a clock on the side of it . (p=0.000020)
+Captions for image 14504751_1038091186288419_2449226596855316480_n.jpg:
+  0) a large group of people on a city street . (p=0.000448)
+  1) a large group of people on a beach with umbrellas . (p=0.000036)
+  2) a large group of people on a city street (p=0.000018)
+Captions for image 14072804_560784430781384_527987227_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000615)
+  1) a large building with a clock on the top . (p=0.000384)
+  2) a large building with a clock on the front of it . (p=0.000165)
+Captions for image 13713976_2000097273549924_2012620729_n.jpg:
+  0) a large clock tower towering over a city . (p=0.002487)
+  1) a very tall clock tower towering over a city . (p=0.002038)
+  2) a large clock tower towering over a city at night . (p=0.000794)
+Captions for image 13651878_1648948892101022_1556349459_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000994)
+  1) a large building with a clock tower on top of it . (p=0.000459)
+  2) a large building with a clock tower in the middle . (p=0.000278)
+Captions for image 15306009_1266319060097334_6263837784033722368_n.jpg:
+  0) a large building with a clock on the top of it . (p=0.000289)
+  1) a very tall building with a clock on it 's side . (p=0.000242)
+  2) a large building with a clock on the front of it . (p=0.000202)
+Captions for image 13732120_1018160984958558_663742209_n.jpg:
+  0) a statue of a man on a horse . (p=0.001717)
+  1) a statue of a man on top of a horse . (p=0.000554)
+  2) a statue of a man on a horse in front of a building . (p=0.000355)
+Captions for image 13743381_619034251604803_1340838294_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000556)
+  1) a large building with a clock tower on top of it . (p=0.000297)
+  2) a large building with a clock tower in the middle . (p=0.000141)
+Captions for image 13736062_813688002094493_16830674_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000604)
+  1) a large building with a clock on it (p=0.000538)
+  2) a large building with a clock on the top . (p=0.000537)
+Captions for image 13531848_1749392191969778_1188897835_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000023)
+  1) a large building with a clock tower in the middle of it . (p=0.000010)
+  2) a large building with a clock tower in the center . (p=0.000010)
+Captions for image 13561818_564463610423739_2147349784_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000387)
+  1) a cup of coffee sitting on a table next to a glass . (p=0.000014)
+  2) a cup of coffee sitting on top of a table next to a glass . (p=0.000009)
+Captions for image 13398659_250762331964203_1191657368_n.jpg:
+  0) a man in a suit and tie standing in a room . (p=0.000205)
+  1) a man in a suit and tie is smiling (p=0.000108)
+  2) a man in a suit and tie sitting in a chair . (p=0.000091)
+Captions for image 13549605_1547188912256328_1139416244_n.jpg:
+  0) a clock on the side of a building . (p=0.000745)
+  1) a clock on the side of a brick building . (p=0.000580)
+  2) a clock on the side of a building (p=0.000568)
+Captions for image 13414147_1766234756985868_1402901331_n.jpg:
+  0) a herd of cattle grazing on a lush green hillside . (p=0.000515)
+  1) a herd of cattle grazing on a lush green field . (p=0.000226)
+  2) a herd of cattle grazing on a dry grass field . (p=0.000042)
+Captions for image 13437366_1787315278170564_29078805_n.jpg:
+  0) a restaurant with tables , chairs , and tables . (p=0.000007)
+  1) a restaurant with tables , chairs , and tables and chairs . (p=0.000001)
+  2) a restaurant with tables , chairs , and tables with drinks . (p=0.000000)
+Captions for image 13423057_876990685778216_643056977_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000609)
+  1) a group of people sitting on a bench next to a river . (p=0.000014)
+  2) a train traveling over a bridge over a river (p=0.000013)
+Captions for image 13391087_707016232773202_2027897716_n.jpg:
+  0) a man standing in front of a building . (p=0.002166)
+  1) a man standing in front of a tall building . (p=0.001828)
+  2) a man standing in front of a building with a clock . (p=0.000398)
+Captions for image 13408744_1449597491732693_1702670467_n.jpg:
+  0) a display case filled with lots of books . (p=0.000186)
+  1) a display case filled with lots of different types of books . (p=0.000117)
+  2) a display case filled with lots of different types of items . (p=0.000032)
+Captions for image 13398876_604259123083265_67745004_n.jpg:
+  0) a man walking down a street past a tall building . (p=0.000038)
+  1) a man walking down a sidewalk next to a tall building . (p=0.000033)
+  2) a man standing on a sidewalk next to a clock tower . (p=0.000020)
+Captions for image 13437276_1629596210691738_561424604_n.jpg:
+  0) a large clock mounted to the side of a wall . (p=0.000679)
+  1) a large clock mounted to the side of a building . (p=0.000355)
+  2) a large clock mounted to a wall in a room . (p=0.000200)
+Captions for image 13320059_195108950882941_1531571534_n.jpg:
+  0) a living room with a fireplace and a fire place . (p=0.000016)
+  1) a living room with a fireplace and a fire place (p=0.000013)
+  2) a living room with a couch and a table (p=0.000012)
+Captions for image 13260837_226605727726244_1093188359_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001199)
+  1) a train traveling over a bridge over a river . (p=0.000807)
+  2) a bridge over a river with a clock tower . (p=0.000135)
+Captions for image 13249690_196124050782211_254995134_n.jpg:
+  0) a building with a clock on the front of it (p=0.000226)
+  1) a large building with a clock on the front . (p=0.000209)
+  2) a large building with a clock on it (p=0.000198)
+Captions for image 13249709_962794163819878_68067883_n.jpg:
+  0) a red fire hydrant in front of a brick building . (p=0.000124)
+  1) a red and white fire hydrant in front of a building . (p=0.000083)
+  2) a red and white fire hydrant sitting in front of a building . (p=0.000055)
+Captions for image 13108529_1534883763488075_28931725_n.jpg:
+  0) a sheep standing on top of a rocky hillside . (p=0.000290)
+  1) a sheep standing on top of a lush green hillside . (p=0.000261)
+  2) a sheep standing on top of a rocky hill . (p=0.000039)
+Captions for image 13266903_365881116869696_872603009_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000523)
+  1) a train traveling over a bridge over a body of water . (p=0.000079)
+  2) a train traveling over a bridge over a river (p=0.000019)
+Captions for image 13150976_1182460925121537_1335809761_n.jpg:
+  0) a man flying through the air while riding a skateboard . (p=0.007009)
+  1) a man flying through the air on top of a skateboard . (p=0.001224)
+  2) a man flying through the air on a skateboard . (p=0.001115)
+Captions for image 12940305_536862203167100_803928589_n.jpg:
+  0) a view of a train station with a clock tower . (p=0.000015)
+  1) a train station with a clock tower in the center . (p=0.000013)
+  2) a train station with a clock tower in the middle (p=0.000009)
+Captions for image 12976192_919587581483428_1879383171_n.jpg:
+  0) a large body of water with boats in it . (p=0.000293)
+  1) a large body of water with a bunch of boats in it (p=0.000224)
+  2) a large body of water with boats in it (p=0.000218)
+Captions for image 12950427_1200837413262570_51727615_n.jpg:
+  0) a view of a building with a clock on it . (p=0.000035)
+  1) a view of a building with a clock on it (p=0.000004)
+  2) a view of a building with a clock in the window . (p=0.000004)
+Captions for image 13129476_1700470326886236_1513209005_n.jpg:
+  0) a large brick building with a clock tower . (p=0.000106)
+  1) a large building with a large clock tower . (p=0.000082)
+  2) a large building with a clock tower in the middle . (p=0.000032)
+Captions for image 12519564_258789251129705_1230771054_n.jpg:
+  0) a building with a clock on the front of it (p=0.000697)
+  1) a building with a clock on the front of it . (p=0.000653)
+  2) a clock on the side of a building (p=0.000464)
+Captions for image 13113918_618035598371744_225875950_n.jpg:
+  0) a tall building with a clock on it (p=0.000448)
+  1) a large building with a clock on the top . (p=0.000418)
+  2) a large building with a clock on the top of it . (p=0.000196)
+Captions for image 12797848_971793049575262_2030711705_n.jpg:
+  0) a man is standing on a boat in the water . (p=0.000145)
+  1) a man standing on a bridge in the water . (p=0.000069)
+  2) a man is standing on a boat in the water (p=0.000055)
+Captions for image 11358028_1600060370262461_38788198_n.jpg:
+  0) a large building with a clock on it . (p=0.000104)
+  1) a large building with a clock on it (p=0.000094)
+  2) a large building with a clock on the front . (p=0.000042)
+Captions for image 12729679_529680740535121_694836098_n.jpg:
+  0) a bunch of flowers are in a vase (p=0.000035)
+  1) a bunch of flowers are sitting on a table (p=0.000031)
+  2) a christmas tree with a christmas tree in front of it . (p=0.000011)
+Captions for image 12950430_1563191190646169_2127908500_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001671)
+  1) a clock tower in the middle of a city . (p=0.000151)
+  2) a clock tower in the middle of a city (p=0.000086)
+Captions for image 1169283_1745817005642145_1765668280_n.jpg:
+  0) a group of people sitting on benches in a park . (p=0.000135)
+  1) a group of people sitting on a bench in a park . (p=0.000024)
+  2) a group of people sitting on benches in a park (p=0.000021)
+Captions for image 12519089_1530278630608017_1344302983_n.jpg:
+  0) a large stone building with a clock on it (p=0.000005)
+  1) a large stone building with a clock on it . (p=0.000004)
+  2) a large stone building with a large clock tower . (p=0.000004)
+Captions for image 12519629_1690489367878090_778287427_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000687)
+  1) a very tall building with a clock on it . (p=0.000593)
+  2) a very tall building with a clock on it 's side . (p=0.000345)
+Captions for image 12328081_1576219756003428_2071168901_n.jpg:
+  0) a large building with a clock on it (p=0.000091)
+  1) a building with a clock on the front of it . (p=0.000086)
+  2) a building with a clock on the front of it (p=0.000076)
+Captions for image 12822316_598659296954156_204636937_n.jpg:
+  0) a group of people walking down a street . (p=0.000113)
+  1) a group of people standing in front of a building . (p=0.000024)
+  2) a group of people standing in front of a tall building . (p=0.000021)
+Captions for image 917500_465961350270886_16721952_n.jpg:
+  0) a river that has a bridge in the background . (p=0.000041)
+  1) a river that has a bridge in it . (p=0.000037)
+  2) a river that has a bridge in it (p=0.000023)
+Captions for image 12135188_863344033786192_1391317590_n.jpg:
+  0) a large building with a clock on it (p=0.000193)
+  1) a large building with a clock on the front . (p=0.000169)
+  2) a large building with a clock on the front of it . (p=0.000153)
+Captions for image 12783449_624461254367735_604632764_n.jpg:
+  0) a large building with a clock on it . (p=0.000574)
+  1) a large building with a clock on it (p=0.000509)
+  2) a large building with a clock on the top . (p=0.000362)
+Captions for image 927567_204952649865782_75655952_n.jpg:
+  0) a clock on a building with a sky background (p=0.000046)
+  1) a clock on a building in a city (p=0.000030)
+  2) a clock on a building in the middle of a city . (p=0.000011)
+Captions for image 12783863_817626008366314_627682322_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.001424)
+  1) a bouquet of flowers in a vase on a table . (p=0.000931)
+  2) a bunch of flowers in a vase on a table . (p=0.000696)
+Captions for image 12729445_1028309203907947_978137994_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.003281)
+  1) a living room filled with furniture and decor . (p=0.001685)
+  2) a living room filled with furniture and a large window . (p=0.000441)
+Captions for image 12547303_513441118836172_273536115_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000777)
+  1) a close up of a flower in a vase (p=0.000213)
+  2) a close up of a vase with flowers on a table (p=0.000159)
+Captions for image 12729465_179848329053477_1564146937_n.jpg:
+  0) a view of a building with a clock tower . (p=0.000005)
+  1) a view of a building with a clock on it . (p=0.000002)
+  2) a view of a building with a clock tower in the center . (p=0.000001)
+Captions for image 12552497_612191208932891_808664333_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.002357)
+  1) a train traveling down train tracks near a forest . (p=0.001494)
+  2) a train traveling down train tracks next to a forest . (p=0.001235)
+Captions for image 11249596_439150972923255_712415272_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.001466)
+  1) a large clock mounted to the side of a wall . (p=0.000329)
+  2) a large clock mounted to the side of a tall building . (p=0.000060)
+Captions for image 917865_220632518276384_784938866_n.jpg:
+  0) a large group of people on a beach . (p=0.000452)
+  1) a large group of people on a beach with umbrellas . (p=0.000082)
+  2) a group of people standing on a beach next to a body of water . (p=0.000051)
+Captions for image 12568780_1034296429971273_246280780_n.jpg:
+  0) a swimming pool with a pool in the middle (p=0.000024)
+  1) a swimming pool with a pool in the middle . (p=0.000023)
+  2) a swimming pool with a pool in the middle of it . (p=0.000006)
+Captions for image 1538465_482996888570278_1546183678_n.jpg:
+  0) a row of potted plants and a potted plant . (p=0.000010)
+  1) a bathroom with a toilet and a sink (p=0.000009)
+  2) a row of potted plants and a potted plant (p=0.000009)
+Captions for image 12393867_927898053931383_542984510_n.jpg:
+  0) a display case filled with lots of different colored ties . (p=0.000343)
+  1) a display case filled with lots of different types of ties . (p=0.000059)
+  2) a display case filled with lots of different colored vases . (p=0.000037)
+Captions for image 12317414_1681614155447925_927713932_n.jpg:
+  0) a group of people sitting on a bench near a river . (p=0.000014)
+  1) a group of people sitting on a bench in front of a river . (p=0.000005)
+  2) a group of people sitting on a bench in front of a lake . (p=0.000004)
+Captions for image 12345812_1660191397591253_843446912_n.jpg:
+  0) a bowl of fruit with bananas and oranges . (p=0.000107)
+  1) a bowl of fruit with bananas and oranges (p=0.000019)
+  2) a bowl of fruit with bananas , oranges , and oranges . (p=0.000004)
+Captions for image 12346004_1731581350408983_1695819653_n.jpg:
+  0) a large body of water surrounded by trees . (p=0.000301)
+  1) a large body of water next to a forest . (p=0.000258)
+  2) a large body of water surrounded by trees (p=0.000162)
+Captions for image 12331808_637265619710558_2017783652_n.jpg:
+  0) a flock of birds flying over a body of water . (p=0.001632)
+  1) a large body of water with a lot of boats on it (p=0.000237)
+  2) a large body of water with a lot of boats in it (p=0.000217)
+Captions for image 12362125_1538459326473217_793888885_n.jpg:
+  0) a woman sitting on a bench in front of a lake . (p=0.000254)
+  1) a man sitting on a bench in front of a lake . (p=0.000248)
+  2) a woman sitting on a bench in front of a lake (p=0.000065)
+Captions for image 12276966_182007598813023_875851189_n.jpg:
+  0) a city street filled with lots of people . (p=0.000721)
+  1) a city street filled with lots of traffic . (p=0.000530)
+  2) a group of people walking down a street next to tall buildings . (p=0.000050)
+Captions for image 12331491_1057042414353006_1230913167_n.jpg:
+  0) a large group of people walking down a street . (p=0.000068)
+  1) a large group of people walking down a city street . (p=0.000039)
+  2) a large group of people walking down the street . (p=0.000035)
+Captions for image 12269878_174693746215112_1821748330_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000061)
+  1) a large building with a clock tower in the middle . (p=0.000053)
+  2) a large building with a clock tower in the middle of it . (p=0.000022)
+Captions for image 12276766_1492608184376861_293859858_n.jpg:
+  0) a large body of water with a boat on it . (p=0.000129)
+  1) a large body of water with lots of boats floating in it . (p=0.000065)
+  2) a large body of water with lots of boats floating on it . (p=0.000059)
+Captions for image 12237138_1672711226332053_495537560_n.jpg:
+  0) a large building with a clock on the side of it . (p=0.000060)
+  1) a large building with a clock on the top of it . (p=0.000053)
+  2) a large building with a clock tower in the middle of it . (p=0.000038)
+Captions for image 12224195_1544870122470369_123330777_n.jpg:
+  0) two men standing next to each other eating food . (p=0.000332)
+  1) two men standing next to each other holding a hot dog . (p=0.000174)
+  2) two men standing next to each other in front of a table . (p=0.000082)
+Captions for image 11326490_1936246823267048_1645502542_n.jpg:
+  0) a man sitting on a bench in front of a building . (p=0.000075)
+  1) a man sitting on a bench outside of a building . (p=0.000072)
+  2) a man sitting on a bench in front of a brick building . (p=0.000020)
+Captions for image 11371108_889882514437112_915199075_n.jpg:
+  0) a group of people standing outside of a building . (p=0.000051)
+  1) a group of people standing outside of a large building . (p=0.000016)
+  2) a group of people standing outside of a large building (p=0.000001)
+Captions for image 11950727_907098152707148_305706288_n.jpg:
+  0) a group of people riding horses down a river . (p=0.000820)
+  1) a group of people riding horses on a bridge . (p=0.000637)
+  2) a group of people riding horses on a bridge (p=0.000578)
+Captions for image 12230822_1513466838951616_1657616184_n.jpg:
+  0) a group of people standing in a field . (p=0.000150)
+  1) a group of people standing in a field with umbrellas . (p=0.000026)
+  2) a group of people standing in a field with umbrellas (p=0.000006)
+Captions for image 12145472_1708270756068008_1984965203_n.jpg:
+  0) a glass vase with flowers in it (p=0.000016)
+  1) a glass vase with a flower in it (p=0.000015)
+  2) a glass vase with a flower in it . (p=0.000007)
+Captions for image 12135401_1901498293408608_1282186178_n.jpg:
+  0) a man standing next to a train on a train track . (p=0.000255)
+  1) a man standing next to a train on a bridge . (p=0.000132)
+  2) a man standing next to a train on the tracks . (p=0.000087)
+Captions for image 10723749_1668217120122235_1577769717_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000131)
+  1) a group of people standing next to each other . (p=0.000102)
+  2) a group of people standing in front of a large building . (p=0.000033)
+Captions for image 11950532_857115727719612_547173228_n.jpg:
+  0) a flock of birds flying over a body of water . (p=0.001403)
+  1) a flock of birds sitting on top of a lake . (p=0.000345)
+  2) a flock of birds sitting on top of a body of water . (p=0.000269)
+Captions for image 11899449_478972005604899_283310795_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000658)
+  1) a large building with a clock tower on top of it . (p=0.000390)
+  2) a large building with a clock tower in the middle . (p=0.000155)
+Captions for image 12070845_1488388911489555_1969915064_n.jpg:
+  0) a large white boat floating on top of a body of water . (p=0.000391)
+  1) a large white boat floating on top of a large body of water . (p=0.000242)
+  2) a large white boat floating on top of a lake . (p=0.000095)
+Captions for image 11351677_1667217376858763_345330613_n.jpg:
+  0) a train station with a train passing by . (p=0.000045)
+  1) a train station with a train passing by (p=0.000039)
+  2) a train station with a clock tower in the background . (p=0.000016)
+Captions for image 11820690_1657386994474614_1598170183_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000059)
+  1) a group of people standing in front of a large building . (p=0.000042)
+  2) a group of people standing in front of a building (p=0.000009)
+Captions for image 11856612_977090245687799_1579745618_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000350)
+  1) a large building with a clock tower in the middle . (p=0.000157)
+  2) a large building with a clock tower in the center . (p=0.000129)
+Captions for image 11371119_917222918314634_1506836836_n.jpg:
+  0) a group of colorful umbrellas hanging from a ceiling . (p=0.000321)
+  1) a group of people standing next to each other . (p=0.000230)
+  2) a group of people standing next to each other holding surfboards . (p=0.000059)
+Captions for image 11930924_415281955330625_1372570047_n.jpg:
+  0) a statue of a man is sitting on a bench . (p=0.000027)
+  1) a statue of a man is sitting on a bench (p=0.000023)
+  2) a statue of a man on a horse in a city . (p=0.000012)
+Captions for image 1742387_439347792911608_2111897491_n.jpg:
+  0) a room filled with lots of wooden furniture . (p=0.000270)
+  1) a room filled with lots of furniture and a window . (p=0.000023)
+  2) a room filled with lots of furniture and a piano . (p=0.000012)
+Captions for image 11348317_1663775983864702_1512450825_n.jpg:
+  0) a man standing in front of a book shelf . (p=0.000134)
+  1) a man standing in front of a book shelf filled with books . (p=0.000069)
+  2) a man standing in front of a wall with a sign . (p=0.000007)
+Captions for image 10810040_1476537669309658_2062509286_n.jpg:
+  0) a view of a train station with a train passing by . (p=0.000004)
+  1) a view of a bridge with a train passing by . (p=0.000004)
+  2) a view of a train station with a bridge in the background . (p=0.000003)
+Captions for image 11325713_1592301577699017_1039389488_n.jpg:
+  0) a tree with a bunch of flowers in it (p=0.000091)
+  1) a tree with a bunch of flowers on it (p=0.000028)
+  2) a large tree with a bunch of flowers in it (p=0.000024)
+Captions for image 11856559_308239326013497_1788145149_n.jpg:
+  0) a woman sitting on a beach under an umbrella . (p=0.000433)
+  1) a woman sitting on a beach chair under an umbrella . (p=0.000209)
+  2) a woman sitting on a beach under an umbrella (p=0.000095)
+Captions for image 11910223_399236520273882_690869729_n.jpg:
+  0) a train traveling down tracks next to a river . (p=0.000040)
+  1) a train traveling down tracks next to a forest . (p=0.000028)
+  2) a train traveling down tracks next to a tall building . (p=0.000018)
+Captions for image 11312495_1477855629193186_1592462449_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000397)
+  1) a large building with a clock on the front of it . (p=0.000216)
+  2) a large building with a clock tower in the middle . (p=0.000151)
+Captions for image 11850291_1460187087618536_1501845249_n.jpg:
+  0) a person holding a doughnut in their hand . (p=0.000459)
+  1) a person holding a half eaten doughnut in their hand . (p=0.000131)
+  2) a person holding a doughnut in their hand (p=0.000116)
+Captions for image 11376366_981381865227065_1287850135_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000551)
+  1) a large building with a clock tower on top of it . (p=0.000376)
+  2) a large building with a clock tower in the middle . (p=0.000150)
+Captions for image 11357698_1481762135450607_2132411893_n.jpg:
+  0) a row of wooden benches sitting next to each other . (p=0.000104)
+  1) a row of wooden benches sitting on top of a table . (p=0.000006)
+  2) a row of wooden benches sitting on top of a floor . (p=0.000002)
+Captions for image 10731680_932981013427796_2111209382_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.000884)
+  1) a large clock mounted to the side of a wall . (p=0.000085)
+  2) a large clock mounted to the side of a tall building . (p=0.000038)
+Captions for image 1389294_1661424130745616_2056313836_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.001102)
+  1) a large clock mounted to the side of a wall . (p=0.000170)
+  2) a large clock mounted to the side of a building (p=0.000011)
+Captions for image 10424634_834246329958597_1818732632_n.jpg:
+  0) a herd of cattle grazing on a lush green field . (p=0.012319)
+  1) a herd of cattle standing on top of a lush green field . (p=0.003662)
+  2) a herd of cattle grazing on a lush green hillside . (p=0.003057)
+Captions for image 11378489_703613173101717_1106833991_n.jpg:
+  0) a man standing on a beach holding a surfboard . (p=0.001779)
+  1) a man standing on the beach holding a surfboard . (p=0.000742)
+  2) a man standing on the beach holding a surfboard (p=0.000254)
+Captions for image 11379249_503742003115861_375210663_n.jpg:
+  0) a bird standing on a beach near the ocean . (p=0.000175)
+  1) a cow standing on a beach near the ocean . (p=0.000164)
+  2) a bird standing on a beach near the ocean (p=0.000077)
+Captions for image 11376214_1668780283344690_1524827916_n.jpg:
+  0) a painting of a clock on a wall (p=0.000006)
+  1) a painting of a clock on a wall . (p=0.000006)
+  2) a painting of a clock on a building (p=0.000003)
+Captions for image 11378350_1596649280624243_1537693600_n.jpg:
+  0) a bird sitting on top of a rock on a beach . (p=0.000147)
+  1) a bird sitting on top of a rock next to a body of water . (p=0.000087)
+  2) a bird sitting on top of a rock near a body of water . (p=0.000085)
+Captions for image 1723194_1647829685433291_2049361885_n.jpg:
+  0) a sandy beach with a surfboard on top of it . (p=0.000189)
+  1) a sandy beach with a surfboard on the sand . (p=0.000054)
+  2) a sandy beach with a surfboard on the sand (p=0.000026)
+Captions for image 11325894_1578491745737841_955593696_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.000302)
+  1) a large clock mounted to the side of a wall . (p=0.000170)
+  2) a large clock mounted to a wall in a room . (p=0.000021)
+Captions for image 11272010_763807030399883_985602962_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000035)
+  1) a group of people standing next to each other in a room . (p=0.000006)
+  2) a group of people standing next to each other in front of a building . (p=0.000006)
+Captions for image 11333349_763641087087135_1783873624_n.jpg:
+  0) a statue of an elephant and a statue of a man . (p=0.000003)
+  1) a statue of an elephant and a statue of a man (p=0.000003)
+  2) a statue of an elephant and a statue of a person . (p=0.000002)
+Captions for image 11356665_1595031254092598_579514176_n.jpg:
+  0) a man standing in front of a brick building . (p=0.001464)
+  1) a man standing in front of a building . (p=0.000803)
+  2) a man standing in front of a brick building (p=0.000088)
+Captions for image 11326772_103288796675933_1417123142_n.jpg:
+  0) a statue of a bear is standing in front of a building . (p=0.000016)
+  1) a statue of a bear is standing in front of a building (p=0.000005)
+  2) a statue of a bear is standing in the middle of a street . (p=0.000003)
+Captions for image 11356017_1450046745295133_1027662409_n.jpg:
+  0) a room filled with lots of wooden furniture . (p=0.000139)
+  1) a room filled with lots of wooden pews . (p=0.000111)
+  2) a room filled with lots of luggage and a ceiling fan . (p=0.000004)

@@ -1,0 +1,48 @@
+Captions for image 14072747_674973499316300_1379010562_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000035)
+  1) a man in a suit and tie is smiling (p=0.000014)
+  2) a man in a suit and tie holding a camera . (p=0.000010)
+Captions for image 13551560_529530793915306_1854810904_n.jpg:
+  0) a black cat is sitting on the floor . (p=0.000161)
+  1) a black cat is sitting on the ground (p=0.000059)
+  2) a black cat is sitting on the floor next to a pair of shoes . (p=0.000015)
+Captions for image 13652193_595913087257104_1120918798_n.jpg:
+  0) a giraffe standing next to a tree in a forest . (p=0.000343)
+  1) a statue of a giraffe standing next to a tree . (p=0.000085)
+  2) a giraffe standing next to a tree in a field . (p=0.000057)
+Captions for image 13687218_1766474233570497_615831309_n.jpg:
+  0) a bunch of yellow bananas hanging from a tree . (p=0.000212)
+  1) a bunch of green bananas hanging from a tree . (p=0.000186)
+  2) a bunch of green bananas hanging from a tree (p=0.000046)
+Captions for image 13774197_1655019168148882_1047813029_a.jpg:
+  0) a man sitting on a bench with a cell phone . (p=0.000439)
+  1) a woman sitting on a bench with a cell phone . (p=0.000427)
+  2) a man sitting on a bench with a cell phone (p=0.000104)
+Captions for image 14676549_1784946631722915_8920376752845357056_n.jpg:
+  0) a cat sitting on top of a wooden desk . (p=0.002022)
+  1) a cat sitting on a desk next to a computer . (p=0.001395)
+  2) a cat sitting on top of a desk next to a keyboard . (p=0.000668)
+Captions for image 19379381_1695169804122910_6851738615521738752_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.000862)
+  1) a red fire hydrant sitting in the middle of a field . (p=0.000477)
+  2) a red fire hydrant in the middle of a forest . (p=0.000286)
+Captions for image 14240724_1128588177234383_1063517061_n.jpg:
+  0) a group of people standing in the grass near a truck . (p=0.000035)
+  1) a group of people standing in a field with a lot of luggage . (p=0.000006)
+  2) a group of people standing in a field with a lot of luggage (p=0.000006)
+Captions for image 14134891_225741964494518_850598436_n.jpg:
+  0) a person riding skis down a snow covered slope . (p=0.002147)
+  1) a person riding skis on a snowy surface (p=0.001401)
+  2) a person riding skis on a snowy slope (p=0.001202)
+Captions for image 14262848_561561387384448_671188269_n.jpg:
+  0) a group of people standing around a table . (p=0.001826)
+  1) a group of people standing around a wooden table . (p=0.000718)
+  2) a group of people standing around a table with food . (p=0.000621)
+Captions for image 13743621_148852328886058_800860482_n.jpg:
+  0) a close up of a cake on a table (p=0.000459)
+  1) a close up of a pair of scissors (p=0.000413)
+  2) a close up of a pair of scissors on a table (p=0.000257)
+Captions for image 13636103_1126384177434857_1942011069_n.jpg:
+  0) a close up of a cake on a table (p=0.001392)
+  1) a close up of a cake on a plate (p=0.001017)
+  2) a close up of a cake with a knife (p=0.000264)

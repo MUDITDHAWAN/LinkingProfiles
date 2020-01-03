@@ -1,0 +1,28 @@
+Captions for image 20968493_110315303021088_5393171535731097600_n.jpg:
+  0) a close up of a cat laying on a couch (p=0.006520)
+  1) a close up of a cat laying on a bed (p=0.001606)
+  2) a close up of a cat on a couch (p=0.001334)
+Captions for image 20688782_1055134297956476_5733036025895190528_n.jpg:
+  0) a picture of a person holding a pair of scissors . (p=0.000017)
+  1) a picture of a person holding a book . (p=0.000008)
+  2) a picture of a man holding a pair of scissors . (p=0.000006)
+Captions for image 26154033_951546191679027_2557177889715912704_n.jpg:
+  0) a black and white photo of a street with an umbrella . (p=0.000138)
+  1) a black and white photo of a snowy street (p=0.000136)
+  2) a black and white photo of a street with an umbrella (p=0.000074)
+Captions for image 20766611_1868289496519743_5993730520603688960_n.jpg:
+  0) the contents of a purse laid out on a table . (p=0.000172)
+  1) the contents of a purse are laid out on a table . (p=0.000091)
+  2) the contents of a purse are laid out on the floor . (p=0.000085)
+Captions for image 11244989_942531842475864_179588661_a.jpg:
+  0) a close up of a train on a train track (p=0.001888)
+  1) a close up of a red and white train (p=0.000241)
+  2) a close up of a red and white train on a track (p=0.000181)
+Captions for image 30602769_177732936378106_2267161743471935488_n.jpg:
+  0) a close up of a clock on a wall (p=0.001407)
+  1) a close up of a clock on a table (p=0.000968)
+  2) a close up of a black and white clock (p=0.000124)
+Captions for image 21434137_274119036423353_661130187093573632_n.jpg:
+  0) a woman laying in bed next to a cat . (p=0.000375)
+  1) a woman laying on a bed with a cat . (p=0.000342)
+  2) a woman laying on a bed with a cat and a teddy bear . (p=0.000018)

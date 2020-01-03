@@ -1,0 +1,12 @@
+Captions for image 13277845_1727959574123252_1754659990_n.jpg:
+  0) a pair of shoes and a pair of scissors . (p=0.000235)
+  1) a pair of shoes and a pair of shoes (p=0.000151)
+  2) a pair of shoes and a pair of scissors (p=0.000141)
+Captions for image 14730548_1235950699801479_7423360533115437056_a.jpg:
+  0) a man in a suit and tie is brushing his teeth . (p=0.000045)
+  1) a man in a suit and tie is brushing his teeth (p=0.000012)
+  2) a man in a suit and tie holding a toothbrush . (p=0.000010)
+Captions for image 14705153_713769012104208_1160725747946487808_n.jpg:
+  0) a man in a suit and tie is brushing his teeth . (p=0.000055)
+  1) a man in a suit and tie is smiling . (p=0.000029)
+  2) a man in a suit and tie is brushing his teeth (p=0.000013)

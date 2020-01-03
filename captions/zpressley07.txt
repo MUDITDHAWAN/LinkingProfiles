@@ -1,0 +1,12 @@
+Captions for image 11203309_384827375061831_367606301_n.jpg:
+  0) a herd of animals grazing on a lush green hillside . (p=0.000855)
+  1) a herd of sheep grazing on a lush green hillside . (p=0.000707)
+  2) a herd of animals grazing on a lush green field . (p=0.000264)
+Captions for image 44884218_345707102882519_2446069589734326272_n.jpg:
+  0) a white toilet sitting on top of a wooden floor . (p=0.000743)
+  1) a white toilet sitting on top of a white toilet . (p=0.000332)
+  2) a white toilet with a black seat on top of a white floor . (p=0.000073)
+Captions for image 11240750_1432341343738659_2064622584_n.jpg:
+  0) a large body of water with mountains in the background . (p=0.000601)
+  1) a large body of water with mountains in the background (p=0.000191)
+  2) a large body of water with a mountain in the background . (p=0.000120)

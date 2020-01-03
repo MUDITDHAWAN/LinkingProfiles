@@ -1,0 +1,804 @@
+Captions for image 11351711_974292619280533_1617802999_n.jpg:
+  0) a room filled with lots of wooden furniture . (p=0.000100)
+  1) a room filled with lots of windows and a clock . (p=0.000007)
+  2) a room filled with lots of windows and a large clock . (p=0.000001)
+Captions for image 10413016_314834435341356_1094943851_a.jpg:
+  0) a close up of a street sign with a sky background (p=0.002968)
+  1) a close up of a vandalized street sign (p=0.001855)
+  2) a close up of a stop sign with a sky background (p=0.001009)
+Captions for image 13413492_131689613917540_2129127971_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003206)
+  1) a city street filled with lots of tall buildings . (p=0.000448)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000141)
+Captions for image 11049246_1599177913634234_1948869934_n.jpg:
+  0) a bunch of umbrellas that are on a pole . (p=0.000058)
+  1) a bunch of umbrellas that are in the street . (p=0.000056)
+  2) a bunch of umbrellas that are in a building . (p=0.000023)
+Captions for image 12353357_102388090137134_1379891067_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.000137)
+  1) a group of people standing on top of a beach . (p=0.000084)
+  2) a group of people standing on top of a boat . (p=0.000057)
+Captions for image 10979586_405259962980559_1208551902_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002960)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000250)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000110)
+Captions for image 13402576_482659421933667_1298272390_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.003054)
+  1) a red double decker bus traveling down a street . (p=0.000727)
+  2) a red double decker bus driving down a city street . (p=0.000460)
+Captions for image 12142148_1708254612740153_2070625307_n.jpg:
+  0) a large city with lots of tall buildings . (p=0.000031)
+  1) a large city with lots of buildings and a clock tower . (p=0.000005)
+  2) a large city with lots of tall buildings and a clock tower . (p=0.000001)
+Captions for image 13414349_1598585217100176_842690472_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001347)
+  1) a city street filled with lots of tall buildings . (p=0.000848)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000086)
+Captions for image 13298030_1556951067933586_813807252_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001822)
+  1) a double decker bus driving down a street next to tall buildings . (p=0.000365)
+  2) a double decker bus driving down the street (p=0.000239)
+Captions for image 13392871_1727496640824090_263842237_n.jpg:
+  0) a man walking down a sidewalk next to a building . (p=0.000033)
+  1) a person walking down a sidewalk next to a building . (p=0.000028)
+  2) a man walking down a sidewalk next to a tall building . (p=0.000015)
+Captions for image 13298127_1307733935907581_1510674725_n.jpg:
+  0) a group of people walking down a street . (p=0.000632)
+  1) a group of people walking down a city street . (p=0.000306)
+  2) a group of people walking down a street next to tall buildings . (p=0.000204)
+Captions for image 13392688_994881213942129_161414431_n.jpg:
+  0) a group of people walking down a street . (p=0.001571)
+  1) a group of people walking down a street next to tall buildings . (p=0.000723)
+  2) a crowd of people walking down a street next to tall buildings . (p=0.000502)
+Captions for image 13150973_626887690793854_1374194807_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003252)
+  1) a city street filled with lots of tall buildings . (p=0.000648)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000306)
+Captions for image 13388582_1137319512955566_1100422833_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.012931)
+  1) a double decker bus driving down a street . (p=0.004093)
+  2) a red double decker bus driving down the street . (p=0.001776)
+Captions for image 13126870_1743142345923011_293414242_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001819)
+  1) a city street filled with traffic next to tall buildings . (p=0.000458)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000143)
+Captions for image 13102543_623504751138666_2021417854_n.jpg:
+  0) a bicycle is parked on the side of the street . (p=0.000196)
+  1) a bicycle is parked on the side of the road . (p=0.000191)
+  2) a man riding a bike down a street next to a bus . (p=0.000080)
+Captions for image 13118100_532599370275303_1138287841_n.jpg:
+  0) a group of people walking down a street . (p=0.002024)
+  1) a crowd of people walking down a street . (p=0.001783)
+  2) a group of people walking down a city street . (p=0.001226)
+Captions for image 12912389_129591560775598_905142987_n.jpg:
+  0) a group of people walking down a street . (p=0.000261)
+  1) a group of people standing in front of a store . (p=0.000164)
+  2) a group of people standing in front of a building . (p=0.000152)
+Captions for image 12912331_952296548222782_1201067493_n.jpg:
+  0) a yellow and blue train traveling down train tracks . (p=0.000880)
+  1) a red and white train is on the tracks . (p=0.000143)
+  2) a yellow and blue train is on the tracks . (p=0.000131)
+Captions for image 13129600_109540556124482_2036272029_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001533)
+  1) a city street filled with lots of traffic and tall buildings . (p=0.000113)
+  2) a city street filled with lots of traffic and traffic . (p=0.000091)
+Captions for image 12935119_1706411892963206_705754651_n.jpg:
+  0) a display case filled with lots of different colored vases . (p=0.000068)
+  1) a display case filled with lots of different types of fruit . (p=0.000066)
+  2) a display case filled with lots of different types of fruits . (p=0.000029)
+Captions for image 12905028_1695568120692333_950663748_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.015190)
+  1) a red double decker bus driving down a road . (p=0.005215)
+  2) a red double decker bus traveling down a street . (p=0.003729)
+Captions for image 12905231_1588610758096124_1199909084_n.jpg:
+  0) a group of people on a city street . (p=0.001123)
+  1) a large group of people on a city street . (p=0.001101)
+  2) a group of people riding bikes down a street . (p=0.000971)
+Captions for image 1172550_1544053235899191_486413818_n.jpg:
+  0) a large building with a clock on it . (p=0.000349)
+  1) a large building with a clock on it (p=0.000232)
+  2) a large building with a clock on the front of it . (p=0.000126)
+Captions for image 12328030_801068399998109_1633259208_n.jpg:
+  0) a large building with a clock on it (p=0.000366)
+  1) a large building with a clock on the front of it . (p=0.000290)
+  2) a large building with a clock on the top of it . (p=0.000283)
+Captions for image 12965748_608581885960836_867757191_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000174)
+  1) a large building with a clock on the side of it . (p=0.000122)
+  2) a large building with a clock tower in the middle . (p=0.000088)
+Captions for image 12965805_1054034107999865_1580687074_n.jpg:
+  0) a kitchen filled with lots of counter space . (p=0.000037)
+  1) a kitchen filled with lots of wooden cabinets . (p=0.000035)
+  2) a kitchen filled with lots of counter space and stools . (p=0.000002)
+Captions for image 12519456_262319490773430_322731418_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001399)
+  1) a large bridge spanning the width of a river . (p=0.001228)
+  2) a large bridge spanning the width of a city . (p=0.000450)
+Captions for image 12912279_1540032736293681_1776020313_n.jpg:
+  0) a man walking down a street next to a tall building . (p=0.000028)
+  1) a man walking down a street next to a building . (p=0.000028)
+  2) a man walking down a street next to a red building . (p=0.000006)
+Captions for image 12959920_1034925469913190_774878637_n.jpg:
+  0) a large body of water with lots of boats floating on it . (p=0.000079)
+  1) a large body of water with a lot of boats on it (p=0.000058)
+  2) a large body of water with a lot of boats in it (p=0.000051)
+Captions for image 12965693_596021440563686_1982235688_n.jpg:
+  0) a fire hydrant spraying water on a city street (p=0.001361)
+  1) a fire hydrant spraying water on a street . (p=0.001051)
+  2) a fire hydrant spraying water on a street (p=0.000632)
+Captions for image 12424927_1546921685601031_234108316_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.007823)
+  1) a red double decker bus driving past a tall building . (p=0.003011)
+  2) a double decker bus driving down a street next to tall buildings . (p=0.000674)
+Captions for image 12940183_1011208455611628_1589467552_n.jpg:
+  0) a statue of an elephant in a body of water (p=0.000164)
+  1) a statue of an elephant in the water . (p=0.000111)
+  2) a statue of an elephant in the water (p=0.000060)
+Captions for image 10593328_1689474434674122_1040552875_n.jpg:
+  0) a large body of water filled with lots of boats . (p=0.000281)
+  1) a harbor filled with lots of boats next to buildings . (p=0.000086)
+  2) a harbor filled with lots of boats next to a bridge . (p=0.000066)
+Captions for image 12383121_1715494565373198_1346950394_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000500)
+  1) a clock tower in the middle of a city street . (p=0.000267)
+  2) a clock tower in the middle of a city (p=0.000223)
+Captions for image 12445878_1924441417782244_1033628407_n.jpg:
+  0) a large clock tower towering over a city . (p=0.004637)
+  1) a large clock tower towering over a city at night . (p=0.000952)
+  2) a large clock tower towering over a city next to buildings . (p=0.000185)
+Captions for image 12960079_1721666274765319_386882670_n.jpg:
+  0) a large building with a clock on it (p=0.000208)
+  1) a large building with a clock on the front of it . (p=0.000170)
+  2) a large building with a clock on the top of it . (p=0.000138)
+Captions for image 12917980_206726173036535_1964254241_n.jpg:
+  0) a train on a track near a body of water (p=0.000220)
+  1) a train on a bridge over a body of water (p=0.000203)
+  2) a train on a bridge over a body of water . (p=0.000132)
+Captions for image 12905245_207750506269125_1896588722_n.jpg:
+  0) a crowd of people standing on top of a lush green field . (p=0.000252)
+  1) a crowd of people standing on top of a green field . (p=0.000152)
+  2) a crowd of people standing on top of a tall building . (p=0.000044)
+Captions for image 12677364_1084864688221344_843172426_n.jpg:
+  0) a large building with a large clock on it . (p=0.000079)
+  1) a large building with a large clock on it (p=0.000032)
+  2) a large building with a clock on the side of it . (p=0.000030)
+Captions for image 12141855_1081700715222682_1151399547_n.jpg:
+  0) a large building with a clock on it . (p=0.000433)
+  1) a tall building with a clock on it (p=0.000386)
+  2) a large building with a clock on it (p=0.000355)
+Captions for image 12479054_255093901494204_543654104_n.jpg:
+  0) a large body of water with a lot of boats on it (p=0.000070)
+  1) a large body of water with boats on it . (p=0.000056)
+  2) a large body of water with a lot of boats in it (p=0.000054)
+Captions for image 11116806_989124107820596_1576665144_n.jpg:
+  0) a group of people walking down a street . (p=0.000218)
+  1) a group of people walking down a street next to tall buildings . (p=0.000131)
+  2) a large building with a clock on it (p=0.000093)
+Captions for image 12825793_593692450786660_518090308_n.jpg:
+  0) a red double decker bus parked in front of a building . (p=0.000726)
+  1) a red double decker bus parked in a parking lot . (p=0.000592)
+  2) a red double decker bus parked in a lot . (p=0.000327)
+Captions for image 12825737_1033215736735257_649819917_n.jpg:
+  0) a group of people riding bikes down a street . (p=0.000446)
+  1) a busy city street with cars and motorcycles . (p=0.000235)
+  2) a group of people riding bikes down a city street . (p=0.000127)
+Captions for image 12783908_239343609744453_756368038_n.jpg:
+  0) a group of people walking down a street . (p=0.000723)
+  1) a group of people walking down a city street . (p=0.000665)
+  2) a group of people walking down a street next to tall buildings . (p=0.000303)
+Captions for image 12822447_437662219775452_1237892547_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.005724)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000900)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000370)
+Captions for image 11378802_458669677665841_2072909962_n.jpg:
+  0) a building with a clock on the side of it (p=0.000141)
+  1) a building with a clock on the side of it . (p=0.000102)
+  2) a large building with a clock on the side of it . (p=0.000051)
+Captions for image 12784064_573758209457500_1356693270_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000806)
+  1) a large body of water next to a bridge . (p=0.000065)
+  2) a large body of water with a train passing by . (p=0.000040)
+Captions for image 12751444_587232784763186_1061818400_n.jpg:
+  0) a group of people walking down a street . (p=0.001197)
+  1) a group of people walking down a street next to tall buildings . (p=0.000498)
+  2) a crowd of people walking down a street next to tall buildings . (p=0.000422)
+Captions for image 12797727_804177716393329_1044254435_n.jpg:
+  0) a large brick building with a clock tower . (p=0.000321)
+  1) a large building with a clock on the front of it . (p=0.000062)
+  2) a large building with a clock tower in the middle of it . (p=0.000060)
+Captions for image 12825917_775450832584922_1086832217_n.jpg:
+  0) a large body of water with a bridge in the background (p=0.000172)
+  1) a large body of water with a bridge in the background . (p=0.000104)
+  2) a large body of water with a bridge in the distance . (p=0.000023)
+Captions for image 12797705_1564275927223438_1969036026_n.jpg:
+  0) a group of people standing next to a building . (p=0.000153)
+  1) a group of people standing next to a clock tower . (p=0.000121)
+  2) a statue of a man standing next to a clock . (p=0.000109)
+Captions for image 12558932_563093833867017_12100436_n.jpg:
+  0) a view of a city street with a clock tower . (p=0.000007)
+  1) a view of a city with a clock tower in the center . (p=0.000004)
+  2) a view of a city with a clock tower in the middle . (p=0.000003)
+Captions for image 12748394_231760803833827_1440014445_n.jpg:
+  0) a double decker bus driving down a street . (p=0.000678)
+  1) a group of people standing in front of a double decker bus . (p=0.000603)
+  2) a group of people standing in front of a bus . (p=0.000285)
+Captions for image 12677348_1710303822553851_30471359_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003009)
+  1) a city street filled with traffic next to tall buildings . (p=0.000680)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000244)
+Captions for image 12424537_1708505002716686_1963616705_n.jpg:
+  0) a double decker bus driving down a street . (p=0.002107)
+  1) a double decker bus is driving down the street . (p=0.001393)
+  2) a double decker bus driving down the street (p=0.000697)
+Captions for image 12501745_558922004264575_569174960_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003978)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000594)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000266)
+Captions for image 12545304_162171917485922_29015749_n.jpg:
+  0) a building with a clock on the side of it (p=0.000256)
+  1) a building with a clock on the side of it . (p=0.000240)
+  2) a building with a large clock on the side of it . (p=0.000116)
+Captions for image 12545399_218193788522265_1891825112_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.002250)
+  1) a train traveling over a bridge over water . (p=0.000618)
+  2) a train traveling over a bridge over a body of water . (p=0.000503)
+Captions for image 12501494_806554512789129_523788761_n.jpg:
+  0) a large bridge spanning the width of a river . (p=0.000636)
+  1) a large bridge spanning the width of a city . (p=0.000204)
+  2) a large bridge spanning the width of a river (p=0.000034)
+Captions for image 12407144_217129368629699_209862513_n.jpg:
+  0) a large body of water next to a bridge . (p=0.000076)
+  1) a bridge over a body of water with boats in it . (p=0.000020)
+  2) a bridge over a body of water with boats in it (p=0.000010)
+Captions for image 12357644_513162752177572_1891675654_n.jpg:
+  0) a large building with a clock on the side of it . (p=0.000017)
+  1) a large building with a large clock on it . (p=0.000016)
+  2) a large building with a clock on the top of it . (p=0.000013)
+Captions for image 12547522_1108708992507878_826111554_n.jpg:
+  0) a building with a clock on the side of it (p=0.000490)
+  1) a building with a clock on the side of it . (p=0.000418)
+  2) a clock on the side of a building (p=0.000222)
+Captions for image 12501743_698010250335499_535550942_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002079)
+  1) a city street filled with traffic next to a tall building . (p=0.000114)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000106)
+Captions for image 12362232_1666255610299825_475057906_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001795)
+  1) a large clock tower towering over a city at night . (p=0.000186)
+  2) a large building with a clock on it (p=0.000074)
+Captions for image 1389840_576158885867766_32672599_n.jpg:
+  0) a large bridge spanning the width of a river . (p=0.002073)
+  1) a train traveling over a bridge over a river . (p=0.001761)
+  2) a large bridge spanning the width of a river (p=0.000112)
+Captions for image 12383578_456764904507380_373521289_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002994)
+  1) a red double decker bus driving down a street . (p=0.001862)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000244)
+Captions for image 12394117_512642455574801_95451824_n.jpg:
+  0) a clock on a pole with a sky background (p=0.000037)
+  1) a clock on a building with a sky background (p=0.000035)
+  2) a large clock on a building with a flag on it . (p=0.000002)
+Captions for image 11326416_1663641590514918_423853177_n.jpg:
+  0) a truck parked in front of a building . (p=0.000354)
+  1) a truck parked in front of a building with a clock on it . (p=0.000003)
+  2) a truck parked in front of a building with a clock tower . (p=0.000003)
+Captions for image 12357894_946638082038067_354562796_n.jpg:
+  0) a crowd of people flying kites in a city . (p=0.000159)
+  1) a large crowd of people flying kites in a city . (p=0.000086)
+  2) a large crowd of people flying kites in a park . (p=0.000085)
+Captions for image 12345989_648162001992630_1408558096_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001640)
+  1) a large clock tower towering over a city at night . (p=0.000322)
+  2) a clock tower in the middle of a city . (p=0.000310)
+Captions for image 12346195_999401263466193_616120131_n.jpg:
+  0) a large building with a large clock on it . (p=0.000017)
+  1) a large building with a clock on it . (p=0.000015)
+  2) a large building with a clock on it (p=0.000012)
+Captions for image 12346009_1738941393002801_2096688532_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.005051)
+  1) a busy city street filled with lots of traffic . (p=0.001262)
+  2) a city street filled with lots of traffic and pedestrians . (p=0.000168)
+Captions for image 12338964_1509422279386631_576494903_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002885)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000378)
+  2) a city street filled with lots of traffic and traffic . (p=0.000168)
+Captions for image 12357666_471892449678238_190930810_n.jpg:
+  0) a group of people walking down a street . (p=0.000177)
+  1) a group of people standing in front of a building . (p=0.000048)
+  2) a group of people walking down a street next to tall buildings . (p=0.000038)
+Captions for image 12393759_862701863847547_1107438768_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001178)
+  1) a double decker bus driving down a city street . (p=0.001063)
+  2) a double decker bus driving down a street next to tall buildings . (p=0.000270)
+Captions for image 12145373_181484482201830_415141606_n.jpg:
+  0) a large building with a clock on it (p=0.000114)
+  1) a large building with a clock on the side of it . (p=0.000111)
+  2) a large building with a clock on the top of it . (p=0.000108)
+Captions for image 11268053_619131911596024_817472256_n.jpg:
+  0) a large clock tower towering over a city . (p=0.002998)
+  1) a large clock tower towering over a city at night . (p=0.002397)
+  2) a large building with a clock tower on top of it . (p=0.000493)
+Captions for image 12224235_1678815719065189_1397942172_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002649)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000657)
+  2) a city street filled with lots of traffic and traffic . (p=0.000284)
+Captions for image 12269974_539116066244985_371966673_n.jpg:
+  0) a large clock tower towering over a city at night . (p=0.002476)
+  1) a large clock tower towering over a city . (p=0.002014)
+  2) a large building with a clock tower in the center . (p=0.000129)
+Captions for image 12292717_1640197606254423_128836606_n.jpg:
+  0) a large clock tower towering over a city at night . (p=0.001148)
+  1) a large clock tower towering over a city . (p=0.000878)
+  2) a large building with a clock tower in the middle of it . (p=0.000061)
+Captions for image 12237528_522762961232614_1879378983_n.jpg:
+  0) a group of people riding on top of a boat . (p=0.000058)
+  1) a group of people riding on a boat in the water . (p=0.000022)
+  2) a group of people riding on top of a boat in the water . (p=0.000012)
+Captions for image 12224202_756873284423138_573591587_n.jpg:
+  0) a group of people standing next to each other . (p=0.000680)
+  1) a group of people standing next to each other holding surfboards . (p=0.000217)
+  2) a group of people standing next to each other on a beach . (p=0.000021)
+Captions for image 12224127_405039693040159_1429135872_n.jpg:
+  0) a city street with lots of traffic lights . (p=0.000023)
+  1) a city street with lots of traffic lights and buildings . (p=0.000006)
+  2) a city street with lots of traffic and lots of traffic . (p=0.000004)
+Captions for image 10853107_979072908782115_272467117_n.jpg:
+  0) a group of people walking down a street . (p=0.000570)
+  1) a group of people walking down a street next to tall buildings . (p=0.000175)
+  2) a group of people walking down a street next to buildings . (p=0.000100)
+Captions for image 12224577_1626031100980909_1257469583_n.jpg:
+  0) a person on a skateboard on a ramp . (p=0.000334)
+  1) a person riding a skate board on a ledge (p=0.000292)
+  2) a person riding a skate board on a skate park (p=0.000216)
+Captions for image 12142483_1639865602948029_106395811_n.jpg:
+  0) a crowd of people walking down a street . (p=0.000966)
+  1) a crowd of people standing in front of a tall building . (p=0.000476)
+  2) a crowd of people standing in front of a building . (p=0.000407)
+Captions for image 11910475_775913602555496_947917185_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.004352)
+  1) a double decker bus driving down a street . (p=0.001533)
+  2) a double decker bus driving down a street next to tall buildings . (p=0.000173)
+Captions for image 12106307_1518485015110688_623658597_n.jpg:
+  0) a large building with a clock on the side of it . (p=0.000021)
+  1) a large building with a clock on the side of it (p=0.000010)
+  2) a large building with a clock on it (p=0.000007)
+Captions for image 12237183_1389997827968266_288317365_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.002114)
+  1) a double decker bus driving down a city street . (p=0.001713)
+  2) a double decker bus driving down a street next to tall buildings . (p=0.000687)
+Captions for image 12224253_181426412201760_942650446_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001286)
+  1) a city street with cars parked on the side . (p=0.000086)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000071)
+Captions for image 11910529_554099521422160_2007869502_n.jpg:
+  0) a group of people standing next to a train . (p=0.000560)
+  1) a train station with a train on the tracks . (p=0.000213)
+  2) a train station with a train on the tracks (p=0.000149)
+Captions for image 10985997_801333509946252_208289165_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.013967)
+  1) a double decker bus driving down a street . (p=0.003641)
+  2) a red double decker bus traveling down a street . (p=0.003562)
+Captions for image 11430374_524709941016974_1277393001_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.007553)
+  1) a double decker bus driving down a street . (p=0.002497)
+  2) a red double decker bus traveling down a street . (p=0.001908)
+Captions for image 11906335_853696024748968_1507619083_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.009686)
+  1) a double decker bus driving down a street . (p=0.002318)
+  2) a red double decker bus driving past a tall building . (p=0.001413)
+Captions for image 12145459_1683399798562390_1490404299_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.012400)
+  1) a red double decker bus traveling down a street . (p=0.004034)
+  2) a double decker bus driving down a street . (p=0.003184)
+Captions for image 11373733_1485170025119568_2133559310_n.jpg:
+  0) a large building with a clock on it . (p=0.000502)
+  1) a large building with a clock on it (p=0.000434)
+  2) a large building with a clock on the front . (p=0.000297)
+Captions for image 11142979_1576877722584613_123412857_n.jpg:
+  0) a group of people standing next to a train . (p=0.003616)
+  1) a group of people standing outside of a train . (p=0.002028)
+  2) a group of people standing outside of a bus . (p=0.000990)
+Captions for image 12145445_431181633743634_1530563228_n.jpg:
+  0) a harbor with boats in the water and buildings in the background . (p=0.000010)
+  1) a harbor with boats in the water and a city in the background . (p=0.000009)
+  2) a harbor with boats in the water and a building in the background . (p=0.000004)
+Captions for image 12093736_1684703685077485_74751466_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000554)
+  1) a large building with a clock tower on top of it . (p=0.000403)
+  2) a large building with a clock tower in the middle of it . (p=0.000188)
+Captions for image 12070864_851831814934668_1752841068_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000193)
+  1) a clock tower in the middle of a city street . (p=0.000177)
+  2) a clock tower in the middle of a street . (p=0.000113)
+Captions for image 12070864_461060797410492_1549108667_n.jpg:
+  0) an airplane flying over a bridge over a body of water . (p=0.000034)
+  1) an airplane flying over a bridge over a river . (p=0.000024)
+  2) an airplane flying over a bridge over a river (p=0.000003)
+Captions for image 11917988_1649253095352235_798048606_n.jpg:
+  0) a building with a clock on the side of it (p=0.000207)
+  1) a building with a clock on the side of it . (p=0.000186)
+  2) a large building with a clock on the top . (p=0.000163)
+Captions for image 12093839_1489640221337837_67203963_n.jpg:
+  0) a bunch of boats that are in the water . (p=0.001330)
+  1) a bunch of boats that are sitting in the water . (p=0.001168)
+  2) a group of boats floating on top of a body of water . (p=0.000976)
+Captions for image 11925853_1629046004020139_62914988_n.jpg:
+  0) a harbor filled with lots of small boats . (p=0.002420)
+  1) a harbor filled with lots of boats next to buildings . (p=0.000140)
+  2) a harbor filled with lots of boats next to a building . (p=0.000116)
+Captions for image 12135215_539863472829536_2042505139_n.jpg:
+  0) a large clock tower towering over a city . (p=0.003868)
+  1) a clock tower in the middle of a city . (p=0.000377)
+  2) a clock tower in the middle of a city (p=0.000232)
+Captions for image 11909413_431573420366999_1228145592_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.004328)
+  1) a red double decker bus driving past a tall building . (p=0.001251)
+  2) a red double decker bus driving down the street . (p=0.000752)
+Captions for image 11950712_876904355739809_1374462205_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000291)
+  1) a large building with a clock on the top of it . (p=0.000173)
+  2) a large building with a clock on the front of it . (p=0.000144)
+Captions for image 11899673_817474845016722_1314787277_n.jpg:
+  0) a crowd of people walking down a street . (p=0.001041)
+  1) a crowd of people walking down a street next to tall buildings . (p=0.000636)
+  2) a group of people walking down a street next to tall buildings . (p=0.000460)
+Captions for image 11375829_963552817041253_162695264_n.jpg:
+  0) a group of boats floating on top of a river . (p=0.000751)
+  1) a group of boats floating on top of a body of water . (p=0.000571)
+  2) a group of boats floating on top of a river next to a bridge . (p=0.000035)
+Captions for image 11850365_633551913448220_45519725_n.jpg:
+  0) a group of people walking down a street . (p=0.000706)
+  1) a group of people walking down a street next to tall buildings . (p=0.000452)
+  2) a group of people standing on top of a tall building . (p=0.000168)
+Captions for image 11931120_1025770084113369_171538824_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000376)
+  1) a red and white sign on a building (p=0.000058)
+  2) a sign that is on the side of a wall . (p=0.000012)
+Captions for image 11809977_1774133299480349_468434993_n.jpg:
+  0) a group of people standing around a train station . (p=0.000196)
+  1) a group of people sitting on a bench next to a train . (p=0.000014)
+  2) a group of people standing around a train station (p=0.000010)
+Captions for image 11849433_1666932343529807_287847992_n.jpg:
+  0) a view of a city with a large clock tower . (p=0.000004)
+  1) a view of a city with a large building in the background . (p=0.000003)
+  2) a view of a city with a large clock tower in the background . (p=0.000001)
+Captions for image 11850281_1630556663893627_349327011_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001048)
+  1) a city street filled with lots of people . (p=0.000787)
+  2) a group of people walking down a street next to tall buildings . (p=0.000090)
+Captions for image 11379817_907015172693554_936252145_n.jpg:
+  0) a group of motorcycles parked in front of a building . (p=0.000573)
+  1) a motorcycle parked in front of a building . (p=0.000565)
+  2) a group of motorcycles parked in front of a store . (p=0.000169)
+Captions for image 10534929_1595745134024350_1137692270_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000193)
+  1) a large building with a clock on the top of it . (p=0.000132)
+  2) a large building with a clock tower in the middle of it . (p=0.000072)
+Captions for image 11917829_1640216326236938_773209996_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002703)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000439)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000183)
+Captions for image 11909318_1469301350062880_432661878_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000076)
+  1) a large building with a clock tower on top of it . (p=0.000070)
+  2) a large building with a clock tower in the middle of it . (p=0.000045)
+Captions for image 11910049_982894875107383_2115122242_n.jpg:
+  0) a street sign on the side of a road . (p=0.000355)
+  1) a street sign on the side of the road . (p=0.000158)
+  2) a street sign on the side of a street . (p=0.000143)
+Captions for image 11410333_948338711890678_1645242716_n.jpg:
+  0) a group of people riding bikes down a street . (p=0.004250)
+  1) a group of people riding bikes down a street next to tall buildings . (p=0.000231)
+  2) a group of people riding on the back of a horse drawn carriage . (p=0.000182)
+Captions for image 11336053_828808813893913_683686156_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.000353)
+  1) a group of people standing on top of a beach . (p=0.000134)
+  2) a group of people standing on a beach next to a body of water . (p=0.000029)
+Captions for image 11335053_1130577146953485_1395338267_n.jpg:
+  0) a view of a city with a large building in the background . (p=0.000003)
+  1) a view of a city skyline with a plane flying over it . (p=0.000002)
+  2) a view of a city skyline with a plane flying in the sky . (p=0.000001)
+Captions for image 11356915_429474123927904_1965722354_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001637)
+  1) a city street filled with lots of tall buildings . (p=0.000604)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000085)
+Captions for image 10919693_404093746454969_660952223_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000661)
+  1) a large building with a clock tower on top of it . (p=0.000159)
+  2) a large building with a clock tower in the middle of it . (p=0.000070)
+Captions for image 11417383_1722081004686083_992989762_n.jpg:
+  0) a view of a city skyline from a distance . (p=0.000009)
+  1) a view of a city skyline from the top of a building . (p=0.000002)
+  2) a view of a city skyline from the top of a tower . (p=0.000002)
+Captions for image 11379235_690547791050412_1759831849_n.jpg:
+  0) a group of boats floating on top of a river . (p=0.000435)
+  1) a group of boats floating on top of a body of water . (p=0.000240)
+  2) a group of boats floating on top of a river next to a bridge . (p=0.000028)
+Captions for image 11385222_1459220297730396_1786315840_n.jpg:
+  0) a woman walking down a street holding an umbrella . (p=0.002258)
+  1) a person walking down a street holding an umbrella . (p=0.001734)
+  2) a person walking down a street with an umbrella . (p=0.000937)
+Captions for image 11429748_1448739198765472_1793499125_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002936)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000801)
+  2) a city street filled with lots of traffic and traffic . (p=0.000308)
+Captions for image 10611267_135641790101595_83516009_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.000736)
+  1) a boat floating on top of a large body of water . (p=0.000410)
+  2) a boat floating on a body of water next to a shore . (p=0.000036)
+Captions for image 11372107_1685020741725993_1443607287_n.jpg:
+  0) a street sign with a building in the background (p=0.000319)
+  1) a street sign with a building in the background . (p=0.000064)
+  2) a street sign on a pole with a building in the background (p=0.000046)
+Captions for image 10655112_411385685736394_1734811761_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000043)
+  1) a group of people standing in front of a red bus . (p=0.000015)
+  2) a group of people standing on a sidewalk next to a bus . (p=0.000005)
+Captions for image 11355180_1418965811764597_831205547_n.jpg:
+  0) a row of bikes parked next to each other . (p=0.003103)
+  1) a row of bicycles parked next to each other . (p=0.001345)
+  2) a row of bikes parked next to each other on a sidewalk . (p=0.000133)
+Captions for image 11356382_850117995076983_1666022433_n.jpg:
+  0) a large building with a large clock on it . (p=0.000025)
+  1) a large building with a clock on the side of it . (p=0.000025)
+  2) a large building with a clock on it (p=0.000015)
+Captions for image 11378882_732307320247967_956118978_n.jpg:
+  0) a group of people sitting on a bench near a clock tower . (p=0.000079)
+  1) a group of people sitting on top of a tall tower . (p=0.000078)
+  2) a group of people sitting on a bench in front of a building . (p=0.000060)
+Captions for image 11374558_862337517181459_1718400162_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000532)
+  1) a sign that is on the side of a wall . (p=0.000029)
+  2) a sign that is on a pole in front of a building . (p=0.000017)
+Captions for image 11356677_1567648753525728_1150926325_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.001089)
+  1) a boat floating on top of a large body of water . (p=0.000866)
+  2) a boat floating on top of a body of water next to a shore . (p=0.000021)
+Captions for image 11378851_1442922226014469_1862141998_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.006443)
+  1) a double decker bus driving down a street . (p=0.002650)
+  2) a double decker bus driving down a street next to tall buildings . (p=0.000998)
+Captions for image 11355069_1622654517974852_62475536_n.jpg:
+  0) a large clock tower towering over a city at night . (p=0.003040)
+  1) a large clock tower towering over a city . (p=0.002513)
+  2) a clock tower in the middle of a city . (p=0.000790)
+Captions for image 11419264_1632507320369199_2071779097_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000500)
+  1) a large body of water with a clock tower on top of it . (p=0.000137)
+  2) a large body of water with a clock on it (p=0.000087)
+Captions for image 11352315_473501426160100_531165474_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.012423)
+  1) a red double decker bus parked in front of a building . (p=0.002772)
+  2) a red double decker bus driving down the street . (p=0.001581)
+Captions for image 11420893_524365564384126_2112817410_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001990)
+  1) a city street filled with traffic next to tall buildings . (p=0.000973)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000186)
+Captions for image 11333609_731607880318052_1783203524_n.jpg:
+  0) a red train car sitting on top of train tracks . (p=0.000017)
+  1) a red train car sitting on the side of a road . (p=0.000014)
+  2) a red train car sitting on top of a train track . (p=0.000011)
+Captions for image 10979598_904616056237744_890574719_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001131)
+  1) a city street filled with lots of tall buildings . (p=0.000333)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000065)
+Captions for image 11372473_849008435194196_1220037021_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.015323)
+  1) a red double decker bus parked in front of a building . (p=0.002367)
+  2) a red double decker bus driving down the street . (p=0.001810)
+Captions for image 11275381_1427290224260261_440765808_n.jpg:
+  0) a red brick building with a clock on it . (p=0.000135)
+  1) a building with a clock on the side of it (p=0.000128)
+  2) a building with a clock on the side of it . (p=0.000101)
+Captions for image 11377777_112669345735174_1729864749_n.jpg:
+  0) a tall clock tower with a sky background (p=0.001360)
+  1) a clock tower in the middle of a city . (p=0.001057)
+  2) a tall clock tower in the middle of a city . (p=0.000604)
+Captions for image 11378712_409740435880367_1370900340_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001701)
+  1) a city street filled with lots of tall buildings . (p=0.000573)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000142)
+Captions for image 11373799_655360201262796_333100789_n.jpg:
+  0) a building with a clock on the side of it (p=0.000438)
+  1) a building with a clock on the side of it . (p=0.000333)
+  2) a building with a clock on the front of it (p=0.000295)
+Captions for image 11377460_396814087186927_532467904_n.jpg:
+  0) a large building with a clock on the front of it . (p=0.000344)
+  1) a large building with a clock on the top of it . (p=0.000295)
+  2) a large building with a clock on the front of it (p=0.000236)
+Captions for image 11353104_1666396176915349_1393775199_n.jpg:
+  0) a car parked on the side of the road . (p=0.000434)
+  1) a car parked on the side of the street . (p=0.000323)
+  2) a car parked on the side of the road (p=0.000217)
+Captions for image 12905294_229128260775096_1598019686_n.jpg:
+  0) a large clock tower towering over a city . (p=0.003873)
+  1) a large building with a clock tower on top . (p=0.000692)
+  2) a large building with a clock tower on top of it . (p=0.000623)
+Captions for image 11327152_1450625405251791_2104354052_n.jpg:
+  0) a bunch of boats that are in the water . (p=0.000175)
+  1) a bunch of boats that are in a harbor (p=0.000044)
+  2) a bunch of boats that are in a harbor . (p=0.000036)
+Captions for image 11326820_1434073636912635_717797444_n.jpg:
+  0) a large clock tower towering over a city . (p=0.003632)
+  1) a large clock tower towering over a city at night . (p=0.000613)
+  2) a clock tower in the middle of a city . (p=0.000265)
+Captions for image 11326627_406553062865825_394461343_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001444)
+  1) a city street filled with lots of tall buildings . (p=0.000341)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000075)
+Captions for image 11296715_378928762316040_138046088_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000752)
+  1) a large building with a clock on the front of it . (p=0.000339)
+  2) a large building with a clock tower in the middle . (p=0.000249)
+Captions for image 11241512_848862845206459_1910878188_n.jpg:
+  0) a bench sitting in the middle of a field . (p=0.000075)
+  1) a bench sitting in the middle of a lush green field . (p=0.000051)
+  2) a bench sitting in the middle of a field (p=0.000020)
+Captions for image 11256931_381693902026461_1954910324_n.jpg:
+  0) a group of people sitting on a park bench . (p=0.000231)
+  1) a group of people sitting on top of a lush green field . (p=0.000140)
+  2) a group of people sitting on top of a lush green park . (p=0.000096)
+Captions for image 11250250_922716631114189_145056103_n.jpg:
+  0) a bench sitting in the middle of a field . (p=0.000219)
+  1) a park bench sitting in the middle of a field . (p=0.000180)
+  2) a park bench sitting in the middle of a park . (p=0.000165)
+Captions for image 11249257_1434850176817728_887143713_n.jpg:
+  0) a group of people standing on top of a lush green field . (p=0.004235)
+  1) a group of people standing on top of a grass covered field . (p=0.001812)
+  2) a group of people standing on top of a grass field . (p=0.000528)
+Captions for image 11123872_899658920076822_1318799236_n.jpg:
+  0) a dog sitting in the back of a truck . (p=0.000732)
+  1) a white dog sitting in the back of a truck . (p=0.000630)
+  2) a white dog sitting on the back of a truck . (p=0.000422)
+Captions for image 11142881_1123147167712255_1809973285_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.012233)
+  1) a red double decker bus driving down the street . (p=0.001598)
+  2) a red double decker bus parked in front of a building . (p=0.001158)
+Captions for image 11123762_875344695860363_1026584595_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.004348)
+  1) a city street filled with traffic next to tall buildings . (p=0.000856)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000265)
+Captions for image 11247558_978052338873234_1701913464_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.003345)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000509)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000134)
+Captions for image 11117120_698778493566275_59609873_n.jpg:
+  0) a bunch of boats that are in the water . (p=0.000898)
+  1) a bunch of boats that are sitting in the water . (p=0.000542)
+  2) a bunch of boats that are in a body of water (p=0.000104)
+Captions for image 11078880_1615807441964361_2111215152_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.000886)
+  1) a city street filled with lots of traffic and tall buildings . (p=0.000046)
+  2) a city street filled with lots of cars and buildings . (p=0.000030)
+Captions for image 11084916_1454450248180040_2082207810_n.jpg:
+  0) a large clock tower towering over a city . (p=0.004605)
+  1) a large clock tower in the middle of a city . (p=0.000978)
+  2) a clock tower in the middle of a city . (p=0.000806)
+Captions for image 11111274_397574077034065_615492516_n.jpg:
+  0) a large body of water filled with lots of boats . (p=0.000913)
+  1) a harbor filled with lots of boats and buildings . (p=0.000437)
+  2) a harbor filled with lots of boats next to a bridge . (p=0.000087)
+Captions for image 11123711_1415198235456192_1706527503_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000250)
+  1) a large building with a clock on the front of it . (p=0.000128)
+  2) a large building with a clock tower in the middle of it . (p=0.000100)
+Captions for image 10881956_1027907967239044_1004336599_n.jpg:
+  0) a tall clock tower with a sky background (p=0.003582)
+  1) a tall clock tower with a clock on each of it 's sides . (p=0.000711)
+  2) a large clock tower with a clock on it 's side . (p=0.000278)
+Captions for image 11084797_1426024124374973_848812492_n.jpg:
+  0) a large body of water filled with lots of boats . (p=0.000347)
+  1) a large body of water filled with lots of boats next to buildings . (p=0.000009)
+  2) a large body of water filled with lots of boats floating on water . (p=0.000003)
+Captions for image 1527674_878523125522321_275343310_n.jpg:
+  0) a large white and blue boat traveling down a river . (p=0.000020)
+  1) a large white and blue bus driving down a street . (p=0.000016)
+  2) a large white and blue train traveling down train tracks . (p=0.000015)
+Captions for image 11093133_685046134940420_1310524462_n.jpg:
+  0) a view of a bridge with a clock on it . (p=0.000033)
+  1) a view of a bridge with a clock tower . (p=0.000021)
+  2) a view of a bridge with a clock tower in the background . (p=0.000010)
+Captions for image 11111399_950038128363183_106236979_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.002134)
+  1) a train traveling over a bridge over water . (p=0.000370)
+  2) a train traveling over a bridge over a body of water . (p=0.000352)
+Captions for image 10362059_939257366104756_1125254064_n.jpg:
+  0) a clock tower in the middle of a city street . (p=0.000226)
+  1) a clock tower in the middle of a city . (p=0.000214)
+  2) a clock tower in the middle of a street . (p=0.000132)
+Captions for image 11022860_919897461365674_1517087756_n.jpg:
+  0) a street sign with a building in the background (p=0.000346)
+  1) a street sign with a building in the background . (p=0.000083)
+  2) a large building with a large clock on it . (p=0.000030)
+Captions for image 11055427_1616334278611537_129814431_n.jpg:
+  0) a large building with a clock on it . (p=0.000065)
+  1) a large building with a clock on it (p=0.000051)
+  2) a large building with a clock on the side of it . (p=0.000028)
+Captions for image 11078950_642454162553164_506162137_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000424)
+  1) a large building with a clock on the top . (p=0.000343)
+  2) a large building with a clock on the front of it . (p=0.000147)
+Captions for image 11055858_811694838910856_389008186_n.jpg:
+  0) a car parked on the side of the road . (p=0.000153)
+  1) a car parked in front of a building with a clock on it . (p=0.000044)
+  2) a car parked on the side of a street next to a building . (p=0.000034)
+Captions for image 11033046_1575941736003862_525760430_n.jpg:
+  0) a store front with a lot of flowers on it (p=0.000002)
+  1) a store front with a lot of flowers on it . (p=0.000001)
+  2) a store front with a lot of flowers in it . (p=0.000001)
+Captions for image 10570016_1578856942394884_457835225_n.jpg:
+  0) a church with a steeple and a clock . (p=0.000279)
+  1) a church with a steeple and a clock tower . (p=0.000191)
+  2) a church with a steeple and a clock on the top . (p=0.000061)
+Captions for image 10724264_828497513908847_420291415_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001261)
+  1) a city street with cars parked on the side . (p=0.000073)
+  2) a city street with cars parked on the side of the road . (p=0.000047)
+Captions for image 11049387_789393851152436_1706604671_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002823)
+  1) a group of people walking down a street . (p=0.001518)
+  2) a group of people walking down a street next to tall buildings . (p=0.000665)
+Captions for image 1724522_788088597965789_2127882253_n.jpg:
+  0) a building that has a clock on the side of it . (p=0.000467)
+  1) a building with a clock on the front of it (p=0.000363)
+  2) a building with a clock on the front of it . (p=0.000334)
+Captions for image 11024323_1376089139381580_1982949128_n.jpg:
+  0) a group of people standing on top of a lush green field . (p=0.000086)
+  1) a couple of people standing on top of a lush green field . (p=0.000081)
+  2) a group of people standing on top of a wooden bench . (p=0.000017)
+Captions for image 11008379_1545235015742151_1190469330_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001757)
+  1) a large building with a clock tower on top . (p=0.000633)
+  2) a large building with a clock on the top . (p=0.000327)
+Captions for image 11055802_1619810511573850_993198285_n.jpg:
+  0) a large clock tower towering over a city . (p=0.006003)
+  1) a clock tower in the middle of a city . (p=0.001402)
+  2) a large clock tower in the middle of a city . (p=0.000899)
+Captions for image 11049138_989354267784025_1680681851_n.jpg:
+  0) a large group of people on a city street . (p=0.000085)
+  1) a large group of boats in the water . (p=0.000022)
+  2) a large group of people on a city street (p=0.000009)
+Captions for image 11055792_1615377658675436_1022424807_n.jpg:
+  0) a large bridge spanning the width of a river . (p=0.001245)
+  1) a large bridge spanning the width of a river (p=0.000050)
+  2) a bridge over a body of water with a train on it . (p=0.000009)
+Captions for image 11008087_1409089782733754_1457016787_n.jpg:
+  0) a man standing next to a red fire hydrant . (p=0.000424)
+  1) a man standing next to a red brick building . (p=0.000152)
+  2) a man standing on a sidewalk next to a building . (p=0.000081)
+Captions for image 11055436_1579042922338355_1389036014_n.jpg:
+  0) a large clock tower towering over a city . (p=0.008240)
+  1) a clock tower in the middle of a city . (p=0.000969)
+  2) a large building with a clock tower on top of it . (p=0.000499)
+Captions for image 10963766_331586920384031_1185758516_n.jpg:
+  0) a red double decker bus driving down a street . (p=0.012588)
+  1) a red double decker bus traveling down a street . (p=0.003376)
+  2) a double decker bus driving down a street next to tall buildings . (p=0.000941)
+Captions for image 11022922_1547147192217813_359385409_n.jpg:
+  0) a black and white photo of a street sign (p=0.000580)
+  1) a black and white photo of a street sign . (p=0.000491)
+  2) a black and white photo of a building (p=0.000089)
+Captions for image 10963857_891712674225733_2014348481_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.001612)
+  1) a red stop sign sitting on the side of a street . (p=0.000451)
+  2) a red stop sign sitting on the side of a building . (p=0.000204)
+Captions for image 10956599_1557643421185975_1622288782_n.jpg:
+  0) a street sign in front of a tall building . (p=0.000628)
+  1) a street sign on a pole on a city street (p=0.000572)
+  2) a street sign in front of a building (p=0.000247)
+Captions for image 11005171_982022141808430_1605533649_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001069)
+  1) a clock tower in the middle of a city . (p=0.000865)
+  2) a large clock tower towering over a city at night . (p=0.000539)
+Captions for image 10957295_803444626393598_921515952_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001414)
+  1) a city street filled with lots of tall buildings . (p=0.000528)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000054)
+Captions for image 11033021_1547172698895097_1029060087_n.jpg:
+  0) a crowd of people walking down a street . (p=0.000955)
+  1) a crowd of people walking down a city street . (p=0.000554)
+  2) a crowd of people walking down a street next to tall buildings . (p=0.000538)
+Captions for image 11005138_462056590618590_171417466_n.jpg:
+  0) a passenger train that is pulling into a station . (p=0.001818)
+  1) a train is pulling into a train station . (p=0.000979)
+  2) a train station with a train on the tracks . (p=0.000269)

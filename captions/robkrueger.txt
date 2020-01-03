@@ -1,0 +1,832 @@
+Captions for image 30830543_425694731176166_54081579651170304_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.001184)
+  1) a cup of coffee sitting next to a cup of coffee . (p=0.000883)
+  2) a cup of coffee sitting on a table next to a cup of coffee . (p=0.000142)
+Captions for image 11357787_806065346166100_785571077_a.jpg:
+  0) a man and a woman are sitting in the snow . (p=0.000062)
+  1) a man is sitting on the snow with a snowboard . (p=0.000041)
+  2) a man and a woman are sitting in the snow (p=0.000024)
+Captions for image 10995128_1079228758770938_1295359407_n.jpg:
+  0) a cup of coffee and a donut on a plate . (p=0.000355)
+  1) a cup of coffee and a doughnut on a table . (p=0.000285)
+  2) a cup of coffee and a doughnut on a plate . (p=0.000256)
+Captions for image 11242629_1469104496713418_1022070319_n.jpg:
+  0) a bowl of cereal and a banana on a table . (p=0.000973)
+  1) a bowl of cereal and a banana on a table (p=0.000312)
+  2) a bowl of cereal and a banana on a plate . (p=0.000201)
+Captions for image 11372180_509571815886720_2060034789_n.jpg:
+  0) a bench sitting in the middle of a field . (p=0.000153)
+  1) a bench sitting in the middle of a grassy field . (p=0.000030)
+  2) a bench sitting in the middle of a field (p=0.000022)
+Captions for image 33443277_651173815229271_8684661272534319104_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000183)
+  1) a pair of scissors sitting on a table . (p=0.000083)
+  2) a pair of scissors sitting on top of a desk . (p=0.000062)
+Captions for image 56966849_471318276946334_3823463628313509374_n.jpg:
+  0) a pizza sitting on top of a pizza pan . (p=0.000342)
+  1) a pizza sitting on top of a pizza oven . (p=0.000260)
+  2) a pizza oven sitting on top of a pizza pan . (p=0.000109)
+Captions for image 57511886_335416233827291_4097393701850602875_n.jpg:
+  0) a person laying on a beach next to a surfboard . (p=0.000036)
+  1) a person laying on a beach with a surfboard . (p=0.000028)
+  2) a person laying on a beach next to the ocean . (p=0.000024)
+Captions for image 51544900_381682945954766_8293130297929185247_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.004112)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000696)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000255)
+Captions for image 57408269_131939727883778_340115524642600058_n.jpg:
+  0) a subway car with a bicycle on the front (p=0.000001)
+  1) a subway car with a bicycle on the front of it . (p=0.000000)
+  2) a subway car with a bicycle on the front . (p=0.000000)
+Captions for image 47693962_2260518550826210_6569091288832933888_n.jpg:
+  0) a group of boats sitting on top of a sandy beach . (p=0.000608)
+  1) a group of boats sitting on top of a beach . (p=0.000334)
+  2) a group of boats floating on top of a body of water . (p=0.000222)
+Captions for image 41837743_1664882340282846_6214208019589234688_n.jpg:
+  0) a brown bear sitting on top of a tree branch . (p=0.000092)
+  1) a small brown bear sitting on top of a tree . (p=0.000051)
+  2) a brown bear sitting on top of a tree . (p=0.000050)
+Captions for image 47381590_355546201943586_2918074637160022016_n.jpg:
+  0) a view of a mountain range with a mountain in the background . (p=0.000049)
+  1) a view of a mountain range from a plane . (p=0.000028)
+  2) a view of a mountain range with a mountain in the distance . (p=0.000016)
+Captions for image 41923857_2111026489158757_1833287647628361728_n.jpg:
+  0) a tall building with a clock on it (p=0.000612)
+  1) a large building with a clock on the top . (p=0.000443)
+  2) a large building with a clock on the front of it . (p=0.000269)
+Captions for image 47583325_582472902213176_8244242402445885440_n.jpg:
+  0) a bunch of boats that are sitting in the water . (p=0.001393)
+  1) a bunch of boats that are in the water . (p=0.001259)
+  2) a bunch of boats that are in the water (p=0.000153)
+Captions for image 45390788_1925163934265630_5281583642521370624_n.jpg:
+  0) a teddy bear sitting in the window of a store . (p=0.000145)
+  1) a teddy bear sitting in the window of a building . (p=0.000113)
+  2) a teddy bear sitting in the window of a store (p=0.000032)
+Captions for image 47345523_212952326317989_3014189124706893824_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000005)
+  1) a view of a river with a bridge in the distance . (p=0.000005)
+  2) a view of a river with a bridge over it . (p=0.000002)
+Captions for image 39336880_295541614589064_9194445371986673664_n.jpg:
+  0) a bunch of bananas that are on a table . (p=0.000114)
+  1) a bunch of bananas sitting on top of a table . (p=0.000065)
+  2) a bunch of bananas sitting on a table . (p=0.000038)
+Captions for image 47581492_2207401372841925_8849013672199061504_n.jpg:
+  0) a large body of water with boats in it (p=0.000080)
+  1) a large body of water with a lot of boats in it (p=0.000050)
+  2) a large body of water with a lot of boats on it (p=0.000049)
+Captions for image 39312158_258042835039527_9115740384050282496_n.jpg:
+  0) a close up of a green plant in a field (p=0.000039)
+  1) a close up of a green plant in the grass (p=0.000005)
+  2) a close up of a green plant in a field . (p=0.000003)
+Captions for image 38766637_278140429631845_4058363221315158016_n.jpg:
+  0) a black and white photo of a boat in the water . (p=0.000861)
+  1) a black and white photo of a boat in the water (p=0.000336)
+  2) a black and white photo of a boat in a harbor . (p=0.000146)
+Captions for image 46788516_227130614867767_4066882873062326272_n.jpg:
+  0) a yellow fire hydrant sitting in the middle of a field . (p=0.000087)
+  1) a yellow fire hydrant sitting in the middle of a green field . (p=0.000081)
+  2) a yellow fire hydrant sitting in the middle of a lush green field . (p=0.000070)
+Captions for image 38240855_435526550299310_943442021001986048_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000408)
+  1) a large building with a clock on the top . (p=0.000386)
+  2) a large building with a clock on the top of it . (p=0.000155)
+Captions for image 37803490_1921644484541261_3193852468601552896_n.jpg:
+  0) a close up of a pair of scissors (p=0.000067)
+  1) a close up of a pair of scissors on a rock (p=0.000052)
+  2) a close up of a pair of red scissors (p=0.000041)
+Captions for image 37961963_1329036053900469_8512740556378472448_n.jpg:
+  0) a large glass of water is on a table (p=0.000012)
+  1) a large glass of water is on a table . (p=0.000007)
+  2) a glass of water with a glass of wine in front of it . (p=0.000003)
+Captions for image 37254872_250915839059036_8346874790627246080_n.jpg:
+  0) a red and white fire hydrant in front of a building . (p=0.000008)
+  1) a red and white fire hydrant sitting in front of a building . (p=0.000006)
+  2) a red and white fire hydrant in front of a brick building . (p=0.000005)
+Captions for image 36993346_290813848155680_4139780777451716608_n.jpg:
+  0) a glass of wine and a bottle of wine . (p=0.000143)
+  1) a bottle of wine and a glass of wine . (p=0.000137)
+  2) a glass of wine and a bottle of wine (p=0.000081)
+Captions for image 37246499_1777585522329917_4586459820072108032_n.jpg:
+  0) a man riding a skateboard down a sidewalk . (p=0.000260)
+  1) a man riding a skateboard down a street . (p=0.000223)
+  2) a group of people sitting on top of a tennis court . (p=0.000067)
+Captions for image 35998727_1597322663728963_3317369895468924928_n.jpg:
+  0) a close up of a cake on a table (p=0.000231)
+  1) a close up of a cake shaped like a train . (p=0.000080)
+  2) a close up of a cake shaped like a train (p=0.000079)
+Captions for image 36932280_450487542093193_8171620273611603968_n.jpg:
+  0) a wooden table topped with lots of vegetables . (p=0.000396)
+  1) a wooden table topped with lots of fresh vegetables . (p=0.000255)
+  2) a wooden table topped with lots of different types of vegetables . (p=0.000123)
+Captions for image 34983406_1835109683452298_8257178809581699072_n.jpg:
+  0) a bunch of different types of food on a table . (p=0.000121)
+  1) a bunch of different types of food on a plate . (p=0.000054)
+  2) a bunch of different types of food in a bowl . (p=0.000048)
+Captions for image 22638704_296447257534877_2121206290758762496_n.jpg:
+  0) a black and white photo of a train (p=0.001376)
+  1) a black and white photo of a train on a track (p=0.000405)
+  2) a black and white photo of a train engine (p=0.000398)
+Captions for image 37574217_228056041377429_3978221326300086272_n.jpg:
+  0) a building with a clock on the front of it . (p=0.000043)
+  1) a building with a clock on the front of it (p=0.000036)
+  2) a large building with a clock on the front of it . (p=0.000031)
+Captions for image 32072574_210322373030050_7807981228203704320_n.jpg:
+  0) a small bird sitting on top of a tree branch . (p=0.004485)
+  1) a small bird sitting on a tree branch . (p=0.001622)
+  2) a small bird sitting on a tree branch (p=0.001425)
+Captions for image 32343553_2020912464895166_7945658956087558144_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000960)
+  1) a bottle of wine and a glass of wine . (p=0.000771)
+  2) a bottle of beer and a glass of wine . (p=0.000709)
+Captions for image 30079456_387754644968685_4436623215866937344_n.jpg:
+  0) a tree filled with lots of green leaves . (p=0.001070)
+  1) a tree filled with lots of green plants . (p=0.000450)
+  2) a tree filled with lots of green and yellow flowers . (p=0.000103)
+Captions for image 30856135_225144768064782_9084245277199564800_n.jpg:
+  0) a black and white cat sitting on top of a wooden bench . (p=0.000003)
+  1) a black and white cat sitting on top of a wooden table . (p=0.000001)
+  2) a black and white cat sitting on top of a green field . (p=0.000001)
+Captions for image 29093388_300758533787969_5958412235729534976_n.jpg:
+  0) a person holding an umbrella in the rain . (p=0.000106)
+  1) a person holding an umbrella in the rain (p=0.000085)
+  2) a person holding an umbrella in front of a building . (p=0.000043)
+Captions for image 30077268_389566251516611_8905999641879773184_n.jpg:
+  0) a boat sitting on top of a sandy beach . (p=0.000736)
+  1) a boat sitting on top of a lush green field . (p=0.000397)
+  2) a boat sitting on top of a beach next to the ocean . (p=0.000097)
+Captions for image 25026300_2023755307914219_1518485326723547136_n.jpg:
+  0) a person holding a donut with sprinkles on it . (p=0.000681)
+  1) a person is holding a donut with sprinkles . (p=0.000294)
+  2) a person holding a donut with a bite taken out of it . (p=0.000219)
+Captions for image 23734952_1873528986310544_910715431063388160_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.002934)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.001397)
+  2) a bottle of wine sitting on top of a table next to a glass . (p=0.000266)
+Captions for image 18879090_1383057025113996_2293509065730424832_n.jpg:
+  0) a surfer is riding a wave in the ocean . (p=0.001066)
+  1) a person is surfing on a wave in the ocean . (p=0.000764)
+  2) a man is surfing on a wave in the ocean . (p=0.000527)
+Captions for image 18095690_419008271790486_1486405949701750784_n.jpg:
+  0) a wooden table topped with plates of food . (p=0.000867)
+  1) a wooden table topped with a plate of food . (p=0.000357)
+  2) a table topped with bowls of food and a bowl of fruit . (p=0.000030)
+Captions for image 23824942_357854724626740_8275386211036561408_n.jpg:
+  0) a white plate topped with a sandwich and salad . (p=0.000679)
+  1) a plate of food with a fork and knife (p=0.000216)
+  2) a plate of food with a fork and a knife . (p=0.000140)
+Captions for image 15802692_1625417884432138_1932494339829661696_n.jpg:
+  0) a cup of coffee sitting next to a keyboard . (p=0.000322)
+  1) a cup of coffee sitting next to a computer keyboard . (p=0.000253)
+  2) a cup of coffee sitting next to a cup of coffee . (p=0.000108)
+Captions for image 22709050_2008720082698449_613337685104263168_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.001571)
+  1) a book shelf filled with books and a laptop . (p=0.000808)
+  2) a book shelf filled with books on top of a desk . (p=0.000417)
+Captions for image 17661905_210977159384913_4184654346652221440_n.jpg:
+  0) a red brick building with a white door . (p=0.000029)
+  1) a red brick building with a white door (p=0.000016)
+  2) a building with a window and a door (p=0.000005)
+Captions for image 14719776_1195987633809399_6351527912272822272_n.jpg:
+  0) a bunch of bananas that are on a table . (p=0.000347)
+  1) a bunch of bananas that are sitting on a table . (p=0.000236)
+  2) a bunch of bananas hanging from a ceiling . (p=0.000209)
+Captions for image 14561864_676014195894506_3971271665488232448_n.jpg:
+  0) a close up of a pair of scissors (p=0.000318)
+  1) a close up of a pair of scissors on a table (p=0.000160)
+  2) a pair of scissors sitting on top of a table . (p=0.000151)
+Captions for image 14240710_1154100261295397_1861692602_n.jpg:
+  0) a bottle of beer sitting next to a bottle of beer . (p=0.000151)
+  1) a bottle of beer sitting next to a glass of beer . (p=0.000048)
+  2) a bottle of beer sitting next to a bottle of beer (p=0.000023)
+Captions for image 22708897_148599745758190_4153084369931599872_n.jpg:
+  0) a boat sitting on top of a sandy beach . (p=0.002023)
+  1) a boat sitting on top of a beach next to the ocean . (p=0.000478)
+  2) a boat sitting on top of a sandy beach next to the ocean . (p=0.000452)
+Captions for image 14099745_1021607337957697_2078860009_n.jpg:
+  0) a white truck parked in a parking lot . (p=0.000286)
+  1) a truck parked in a parking lot next to a car . (p=0.000051)
+  2) a truck parked in a parking lot next to a parking meter . (p=0.000014)
+Captions for image 13736078_729121813897254_1958071734_n.jpg:
+  0) a white toilet sitting in a bathroom next to a sink . (p=0.000201)
+  1) a white toilet sitting next to a white sink . (p=0.000187)
+  2) a white toilet sitting next to a white toilet . (p=0.000154)
+Captions for image 24124789_1104138299722598_8746898037302886400_n.jpg:
+  0) a plate of food with a fork and knife . (p=0.000325)
+  1) a white plate topped with a sandwich and a salad . (p=0.000319)
+  2) a plate of food with a fork and knife (p=0.000212)
+Captions for image 14099440_536908333162762_1472663806_n.jpg:
+  0) a large clock tower sitting in the middle of a mountain . (p=0.000031)
+  1) a large clock tower sitting in the middle of a lake . (p=0.000029)
+  2) a large clock tower sitting in the middle of a desert . (p=0.000022)
+Captions for image 14099532_161306907639014_778614369_n.jpg:
+  0) a dog wearing a hat and a tie . (p=0.000007)
+  1) a dog wearing a hat and a tie (p=0.000006)
+  2) a dog wearing a hat with a hat on . (p=0.000004)
+Captions for image 13774828_838785766221309_546092434_n.jpg:
+  0) a person holding a hot dog in their hand . (p=0.001625)
+  1) a person holding a hot dog in their hands . (p=0.000511)
+  2) a person holding a hot dog in their hand (p=0.000340)
+Captions for image 11313302_1594089750839774_8460529_n.jpg:
+  0) a close up of a person holding a baseball bat (p=0.000095)
+  1) a close up of a person holding a cell phone (p=0.000051)
+  2) a close up of a person holding a bat (p=0.000027)
+Captions for image 13774420_948366975273349_1186389495_n.jpg:
+  0) a street sign on a pole on a city street (p=0.000192)
+  1) a street sign on a pole with a sky background (p=0.000123)
+  2) a street sign on a pole on a street . (p=0.000121)
+Captions for image 13531893_321759001489548_2103233842_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.003147)
+  1) a bottle of wine sitting on top of a wooden table . (p=0.001967)
+  2) a bottle of wine and a bottle of wine (p=0.000788)
+Captions for image 13532012_296339357371813_1932743645_n.jpg:
+  0) a boat is sitting on the water near a bridge . (p=0.000002)
+  1) a boat is sitting on the water near a forest . (p=0.000002)
+  2) a boat is sitting on the water in front of a lake . (p=0.000001)
+Captions for image 23824829_1691723050899411_1419996731579301888_n.jpg:
+  0) a white plate topped with a piece of cake . (p=0.000277)
+  1) a white plate topped with a piece of cake and a cup of coffee . (p=0.000072)
+  2) a white plate topped with a cup of coffee and a spoon . (p=0.000027)
+Captions for image 22637469_356548268123803_3000009711085944832_n.jpg:
+  0) a black and white photo of a fire hydrant . (p=0.000307)
+  1) a black and white photo of a fire hydrant (p=0.000278)
+  2) a black and white photo of an old fashioned fire hydrant . (p=0.000044)
+Captions for image 13395154_1754940158117342_1273313240_n.jpg:
+  0) two people sitting on a bench near the water . (p=0.000360)
+  1) two people sitting on a bench near the water (p=0.000153)
+  2) a couple of people sitting on a bench next to a lake . (p=0.000119)
+Captions for image 13402163_1358683307481356_2133321234_n.jpg:
+  0) a plate of food that includes a sandwich and salad . (p=0.000008)
+  1) a plate of food that includes a sandwich and french fries . (p=0.000004)
+  2) a plate of food that includes a sandwich and a salad . (p=0.000003)
+Captions for image 13257086_173699236360585_541209533_n.jpg:
+  0) a black and white photo of a street sign (p=0.000741)
+  1) a black and white photo of a street sign . (p=0.000423)
+  2) a black and white photo of a building with a window (p=0.000028)
+Captions for image 13166963_885132708298834_935205808_n.jpg:
+  0) a close up of a pair of scissors (p=0.000145)
+  1) a close up of a sign on a wall (p=0.000041)
+  2) a close up of a pair of scissors on a table (p=0.000016)
+Captions for image 12907145_254549208214201_1793115700_n.jpg:
+  0) a plate with a sandwich and a cup of coffee . (p=0.000338)
+  1) a piece of cake on a plate next to a cup of coffee . (p=0.000196)
+  2) a plate with a sandwich and a cup of coffee (p=0.000148)
+Captions for image 11356524_839965722705490_39784430_n.jpg:
+  0) a view of a city street at night . (p=0.000275)
+  1) a view of a city at night with a clock tower . (p=0.000008)
+  2) a view of a city at night with a clock tower in the background . (p=0.000006)
+Captions for image 12798049_967778553313641_2053566878_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002851)
+  1) a white plate topped with meat and veggies . (p=0.001211)
+  2) a white plate topped with meat , potatoes and broccoli . (p=0.000295)
+Captions for image 22709192_1498436100233706_1633159519007670272_n.jpg:
+  0) a group of stuffed animals sitting on top of a bed . (p=0.001088)
+  1) a couple of stuffed animals sitting on top of a bed . (p=0.000712)
+  2) a group of stuffed animals sitting on top of a couch . (p=0.000425)
+Captions for image 12357722_190338331307456_1638360372_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.002363)
+  1) a person holding a smart phone in their hand . (p=0.001123)
+  2) a person holding a cell phone in their hands . (p=0.000765)
+Captions for image 12545546_1539537049691529_468018022_n.jpg:
+  0) a hand holding a hot dog in a bun . (p=0.000037)
+  1) a hand holding a hot dog and a drink . (p=0.000036)
+  2) a hand holding a hot dog and a drink (p=0.000014)
+Captions for image 12331878_1665115180397520_2044432829_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.003353)
+  1) a person holding a cell phone in their hands . (p=0.001012)
+  2) a person holding a smart phone in their hand . (p=0.000952)
+Captions for image 12093236_996327410430525_1228858662_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000392)
+  1) a black and white photo of a computer keyboard . (p=0.000147)
+  2) a black and white photo of a computer keyboard (p=0.000037)
+Captions for image 12822535_1051211264939552_1792515422_n.jpg:
+  0) a bottle of beer and a bottle of wine . (p=0.000553)
+  1) a bottle of beer and a bottle of beer . (p=0.000412)
+  2) a bottle of beer is next to a bottle of beer . (p=0.000228)
+Captions for image 12298826_1739462666283557_1594707323_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.001170)
+  1) a person holding a cell phone in their hands . (p=0.000814)
+  2) a person holding a cell phone in their hand (p=0.000248)
+Captions for image 22639167_540130966327693_3935031607617912832_n.jpg:
+  0) a train station with a train passing by . (p=0.000038)
+  1) a train station with a train passing by (p=0.000033)
+  2) a view of a train station with a train passing by . (p=0.000016)
+Captions for image 12142114_1691220004432148_478911253_n.jpg:
+  0) a bowl of food sitting on a table . (p=0.000395)
+  1) a bowl of soup sitting on top of a table . (p=0.000163)
+  2) a bowl of soup sitting on top of a wooden table . (p=0.000078)
+Captions for image 11326644_1682871801935490_2084784246_n.jpg:
+  0) a group of people riding on the backs of elephants . (p=0.000243)
+  1) a group of people standing around a fire hydrant . (p=0.000207)
+  2) a group of people riding on the back of a motorcycle . (p=0.000037)
+Captions for image 11375740_1486640191651035_773673925_n.jpg:
+  0) a table topped with a plate of food and a glass of wine . (p=0.000044)
+  1) a table with a plate of food and a glass of wine (p=0.000028)
+  2) a table topped with a plate of food and a glass of water . (p=0.000020)
+Captions for image 12107598_1120587794626008_1903282759_n.jpg:
+  0) a black and white photo of a black and white photo (p=0.000016)
+  1) a black and white photo of a black and white clock (p=0.000016)
+  2) a black and white photo of a black and white picture (p=0.000007)
+Captions for image 11950668_1610431139217568_883809424_n.jpg:
+  0) a cake with a picture of a man on it . (p=0.000002)
+  1) a cake with a picture of a person on it . (p=0.000002)
+  2) a cake with a picture of a person on it (p=0.000001)
+Captions for image 11363702_1463371380633696_1837878463_n.jpg:
+  0) a train traveling down tracks next to a train station . (p=0.000669)
+  1) a train traveling down train tracks next to a train station . (p=0.000412)
+  2) a train traveling down tracks next to a loading platform . (p=0.000247)
+Captions for image 10919576_1632341193678809_827798553_n.jpg:
+  0) a red stop sign sitting on the side of a building . (p=0.000407)
+  1) a red and white sign on a building (p=0.000132)
+  2) a red stop sign sitting on the side of a brick building . (p=0.000075)
+Captions for image 11260770_1597490970502849_567257109_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.000762)
+  1) a boat floating on top of a large body of water . (p=0.000664)
+  2) a boat floating on a large body of water . (p=0.000504)
+Captions for image 11429708_892888500786556_1853757337_n.jpg:
+  0) a sign that is on the side of a building . (p=0.001485)
+  1) a sign that is on top of a pole . (p=0.000259)
+  2) a sign that is on the side of a wall . (p=0.000155)
+Captions for image 11084714_970056923018528_337332250_n.jpg:
+  0) a view of a city skyline with a clock tower . (p=0.000011)
+  1) a view of a city skyline with a clock tower in the distance . (p=0.000004)
+  2) a view of a city skyline with a clock tower in the background . (p=0.000003)
+Captions for image 10249219_1415139802083841_99803215_n.jpg:
+  0) a baseball game in progress with the batter up to plate . (p=0.004480)
+  1) a baseball player is getting ready to hit a ball . (p=0.001298)
+  2) a baseball game in progress with the batter up to bat . (p=0.000403)
+Captions for image 11189200_413369018842816_1990400315_n.jpg:
+  0) a close up of a pair of scissors (p=0.001411)
+  1) a pair of scissors sitting on top of a table . (p=0.001112)
+  2) a close up of a pair of scissors on a table (p=0.000684)
+Captions for image 11235961_859741937431177_432895092_n.jpg:
+  0) a close up of a person holding a banana (p=0.000608)
+  1) a close up of a person holding a piece of food (p=0.000090)
+  2) a close up of a piece of fruit on a plate (p=0.000089)
+Captions for image 11098180_407819412733724_897743535_n.jpg:
+  0) a giraffe standing in a field next to a tree . (p=0.000039)
+  1) a giraffe standing in a field next to a forest . (p=0.000026)
+  2) a giraffe standing in a grassy field next to a tree . (p=0.000010)
+Captions for image 11201559_1408506646136954_1085966154_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000210)
+  1) a sign that is on the side of a wall . (p=0.000030)
+  2) a sign that is on the side of a building (p=0.000007)
+Captions for image 11208188_1425871644386063_999366083_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009142)
+  1) a large jetliner sitting on top of an airport runway . (p=0.005188)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.003322)
+Captions for image 11189912_1466824470276474_815236789_n.jpg:
+  0) a bed sitting in a room next to a window . (p=0.000086)
+  1) a bed sitting in a bedroom next to a window . (p=0.000049)
+  2) a bed sitting in a room next to a table . (p=0.000023)
+Captions for image 11116624_838786746193482_80617380_n.jpg:
+  0) a table with a vase of flowers on it (p=0.000301)
+  1) a table with a vase of flowers on it . (p=0.000171)
+  2) a table with a vase of flowers and a vase of flowers . (p=0.000017)
+Captions for image 10832106_507490812723944_1071185725_n.jpg:
+  0) a large building with a clock on it (p=0.000062)
+  1) a large building with a clock on the side of it . (p=0.000055)
+  2) a large building with a clock on the side of it (p=0.000022)
+Captions for image 10954457_1056021784424295_312199598_n.jpg:
+  0) a view of a city skyline from a plane . (p=0.000007)
+  1) a view of a clock tower with a sky background (p=0.000003)
+  2) a view of a clock tower with a sky background . (p=0.000003)
+Captions for image 10958417_691349350974343_732769817_n.jpg:
+  0) a bottle of beer and a glass of wine . (p=0.000269)
+  1) a bottle of beer sitting next to a bottle of beer . (p=0.000190)
+  2) a bottle of beer and a glass of wine (p=0.000154)
+Captions for image 10593329_1618851058342790_213254970_n.jpg:
+  0) a cup of coffee sitting on a table . (p=0.001771)
+  1) a cup of coffee sitting next to a cup of coffee . (p=0.001276)
+  2) a cup of coffee sitting on top of a table . (p=0.001228)
+Captions for image 10919165_1544377119143904_1025810908_n.jpg:
+  0) a statue of a cow sitting on top of a table . (p=0.000021)
+  1) a statue of a cow sitting on top of a book . (p=0.000021)
+  2) a statue of a cow sitting on a table . (p=0.000010)
+Captions for image 10844167_1519058515013766_947523517_n.jpg:
+  0) a view of a mountain range from a plane . (p=0.000085)
+  1) a view of a mountain range from the plane . (p=0.000033)
+  2) a view of a mountain range from a plane window . (p=0.000028)
+Captions for image 10903327_820070144720881_379702759_n.jpg:
+  0) a group of people standing in a room . (p=0.000099)
+  1) a group of people standing around a room with lots of lights . (p=0.000002)
+  2) a group of people standing in a room with a clock . (p=0.000002)
+Captions for image 10864998_551672454977431_1996555736_n.jpg:
+  0) a large body of water with a bridge in the background . (p=0.000057)
+  1) a large body of water with a bridge in the background (p=0.000054)
+  2) a large body of water with a clock tower in the background . (p=0.000011)
+Captions for image 11244837_473457956144606_2028590013_n.jpg:
+  0) a night time view of a city street . (p=0.000120)
+  1) a night time view of a city street at night . (p=0.000112)
+  2) a night time view of a city street at night (p=0.000023)
+Captions for image 10881830_1521174044800628_168955968_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.002255)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.001861)
+  2) a bottle of wine and a glass of wine . (p=0.001749)
+Captions for image 10724042_1534240830149579_1195443381_n.jpg:
+  0) a man sitting on a surfboard in the water . (p=0.000202)
+  1) a man sitting on a boat in the water . (p=0.000126)
+  2) a man standing on a surfboard in the water . (p=0.000124)
+Captions for image 10748022_745656205482305_799955845_n.jpg:
+  0) a couple of wine glasses sitting on top of a table . (p=0.001472)
+  1) a couple of wine glasses sitting on a table . (p=0.001250)
+  2) three wine glasses are sitting on a table . (p=0.001167)
+Captions for image 10691837_834139423283005_1850099264_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000088)
+  1) a fire hydrant in the middle of a street . (p=0.000042)
+  2) a fire hydrant in the middle of a road . (p=0.000028)
+Captions for image 10598496_335909206584961_959025974_n.jpg:
+  0) a bowl of food sitting on a table . (p=0.000078)
+  1) a bowl of food sitting on a table (p=0.000036)
+  2) a bowl of food sitting on top of a table . (p=0.000024)
+Captions for image 923748_700749526646403_2138464573_n.jpg:
+  0) a group of people standing on top of a tennis court . (p=0.000242)
+  1) a group of people standing around a tennis court . (p=0.000206)
+  2) a group of people standing on a tennis court . (p=0.000102)
+Captions for image 10554278_352305811591896_1841027862_n.jpg:
+  0) a close up of a pan of food on a stove (p=0.000879)
+  1) a pan of food that is on a stove . (p=0.000349)
+  2) a pan of food that is on a stove (p=0.000103)
+Captions for image 10554138_525616724235693_1795027519_n.jpg:
+  0) a close up of a piece of cake on a plate (p=0.000476)
+  1) a close up of a person holding a banana (p=0.000300)
+  2) a close up of a person holding a piece of food (p=0.000122)
+Captions for image 10502702_264798110388744_2033057458_n.jpg:
+  0) a large group of people in a large building . (p=0.000054)
+  1) a large group of people in a large room . (p=0.000036)
+  2) a large group of people standing in front of a building . (p=0.000027)
+Captions for image 10522809_301162983378263_1047048696_n.jpg:
+  0) a white plate topped with a slice of cake . (p=0.000373)
+  1) a white plate topped with a piece of cake . (p=0.000319)
+  2) a white plate topped with a piece of cake and a cup of coffee . (p=0.000064)
+Captions for image 10488778_1491764957707310_1042822057_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000967)
+  1) a cup of coffee sitting on top of a table (p=0.000064)
+  2) a cup of coffee sitting on a table next to a cup . (p=0.000032)
+Captions for image 10412851_528729830564333_742967475_n.jpg:
+  0) a cat sitting on top of a wooden table . (p=0.000080)
+  1) a cat sitting on top of a wooden table next to a cat . (p=0.000003)
+  2) a cat sitting on top of a table next to a glass of wine . (p=0.000003)
+Captions for image 10254151_518064224986941_2070562896_n.jpg:
+  0) a room filled with lots of clutter and a desk . (p=0.000021)
+  1) a room filled with lots of clutter and a laptop . (p=0.000011)
+  2) a room filled with lots of clutter and a laptop computer . (p=0.000011)
+Captions for image 10424544_1458255947747300_1317626490_n.jpg:
+  0) a table topped with wine glasses and bottles of wine . (p=0.000584)
+  1) a table topped with bottles of wine and wine glasses . (p=0.000448)
+  2) a table topped with bottles of wine and a wine glass . (p=0.000098)
+Captions for image 10175102_561560410627851_716611779_n.jpg:
+  0) a teddy bear sitting on a shelf next to a shelf . (p=0.000003)
+  1) a teddy bear sitting on a shelf next to a bottle of liquor . (p=0.000002)
+  2) a teddy bear sitting on a shelf next to a bottle of wine . (p=0.000001)
+Captions for image 927081_1419010378384296_510344215_n.jpg:
+  0) a refrigerator filled with lots of food and drinks . (p=0.002816)
+  1) a display case filled with lots of different types of food . (p=0.000125)
+  2) a refrigerator filled with lots of food and drinks (p=0.000086)
+Captions for image 10414061_327124847436927_1358735236_n.jpg:
+  0) a red and white bus driving down a street . (p=0.000253)
+  1) a yellow and blue bus driving down a street . (p=0.000188)
+  2) a red and white bus driving down a street next to tall buildings . (p=0.000006)
+Captions for image 10358358_576558719125103_596494623_n.jpg:
+  0) a cup of coffee sitting next to a cup of coffee . (p=0.000383)
+  1) a cup of coffee and a cup of coffee . (p=0.000352)
+  2) a cup of coffee and a glass of orange juice . (p=0.000255)
+Captions for image 926452_1519393411615769_1917412671_n.jpg:
+  0) a person sitting on a bench with a skateboard . (p=0.000050)
+  1) a person sitting on a bench with a skateboard (p=0.000025)
+  2) a person sitting on a bench with a bag (p=0.000016)
+Captions for image 10413004_283156248524279_2104791222_n.jpg:
+  0) a view of a mountain range with mountains in the background . (p=0.000347)
+  1) a view of a mountain range with mountains in the distance . (p=0.000082)
+  2) a view of a mountain range with a mountain range in the background . (p=0.000076)
+Captions for image 10310996_634608183292437_543375216_n.jpg:
+  0) a close up of a box of doughnuts (p=0.000402)
+  1) a close up of many different types of food (p=0.000086)
+  2) a close up of a tray of food (p=0.000053)
+Captions for image 10326634_247320705469053_1336750294_n.jpg:
+  0) a man is playing with a soccer ball . (p=0.000188)
+  1) a young boy is playing with a soccer ball . (p=0.000111)
+  2) a man is playing with a soccer ball (p=0.000094)
+Captions for image 10268984_1386816978271206_1610723091_n.jpg:
+  0) a television is on a stand in a room . (p=0.000030)
+  1) a television is on a wall in a room . (p=0.000024)
+  2) a television is on a stand in a room (p=0.000023)
+Captions for image 10362205_1413529078929814_504895771_n.jpg:
+  0) a black and white photo of a sign on a building (p=0.000034)
+  1) a black and white photo of a sign on a wall (p=0.000029)
+  2) a black and white photo of a sign on a wall . (p=0.000027)
+Captions for image 1173053_598190996955475_1954943627_n.jpg:
+  0) a group of people standing around each other . (p=0.000398)
+  1) a group of people standing around each other holding umbrellas . (p=0.000155)
+  2) a group of people standing around each other holding an umbrella . (p=0.000020)
+Captions for image 924331_1437496913163716_1744002379_n.jpg:
+  0) a view of a city street at night . (p=0.000067)
+  1) a view of a city street at night (p=0.000012)
+  2) a view of a clock tower in the middle of a city . (p=0.000005)
+Captions for image 10013356_294825504006368_1049398614_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.000417)
+  1) a plate with a sandwich and a cup of coffee . (p=0.000405)
+  2) a piece of cake on a plate with a fork (p=0.000167)
+Captions for image 11327151_770330663079444_801311946_n.jpg:
+  0) a clock on a wall in a room . (p=0.000064)
+  1) a clock on a wall near a window (p=0.000047)
+  2) a clock on a wall in a room (p=0.000040)
+Captions for image 11376552_727910290651251_637907410_n.jpg:
+  0) a laptop computer sitting on top of a wooden table . (p=0.002497)
+  1) a laptop computer sitting on top of a wooden desk . (p=0.001725)
+  2) a laptop computer sitting on top of a table . (p=0.001342)
+Captions for image 11324249_461798327321115_1037621524_n.jpg:
+  0) a sandwich and a cup of coffee on a table . (p=0.000887)
+  1) a cup of coffee and a sandwich on a table . (p=0.000350)
+  2) a plate with a sandwich and a cup of coffee . (p=0.000331)
+Captions for image 11374564_1591609744447975_34124480_n.jpg:
+  0) a bottle of beer sitting next to a glass (p=0.000052)
+  1) a bottle of beer sitting next to a glass of orange juice . (p=0.000033)
+  2) a bottle of beer sitting on a table next to a glass . (p=0.000028)
+Captions for image 11429705_836217266453170_447365111_n.jpg:
+  0) a group of people on a field playing baseball . (p=0.006602)
+  1) a group of people on a field playing soccer . (p=0.000915)
+  2) a baseball game is being played on a sunny day . (p=0.000634)
+Captions for image 11357881_894831847254629_244660587_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.000666)
+  1) a bottle of wine and a glass of wine (p=0.000152)
+  2) a glass of wine sitting on a table next to a bottle of wine . (p=0.000044)
+Captions for image 917336_719259208118787_1796510019_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.011835)
+  1) a large jetliner sitting on top of an airport runway . (p=0.004364)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001825)
+Captions for image 1723166_454660284663304_1592954957_n.jpg:
+  0) a table topped with a cup of coffee and a cake . (p=0.000016)
+  1) a table topped with a plate of food and a cup of coffee . (p=0.000016)
+  2) a table topped with a plate of food and a drink . (p=0.000012)
+Captions for image 1168374_594551243966315_1835904342_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009272)
+  1) a large jetliner sitting on top of an airport runway . (p=0.006564)
+  2) a large jetliner sitting on top of a runway . (p=0.001799)
+Captions for image 1169903_203811763146897_83746816_n.jpg:
+  0) a statue of a man holding a baseball bat . (p=0.000828)
+  1) a statue of a baseball player holding a baseball bat . (p=0.000721)
+  2) a statue of a baseball player holding a bat . (p=0.000625)
+Captions for image 1391117_213946945454446_969737269_n.jpg:
+  0) a group of people sitting on top of a snow covered slope . (p=0.000155)
+  1) a group of people standing on top of a snow covered slope . (p=0.000124)
+  2) a group of people sitting on top of a snow covered mountain . (p=0.000029)
+Captions for image 926298_247262668761519_815032644_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.001594)
+  1) a fire hydrant in the middle of the woods . (p=0.000486)
+  2) a fire hydrant in the middle of the woods (p=0.000249)
+Captions for image 1390096_182379278628774_1667083381_n.jpg:
+  0) a bunch of items that are on a table . (p=0.000151)
+  1) a bunch of items that are sitting on a table . (p=0.000065)
+  2) a bunch of items that are on a shelf . (p=0.000064)
+Captions for image 11327328_1586352078312230_1610808964_n.jpg:
+  0) a street sign on a pole on a city street (p=0.000396)
+  1) a street sign on a pole on a street . (p=0.000095)
+  2) a street sign on a pole on a street (p=0.000095)
+Captions for image 11378163_373416576180576_407220296_n.jpg:
+  0) a pair of shoes sitting on top of a wooden floor . (p=0.000039)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000024)
+  2) a pair of scissors sitting on top of a piece of wood . (p=0.000008)
+Captions for image 11372053_598214483649521_410283796_n.jpg:
+  0) a large clock tower in the middle of a city . (p=0.000056)
+  1) a large building with a clock on it (p=0.000029)
+  2) a large building with a clock on the top of it . (p=0.000023)
+Captions for image 11326571_119520231713413_1053171844_n.jpg:
+  0) a crowd of people walking down a street . (p=0.002971)
+  1) a group of people walking down a street . (p=0.002758)
+  2) a crowd of people walking down a street next to tall buildings . (p=0.000417)
+Captions for image 11374588_1630473090499327_593333114_n.jpg:
+  0) a view of a plane from the window of a plane . (p=0.000006)
+  1) a view of a plane wing from inside a plane . (p=0.000006)
+  2) a view of a plane from the window of an airplane . (p=0.000004)
+Captions for image 11312019_625887434114386_1484273970_n.jpg:
+  0) an airplane is parked on the runway at the airport . (p=0.000096)
+  1) an airplane is parked on the tarmac at an airport . (p=0.000087)
+  2) an airplane is parked on the tarmac at the airport . (p=0.000061)
+Captions for image 11377904_782501191847233_176439805_n.jpg:
+  0) a close up of a pair of scissors (p=0.002302)
+  1) a pair of scissors sitting on top of a table . (p=0.001689)
+  2) a close up of a pair of scissors on a table (p=0.000870)
+Captions for image 11208048_1644839802412168_1720274323_n.jpg:
+  0) a black and white photo of a person holding a skateboard . (p=0.000076)
+  1) a black and white photo of a person with a skateboard . (p=0.000039)
+  2) a black and white photo of a person with a suitcase . (p=0.000036)
+Captions for image 11275375_1628897994020330_1799937240_n.jpg:
+  0) a car parked on the side of the road . (p=0.000120)
+  1) a car parked on the side of a road next to a lake . (p=0.000008)
+  2) a car parked on the side of a road next to a body of water . (p=0.000007)
+Captions for image 11257941_579904805484945_76880546_n.jpg:
+  0) a white truck parked in a parking lot . (p=0.000336)
+  1) a white truck parked in front of a building . (p=0.000274)
+  2) a blue truck parked in front of a building . (p=0.000234)
+Captions for image 11374129_1602308960050546_1810874613_n.jpg:
+  0) a red fire hydrant sitting on the side of a road . (p=0.000268)
+  1) a red fire hydrant sitting in the middle of a forest . (p=0.000097)
+  2) a red fire hydrant sitting in the middle of a street . (p=0.000067)
+Captions for image 11378033_1598504857054349_1141609007_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.001102)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.001036)
+  2) a bottle of wine and a bottle of wine on a table . (p=0.000457)
+Captions for image 11376447_1417065831950231_502108471_n.jpg:
+  0) a blender filled with liquid on top of a counter . (p=0.000301)
+  1) a blender filled with liquid sitting on top of a counter . (p=0.000238)
+  2) a blender filled with liquid sitting on a counter . (p=0.000157)
+Captions for image 11334663_1429723774015478_116558687_n.jpg:
+  0) a bowl of food with a spoon in it . (p=0.000125)
+  1) a bowl of food with a spoon in it (p=0.000055)
+  2) a bowl of food with a spoon and a spoon . (p=0.000022)
+Captions for image 11313441_948835148493998_761090567_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.003541)
+  1) a glass of wine sitting on top of a wooden table . (p=0.001953)
+  2) a glass of wine sitting on a table next to a glass . (p=0.000431)
+Captions for image 11385577_368093146733019_1531072154_n.jpg:
+  0) a traffic light sitting on the side of a road . (p=0.000317)
+  1) a traffic light sitting on the side of a street . (p=0.000101)
+  2) a traffic light on a city street near a building (p=0.000034)
+Captions for image 11356662_1454298394864500_749683360_n.jpg:
+  0) a close up of a pair of scissors (p=0.000345)
+  1) a close up of a pair of scissors on a table (p=0.000062)
+  2) a close up of a clock on a wall (p=0.000039)
+Captions for image 11296643_926342074091784_1504219580_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000542)
+  1) a car is parked on the side of a road . (p=0.000400)
+  2) a car is parked on the side of the road (p=0.000207)
+Captions for image 11335494_862637900440092_2093588177_n.jpg:
+  0) a blender filled with lots of different types of fruit . (p=0.000055)
+  1) a glass of orange juice next to a blender . (p=0.000052)
+  2) a glass of orange juice and a glass of orange juice . (p=0.000014)
+Captions for image 11312253_860065750707542_457537737_n.jpg:
+  0) a group of people sitting around a table . (p=0.004633)
+  1) a group of people sitting around a wooden table . (p=0.003150)
+  2) a group of people sitting around a table with food . (p=0.000576)
+Captions for image 11257760_1067458446654853_299147361_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.001249)
+  1) a pair of scissors sitting on a table . (p=0.000447)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000444)
+Captions for image 11326695_825100894205923_1237134751_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000194)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000065)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000035)
+Captions for image 11235927_676047695860693_1913812883_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000233)
+  1) a close up of a person holding a pair of scissors (p=0.000121)
+  2) a close up of a keyboard and a mouse (p=0.000107)
+Captions for image 11311452_1441625452819980_972444734_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.000413)
+  1) a black and white photo of a street light . (p=0.000314)
+  2) a black and white photo of a street light (p=0.000202)
+Captions for image 11325071_1600324233583204_857258348_n.jpg:
+  0) a street sign on a pole on a street . (p=0.000407)
+  1) a street sign on a pole on a city street (p=0.000186)
+  2) a street sign on a pole on a street (p=0.000152)
+Captions for image 11312075_1768844296675144_1242328769_n.jpg:
+  0) a close up of a pair of scissors (p=0.000093)
+  1) a close up of a pair of scissors on a table (p=0.000026)
+  2) a close up of a pair of rusty scissors (p=0.000005)
+Captions for image 11274469_1595060227429037_534410269_n.jpg:
+  0) a tall building with a clock on it 's side . (p=0.000122)
+  1) a tall building with a clock on the front of it . (p=0.000088)
+  2) a tall building with a clock on it (p=0.000066)
+Captions for image 11230298_1589821781265447_520367632_n.jpg:
+  0) a close up of a pair of scissors (p=0.000104)
+  1) a close up of a pair of black shoes (p=0.000040)
+  2) a close up of a pair of black scissors (p=0.000032)
+Captions for image 11263575_755552567899814_970630645_n.jpg:
+  0) a large building with a snow covered mountain in the background . (p=0.000025)
+  1) a large building with a snow covered mountain in the background (p=0.000004)
+  2) a large building with a snow covered mountain in the distance . (p=0.000004)
+Captions for image 11256207_470327869782741_1508795939_n.jpg:
+  0) a yellow fire hydrant is in the snow . (p=0.000226)
+  1) a red fire hydrant is in the snow . (p=0.000169)
+  2) a yellow fire hydrant is in the snow (p=0.000106)
+Captions for image 11262653_854540344581252_1300121457_n.jpg:
+  0) a close up of a black and white microwave (p=0.000009)
+  1) a close up of a black and silver microwave (p=0.000009)
+  2) a close up of a black and white microwave oven (p=0.000004)
+Captions for image 11242292_660186517444621_374030234_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000924)
+  1) a train traveling over a bridge over water . (p=0.000411)
+  2) a train traveling over a bridge over a body of water . (p=0.000271)
+Captions for image 11262882_906202482771655_619362507_n.jpg:
+  0) a toaster oven sitting on top of a counter . (p=0.000763)
+  1) a toaster oven sitting on top of a table . (p=0.000491)
+  2) a close up of a toaster oven (p=0.000063)
+Captions for image 11232642_1730931970467194_1088742049_n.jpg:
+  0) a close up of a cake on a table (p=0.000194)
+  1) a close up of a small white cake (p=0.000026)
+  2) a close up of a cake with a flower on it (p=0.000009)
+Captions for image 11208581_363412527197547_902042733_n.jpg:
+  0) a computer keyboard sitting on top of a desk . (p=0.000933)
+  1) a computer keyboard sitting on top of a wooden desk . (p=0.000781)
+  2) a close up of a keyboard on a desk (p=0.000556)
+Captions for image 11242300_701767916612795_296589667_n.jpg:
+  0) a birthday cake with candles on top of it . (p=0.000548)
+  1) a birthday cake with candles on top of it (p=0.000312)
+  2) a birthday cake with a candle on top of it . (p=0.000235)
+Captions for image 11245042_1614622355445930_1392285476_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.000503)
+  1) a large clock mounted to the side of a wall . (p=0.000103)
+  2) a large clock mounted to the side of a tall building . (p=0.000033)
+Captions for image 11240359_887612401277295_211372793_n.jpg:
+  0) a bowl of cereal with a banana in it . (p=0.000342)
+  1) a bowl of cereal and a banana on a table . (p=0.000274)
+  2) a bowl of cereal and a banana on a plate . (p=0.000227)
+Captions for image 11245914_896977807025384_162381674_n.jpg:
+  0) a street sign on the side of a building . (p=0.000109)
+  1) a street sign on the side of a building (p=0.000048)
+  2) a street sign on the side of the street . (p=0.000022)
+Captions for image 11242530_728395497272434_1254869288_n.jpg:
+  0) a group of people sitting in a room . (p=0.000315)
+  1) a group of people sitting in a room with laptops . (p=0.000040)
+  2) a group of people sitting at a table with laptops . (p=0.000037)
+Captions for image 11240724_455653001277218_1620787827_n.jpg:
+  0) a shelf with many different types of items . (p=0.000028)
+  1) a shelf with many different types of books . (p=0.000021)
+  2) a shelf with many different types of items on it . (p=0.000012)
+Captions for image 11250668_786319931463316_1748976855_n.jpg:
+  0) a crowd of people standing on a street corner . (p=0.000085)
+  1) a crowd of people standing on top of a street . (p=0.000063)
+  2) a crowd of people standing on top of a tall building . (p=0.000024)
+Captions for image 10732028_350531105157064_782976530_n.jpg:
+  0) a bottle of beer and a bottle of wine . (p=0.000715)
+  1) a bottle of beer and a bottle of beer . (p=0.000460)
+  2) a bottle of beer and a bottle of wine (p=0.000224)
+Captions for image 11191201_1639479062940816_403310180_n.jpg:
+  0) a glass of orange juice on a table . (p=0.000403)
+  1) a close up of a glass of wine on a table (p=0.000276)
+  2) a glass of orange juice sitting on a table . (p=0.000214)
+Captions for image 11202931_967084020002804_1963167137_n.jpg:
+  0) a train station with a train passing by (p=0.000007)
+  1) a view of a train station with a train passing by . (p=0.000002)
+  2) a view of a train station with a train on the tracks . (p=0.000001)
+Captions for image 11205646_1572030596395182_1915651735_n.jpg:
+  0) a glass of wine sitting next to a glass of wine . (p=0.000063)
+  1) a glass of wine and a glass of wine . (p=0.000063)
+  2) a glass of wine and a glass of wine (p=0.000045)
+Captions for image 11195789_373107216212685_1273460246_n.jpg:
+  0) a red train is parked at a station . (p=0.000044)
+  1) a red train is parked at a station (p=0.000043)
+  2) a red train car sitting on a train track . (p=0.000038)
+Captions for image 11189266_805245049561883_2077101272_n.jpg:
+  0) a yellow dump truck driving down a street . (p=0.000156)
+  1) a yellow dump truck driving down a road . (p=0.000100)
+  2) a yellow dump truck parked on the side of a road . (p=0.000065)
+Captions for image 11193079_1593751704226397_1699468876_n.jpg:
+  0) a stove top oven sitting inside of a kitchen . (p=0.002119)
+  1) a stove top oven sitting in a kitchen . (p=0.000681)
+  2) a stove top oven sitting in a kitchen next to pots . (p=0.000032)
+Captions for image 10732034_914820178540700_2068624690_n.jpg:
+  0) a building with a window and a bench (p=0.000002)
+  1) a building that has a window and a bench in it . (p=0.000002)
+  2) a building that has a window and a bench in it (p=0.000002)
+Captions for image 11187020_1409497066039141_170119109_n.jpg:
+  0) a bunch of boats that are in the water . (p=0.001961)
+  1) a bunch of boats that are sitting in the water . (p=0.001657)
+  2) a bunch of boats that are floating in the water . (p=0.000857)
+Captions for image 11193054_1604584683149167_1021835865_n.jpg:
+  0) a close up of a pair of scissors (p=0.000706)
+  1) a close up of a pair of scissors on a table (p=0.000222)
+  2) a close up of a pair of scissors on a desk (p=0.000028)
+Captions for image 11205853_882455058483680_58917108_n.jpg:
+  0) a sign that reads `` <UNK> '' on a wall . (p=0.000002)
+  1) a sign that reads `` <UNK> '' on a building . (p=0.000002)
+  2) a sign that reads `` <UNK> '' in front of a building . (p=0.000001)
+Captions for image 11189504_1441500719496015_913398739_n.jpg:
+  0) a yellow fire hydrant sitting on the side of a road . (p=0.000493)
+  1) a fire truck is parked on the street . (p=0.000207)
+  2) a fire truck is parked on the side of the road . (p=0.000157)
+Captions for image 11190920_1575206506076260_977137510_n.jpg:
+  0) a hot dog on a bun with mustard on it . (p=0.000067)
+  1) a hot dog with mustard and ketchup on a bun . (p=0.000049)
+  2) a hot dog on a bun with mustard and ketchup . (p=0.000047)
+Captions for image 11190976_1443594032605917_1831260687_n.jpg:
+  0) a fire hydrant in the middle of a field . (p=0.000637)
+  1) a fire hydrant sitting in the middle of a field . (p=0.000306)
+  2) a fire hydrant in the middle of a grassy field . (p=0.000256)
+Captions for image 11193012_1442280062752805_1998773323_n.jpg:
+  0) a white toilet sitting next to a sink . (p=0.000062)
+  1) a close up of a urinal in a bathroom (p=0.000053)
+  2) a white toilet sitting next to a sink in a bathroom . (p=0.000044)
+Captions for image 11190775_1592160864375522_1638041267_n.jpg:
+  0) a table topped with a plate of food and a drink . (p=0.000064)
+  1) a table with a plate of food and a drink (p=0.000029)
+  2) a table topped with a plate of food and a glass of milk . (p=0.000010)
+Captions for image 11190222_712331902209255_975577252_n.jpg:
+  0) a grill that has some food on it (p=0.000415)
+  1) a grill that has some hot dogs on it (p=0.000379)
+  2) a grill that has some hot dogs in it (p=0.000345)
+Captions for image 11208448_1429148247390844_1763542252_n.jpg:
+  0) a glass of orange juice sitting on top of a counter . (p=0.000023)
+  1) a glass of orange juice sitting on top of a table . (p=0.000022)
+  2) a glass of orange juice sitting on a table next to a blender . (p=0.000002)
+Captions for image 11195676_1626848007536250_1353313110_n.jpg:
+  0) a glass of wine sitting on a table . (p=0.001792)
+  1) a glass of orange juice sitting on a table . (p=0.000865)
+  2) a glass of wine sitting on a table next to a glass . (p=0.000170)
+Captions for image 11208220_848353778546478_1148527112_n.jpg:
+  0) a couple of boats that are sitting in the water . (p=0.000411)
+  1) a couple of boats are on the beach (p=0.000153)
+  2) a couple of boats that are sitting on the beach . (p=0.000067)
+Captions for image 928814_1439603539685228_1356361375_n.jpg:
+  0) a birthday cake that is on a table . (p=0.000084)
+  1) a birthday cake that is on a plate . (p=0.000046)
+  2) a birthday cake that is on a table (p=0.000029)

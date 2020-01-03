@@ -1,0 +1,12 @@
+Captions for image 13744266_302888750058870_701530449_n.jpg:
+  0) a man sitting in a chair holding a cell phone . (p=0.000077)
+  1) a man sitting in a chair holding a laptop . (p=0.000053)
+  2) a man sitting in a chair holding a cell phone (p=0.000026)
+Captions for image 13098856_236538623375412_691993514_a.jpg:
+  0) a woman is talking on her cell phone . (p=0.002204)
+  1) a woman is talking on her cell phone (p=0.001292)
+  2) a woman talking on a cell phone while sitting down . (p=0.000661)
+Captions for image 14727472_1222216877801378_5412018870133194752_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000466)
+  1) a close up of a street sign with a building in the background (p=0.000071)
+  2) a close up of a street sign with a clock (p=0.000016)

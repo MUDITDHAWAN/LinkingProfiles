@@ -1,0 +1,44 @@
+Captions for image 11116730_1060147980667316_65292180_n.jpg:
+  0) a group of people standing next to each other . (p=0.001693)
+  1) a group of young men standing next to each other . (p=0.001251)
+  2) a group of people standing next to each other holding tennis racquets . (p=0.000925)
+Captions for image 11176636_915622455163726_968960943_n.jpg:
+  0) a window with a view of a building . (p=0.000015)
+  1) a window with a view of a city street . (p=0.000007)
+  2) a window with a view of a city street (p=0.000003)
+Captions for image 11117072_434288526752392_2074685201_n.jpg:
+  0) a group of people standing next to each other . (p=0.007795)
+  1) a group of people posing for a picture . (p=0.003285)
+  2) a group of people posing for a picture (p=0.001424)
+Captions for image 11123860_1390327111292904_2109768419_n.jpg:
+  0) a group of people standing next to each other . (p=0.005612)
+  1) a group of people standing around each other . (p=0.003220)
+  2) a group of people standing in a room . (p=0.001427)
+Captions for image 11187103_1550646658530061_962601733_n.jpg:
+  0) a man with a beard and a tie is smiling . (p=0.000002)
+  1) a woman wearing a hat and glasses is holding a cell phone . (p=0.000001)
+  2) a man with a beard and glasses is holding a cell phone . (p=0.000001)
+Captions for image 11084661_964187386972979_926707671_n.jpg:
+  0) a man sitting on the grass with a frisbee . (p=0.000185)
+  1) a man laying on the grass with a frisbee in his hand . (p=0.000104)
+  2) a man sitting on the grass with a frisbee in his hand . (p=0.000103)
+Captions for image 11195582_480749012081347_1637287250_n.jpg:
+  0) a sign that is on the side of a road . (p=0.000137)
+  1) a sign that is on the side of the road . (p=0.000032)
+  2) a sign that is on the side of a tree . (p=0.000025)
+Captions for image 11184561_1631221017108600_1637095795_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000398)
+  1) a close up of a person holding an open umbrella (p=0.000031)
+  2) a close up of a person holding an open laptop (p=0.000030)
+Captions for image 11191040_1551893435072432_1997596957_n.jpg:
+  0) a man in a suit and tie standing in a room . (p=0.000069)
+  1) a man in a suit and tie holding a remote . (p=0.000064)
+  2) a man in a suit and tie standing in a living room . (p=0.000030)
+Captions for image 11189825_638769386223242_377695945_n.jpg:
+  0) a close up of a pair of scissors (p=0.000330)
+  1) a close up of a pair of scissors on a table (p=0.000077)
+  2) a close up of a pair of scissors on a box (p=0.000016)
+Captions for image 44884218_345707102882519_2446069589734326272_n.jpg:
+  0) a white toilet sitting on top of a wooden floor . (p=0.000743)
+  1) a white toilet sitting on top of a white toilet . (p=0.000332)
+  2) a white toilet with a black seat on top of a white floor . (p=0.000073)

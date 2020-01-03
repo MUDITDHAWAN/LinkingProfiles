@@ -1,0 +1,20 @@
+Captions for image 11205677_1570338476588981_1931639367_n.jpg:
+  0) a table topped with plates of food and bowls of food . (p=0.000364)
+  1) a table topped with plates of food and a bowl of salad . (p=0.000031)
+  2) a table topped with plates of food and a bowl of rice . (p=0.000028)
+Captions for image 56236426_372555880140590_8258668483150016055_n.jpg:
+  0) a car parked on the side of a road next to a tree . (p=0.000061)
+  1) a car parked on the side of a road next to a forest . (p=0.000051)
+  2) a car parked on the side of a road near a tree . (p=0.000041)
+Captions for image 11312532_1605854149673459_19879831_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.002552)
+  1) a slice of cake on a plate with a fork . (p=0.001340)
+  2) a piece of cake sitting on a plate with a fork . (p=0.000972)
+Captions for image 11374663_114152195585606_166438911_a.jpg:
+  0) a couple of men standing next to each other . (p=0.004603)
+  1) a man and a woman posing for a picture . (p=0.001963)
+  2) a couple of men standing next to each other in a room . (p=0.000686)
+Captions for image 55886183_276591253292622_4721966475130603476_n.jpg:
+  0) a wooden bench sitting in the middle of a field . (p=0.000490)
+  1) a wooden bench sitting next to a wooden fence . (p=0.000327)
+  2) a wooden bench sitting in the middle of a park . (p=0.000252)

@@ -1,0 +1,20 @@
+Captions for image 11273057_453589864816621_644577916_n.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000191)
+  1) a man in a suit and tie sitting in a car (p=0.000066)
+  2) a man in a suit and tie sitting in a chair . (p=0.000059)
+Captions for image 914659_271384556369221_189086980_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.002420)
+  1) a white plate topped with meat , potatoes and vegetables . (p=0.000584)
+  2) a white plate topped with meat , potatoes and veggies . (p=0.000511)
+Captions for image 914262_289341647897886_438179730_n.jpg:
+  0) a woman in a red shirt is talking on a cell phone . (p=0.000016)
+  1) a woman in a white shirt is holding a cellphone (p=0.000015)
+  2) a woman in a red shirt is talking on her cell phone . (p=0.000009)
+Captions for image 11357816_1587446381510807_1066947544_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.001517)
+  1) a boat floating on top of a lake surrounded by mountains . (p=0.000433)
+  2) a boat floating on top of a lake next to a forest . (p=0.000332)
+Captions for image 44884218_345707102882519_2446069589734326272_n.jpg:
+  0) a white toilet sitting on top of a wooden floor . (p=0.000743)
+  1) a white toilet sitting on top of a white toilet . (p=0.000332)
+  2) a white toilet with a black seat on top of a white floor . (p=0.000073)

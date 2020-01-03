@@ -1,0 +1,364 @@
+Captions for image 1515323_335473953259397_1123885335_n.jpg:
+  0) a street sign that is on a pole . (p=0.000111)
+  1) a street sign that is on the side of a pole . (p=0.000032)
+  2) a stop sign with a street sign on top of it . (p=0.000020)
+Captions for image 11363734_740088956101642_2097448976_a.jpg:
+  0) a large clock tower towering over a city . (p=0.000489)
+  1) a large clock tower towering over the ocean . (p=0.000102)
+  2) a large clock tower towering over the ocean (p=0.000013)
+Captions for image 11176466_1393700640954171_1159677315_n.jpg:
+  0) a man laying on a bed with a dog . (p=0.000575)
+  1) a woman laying on a bed with a dog . (p=0.000512)
+  2) a woman laying on a bed with a dog (p=0.000167)
+Captions for image 19985574_151050692112985_537831614579736576_n.jpg:
+  0) a black and white photo of a vase with flowers . (p=0.000038)
+  1) a black and white photo of a vase with flowers in it . (p=0.000017)
+  2) a black and white photo of a vase with flowers (p=0.000016)
+Captions for image 37827324_701790996827961_3790654847443795968_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000840)
+  1) a close up of a vase of flowers on a table (p=0.000517)
+  2) a close up of a vase with flowers (p=0.000320)
+Captions for image 11236360_342547645931531_740005791_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000456)
+  1) a close up of a person holding an open umbrella (p=0.000178)
+  2) a close up of a vase with flowers (p=0.000151)
+Captions for image 1515459_1450750688477672_2097901000_n.jpg:
+  0) a close up of a black and silver train . (p=0.000164)
+  1) a close up of a black and silver train (p=0.000122)
+  2) a close up of a black and silver car . (p=0.000087)
+Captions for image 36995195_2584038031821489_7213508546996994048_n.jpg:
+  0) a man sitting in front of a laptop computer . (p=0.004209)
+  1) a man sitting in front of a computer monitor . (p=0.000855)
+  2) a man sitting at a desk with a laptop . (p=0.000533)
+Captions for image 15048010_1703737309941764_4992777422924414976_n.jpg:
+  0) a smart phone sitting on top of a table . (p=0.004019)
+  1) a smart phone sitting on top of a wooden table . (p=0.002704)
+  2) a cell phone sitting on top of a table . (p=0.001792)
+Captions for image 47585399_360098884816965_3590927893252256576_n.jpg:
+  0) a close up of a dog wearing a hat (p=0.002469)
+  1) a close up of a dog wearing a tie (p=0.001599)
+  2) a close up of a dog wearing a shirt (p=0.000892)
+Captions for image 47691871_273776776643882_7569325357866032062_n.jpg:
+  0) a pair of shoes sitting on top of a bench . (p=0.000252)
+  1) a pair of shoes sitting on top of a wooden bench . (p=0.000140)
+  2) a pair of shoes sitting on a bench . (p=0.000124)
+Captions for image 36159881_199819100721363_6402615517466591232_n.jpg:
+  0) a close up of a tooth brush and a cup (p=0.000079)
+  1) a close up of a cup and a cup (p=0.000045)
+  2) a close up of a cup and a cup on a table (p=0.000041)
+Captions for image 35998977_283460602214007_8060163613127606272_n.jpg:
+  0) a man in a suit and tie holding a sign . (p=0.000004)
+  1) a man in a suit and tie holding a sign (p=0.000002)
+  2) a man in a suit and tie is holding a sign . (p=0.000001)
+Captions for image 33476426_1587830658011050_8795115062449668096_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000194)
+  1) a black and white photo of a computer mouse . (p=0.000078)
+  2) a black and white photo of a computer keyboard (p=0.000025)
+Captions for image 35574638_1310954979035474_1354505373737811968_n.jpg:
+  0) a cutting board with a knife and a knife on it . (p=0.000104)
+  1) a cutting board with a knife and a knife on a cutting board . (p=0.000100)
+  2) a cutting board with a knife and a knife on it (p=0.000058)
+Captions for image 47582820_384108679076589_7394837397954449539_n.jpg:
+  0) a wooden bench sitting on top of a sidewalk . (p=0.000292)
+  1) a wooden bench sitting next to a sidewalk . (p=0.000132)
+  2) a wooden bench sitting on a sidewalk next to a sidewalk . (p=0.000061)
+Captions for image 21147714_267072217122017_5217284825299288064_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000133)
+  1) a close up of a person holding a pair of scissors (p=0.000107)
+  2) a close up of a person holding a pair of scissors in front of a building (p=0.000000)
+Captions for image 32284979_252343665324980_4679911973356306432_n.jpg:
+  0) a close up of a flower in a vase (p=0.000797)
+  1) a close up of a vase with flowers in it (p=0.000608)
+  2) a close up of a flower in a glass vase (p=0.000262)
+Captions for image 22157192_1400874206678050_5264258388694401024_n.jpg:
+  0) a man in a suit and tie holding a microphone . (p=0.000284)
+  1) a man in a suit and tie holding a microphone (p=0.000120)
+  2) a man in a suit and tie holding a cell phone . (p=0.000071)
+Captions for image 47416010_156972928601595_8301231071270211509_n.jpg:
+  0) a computer keyboard sitting on top of a wooden desk . (p=0.002744)
+  1) a close up of a keyboard and a mouse (p=0.002098)
+  2) a computer keyboard sitting on top of a desk . (p=0.001208)
+Captions for image 20687142_1472566146153563_926205303630856192_n.jpg:
+  0) a dog sitting in the passenger seat of a car . (p=0.003655)
+  1) a dog looking out the window of a car . (p=0.003196)
+  2) a dog sitting in a car looking out the window . (p=0.001375)
+Captions for image 20759921_365859107166243_674028008243200000_n.jpg:
+  0) a black and white dog sitting on a chair . (p=0.000479)
+  1) a black and white dog laying on a bed . (p=0.000464)
+  2) a black and white dog sitting in a chair . (p=0.000418)
+Captions for image 20634176_862716610551330_202781705445048320_n.jpg:
+  0) an airplane flying in the sky over a city . (p=0.000175)
+  1) an airplane flying in the sky over a building . (p=0.000096)
+  2) an airplane flying in the sky above a city . (p=0.000085)
+Captions for image 27879347_2119415674945461_9096476858727268352_n.jpg:
+  0) a wooden bench sitting in front of a building . (p=0.000086)
+  1) a wooden bench sitting next to a brick wall . (p=0.000040)
+  2) a wooden bench sitting in front of a brick wall . (p=0.000024)
+Captions for image 20633566_364576627293770_2391446126944321536_n.jpg:
+  0) a close up of a pair of scissors (p=0.000527)
+  1) a close up of a person holding a pair of scissors (p=0.000296)
+  2) a close up of a pair of scissors on a table (p=0.000126)
+Captions for image 20589670_1972092656381530_4371183255899078656_n.jpg:
+  0) a dog that is standing in front of a television . (p=0.000215)
+  1) a dog that is sitting on a chair . (p=0.000209)
+  2) a dog that is standing in front of a mirror . (p=0.000209)
+Captions for image 20066857_388982754857810_8641583373325697024_n.jpg:
+  0) a black dog laying on top of a bed . (p=0.004498)
+  1) a black and white dog laying on top of a bed . (p=0.001908)
+  2) a black and white dog laying on a bed . (p=0.001903)
+Captions for image 19984757_1358569197523852_8735734949149147136_n.jpg:
+  0) an airplane flying in the sky over a city . (p=0.000054)
+  1) an airplane flying in the sky over a building . (p=0.000040)
+  2) an airplane flying in the sky above a city . (p=0.000024)
+Captions for image 19932198_2023776994519541_6256074381538099200_n.jpg:
+  0) an airplane flying in the sky over a tree . (p=0.000046)
+  1) an airplane flying in the sky over a city . (p=0.000041)
+  2) a plane flying in the sky over a tree (p=0.000036)
+Captions for image 19367849_1879814835676049_6689299786996121600_n.jpg:
+  0) a view of a bunch of birds flying in the air . (p=0.000014)
+  1) a view of a bunch of birds flying in the sky . (p=0.000010)
+  2) a view of a bunch of birds flying in the air (p=0.000006)
+Captions for image 19228790_279296455870140_1972979917037502464_n.jpg:
+  0) a dog laying on the floor with a toy . (p=0.000124)
+  1) a dog is laying on the floor with a toy . (p=0.000073)
+  2) a dog laying on the floor with a toy (p=0.000042)
+Captions for image 18947866_827588374083766_3553036907074027520_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000095)
+  1) a close up of a person holding a stuffed animal (p=0.000070)
+  2) a close up of a person holding a pair of scissors . (p=0.000003)
+Captions for image 13649220_154342568325833_1843243859_n.jpg:
+  0) a stop sign on the corner of a street . (p=0.000513)
+  1) a stop sign on the corner of a street (p=0.000423)
+  2) a stop sign on the corner of a road . (p=0.000138)
+Captions for image 18646330_212337825946379_4213555447874977792_n.jpg:
+  0) a group of ties hanging on a wall . (p=0.000336)
+  1) a group of ties hanging from a wall . (p=0.000196)
+  2) a group of ties that are hanging on a wall . (p=0.000122)
+Captions for image 18808884_1340856772669663_6464882140847800320_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.002636)
+  1) a glass of wine sitting on top of a wooden table . (p=0.001121)
+  2) a glass of wine sitting on a table next to a glass of wine . (p=0.000284)
+Captions for image 16122592_241330339640854_2264813590361931776_n.jpg:
+  0) a man wearing a tie and a hat . (p=0.000174)
+  1) a man wearing a tie and a hat (p=0.000052)
+  2) a man in a suit and tie standing in a room . (p=0.000032)
+Captions for image 15625290_1216507245101095_4444784486952992768_n.jpg:
+  0) a woman in a dress shirt and a tie . (p=0.000073)
+  1) a woman in a dress shirt and tie is smiling . (p=0.000023)
+  2) a woman in a dress shirt and tie is smiling (p=0.000009)
+Captions for image 18514206_1878045409136665_1012402591432179712_n.jpg:
+  0) a black and white dog holding a frisbee in its mouth . (p=0.000550)
+  1) a black and white dog with a frisbee in its mouth . (p=0.000410)
+  2) a black and white dog laying on top of a grass covered field . (p=0.000156)
+Captions for image 15534948_213321119119851_6128644454212435968_n.jpg:
+  0) a statue of a man sitting on a bench with a dog . (p=0.000037)
+  1) a statue of a man sitting on a bench next to a dog . (p=0.000035)
+  2) a statue of a man and a dog on a bench . (p=0.000026)
+Captions for image 14583533_1664357163893716_6381455274456121344_n.jpg:
+  0) a young boy wearing a tie and a shirt . (p=0.000220)
+  1) a little boy wearing a tie and a shirt . (p=0.000130)
+  2) a young boy wearing a tie and a red shirt . (p=0.000070)
+Captions for image 14482284_1203683289694736_8621599453138124800_n.jpg:
+  0) a woman standing in a room holding a cell phone . (p=0.000139)
+  1) a woman standing in a room with a cell phone . (p=0.000099)
+  2) a woman standing in front of a wall holding a cell phone . (p=0.000045)
+Captions for image 18889027_230776720745015_8377990291088474112_n.jpg:
+  0) a dog running with a frisbee in its mouth . (p=0.004450)
+  1) a dog running in the grass with a frisbee in its mouth . (p=0.002573)
+  2) a dog running with a frisbee in its mouth (p=0.002157)
+Captions for image 14374128_1760178237600513_1146904081_n.jpg:
+  0) a group of young people sitting on a couch . (p=0.000277)
+  1) a group of people sitting on a couch playing video games . (p=0.000093)
+  2) a group of people sitting on a couch playing video games (p=0.000058)
+Captions for image 14073277_1755148601408814_96774993_n.jpg:
+  0) a couple of people that are holding a baby (p=0.000046)
+  1) a couple of people that are holding a stuffed animal (p=0.000043)
+  2) a couple of people that are holding a baby . (p=0.000020)
+Captions for image 14295515_1024762264312491_2114265543_n.jpg:
+  0) a dog running in the grass with a frisbee in its mouth . (p=0.001287)
+  1) a black dog running with a frisbee in its mouth . (p=0.001215)
+  2) a black dog running with a frisbee in its mouth (p=0.000619)
+Captions for image 14156319_1591994277767409_1372145463_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000090)
+  1) a man in a suit and tie is smiling (p=0.000032)
+  2) a man in a suit and tie holding a camera . (p=0.000014)
+Captions for image 14360136_820039974799480_354009585_n.jpg:
+  0) a young girl is holding a teddy bear . (p=0.000208)
+  1) a young girl is holding a teddy bear (p=0.000049)
+  2) a young girl holding a teddy bear in a store . (p=0.000014)
+Captions for image 13687057_1140321452691631_1669995987_n.jpg:
+  0) an open laptop computer sitting on top of a desk . (p=0.003575)
+  1) a laptop computer sitting on top of a desk . (p=0.002874)
+  2) an open laptop computer sitting on top of a table . (p=0.002053)
+Captions for image 13725635_1769010213370747_1031832232_n.jpg:
+  0) a black dog laying on top of a bed . (p=0.001600)
+  1) a black and white dog laying on a bed . (p=0.000632)
+  2) a black and white dog laying on top of a bed . (p=0.000543)
+Captions for image 13712570_283047158738002_315491174_n.jpg:
+  0) a person holding a stuffed animal in a room . (p=0.000003)
+  1) a person holding a baseball bat in front of a tv . (p=0.000003)
+  2) a person holding a baseball bat in a room . (p=0.000002)
+Captions for image 13768213_845284268934958_1797464356_n.jpg:
+  0) a black dog is sitting on a couch (p=0.000824)
+  1) a black dog is sitting on a couch . (p=0.000822)
+  2) a black and white dog sitting on top of a couch . (p=0.000723)
+Captions for image 13671128_872197022880038_293805721_n.jpg:
+  0) a man in a suit and tie holding a microphone . (p=0.000343)
+  1) a man in a suit and tie holding a microphone (p=0.000193)
+  2) a man in a suit and tie standing in front of a microphone . (p=0.000129)
+Captions for image 13561856_156604624750594_1793181275_n.jpg:
+  0) a glass of wine is sitting on a table . (p=0.000432)
+  1) a glass of orange juice sitting on a table . (p=0.000366)
+  2) a glass of wine is sitting on a table (p=0.000265)
+Captions for image 13556717_1022122577835629_927352239_n.jpg:
+  0) a black dog laying on top of a bed . (p=0.006100)
+  1) a black and white dog laying on top of a bed . (p=0.005617)
+  2) a black and white dog laying on a bed . (p=0.003502)
+Captions for image 13573419_1686928721570956_397664707_n.jpg:
+  0) a bottle of beer sitting next to a bottle of beer . (p=0.000939)
+  1) a bottle of beer sitting next to a bottle of wine . (p=0.000436)
+  2) a bottle of beer and a bottle of wine . (p=0.000398)
+Captions for image 13397448_129652544124609_1002273716_n.jpg:
+  0) a black and white dog laying on a bed . (p=0.000718)
+  1) a black and white dog laying on top of a bed . (p=0.000446)
+  2) a black and white dog laying on top of a couch . (p=0.000383)
+Captions for image 13402735_1606884159602011_1105917039_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001497)
+  1) a large clock tower in the middle of a city . (p=0.000503)
+  2) a large clock tower in the middle of a city (p=0.000124)
+Captions for image 18888330_1532741576770485_6880705133391380480_n.jpg:
+  0) a dog sitting on a bench in a park . (p=0.000493)
+  1) a dog sitting on a wooden bench in a park . (p=0.000297)
+  2) a dog is sitting on a bench in a park . (p=0.000253)
+Captions for image 13423667_1644188442570261_531901049_n.jpg:
+  0) a close up of a person wearing a suit and tie (p=0.001346)
+  1) a close up of a person wearing a tie (p=0.000359)
+  2) a close up of a person wearing a shirt and tie (p=0.000223)
+Captions for image 12965708_1592531317704295_1773918809_n.jpg:
+  0) a truck is parked on the side of the road . (p=0.000667)
+  1) a truck is parked on the side of a road . (p=0.000393)
+  2) a truck is parked on the side of the road (p=0.000201)
+Captions for image 12750122_1513210975653544_1612846153_n.jpg:
+  0) a black and white dog laying on a bed . (p=0.000791)
+  1) a black and white dog laying on top of a bed . (p=0.000665)
+  2) a black and white dog laying on top of a couch . (p=0.000293)
+Captions for image 12552328_1559580687665226_1299325898_n.jpg:
+  0) a couple of dogs standing in the snow . (p=0.000713)
+  1) a couple of dogs standing on top of a snow covered slope . (p=0.000361)
+  2) a couple of dogs standing on top of a snow covered field . (p=0.000162)
+Captions for image 12568810_891399870977962_527480939_n.jpg:
+  0) a classic car is parked in a field . (p=0.000271)
+  1) a classic car is parked on the grass . (p=0.000260)
+  2) a classic car is parked in the grass . (p=0.000188)
+Captions for image 12552362_942256975852668_912148321_n.jpg:
+  0) a black dog laying on top of a bed . (p=0.001190)
+  1) a black dog laying on top of a couch . (p=0.001012)
+  2) a black and white dog laying on top of a bed . (p=0.000746)
+Captions for image 12105062_143148476038823_1296501975_n.jpg:
+  0) a black and white dog laying on a couch . (p=0.001017)
+  1) a black and white dog laying on a bed . (p=0.000575)
+  2) a black and white dog laying on a couch (p=0.000478)
+Captions for image 10488604_1439840876300736_909937080_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.001460)
+  1) a glass of wine sitting on top of a wooden table . (p=0.000586)
+  2) a glass of wine is sitting on a table (p=0.000358)
+Captions for image 11176095_834835546591180_1972303410_n.jpg:
+  0) a fire hydrant in the snow near a tree . (p=0.000199)
+  1) a fire hydrant sitting in the snow near a tree . (p=0.000102)
+  2) a fire hydrant in the middle of a snowy field . (p=0.000077)
+Captions for image 11205952_843366882400652_1675592098_n.jpg:
+  0) a parking meter sitting on the side of a road . (p=0.003176)
+  1) a parking meter sitting on the side of a street . (p=0.000724)
+  2) a parking meter sitting on the side of the road . (p=0.000188)
+Captions for image 18888799_1068576513241837_152560274895798272_n.jpg:
+  0) a black and white dog sitting on a chair . (p=0.000675)
+  1) a black and white dog sitting on a wooden chair . (p=0.000277)
+  2) a black and white dog sitting on top of a chair . (p=0.000237)
+Captions for image 1168548_477846952316831_67844307_n.jpg:
+  0) a street sign on a pole with a sky background (p=0.000105)
+  1) a street sign on a pole near a building (p=0.000092)
+  2) a street sign on a pole with a building in the background (p=0.000036)
+Captions for image 11193023_874656412622522_2026880379_n.jpg:
+  0) a brown and white dog sitting on a couch . (p=0.000281)
+  1) a brown and white dog laying on a couch . (p=0.000156)
+  2) a brown and white dog laying on a bed . (p=0.000150)
+Captions for image 11232450_814630381951432_1737756902_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.000663)
+  1) a piece of cake on a plate with a fork (p=0.000262)
+  2) a piece of cake on a white plate (p=0.000162)
+Captions for image 11357339_1591885067761005_418316597_n.jpg:
+  0) a dog laying on a bed with a blanket . (p=0.000643)
+  1) a dog laying on top of a bed next to pillows . (p=0.000519)
+  2) a dog laying on a bed with a blanket (p=0.000393)
+Captions for image 11230441_1666330260262669_708566481_n.jpg:
+  0) a rear view mirror of a car driving down a street . (p=0.000087)
+  1) a rear view mirror of a car on a street . (p=0.000054)
+  2) a rear view mirror of a car on a road . (p=0.000035)
+Captions for image 11232489_944567345584016_935375723_n.jpg:
+  0) a dog laying in the grass with a frisbee in its mouth . (p=0.001567)
+  1) a dog laying in the grass with a frisbee . (p=0.001288)
+  2) a dog laying on the grass with a frisbee in its mouth . (p=0.000698)
+Captions for image 11245932_758149490968918_764596794_n.jpg:
+  0) a dog laying on a couch next to a remote control . (p=0.000333)
+  1) a dog laying on a couch with a remote . (p=0.000310)
+  2) a dog laying on a couch next to a remote . (p=0.000243)
+Captions for image 18888532_115101345747421_2083864307489046528_n.jpg:
+  0) a dog sitting on a couch in a room . (p=0.000257)
+  1) a dog sitting on a couch in a living room . (p=0.000186)
+  2) a dog sitting on the floor in front of a window . (p=0.000147)
+Captions for image 11232798_449173058581602_636661717_n.jpg:
+  0) a dog laying on the floor next to a bed . (p=0.000044)
+  1) a dog laying on the floor next to a bed (p=0.000034)
+  2) a dog laying on the floor next to a couch . (p=0.000029)
+Captions for image 11235890_429200697249752_1501916085_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.000634)
+  1) a bottle of wine sitting on top of a table next to a glass of wine . (p=0.000034)
+  2) a bottle of wine sitting on top of a table next to a glass . (p=0.000029)
+Captions for image 11203230_493629527455721_1564200725_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000215)
+  1) a close up of a street sign with a building in the background (p=0.000065)
+  2) a close up of a stop sign with a sky background (p=0.000057)
+Captions for image 11232852_641090349324838_554365216_n.jpg:
+  0) a dog that is standing on a skateboard . (p=0.000631)
+  1) a dog that is laying down on a carpet . (p=0.000615)
+  2) a dog that is laying down on the floor . (p=0.000433)
+Captions for image 11242516_823742314387099_592179258_n.jpg:
+  0) a dog running with a frisbee in its mouth . (p=0.003573)
+  1) a dog running with a frisbee in its mouth (p=0.001813)
+  2) a dog running in the grass with a frisbee in its mouth . (p=0.001277)
+Captions for image 11195742_1586581048276418_1786477119_n.jpg:
+  0) a dog laying on a bed with a blanket . (p=0.000257)
+  1) a dog laying on a bed with a blanket (p=0.000123)
+  2) a dog laying on a couch with a stuffed animal . (p=0.000069)
+Captions for image 11190232_1646472962250264_1027362026_n.jpg:
+  0) a dog laying on a bed with a blanket . (p=0.000055)
+  1) a dog laying on a bed with a blanket (p=0.000023)
+  2) a dog is sitting on a couch with its eyes closed . (p=0.000016)
+Captions for image 11236374_918733494815689_344041664_n.jpg:
+  0) a woman holding a dog in her arms . (p=0.000245)
+  1) a woman is holding a dog in her arms . (p=0.000147)
+  2) a woman is holding a dog in her arms (p=0.000119)
+Captions for image 11208171_381720255356571_1443607840_n.jpg:
+  0) a close up of a pair of scissors (p=0.001155)
+  1) a pair of scissors sitting on top of a table . (p=0.000302)
+  2) a close up of a pair of scissors on a table (p=0.000268)
+Captions for image 11184616_380748225447852_582184328_n.jpg:
+  0) a couple of women standing next to each other . (p=0.002320)
+  1) a couple of women standing next to each other in a room . (p=0.000043)
+  2) a woman and a man are standing together (p=0.000036)
+Captions for image 11226840_1579053585691785_1068181501_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.001901)
+  1) a laptop computer sitting on top of a table . (p=0.001806)
+  2) a laptop computer sitting on top of a wooden table . (p=0.001041)
+Captions for image 11191498_982708178436215_650836038_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.001080)
+  1) a close up of a person holding a cell phone (p=0.000689)
+  2) a close up of a person wearing a tie (p=0.000228)
+Captions for image 11226648_589229211179483_1318445444_n.jpg:
+  0) a close up of a clock on a wall (p=0.000110)
+  1) a close up of a clock on a table (p=0.000078)
+  2) a close up of a clock on a building (p=0.000047)
+Captions for image 11190997_1441157359530907_1299841440_n.jpg:
+  0) a bunch of doughnuts are in a box (p=0.000076)
+  1) a bunch of different types of doughnuts in a box . (p=0.000052)
+  2) a bunch of different types of doughnuts on a table . (p=0.000048)

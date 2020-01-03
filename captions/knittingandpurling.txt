@@ -1,0 +1,804 @@
+Captions for image 925990_242445872577762_253997746_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000244)
+  1) a sign that is on the side of a wall . (p=0.000071)
+  2) a sign that is on the side of a pole . (p=0.000068)
+Captions for image 11326165_842270049200812_400838128_n.jpg:
+  0) a bowl of soup with a spoon in it . (p=0.000093)
+  1) a bowl of soup with a spoon in it (p=0.000049)
+  2) a bowl of cereal and a bowl of soup on a table . (p=0.000016)
+Captions for image 1391377_1432323063657407_1098343349_n.jpg:
+  0) a group of people standing next to each other . (p=0.007380)
+  1) a group of people posing for a picture . (p=0.003229)
+  2) a group of people posing for a picture (p=0.001861)
+Captions for image 1173099_590554037648087_1314352463_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000425)
+  1) a man and a woman standing in front of a building . (p=0.000045)
+  2) a man and a woman are standing outside (p=0.000038)
+Captions for image 11312104_956685361048211_602910039_n.jpg:
+  0) a bunch of different colored vases on a table . (p=0.000014)
+  1) a bunch of different types of scissors on a table . (p=0.000013)
+  2) a bunch of different colored vases on a table (p=0.000012)
+Captions for image 44884218_345707102882519_2446069589734326272_n.jpg:
+  0) a white toilet sitting on top of a wooden floor . (p=0.000743)
+  1) a white toilet sitting on top of a white toilet . (p=0.000332)
+  2) a white toilet with a black seat on top of a white floor . (p=0.000073)
+Captions for image 1389817_670957962945070_813436526_n.jpg:
+  0) a woman holding a cake with candles on it . (p=0.000356)
+  1) a woman holding a cake with candles on it (p=0.000156)
+  2) a woman holding a cake with candles in it . (p=0.000129)
+Captions for image 1172168_1413373252227475_205747040_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.000151)
+  1) a boat floating on top of a river next to a bridge . (p=0.000017)
+  2) a boat floating on top of a river next to a forest . (p=0.000010)
+Captions for image 1171880_1434129786807168_2023857995_n.jpg:
+  0) a group of people standing next to each other . (p=0.005772)
+  1) a group of people posing for a picture . (p=0.004419)
+  2) a group of people posing for a picture (p=0.002459)
+Captions for image 1169093_598648980195826_504033523_n.jpg:
+  0) a street sign that is on a pole . (p=0.000186)
+  1) a street sign that is on the side of a pole . (p=0.000063)
+  2) a street sign that is on a pole (p=0.000042)
+Captions for image 11324901_514095122077689_1951688981_n.jpg:
+  0) a bowl of cereal and a banana on a table . (p=0.000373)
+  1) a bowl of cereal and a banana on a table (p=0.000132)
+  2) a bowl of cereal next to a bowl of cereal . (p=0.000070)
+Captions for image 1390333_697344576942793_449615470_n.jpg:
+  0) a street sign that is on top of a pole . (p=0.000236)
+  1) a street sign that is on a pole . (p=0.000129)
+  2) a street sign that is on a pole (p=0.000028)
+Captions for image 1170184_559601794119151_1146941362_n.jpg:
+  0) a woman standing next to a table with a vase . (p=0.000069)
+  1) a woman standing next to a table with a vase of flowers . (p=0.000038)
+  2) a woman standing in front of a table with a vase . (p=0.000029)
+Captions for image 1389281_1392567667651396_1651396582_n.jpg:
+  0) a woman sitting on a bench in front of a building . (p=0.000437)
+  1) a woman standing in front of a building . (p=0.000251)
+  2) a woman sitting on a bench in front of a window . (p=0.000160)
+Captions for image 1389756_535589303202598_698797330_n.jpg:
+  0) a woman standing in front of a train . (p=0.000508)
+  1) a woman standing in front of a train holding a cell phone . (p=0.000031)
+  2) a woman standing in front of a train holding a phone . (p=0.000018)
+Captions for image 11282880_350929015096512_2037213900_n.jpg:
+  0) a bunch of items that are on a table . (p=0.000103)
+  1) a bunch of items that are on a shelf . (p=0.000062)
+  2) a bunch of items that are sitting on a table . (p=0.000029)
+Captions for image 1209616_228145104012424_1255712233_n.jpg:
+  0) a woman standing next to a giant teddy bear . (p=0.000980)
+  1) a woman standing next to a statue of a teddy bear . (p=0.000345)
+  2) a woman standing next to a statue of a bear . (p=0.000307)
+Captions for image 924794_211788985666670_1587165793_n.jpg:
+  0) a bunch of doughnuts that are on a table . (p=0.000076)
+  1) a bunch of doughnuts that are in a box . (p=0.000038)
+  2) a bunch of doughnuts that are on a table (p=0.000031)
+Captions for image 11266435_1470193083272013_1705642150_n.jpg:
+  0) a close up of a plate of food (p=0.000705)
+  1) a close up of a plate of food with meat (p=0.000613)
+  2) a close up of a plate of food on a table (p=0.000593)
+Captions for image 1208403_248857168610378_1650311610_n.jpg:
+  0) a sign that reads `` <UNK> '' on a brick wall . (p=0.000002)
+  1) a sign that reads `` <UNK> '' on the side of a building . (p=0.000002)
+  2) a sign that reads `` <UNK> '' on a wall . (p=0.000002)
+Captions for image 1208452_773133222712153_2050703053_n.jpg:
+  0) a woman standing in front of a mirror holding a cell phone . (p=0.000054)
+  1) a woman standing in front of a mirror holding a camera . (p=0.000048)
+  2) a woman standing in front of a mirror holding a teddy bear . (p=0.000024)
+Captions for image 1389323_745936182087192_1587085344_n.jpg:
+  0) a woman standing in front of an open refrigerator . (p=0.000019)
+  1) a man standing in front of a counter in a kitchen . (p=0.000009)
+  2) a man standing in front of a counter in a restaurant . (p=0.000005)
+Captions for image 11330702_846558628726048_1233647826_n.jpg:
+  0) a close up of a plate of food on a table (p=0.000634)
+  1) a close up of a plate of food (p=0.000322)
+  2) a close up of a plate of food with a sandwich (p=0.000203)
+Captions for image 11275115_945766588777051_213427132_n.jpg:
+  0) a tv screen with a sign on it (p=0.000003)
+  1) a tv screen showing a picture of a man and a woman . (p=0.000000)
+  2) a tv screen showing a picture of a man in a car . (p=0.000000)
+Captions for image 11328520_936512796412885_910038236_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000108)
+  1) a close up of a stop sign with a sticker on it (p=0.000030)
+  2) a close up of a stop sign with a sign on it (p=0.000018)
+Captions for image 11282610_1438357696465203_792165419_n.jpg:
+  0) a clock on a wall next to a window (p=0.000003)
+  1) a clock on a wall next to a window . (p=0.000002)
+  2) a sign that says `` <UNK> '' in front of a window . (p=0.000000)
+Captions for image 11287865_576861915789332_74630795_n.jpg:
+  0) a white plate topped with a cut in half sandwich . (p=0.000330)
+  1) a white plate topped with a sandwich and a salad . (p=0.000106)
+  2) a white plate topped with a cut in half sandwich and a salad . (p=0.000016)
+Captions for image 11259239_1393830977612333_246309287_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.000240)
+  1) a large clock mounted to the side of a wall . (p=0.000034)
+  2) a large building with a clock on it . (p=0.000014)
+Captions for image 11271975_362770963919116_621957609_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000180)
+  1) a pair of scissors sitting on top of a table (p=0.000027)
+  2) a pair of scissors and a pair of scissors (p=0.000009)
+Captions for image 11258550_797731313659519_798874182_n.jpg:
+  0) a book and a book on a table . (p=0.000246)
+  1) a book is sitting on top of a book . (p=0.000149)
+  2) a book is sitting on top of a book (p=0.000085)
+Captions for image 11313322_1614341832146224_1936197767_n.jpg:
+  0) a book and a book on a bed . (p=0.000255)
+  1) a book is laying on top of a bed . (p=0.000211)
+  2) a book is laying on top of a bed (p=0.000122)
+Captions for image 10549770_369395309915634_1647242340_n.jpg:
+  0) a close up of a pair of scissors (p=0.003069)
+  1) a close up of a person holding a pair of scissors (p=0.000878)
+  2) a close up of a pair of scissors on a table (p=0.000315)
+Captions for image 11333456_996476503729746_187912041_n.jpg:
+  0) a close up of a box of doughnuts (p=0.000961)
+  1) a close up of a box of doughnuts on a table (p=0.000206)
+  2) a close up of a box of donuts (p=0.000164)
+Captions for image 11282689_834545649934359_1618051711_n.jpg:
+  0) a cup of coffee and a banana on a table . (p=0.000683)
+  1) a cup of coffee sitting next to a cup of coffee . (p=0.000427)
+  2) a cup of coffee and a cup of coffee . (p=0.000411)
+Captions for image 11326426_647469245387056_2101287362_n.jpg:
+  0) a bowl of food with a spoon and a spoon . (p=0.000061)
+  1) a bowl of soup with a spoon and a spoon . (p=0.000045)
+  2) a bowl of soup with a spoon and a spoon (p=0.000021)
+Captions for image 11296625_881124225267344_748031631_n.jpg:
+  0) a busy city street at night with lights on . (p=0.000027)
+  1) a busy city street at night with lights on (p=0.000013)
+  2) a busy city street at night with a red light . (p=0.000007)
+Captions for image 11311069_945250035495640_1926748482_n.jpg:
+  0) a donut with a bite taken out of it (p=0.000122)
+  1) a donut with a bite taken out of it . (p=0.000090)
+  2) a donut with sprinkles is sitting on a napkin . (p=0.000027)
+Captions for image 11311367_1595892144028900_996077329_n.jpg:
+  0) a bowl of cereal and a banana on a table . (p=0.000161)
+  1) a bowl of cereal with a banana in it . (p=0.000099)
+  2) a bowl of cereal with a banana in it (p=0.000067)
+Captions for image 11271050_870656876322425_1922963054_n.jpg:
+  0) a cup of coffee and a banana on a table . (p=0.000815)
+  1) a cup of coffee sitting next to a banana . (p=0.000408)
+  2) a cup of coffee sitting next to a cup of coffee . (p=0.000278)
+Captions for image 11296893_489638721199794_992545234_n.jpg:
+  0) a bowl of soup with a spoon and a spoon . (p=0.000102)
+  1) a bowl of soup sitting on a table next to a bowl of soup . (p=0.000061)
+  2) a bowl of soup sitting on a table next to a spoon . (p=0.000058)
+Captions for image 11250639_498755456943661_1444458335_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002445)
+  1) a city street filled with traffic and traffic lights . (p=0.000344)
+  2) a city street filled with lots of traffic and traffic lights . (p=0.000111)
+Captions for image 11326578_1443629482598697_1041207104_n.jpg:
+  0) a table with a bottle of beer and a laptop . (p=0.000001)
+  1) a table with a bottle of beer and a hot dog . (p=0.000001)
+  2) a table with a bottle of beer and a hot dog (p=0.000000)
+Captions for image 11324492_973314832699481_1302562476_n.jpg:
+  0) a cup of coffee and a banana on a table . (p=0.000009)
+  1) a cup of coffee and a banana on a table (p=0.000002)
+  2) a cup of coffee and a banana on a counter . (p=0.000001)
+Captions for image 11272904_378120232381793_902123359_n.jpg:
+  0) a close up of a plate of food on a table (p=0.001448)
+  1) a close up of a plate of food (p=0.001180)
+  2) a piece of chocolate cake on a white plate . (p=0.000508)
+Captions for image 11263638_382422541965278_179608412_n.jpg:
+  0) a close up of a plate of food (p=0.000306)
+  1) a close up of a plate of food with meat (p=0.000151)
+  2) a close up of a person holding a piece of food (p=0.000134)
+Captions for image 11326333_1621973821348457_191657142_n.jpg:
+  0) a close up of a person holding a sandwich (p=0.000306)
+  1) a close up of a person holding a hot dog (p=0.000231)
+  2) a close up of a person holding a doughnut (p=0.000207)
+Captions for image 11281963_800635676689605_393567141_n.jpg:
+  0) a close up of a box of doughnuts (p=0.000762)
+  1) a close up of a person holding a doughnut (p=0.000577)
+  2) a close up of a person holding a sandwich (p=0.000238)
+Captions for image 11327154_1453844888242099_55602789_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000114)
+  1) a pair of scissors sitting on top of a table . (p=0.000100)
+  2) a close up of a person holding a sandwich (p=0.000097)
+Captions for image 11311258_678982692225192_91108099_n.jpg:
+  0) a close up of a person holding a sandwich (p=0.000295)
+  1) a close up of a box of doughnuts (p=0.000226)
+  2) a close up of a person holding a hot dog (p=0.000216)
+Captions for image 11327041_869933603078457_1448274555_n.jpg:
+  0) a group of people sitting around a table . (p=0.000247)
+  1) a group of people sitting around a table with food . (p=0.000037)
+  2) a group of people sitting around a table with food on it . (p=0.000008)
+Captions for image 1208407_1425126194474648_1669904001_n.jpg:
+  0) a sign that reads `` <UNK> '' on a street sign . (p=0.000001)
+  1) a sign that says `` <UNK> '' on a sign . (p=0.000001)
+  2) a sign that says `` <UNK> '' on a sign (p=0.000000)
+Captions for image 11255416_1614398105440363_1476037350_n.jpg:
+  0) a room filled with lots of luggage and people . (p=0.000070)
+  1) a room filled with lots of furniture and a tv . (p=0.000055)
+  2) a room filled with lots of furniture and a window . (p=0.000042)
+Captions for image 11326075_990831287618542_1384370191_n.jpg:
+  0) a group of people standing around a kitchen . (p=0.001168)
+  1) a group of people standing in a kitchen . (p=0.000762)
+  2) a group of people standing around a kitchen counter . (p=0.000649)
+Captions for image 11311278_480881522075272_365563689_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000166)
+  1) a pair of scissors sitting on a table . (p=0.000114)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000068)
+Captions for image 11324503_443902765785148_1084942138_n.jpg:
+  0) a living room with a couch and a table (p=0.000090)
+  1) a living room with a couch a table and chairs (p=0.000031)
+  2) a living room with a couch a table and a tv (p=0.000030)
+Captions for image 11246219_1438622616440200_1028206246_n.jpg:
+  0) a group of stuffed animals sitting on top of a table . (p=0.000041)
+  1) a group of stuffed animals sitting on top of a bed . (p=0.000026)
+  2) a group of stuffed animals sitting on a table . (p=0.000018)
+Captions for image 11287472_813550828728501_1737688689_n.jpg:
+  0) a group of people standing in a room . (p=0.000493)
+  1) a group of people standing in a room with a clock . (p=0.000013)
+  2) a group of people standing in a room with a clock on the wall . (p=0.000002)
+Captions for image 11325434_941733852555819_1177938637_n.jpg:
+  0) a shelf with a bunch of different items on it (p=0.000007)
+  1) a shelf with a bunch of different items (p=0.000002)
+  2) a shelf with a bunch of different items on it . (p=0.000002)
+Captions for image 11244975_1618327375074813_1618735986_n.jpg:
+  0) a kitchen with a lot of pots and pans (p=0.000026)
+  1) a kitchen with a lot of pots and pans on it (p=0.000004)
+  2) a kitchen with a lot of pots and pans on the counter (p=0.000002)
+Captions for image 11326479_276575185862099_18153707_n.jpg:
+  0) a display case filled with lots of different types of donuts . (p=0.000724)
+  1) a display case filled with lots of different flavored donuts . (p=0.000697)
+  2) a display case in a store filled with lots of different types of donuts . (p=0.000028)
+Captions for image 11273327_892396577483296_253110506_n.jpg:
+  0) a bathroom with a toilet and a sink (p=0.000038)
+  1) a bathroom with a toilet , sink and a mirror . (p=0.000011)
+  2) a bathroom with a toilet , sink , and a mirror . (p=0.000003)
+Captions for image 11326743_375044789357823_1147709386_n.jpg:
+  0) a display case filled with lots of different colored ties . (p=0.000041)
+  1) a display case filled with lots of bottles of booze . (p=0.000033)
+  2) a display case filled with lots of different types of wines . (p=0.000030)
+Captions for image 11264226_658694950897657_1825719262_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.002792)
+  1) a book shelf filled with lots of different types of books . (p=0.000555)
+  2) a book shelf filled with lots of books and a clock . (p=0.000114)
+Captions for image 11276345_1606854252890119_1437388873_n.jpg:
+  0) a bunch of ties hanging from a rack . (p=0.000245)
+  1) a bunch of ties hanging from a rack (p=0.000107)
+  2) a bunch of ties are hanging from a rack (p=0.000069)
+Captions for image 11325211_703703836423099_520985689_n.jpg:
+  0) a refrigerator with many magnets on it (p=0.000062)
+  1) a kitchen with a refrigerator and a stove (p=0.000034)
+  2) a kitchen with a refrigerator and a stove . (p=0.000018)
+Captions for image 11313660_1627417124166985_1086810717_n.jpg:
+  0) a refrigerator filled with lots of food and drinks . (p=0.000576)
+  1) a refrigerator filled with lots of different types of food . (p=0.000279)
+  2) a refrigerator filled with lots of different types of foods . (p=0.000038)
+Captions for image 11264318_1598521487099567_2007637557_n.jpg:
+  0) a group of people standing around a table with a cake . (p=0.000015)
+  1) a group of people standing in front of a table filled with cakes . (p=0.000007)
+  2) a group of people standing in front of a table filled with food . (p=0.000006)
+Captions for image 11266014_1427003327620174_83747456_n.jpg:
+  0) a group of people standing next to each other . (p=0.000599)
+  1) a man and a woman standing next to each other . (p=0.000166)
+  2) a group of people standing next to each other in a room . (p=0.000065)
+Captions for image 11252517_396395807211429_561385688_n.jpg:
+  0) a display case filled with lots of bottles of booze . (p=0.000118)
+  1) a display case filled with lots of different colored ties . (p=0.000117)
+  2) a display case filled with lots of different types of bottles . (p=0.000030)
+Captions for image 11265783_783737325066658_584506982_n.jpg:
+  0) a person is holding a large piece of luggage . (p=0.000033)
+  1) a person is holding a large piece of luggage (p=0.000009)
+  2) a woman in a red dress holding a suitcase . (p=0.000002)
+Captions for image 11287484_1445348805766014_1677371694_n.jpg:
+  0) a woman standing in front of a store window . (p=0.000102)
+  1) a woman standing in front of a display case . (p=0.000087)
+  2) a woman standing in front of a display of a teddy bear . (p=0.000010)
+Captions for image 11272177_833762473377313_1368074761_n.jpg:
+  0) a bunch of bottles of wine sitting on a table . (p=0.000057)
+  1) a bunch of bottles of wine sitting on a counter . (p=0.000038)
+  2) a bunch of bottles of wine sitting on top of a table . (p=0.000037)
+Captions for image 11311406_558306937645659_1154021274_n.jpg:
+  0) a group of people standing in front of a store . (p=0.000091)
+  1) a group of people standing in front of a store window . (p=0.000038)
+  2) a group of people standing around a store window . (p=0.000031)
+Captions for image 11311460_417911838391531_557690984_n.jpg:
+  0) a bunch of bottles of wine sitting on top of a counter . (p=0.000037)
+  1) a bunch of bottles of wine sitting on top of a table . (p=0.000032)
+  2) a bunch of bottles of wine sitting on a table . (p=0.000031)
+Captions for image 11326241_1649295011970531_709393477_n.jpg:
+  0) a display case filled with lots of different colored vases . (p=0.000248)
+  1) a display case filled with lots of bottles of booze . (p=0.000205)
+  2) a display case filled with lots of different types of bottles . (p=0.000043)
+Captions for image 11325317_1023506840993145_260339680_n.jpg:
+  0) a group of people standing around a table filled with food . (p=0.000018)
+  1) a group of people standing around a table with a cake . (p=0.000013)
+  2) a group of people standing around a table filled with cakes . (p=0.000012)
+Captions for image 11282603_1594215197530681_990698102_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000111)
+  1) a close up of a person holding a baseball bat (p=0.000062)
+  2) a close up of a person wearing a suit and tie (p=0.000048)
+Captions for image 11313680_1449120312066815_717075970_n.jpg:
+  0) a woman standing in a kitchen next to a table . (p=0.000432)
+  1) a woman standing in a kitchen next to a counter . (p=0.000248)
+  2) a woman standing in a kitchen next to a window . (p=0.000235)
+Captions for image 11273042_919710564761128_564949529_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000969)
+  1) a close up of a pair of scissors (p=0.000599)
+  2) a close up of a person wearing a tie (p=0.000228)
+Captions for image 11247135_1073114729384146_2120182783_n.jpg:
+  0) a vase with a flower on top of it . (p=0.000025)
+  1) a vase with a flower on top of it (p=0.000013)
+  2) a decorative vase with a flower on top of it . (p=0.000007)
+Captions for image 11243745_1627038110846570_414836082_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000095)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000057)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000013)
+Captions for image 11325426_696900223772748_379836909_n.jpg:
+  0) a close up of a cake on a table (p=0.000460)
+  1) a close up of a plate of food on a table (p=0.000268)
+  2) a close up of a cake on a plate (p=0.000080)
+Captions for image 11312431_698398103620007_816016174_n.jpg:
+  0) a table with a cake and candles on it (p=0.000026)
+  1) a table with a cake and candles on it . (p=0.000017)
+  2) a table with a cake and a knife on it (p=0.000016)
+Captions for image 11288029_671856402920124_1453514684_n.jpg:
+  0) a couple of vases sitting on top of a table . (p=0.000219)
+  1) a couple of vases sitting on top of a shelf . (p=0.000180)
+  2) a couple of vases that are on a table (p=0.000089)
+Captions for image 11296694_483067118512047_2046732481_n.jpg:
+  0) a bunch of vases that are on a table . (p=0.000114)
+  1) a bunch of vases that are on a table (p=0.000099)
+  2) a bunch of vases on display on a table (p=0.000051)
+Captions for image 1208407_390570134401667_57536695_n.jpg:
+  0) a table with a bunch of cakes on it (p=0.000020)
+  1) a shelf with a bunch of vases on it (p=0.000007)
+  2) a table with a bunch of cakes on it . (p=0.000003)
+Captions for image 11313331_538264072978554_2024652548_n.jpg:
+  0) a remote control sitting on top of a table . (p=0.001067)
+  1) a remote control sitting on top of a wooden table . (p=0.000869)
+  2) a remote control sitting on top of a table next to a book . (p=0.000060)
+Captions for image 11325982_1116182885064676_101013955_n.jpg:
+  0) a close up of a doughnut on a plate (p=0.000856)
+  1) a close up of a doughnut on a table (p=0.000173)
+  2) a banana sitting on top of a piece of paper . (p=0.000050)
+Captions for image 11283426_1632568320291622_581968892_n.jpg:
+  0) a group of people sitting around a table . (p=0.000334)
+  1) a group of people sitting around a table with wine glasses . (p=0.000014)
+  2) a group of people sitting at a table with a microphone . (p=0.000008)
+Captions for image 11325310_1601332600105016_265866073_n.jpg:
+  0) a bedroom with a bed and a table (p=0.000006)
+  1) a bedroom with a large bed and a table (p=0.000001)
+  2) a bedroom with a bed and a table in the middle (p=0.000000)
+Captions for image 11325143_443840352460528_282197702_n.jpg:
+  0) a group of people standing in a room . (p=0.000490)
+  1) a group of people standing in a room with a table . (p=0.000004)
+  2) a group of people in a room with a lot of items . (p=0.000002)
+Captions for image 11311222_1437013536616145_496302351_n.jpg:
+  0) a group of people standing in a room . (p=0.002874)
+  1) a group of people standing in a room with remotes . (p=0.000531)
+  2) a group of people standing in a kitchen (p=0.000291)
+Captions for image 11313718_1449344278709681_910265772_n.jpg:
+  0) a crowd of people standing around a store . (p=0.000141)
+  1) a crowd of people standing around a large building . (p=0.000118)
+  2) a group of people standing around a large building . (p=0.000103)
+Captions for image 11324481_1444451895851679_374417876_n.jpg:
+  0) a living room filled with lots of furniture . (p=0.001193)
+  1) a living room filled with lots of furniture and decor . (p=0.000255)
+  2) a living room filled with lots of furniture and a fire place . (p=0.000253)
+Captions for image 11313382_1604202929863616_711454119_n.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.002626)
+  1) a living room filled with lots of furniture . (p=0.001210)
+  2) a living room filled with lots of furniture and a fire place . (p=0.000529)
+Captions for image 11326806_566539450155666_1167265042_n.jpg:
+  0) a close up of a book on a table (p=0.000125)
+  1) a close up of a person holding a sign (p=0.000066)
+  2) a close up of a book on a desk (p=0.000058)
+Captions for image 11265895_699418546851434_900460669_n.jpg:
+  0) a group of people standing next to each other . (p=0.000025)
+  1) a group of people standing next to each other in a room . (p=0.000002)
+  2) a group of people standing next to each other holding a game controller . (p=0.000001)
+Captions for image 11327082_848372411918619_644014948_n.jpg:
+  0) a group of people standing in a room . (p=0.000500)
+  1) a group of people standing in a room with luggage . (p=0.000095)
+  2) a group of people standing in a room with luggage (p=0.000007)
+Captions for image 11257227_1409594072697821_686270295_n.jpg:
+  0) a sign that says `` <UNK> '' on the side of a building . (p=0.000001)
+  1) a sign that says `` <UNK> '' on the side of it . (p=0.000001)
+  2) a sign that says `` <UNK> '' on the side of the road . (p=0.000000)
+Captions for image 11265052_1439171713051179_1286342265_n.jpg:
+  0) a laptop computer sitting on top of a wooden desk . (p=0.000406)
+  1) a laptop computer sitting on top of a desk . (p=0.000394)
+  2) a laptop computer sitting on top of a wooden table . (p=0.000368)
+Captions for image 11311360_1602098463377123_1790110754_n.jpg:
+  0) a bunch of signs that are on a pole . (p=0.000789)
+  1) a bunch of signs that are in the street . (p=0.000099)
+  2) a bunch of signs that are on a pole (p=0.000076)
+Captions for image 11326618_719740591469468_1214728858_n.jpg:
+  0) a sign that says `` <UNK> '' on it 's side . (p=0.000002)
+  1) a sign that reads `` <UNK> '' on a wall . (p=0.000002)
+  2) a sign that reads `` <UNK> '' on a white wall . (p=0.000001)
+Captions for image 11311491_1588422704751855_938041200_n.jpg:
+  0) a piece of luggage sitting on top of a wooden floor . (p=0.000803)
+  1) a piece of luggage sitting on top of a floor . (p=0.000773)
+  2) a piece of luggage sitting on top of a table . (p=0.000409)
+Captions for image 11311107_358893764300242_337019859_n.jpg:
+  0) a clock that is sitting on a table . (p=0.000171)
+  1) a clock that is sitting on a table (p=0.000052)
+  2) a clock that is sitting on top of a table . (p=0.000051)
+Captions for image 11274408_1100994886593565_1367340216_n.jpg:
+  0) a bag of luggage sitting on top of a table . (p=0.000152)
+  1) a bag of luggage sitting on top of a bed . (p=0.000120)
+  2) a bag of luggage sitting on top of a wooden floor . (p=0.000111)
+Captions for image 11259714_543742372430127_193042339_n.jpg:
+  0) a clock on a table with a book (p=0.000011)
+  1) a clock with a picture of a man on it . (p=0.000005)
+  2) a clock with a picture of a person on it . (p=0.000004)
+Captions for image 11202927_443613639131979_15000839_n.jpg:
+  0) a close up of a clock on a table (p=0.001287)
+  1) a clock that is sitting on a table . (p=0.000832)
+  2) a close up of a clock on a wooden surface (p=0.000249)
+Captions for image 11242846_353831461480358_214805332_n.jpg:
+  0) a black and white photo of a clock on a table . (p=0.000002)
+  1) a black and white photo of a clock on a table (p=0.000002)
+  2) a black and white photo of a clock on a desk . (p=0.000000)
+Captions for image 11312486_468811379940142_1829175558_n.jpg:
+  0) a close up of a pair of scissors (p=0.000266)
+  1) a black and white photo of a pair of scissors . (p=0.000170)
+  2) a close up of a pair of scissors on a table (p=0.000135)
+Captions for image 11273002_986418244703091_1252434905_n.jpg:
+  0) a group of people standing in a room . (p=0.000131)
+  1) a group of people standing around a room with lots of lights . (p=0.000003)
+  2) a group of people standing in a room with a clock . (p=0.000003)
+Captions for image 11266043_1171371072888590_63472165_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000216)
+  1) a pair of scissors sitting on top of a piece of paper . (p=0.000052)
+  2) a pair of scissors sitting on top of a table (p=0.000022)
+Captions for image 11254327_1632429303658991_1208293269_n.jpg:
+  0) a close up of a pair of scissors (p=0.000136)
+  1) a close up of a pair of scissors on a table (p=0.000056)
+  2) a close up of a box with a pair of scissors (p=0.000019)
+Captions for image 11254492_105102383157807_1861127727_n.jpg:
+  0) a bunch of lights that are on a pole . (p=0.000060)
+  1) a bunch of lights that are on a wall . (p=0.000035)
+  2) a bunch of lights that are hanging on a wall . (p=0.000014)
+Captions for image 11282621_817850771632433_1685846676_n.jpg:
+  0) a group of people standing in front of a traffic light . (p=0.000049)
+  1) a group of people standing in front of a building . (p=0.000023)
+  2) a group of people standing in front of a traffic light (p=0.000003)
+Captions for image 11246909_371495213043711_1988168536_n.jpg:
+  0) a group of people walking down a city street . (p=0.000122)
+  1) a group of people standing on a street corner . (p=0.000052)
+  2) a group of people walking down a city street (p=0.000014)
+Captions for image 11282682_1654433638119119_2068099927_n.jpg:
+  0) a group of people walking down a city street . (p=0.000098)
+  1) a group of people standing on a street corner . (p=0.000037)
+  2) a group of people walking down a city street (p=0.000011)
+Captions for image 11282796_785596444871345_709129010_n.jpg:
+  0) a group of people walking down a street . (p=0.000254)
+  1) a group of people walking down a city street . (p=0.000207)
+  2) a group of people walking down a city street (p=0.000021)
+Captions for image 11257080_1590272971262452_357273877_n.jpg:
+  0) a group of people standing on a street corner . (p=0.000033)
+  1) a large group of people standing in front of a building . (p=0.000012)
+  2) a large group of people standing in front of a large building . (p=0.000009)
+Captions for image 11282270_1448013688842944_1808014025_n.jpg:
+  0) a group of people standing on a street corner . (p=0.000071)
+  1) a large group of people standing on a city street . (p=0.000046)
+  2) a large group of people standing on a street corner . (p=0.000045)
+Captions for image 11258266_474157552743510_859834990_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001100)
+  1) a city street filled with traffic and traffic lights . (p=0.000139)
+  2) a city street filled with lots of traffic and traffic lights . (p=0.000039)
+Captions for image 11311214_1394499327544868_1479564152_n.jpg:
+  0) a group of people walking down a street . (p=0.000418)
+  1) a group of people standing on a street corner . (p=0.000287)
+  2) a group of people standing on the side of a street . (p=0.000193)
+Captions for image 11268974_1443074552659623_1544413244_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002414)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000144)
+  2) a city street filled with lots of traffic and traffic lights . (p=0.000081)
+Captions for image 11236399_836155623139744_1520097551_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001046)
+  1) a city street filled with lots of traffic lights . (p=0.000184)
+  2) a city street filled with lots of traffic and traffic lights . (p=0.000040)
+Captions for image 11259751_417598301753221_1842603608_n.jpg:
+  0) a group of people standing around a traffic light . (p=0.000368)
+  1) a crowd of people standing around a traffic light . (p=0.000327)
+  2) a group of people standing on a street corner . (p=0.000087)
+Captions for image 11296792_1630215887192593_1680128972_n.jpg:
+  0) a group of people standing in a room . (p=0.000017)
+  1) a group of people standing in front of a traffic light . (p=0.000013)
+  2) a group of people standing in front of a lit christmas tree . (p=0.000004)
+Captions for image 11241355_1596905667225055_1068439992_n.jpg:
+  0) a group of people walking down a street . (p=0.000411)
+  1) a group of people standing on a street corner . (p=0.000268)
+  2) a group of people walking down a street with a traffic light . (p=0.000006)
+Captions for image 11226592_1452757561684230_682091307_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000304)
+  1) a group of people standing in front of a christmas tree . (p=0.000114)
+  2) a group of people standing around a christmas tree (p=0.000025)
+Captions for image 11259942_376320209227786_610305904_n.jpg:
+  0) a group of people riding on the backs of elephants . (p=0.000986)
+  1) a group of people riding elephants down a street . (p=0.000350)
+  2) a group of people riding elephants down a city street . (p=0.000132)
+Captions for image 11256271_1585287278395638_881141984_n.jpg:
+  0) a group of people walking down a street . (p=0.000271)
+  1) a group of people standing on a street corner . (p=0.000227)
+  2) a group of people standing on top of a street . (p=0.000130)
+Captions for image 11242108_1594283884187633_1973129602_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000440)
+  1) a group of people standing around a traffic light . (p=0.000297)
+  2) a group of people standing around a large building . (p=0.000097)
+Captions for image 11256392_443285429165017_240666673_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000095)
+  1) a group of people standing in front of a tall building . (p=0.000088)
+  2) a group of people standing in front of a large building . (p=0.000060)
+Captions for image 11263432_679415595519103_1184353794_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000502)
+  1) a crowd of people standing around a christmas tree . (p=0.000278)
+  2) a group of people standing around a christmas tree (p=0.000038)
+Captions for image 11281956_1595639607373558_174230534_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000439)
+  1) a group of people standing in front of a building . (p=0.000208)
+  2) a group of people standing in front of a large building . (p=0.000093)
+Captions for image 11257948_472733609558295_1574431408_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000437)
+  1) a group of people standing around a christmas tree (p=0.000033)
+  2) a group of people standing around a room filled with christmas lights . (p=0.000008)
+Captions for image 11260805_930604406996529_214706399_n.jpg:
+  0) a group of people standing around a stage . (p=0.000265)
+  1) a crowd of people standing around a stage . (p=0.000260)
+  2) a group of people in a room with a clock . (p=0.000006)
+Captions for image 11263186_1615314452018004_1670370815_n.jpg:
+  0) a group of people standing in a room . (p=0.000372)
+  1) a group of people standing in front of a christmas tree . (p=0.000212)
+  2) a group of people standing in front of a large screen . (p=0.000022)
+Captions for image 11265943_938807812857382_1619541638_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000421)
+  1) a crowd of people standing around a large building . (p=0.000057)
+  2) a group of people standing around a christmas tree (p=0.000029)
+Captions for image 11267592_1429538274021008_1049892554_n.jpg:
+  0) a group of people standing on top of a stage . (p=0.000086)
+  1) a group of people standing on a stage in front of a building . (p=0.000002)
+  2) a group of people standing on a stage in front of a christmas tree . (p=0.000001)
+Captions for image 11296779_1576968355910133_1502984235_n.jpg:
+  0) a group of people sitting at a table with a microphone . (p=0.000010)
+  1) a group of people sitting around a table with a laptop . (p=0.000007)
+  2) a group of people standing around a table with a laptop . (p=0.000006)
+Captions for image 11311399_357640411102057_1988836710_n.jpg:
+  0) a group of people standing in a room . (p=0.000144)
+  1) a group of people standing in front of a building . (p=0.000084)
+  2) a group of people standing in front of a large building . (p=0.000033)
+Captions for image 11283260_1578007912480355_2128660944_n.jpg:
+  0) a group of people standing in front of a traffic light . (p=0.000044)
+  1) a group of people standing in front of a building . (p=0.000037)
+  2) a group of people standing in front of a red fire hydrant . (p=0.000018)
+Captions for image 11296857_845259265567092_1723214465_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000279)
+  1) a group of people standing in front of a building . (p=0.000088)
+  2) a group of people standing in front of a large building . (p=0.000051)
+Captions for image 11281936_1633345023544492_2135232215_n.jpg:
+  0) a group of people standing around a traffic light . (p=0.000313)
+  1) a crowd of people standing around a traffic light . (p=0.000190)
+  2) a group of people standing on a street corner . (p=0.000108)
+Captions for image 11241361_800461370074120_1093578970_n.jpg:
+  0) a group of people standing in a room . (p=0.000173)
+  1) a group of people standing in front of a tv . (p=0.000044)
+  2) a group of people standing in front of a large screen . (p=0.000008)
+Captions for image 11261212_427249754113210_2095873566_n.jpg:
+  0) a view of a city street at night . (p=0.000160)
+  1) a group of people standing in front of a lit christmas tree . (p=0.000010)
+  2) a group of people standing in front of a large building . (p=0.000007)
+Captions for image 11287983_1000766899935713_1178583923_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000084)
+  1) a group of people standing around a christmas tree (p=0.000006)
+  2) a large group of people are standing in the street . (p=0.000004)
+Captions for image 11272114_1597392417177010_526889223_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.000548)
+  1) a city street filled with lots of traffic lights . (p=0.000071)
+  2) a city street filled with lots of traffic and traffic lights . (p=0.000021)
+Captions for image 11282209_367031236835926_1996726191_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000297)
+  1) a group of people standing in a room . (p=0.000231)
+  2) a group of people standing around a christmas tree (p=0.000018)
+Captions for image 11264310_1618480838438428_1007957049_n.jpg:
+  0) a group of people walking down a city street . (p=0.000155)
+  1) a group of people walking down a street . (p=0.000136)
+  2) a group of people walking down a city street at night . (p=0.000022)
+Captions for image 11272887_678419895603165_2038395036_n.jpg:
+  0) a group of people standing in a room . (p=0.000516)
+  1) a group of people standing in a room with a clock . (p=0.000014)
+  2) a group of people standing in a room with a christmas tree . (p=0.000009)
+Captions for image 11282678_1589831957925617_151071963_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000109)
+  1) a group of people standing in front of a lit christmas tree . (p=0.000016)
+  2) a group of people standing around a christmas tree (p=0.000011)
+Captions for image 10860196_1414354612220664_751392729_n.jpg:
+  0) a group of people standing around a fire hydrant . (p=0.000079)
+  1) a group of people standing around a fire hydrant spraying water . (p=0.000019)
+  2) a group of people standing around a fire hydrant (p=0.000015)
+Captions for image 11311661_412141358993011_1305297926_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000013)
+  1) a group of people standing in front of a building . (p=0.000005)
+  2) a group of people standing around a christmas tree (p=0.000001)
+Captions for image 11296833_760521037394787_903859547_n.jpg:
+  0) a group of people walking down a street . (p=0.000368)
+  1) a group of people walking down a street with umbrellas . (p=0.000185)
+  2) a group of people walking down a street in the rain . (p=0.000115)
+Captions for image 11266345_1045487395478586_1102877548_n.jpg:
+  0) a group of people standing around a traffic light . (p=0.000063)
+  1) a group of people standing in front of a traffic light . (p=0.000041)
+  2) a group of people standing in front of a traffic signal . (p=0.000007)
+Captions for image 11266345_654978947979209_1411965942_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000109)
+  1) a group of people standing around a christmas tree (p=0.000010)
+  2) a group of people sitting on a couch with a laptop . (p=0.000001)
+Captions for image 11281932_815589255190778_1058907904_n.jpg:
+  0) a group of people walking down a street . (p=0.000138)
+  1) a group of people walking down a city street . (p=0.000109)
+  2) a group of people walking down a city street at night . (p=0.000010)
+Captions for image 11282299_900789289984079_2095133648_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000411)
+  1) a group of people standing in front of a christmas tree . (p=0.000217)
+  2) a group of people standing around a christmas tree (p=0.000041)
+Captions for image 11241519_1408446366146182_1775276852_n.jpg:
+  0) a group of people standing around a christmas tree . (p=0.000101)
+  1) a group of people standing in front of a building . (p=0.000045)
+  2) a group of people standing in front of a large building . (p=0.000022)
+Captions for image 11257808_921019194622672_1446017799_n.jpg:
+  0) a person on a skateboard in the air . (p=0.000330)
+  1) a person on a skateboard in the middle of a street . (p=0.000095)
+  2) a person is riding a skateboard down a street . (p=0.000094)
+Captions for image 11241393_542491465889068_1378401099_n.jpg:
+  0) a group of people standing in a room . (p=0.000179)
+  1) a group of people standing in front of a christmas tree . (p=0.000070)
+  2) a group of people standing in front of a large clock . (p=0.000013)
+Captions for image 11288016_484346571716312_1235880646_n.jpg:
+  0) a group of people standing in a room . (p=0.000106)
+  1) a group of people standing in front of a window . (p=0.000031)
+  2) a group of people standing in front of a large window . (p=0.000016)
+Captions for image 11273023_1428403954134669_82349765_n.jpg:
+  0) a crowd of people standing around a traffic light . (p=0.000732)
+  1) a group of people standing around a traffic light . (p=0.000536)
+  2) a crowd of people standing on a street corner . (p=0.000207)
+Captions for image 11236071_1486188095004705_366390794_n.jpg:
+  0) a group of people sitting at a table with a laptop . (p=0.000006)
+  1) a group of people sitting around a table with a laptop . (p=0.000006)
+  2) a group of people sitting at a table with a laptop computer . (p=0.000002)
+Captions for image 11271037_835775979836061_1203887949_n.jpg:
+  0) a group of people sitting at a table in a room . (p=0.000030)
+  1) a group of people sitting at a table in a restaurant . (p=0.000030)
+  2) a group of people sitting at a table in a dark room . (p=0.000014)
+Captions for image 11261023_1597789520503762_1858711821_n.jpg:
+  0) a crowd of people standing around a crowd . (p=0.000295)
+  1) a crowd of people standing around a crowd of people . (p=0.000286)
+  2) a crowd of people standing around a large crowd . (p=0.000244)
+Captions for image 11262764_841192809262225_379457768_n.jpg:
+  0) a group of people standing around a traffic light . (p=0.000205)
+  1) a group of people standing around a fire hydrant . (p=0.000062)
+  2) a group of people standing on a street corner . (p=0.000038)
+Captions for image 11255381_770433356405989_844292502_n.jpg:
+  0) a group of people standing in a room . (p=0.000359)
+  1) a group of people sitting on a couch watching fireworks . (p=0.000022)
+  2) a group of people standing in a room with a clock . (p=0.000016)
+Captions for image 11256391_800667663322192_927122995_n.jpg:
+  0) a group of people sitting at a table with laptops . (p=0.000168)
+  1) a group of people sitting at a table with computers . (p=0.000161)
+  2) a group of people standing around a table with a laptop . (p=0.000047)
+Captions for image 11256189_1444308035864761_1035481371_n.jpg:
+  0) a crowd of people standing around a traffic light . (p=0.000433)
+  1) a group of people standing around a traffic light . (p=0.000367)
+  2) a crowd of people standing around a street . (p=0.000147)
+Captions for image 11243865_1481944602046972_773828503_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.002059)
+  1) a large clock mounted to the side of a wall . (p=0.000407)
+  2) a large clock mounted to the ceiling of a building . (p=0.000233)
+Captions for image 10632286_1411614939161892_607546747_n.jpg:
+  0) a large building with a large clock on it . (p=0.000045)
+  1) a large building with a large clock on it 's side . (p=0.000024)
+  2) a large building with a large clock on it (p=0.000020)
+Captions for image 10843862_935654246498221_119683959_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.001180)
+  1) a large clock mounted to the side of a wall . (p=0.000243)
+  2) a large clock mounted to a wall in a room . (p=0.000054)
+Captions for image 11296668_1584240358513443_630012261_n.jpg:
+  0) a street sign with a building in the background (p=0.000137)
+  1) a street sign with a building in the background . (p=0.000031)
+  2) a sign for a restaurant called <UNK> <UNK> (p=0.000006)
+Captions for image 11280448_1114172455275905_923740616_n.jpg:
+  0) a room filled with lots of wooden furniture . (p=0.000029)
+  1) a room filled with lots of different types of furniture . (p=0.000008)
+  2) a room filled with lots of different types of luggage . (p=0.000005)
+Captions for image 11262614_1647754812120477_956547223_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000247)
+  1) a large crowd of people walking down a street . (p=0.000228)
+  2) a group of people standing in front of a tall building . (p=0.000148)
+Captions for image 11273132_1649997068565652_833674667_n.jpg:
+  0) a group of people standing around a table . (p=0.000041)
+  1) a group of people standing in front of a tv . (p=0.000022)
+  2) a group of people standing in front of a large building . (p=0.000009)
+Captions for image 11287606_1587103584895806_338286327_n.jpg:
+  0) a group of people flying kites in the sky . (p=0.001337)
+  1) a group of people flying kites in a park . (p=0.000757)
+  2) a group of people standing on top of a beach flying kites . (p=0.000528)
+Captions for image 11241883_1664752277088880_1264200822_n.jpg:
+  0) a group of people standing on a stage with a clock . (p=0.000021)
+  1) a group of people standing on a stage in front of a building . (p=0.000011)
+  2) a group of people standing in a room with a clock . (p=0.000009)
+Captions for image 11265750_952111624808901_760534984_n.jpg:
+  0) a group of people standing around a stage . (p=0.000184)
+  1) a group of people in a room with a lot of balloons . (p=0.000002)
+  2) a group of people in a room with a lot of kites . (p=0.000002)
+Captions for image 11280076_478024292361048_1359554727_n.jpg:
+  0) a group of people standing in a room . (p=0.000077)
+  1) a group of people standing in a room with a clock . (p=0.000001)
+  2) a group of people standing in a room with a tv . (p=0.000001)
+Captions for image 11273057_1602772300009562_1677156176_n.jpg:
+  0) a group of people standing in a room . (p=0.000415)
+  1) a group of people standing in a room with a television . (p=0.000019)
+  2) a group of people standing in a room with a tv . (p=0.000012)
+Captions for image 11296752_106018246399040_323868834_n.jpg:
+  0) a group of people standing in a room . (p=0.000225)
+  1) a group of people standing in a room with a television . (p=0.000005)
+  2) a group of people standing in a living room with a tv . (p=0.000002)
+Captions for image 11252537_1600071730230792_2040170795_n.jpg:
+  0) a group of people standing around a table . (p=0.000687)
+  1) a group of people standing in front of a christmas tree . (p=0.000142)
+  2) a group of people standing in front of a microphone . (p=0.000141)
+Captions for image 11252294_1558786371048848_375917082_n.jpg:
+  0) a group of people sitting around a table . (p=0.000543)
+  1) a group of people sitting at a table with laptops . (p=0.000159)
+  2) a group of people sitting around a table with a laptop . (p=0.000034)
+Captions for image 11254758_877682065623470_1981316445_n.jpg:
+  0) a group of people sitting around a table . (p=0.000632)
+  1) a group of people sitting at a table with laptops . (p=0.000169)
+  2) a group of people sitting at a table with computers . (p=0.000121)
+Captions for image 11263576_774083952690527_1113027008_n.jpg:
+  0) a group of people sitting around a table . (p=0.000381)
+  1) a group of people sitting at a table with laptops . (p=0.000055)
+  2) a group of people sitting at a table with a microphone . (p=0.000016)
+Captions for image 11287893_102415266761512_1515872661_n.jpg:
+  0) a group of people sitting at a table with laptops . (p=0.000170)
+  1) a group of people sitting at a table in a room . (p=0.000083)
+  2) a group of people sitting at a table with laptops (p=0.000034)
+Captions for image 11296846_387759361412137_1538494026_n.jpg:
+  0) a group of people sitting at a table with computers . (p=0.000184)
+  1) a group of people sitting at a table with laptops . (p=0.000163)
+  2) a group of people sitting at a table with laptops (p=0.000035)
+Captions for image 11258491_900553889986976_2022548065_n.jpg:
+  0) a group of people sitting at a table in a room . (p=0.000109)
+  1) a group of people sitting at a table in a restaurant . (p=0.000051)
+  2) a group of people sitting at a table in front of a window . (p=0.000024)
+Captions for image 11288105_822767001137133_1842313012_n.jpg:
+  0) a group of people standing around a large building . (p=0.000025)
+  1) a group of people on a street with a large building . (p=0.000002)
+  2) a group of people standing on a stage with a clock . (p=0.000002)
+Captions for image 11282196_1590874477862216_1916184592_n.jpg:
+  0) a man in a suit is holding a microphone . (p=0.000020)
+  1) a man in a suit is holding a microphone (p=0.000017)
+  2) a group of people standing around a table with a laptop . (p=0.000007)
+Captions for image 11258545_636962079767872_276324741_n.jpg:
+  0) a group of people standing in a room . (p=0.000277)
+  1) a group of people standing in a room with a clock . (p=0.000016)
+  2) a group of people standing in a room with a large clock . (p=0.000002)
+Captions for image 11296766_100182866987145_309982689_n.jpg:
+  0) a man is standing in front of a christmas tree (p=0.000018)
+  1) a man is standing in front of a christmas tree . (p=0.000016)
+  2) a man is standing in front of a large screen (p=0.000003)
+Captions for image 11287906_1388713721458619_1001778825_n.jpg:
+  0) a man in a suit and tie standing in a room . (p=0.000014)
+  1) a man in a suit is standing in front of a microphone . (p=0.000006)
+  2) a man in a suit is standing in front of a microphone (p=0.000004)
+Captions for image 11272954_973775905988238_168892053_n.jpg:
+  0) a group of people standing around a table . (p=0.000103)
+  1) a group of people standing around each other in a room . (p=0.000048)
+  2) a group of people standing around each other in front of a tv . (p=0.000009)
+Captions for image 11257175_1594729300779859_796086635_n.jpg:
+  0) a man is playing a video game in a room (p=0.000082)
+  1) a man is playing a video game in a room . (p=0.000059)
+  2) a man is playing a video game on a television . (p=0.000055)
+Captions for image 11274421_109061342759873_1600675201_n.jpg:
+  0) a group of people standing around a tv . (p=0.000076)
+  1) a man in a red shirt is playing a video game (p=0.000037)
+  2) a man in a red shirt is playing a game (p=0.000009)
+Captions for image 11260788_654704121326501_333256393_n.jpg:
+  0) a group of people standing in a room . (p=0.000317)
+  1) a group of people standing in a room with a television . (p=0.000006)
+  2) a group of people standing in a room with a tv . (p=0.000004)
+Captions for image 11256715_1503546676558614_274909456_n.jpg:
+  0) a black and white photo of a group of people (p=0.000191)
+  1) a black and white photo of a group of people . (p=0.000154)
+  2) a black and white photo of a group of people in a room . (p=0.000030)
+Captions for image 11256189_390109137843428_876207893_n.jpg:
+  0) a group of people sitting around a table . (p=0.000380)
+  1) a group of people sitting at a table with laptops . (p=0.000071)
+  2) a group of people sitting at a table with a microphone . (p=0.000024)

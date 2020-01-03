@@ -1,0 +1,24 @@
+Captions for image 11327154_1442199856096232_731696224_n.jpg:
+  0) a close up of a pair of scissors (p=0.002889)
+  1) a pair of scissors sitting on top of a table . (p=0.000864)
+  2) a close up of a pair of scissors on a table (p=0.000530)
+Captions for image 12783387_772311669567649_1019735174_n.jpg:
+  0) a painting of a man on a skateboard . (p=0.000017)
+  1) a painting of a man holding a skateboard . (p=0.000016)
+  2) a painting of a man holding a kite . (p=0.000012)
+Captions for image 11241718_1613573468885663_1210282600_n.jpg:
+  0) a giraffe standing in the middle of a forest . (p=0.001621)
+  1) a giraffe standing next to a tree in a forest . (p=0.001077)
+  2) a giraffe standing next to a tree in a field . (p=0.000226)
+Captions for image 11256961_913322355376269_1380048839_n.jpg:
+  0) a black and white photo of a man sitting on a bench . (p=0.000658)
+  1) a black and white photo of a man sitting on a bench (p=0.000542)
+  2) a black and white photo of a woman sitting on a bench . (p=0.000276)
+Captions for image 11282801_1477450662570630_1743715029_a.jpg:
+  0) a man in a suit and tie sitting at a table . (p=0.000177)
+  1) a man in a suit and tie sitting at a desk . (p=0.000165)
+  2) a man in a suit and tie sitting in front of a microphone . (p=0.000075)
+Captions for image 12797648_1693462900931130_1849326250_n.jpg:
+  0) a black and white photo of a baseball player . (p=0.000177)
+  1) a black and white photo of a sign that says <UNK> . (p=0.000012)
+  2) a black and white photo of a sign that says <UNK> (p=0.000007)

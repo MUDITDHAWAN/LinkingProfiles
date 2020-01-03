@@ -1,0 +1,16 @@
+Captions for image 11263671_1449163118715668_1457323958_n.jpg:
+  0) a picture of a tv screen showing a picture of a man . (p=0.000000)
+  1) a picture of a tv screen showing a picture of a dog (p=0.000000)
+  2) a picture of a tv screen showing a picture of a man and a dog . (p=0.000000)
+Captions for image 11236020_1570742169859239_942591473_n.jpg:
+  0) a cake with a candle on top of it (p=0.000040)
+  1) a cake with a candle on top of it . (p=0.000028)
+  2) a birthday cake with a candle on it (p=0.000010)
+Captions for image 19424767_1780639982266360_3306168818329452544_a.jpg:
+  0) a woman wearing a hat and a tie . (p=0.000077)
+  1) a woman wearing a hat and a hat . (p=0.000049)
+  2) a woman wearing a hat and a tie (p=0.000035)
+Captions for image 21373498_1932047217033848_7003021502719197184_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.001392)
+  1) a cup of coffee and a cup of coffee . (p=0.000309)
+  2) a cup of coffee sitting on top of a table (p=0.000073)

@@ -1,0 +1,808 @@
+Captions for image 29089009_188717058572569_7260769095811858432_n.jpg:
+  0) a train on a track with a sky background (p=0.000035)
+  1) a train station with a train on the tracks . (p=0.000020)
+  2) a train on a track with a fence in the background (p=0.000013)
+Captions for image 29089898_1672762669512042_403568286911954944_n.jpg:
+  0) a close up of a person wearing a suit and tie (p=0.000216)
+  1) a close up of a person on a skate board (p=0.000067)
+  2) a close up of a person on a skateboard (p=0.000064)
+Captions for image 28766765_179143176224399_6679857546209001472_n.jpg:
+  0) a woman standing in front of a bathroom mirror . (p=0.000193)
+  1) a woman standing in front of a mirror holding a toothbrush . (p=0.000058)
+  2) a woman standing in front of a mirror holding a camera . (p=0.000049)
+Captions for image 28766094_1614585045289094_363497740983861248_n.jpg:
+  0) a building with a clock on the wall (p=0.000018)
+  1) a large building with a clock on the wall . (p=0.000015)
+  2) a large building with a clock on the wall (p=0.000009)
+Captions for image 28766306_549833632127507_922697380501913600_n.jpg:
+  0) a large building with a clock on it . (p=0.000056)
+  1) a large building with a clock on it (p=0.000036)
+  2) a large building with a large clock on it 's side . (p=0.000033)
+Captions for image 29417117_227025121188810_9060948726045999104_n.jpg:
+  0) a large building with a clock on the front . (p=0.000486)
+  1) a large building with a clock on the front of it . (p=0.000430)
+  2) a large building with a clock tower on top . (p=0.000313)
+Captions for image 51508311_820695651609400_6582420343565058063_n.jpg:
+  0) a blue and white photo of a large building . (p=0.000001)
+  1) a blue and white photo of a large building (p=0.000000)
+  2) a red and white photo of a building with a clock (p=0.000000)
+Captions for image 61919538_117804629466314_610601215161130962_n.jpg:
+  0) a close up of a window with many different colors (p=0.000006)
+  1) a close up of a mirror with a reflection of a mirror (p=0.000002)
+  2) a close up of a mirror with a reflection of a body of water (p=0.000001)
+Captions for image 47581383_2017127858372557_3519775394102905788_n.jpg:
+  0) a close up of a person with a tie (p=0.000107)
+  1) a close up of a red and white <UNK> (p=0.000055)
+  2) a close up of a red and white and black tie . (p=0.000006)
+Captions for image 47034434_159146131715013_7002370334970763697_n.jpg:
+  0) a close up of a person holding an umbrella (p=0.000041)
+  1) a close up of a person holding an open umbrella (p=0.000028)
+  2) a close up of a person holding an umbrella . (p=0.000005)
+Captions for image 47457282_508290586246578_6830577011589805511_n.jpg:
+  0) a group of people standing on top of a beach . (p=0.000030)
+  1) a group of people standing on top of a sandy beach . (p=0.000030)
+  2) a group of people standing on top of a bridge . (p=0.000028)
+Captions for image 40635979_932681486932570_3039271868988269912_n.jpg:
+  0) a large brick building with a clock on it 's side . (p=0.000024)
+  1) a large brick building with a large clock on it 's side . (p=0.000011)
+  2) a large brick building with a clock on the front of it . (p=0.000005)
+Captions for image 36538245_668059193580818_665569551190065152_n.jpg:
+  0) a view of a building with a large window . (p=0.000005)
+  1) a view of a building from the window of an airplane . (p=0.000005)
+  2) a view of a building from the window of a plane . (p=0.000002)
+Captions for image 39088898_1208745342601563_21011753106145280_n.jpg:
+  0) a couple of windows sitting next to each other . (p=0.000183)
+  1) a couple of windows that are in front of a building . (p=0.000066)
+  2) a couple of windows that are in front of a window . (p=0.000007)
+Captions for image 38478947_686842601652066_9079424348208496640_n.jpg:
+  0) a large building with a clock on it . (p=0.000129)
+  1) a large building with a clock on it (p=0.000081)
+  2) a large building with a large clock on it 's side . (p=0.000071)
+Captions for image 38251523_262067717730679_5531257474486632448_n.jpg:
+  0) a person holding an umbrella in front of a building . (p=0.000155)
+  1) a person holding an umbrella in front of a building (p=0.000060)
+  2) a man is standing in front of a building (p=0.000023)
+Captions for image 31108464_226160308140437_3353432944852074496_n.jpg:
+  0) a red and white train on a train track (p=0.000025)
+  1) a red and white train on a train track . (p=0.000020)
+  2) a red and white train passing through a train station . (p=0.000011)
+Captions for image 31849670_173606223303349_7201293385129263104_n.jpg:
+  0) a close up of a building with a clock (p=0.000145)
+  1) a close up of a building with a clock on it (p=0.000116)
+  2) a close up of a large building with a clock (p=0.000052)
+Captions for image 29417301_364179667418664_624271177191260160_n.jpg:
+  0) a red double decker bus parked in front of a building . (p=0.000255)
+  1) a red double decker bus parked next to a building . (p=0.000103)
+  2) a red double decker bus is parked in front of a building . (p=0.000036)
+Captions for image 29402621_161515181218673_8267348596353925120_n.jpg:
+  0) a tall building with a large clock on it . (p=0.000193)
+  1) a tall building with a large clock on it 's side . (p=0.000086)
+  2) a tall white building with a large clock on it 's side . (p=0.000084)
+Captions for image 30590662_511988269203217_1341749819084898304_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000062)
+  1) a close up of a street light with a building in the background (p=0.000061)
+  2) a close up of a building with a clock (p=0.000048)
+Captions for image 29087354_2048380058513060_3500189971606667264_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000441)
+  1) a close up of a street sign with a building in the background (p=0.000130)
+  2) a close up of a sign on a building (p=0.000105)
+Captions for image 29095203_356826288156034_1093980379913650176_n.jpg:
+  0) a view of the inside of a train car . (p=0.000011)
+  1) a view of the inside of an airplane window . (p=0.000010)
+  2) a view of the inside of a train car (p=0.000003)
+Captions for image 29090494_203569813738134_358475614249811968_n.jpg:
+  0) a group of people standing around a clock . (p=0.000044)
+  1) a group of people standing around a large clock . (p=0.000030)
+  2) a group of people standing around a clock on a building . (p=0.000006)
+Captions for image 29092669_2005588326367531_5403790674866733056_n.jpg:
+  0) a blue and white surfboard sitting on top of a wooden bench . (p=0.000007)
+  1) a blue and white surfboard sitting on top of a wooden fence . (p=0.000005)
+  2) a blue and white surfboard sitting on top of a wooden deck . (p=0.000003)
+Captions for image 29404279_559822371066252_5570011273636085760_n.jpg:
+  0) a close up of a bunch of colorful kites (p=0.000019)
+  1) a close up of a bunch of different colored kites (p=0.000005)
+  2) a close up of a bunch of different colored candy (p=0.000005)
+Captions for image 29095163_137047637128413_7975918576940875776_n.jpg:
+  0) a traffic light with a street sign on it . (p=0.000058)
+  1) a traffic light with a street sign attached to it . (p=0.000052)
+  2) a statue of a man standing on a street corner . (p=0.000045)
+Captions for image 28763755_132198024282438_3386215523984343040_n.jpg:
+  0) a train traveling down tracks next to a building . (p=0.000088)
+  1) a train traveling down tracks next to a tall building . (p=0.000064)
+  2) a view of a train station with a train passing by . (p=0.000011)
+Captions for image 29088122_713568555433819_337213636349001728_n.jpg:
+  0) a large building with a clock on it (p=0.000112)
+  1) a large building with a clock on the front . (p=0.000110)
+  2) a large building with a clock on the front of it . (p=0.000085)
+Captions for image 29094188_201595770439109_2831801787999059968_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.000159)
+  1) a large clock mounted to the side of a wall . (p=0.000143)
+  2) a large clock mounted to a wall in a room . (p=0.000051)
+Captions for image 29096043_285870148614862_4182612948696432640_n.jpg:
+  0) a tall clock tower with a sky background (p=0.002140)
+  1) a large clock tower with a sky background (p=0.000530)
+  2) a tall clock tower with a sky in the background (p=0.000360)
+Captions for image 28766319_176351622996808_6777476393295937536_n.jpg:
+  0) a large building with a clock on the side of it . (p=0.000144)
+  1) a large building with a clock on it (p=0.000140)
+  2) a large building with a large clock on it 's side . (p=0.000139)
+Captions for image 29087409_177953416330164_6247959599178055680_n.jpg:
+  0) a large building with a clock on it . (p=0.000165)
+  1) a large building with a clock on it (p=0.000120)
+  2) a large building with a large clock on it . (p=0.000114)
+Captions for image 29096207_1600613003361746_991959577895370752_n.jpg:
+  0) a large building with a large window in it . (p=0.000010)
+  1) a large building with a large window in it (p=0.000007)
+  2) a large building with a large window in the background . (p=0.000007)
+Captions for image 28763985_546572345723633_1325353356230656000_n.jpg:
+  0) a large white clock tower towering over a city . (p=0.001700)
+  1) a large white clock tower towering over the ocean . (p=0.000087)
+  2) a large white clock tower towering over a city at night . (p=0.000057)
+Captions for image 29087501_159162564796478_7731758542385840128_n.jpg:
+  0) a large building with a clock on it . (p=0.000165)
+  1) a large building with a large clock on it . (p=0.000161)
+  2) a large building with a clock on it (p=0.000128)
+Captions for image 29088717_211392662948773_8813089753986498560_n.jpg:
+  0) a tennis racket sitting on a tennis court . (p=0.001917)
+  1) a black and white photo of a tennis court . (p=0.000695)
+  2) a tennis racket sitting on a tennis court (p=0.000600)
+Captions for image 29089084_1855013007894182_1087516789140619264_n.jpg:
+  0) a large building with a large clock tower . (p=0.000124)
+  1) a large building with a large clock on it . (p=0.000068)
+  2) a large building with a large clock on it 's side . (p=0.000057)
+Captions for image 29402302_163380891036461_5604054451439534080_n.jpg:
+  0) a large wooden bench sitting in front of a building . (p=0.000015)
+  1) a large metal structure sitting in the middle of a room . (p=0.000005)
+  2) a large wooden bench sitting in the middle of a building . (p=0.000002)
+Captions for image 29088831_132738504228221_4040273781137080320_n.jpg:
+  0) a red brick building with a clock on it . (p=0.000064)
+  1) a red brick building with a clock on it (p=0.000032)
+  2) a red brick building with a clock on the side of it . (p=0.000026)
+Captions for image 28763164_2061070753926209_8800660994805202944_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.000975)
+  1) a large clock mounted to the side of a wall . (p=0.000231)
+  2) a large clock mounted to a wall in a building . (p=0.000070)
+Captions for image 29087967_235400713686820_4657664347705704448_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.000063)
+  1) a close up of a street sign on a building (p=0.000046)
+  2) a close up of a street sign with a building in the background (p=0.000031)
+Captions for image 29088367_2059822290921839_4122557829745737728_n.jpg:
+  0) a traffic light hanging from the side of a pole . (p=0.000577)
+  1) a traffic light hanging from the side of a building . (p=0.000291)
+  2) a traffic light with a street sign attached to it . (p=0.000140)
+Captions for image 28762929_412889459151107_8013119736822890496_n.jpg:
+  0) a row of parking meters in front of a building . (p=0.000174)
+  1) a row of parking meters in front of a building (p=0.000025)
+  2) a row of parking meters on a sidewalk . (p=0.000024)
+Captions for image 29087873_1917405825238688_3604724386055061504_n.jpg:
+  0) a close up of a number of different colored ties (p=0.000267)
+  1) a close up of a bunch of different colored ties (p=0.000171)
+  2) a close up of a number of different colored clocks (p=0.000042)
+Captions for image 28765713_415978532191176_2562593096151859200_n.jpg:
+  0) a bunch of different colored ties hanging from a ceiling . (p=0.000016)
+  1) a bunch of different colored umbrellas hanging from a ceiling . (p=0.000012)
+  2) a bunch of different colored umbrellas hanging from a ceiling (p=0.000004)
+Captions for image 29094456_210154329734250_4973437374169088000_n.jpg:
+  0) a wooden bench sitting in front of a building . (p=0.000570)
+  1) a wooden bench sitting in front of a brick wall . (p=0.000296)
+  2) a wooden bench sitting in front of a brick building . (p=0.000176)
+Captions for image 29087201_2137648323116156_7665810715420131328_n.jpg:
+  0) a large building with a clock on it . (p=0.000052)
+  1) a large building with a large clock on it 's side . (p=0.000035)
+  2) a large building with a large clock on it . (p=0.000027)
+Captions for image 29094098_194743567922651_7925897472256245760_n.jpg:
+  0) a view of a building with a clock on it . (p=0.000009)
+  1) a view of a building with a large clock on it . (p=0.000002)
+  2) a view of a building with a clock on it (p=0.000002)
+Captions for image 28762970_1847485048883052_6136120428906676224_n.jpg:
+  0) a large building with a large clock on it . (p=0.000071)
+  1) a large building with a large clock on it 's side . (p=0.000060)
+  2) a large building with a clock on the top of it . (p=0.000039)
+Captions for image 28766487_224598218281507_6270092532021985280_n.jpg:
+  0) a man in a suit and tie standing in front of a mirror . (p=0.000064)
+  1) a man in a suit and tie standing in a room . (p=0.000061)
+  2) a man in a suit and tie standing in front of a clock . (p=0.000040)
+Captions for image 28765020_607124012973903_3836334925603143680_n.jpg:
+  0) a large building with a clock on the ceiling . (p=0.000022)
+  1) a large building with a clock on the ceiling (p=0.000016)
+  2) a large building with a clock tower in the center . (p=0.000014)
+Captions for image 29095987_1829637027048987_5574245832217067520_n.jpg:
+  0) a bathroom with a shower and a toilet . (p=0.000108)
+  1) a bathroom with a shower and a toilet (p=0.000061)
+  2) a bathroom with a toilet and a shower . (p=0.000060)
+Captions for image 29400764_570084910016549_3824216031132385280_n.jpg:
+  0) a black and white photo of a wooden bench (p=0.000197)
+  1) a black and white photo of a wooden bench . (p=0.000181)
+  2) a black and white photo of a bench (p=0.000081)
+Captions for image 29090175_340472346444364_4992937148463185920_n.jpg:
+  0) a large building with a clock on it . (p=0.000306)
+  1) a large building with a clock on it (p=0.000267)
+  2) a tall building with a clock on it (p=0.000216)
+Captions for image 29092556_1643589859058843_2354257495481909248_n.jpg:
+  0) a large building with a clock on the side of it . (p=0.000032)
+  1) a large building with a clock on the front of it . (p=0.000032)
+  2) a large building with a clock on it (p=0.000028)
+Captions for image 29094620_1731149500256897_1088262094815494144_n.jpg:
+  0) a train traveling down tracks next to a train station . (p=0.000460)
+  1) a train on a train track with a sky background (p=0.000400)
+  2) a train on a train track near a train station (p=0.000250)
+Captions for image 29415158_191649094777373_3771477191401930752_n.jpg:
+  0) a large building with a clock on it . (p=0.000374)
+  1) a large building with a large clock on it . (p=0.000303)
+  2) a large building with a clock on it (p=0.000292)
+Captions for image 28763665_429715294134135_5695666949971771392_n.jpg:
+  0) a man standing in front of a building . (p=0.000292)
+  1) a man walking down a street next to a building . (p=0.000110)
+  2) a man walking down a street next to a tall building . (p=0.000057)
+Captions for image 29087812_1084188701722859_6861243202054127616_n.jpg:
+  0) a close up of a red and white train (p=0.000017)
+  1) a close up of a red and white fire hydrant . (p=0.000012)
+  2) a close up of a red and white train . (p=0.000009)
+Captions for image 29089155_207981786462445_369643581486399488_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000015)
+  1) a train station with a train passing by . (p=0.000013)
+  2) a train station with a train passing by (p=0.000012)
+Captions for image 29090193_132852040883156_4096355728921460736_n.jpg:
+  0) a black and white photo of a bird on a window sill . (p=0.000076)
+  1) a black and white photo of a bird sitting on a window sill . (p=0.000027)
+  2) a black and white photo of a bird on a window sill (p=0.000025)
+Captions for image 28765933_300490127146593_7875086338402287616_n.jpg:
+  0) a building with a clock on the front of it (p=0.000790)
+  1) a building with a clock on the front of it . (p=0.000736)
+  2) a building with a clock on the top of it . (p=0.000672)
+Captions for image 29090943_2069422760006671_3058178802522783744_n.jpg:
+  0) a large building with a clock on it . (p=0.000082)
+  1) a large building with a clock on it (p=0.000048)
+  2) a large building with a large clock on it 's side . (p=0.000048)
+Captions for image 29087521_1720409121385643_1640150883951968256_n.jpg:
+  0) a large building with a large clock on it . (p=0.000049)
+  1) a large building with a clock on the side of it . (p=0.000020)
+  2) a large building with a large clock on it (p=0.000016)
+Captions for image 29090544_486254028438109_7018795513143099392_n.jpg:
+  0) a large building with a clock on the ceiling . (p=0.000026)
+  1) a large building with a large clock on it 's side . (p=0.000023)
+  2) a large building with a clock on the ceiling (p=0.000021)
+Captions for image 29087842_749453588591985_780776512692420608_n.jpg:
+  0) a large bridge spanning the width of a river . (p=0.000576)
+  1) a large bridge spanning the width of a bridge . (p=0.000224)
+  2) a large bridge spanning the width of a river (p=0.000028)
+Captions for image 29090914_169801290496900_728550848539394048_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000039)
+  1) a train station with a train passing by . (p=0.000027)
+  2) a train station with a train passing by (p=0.000019)
+Captions for image 28764114_1992255544374471_6966588377478987776_n.jpg:
+  0) a close up of a pair of scissors (p=0.001105)
+  1) a close up of a pair of scissors on a table (p=0.000239)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000112)
+Captions for image 29090813_130822411087283_5098362296179097600_n.jpg:
+  0) a man standing on a tennis court holding a racquet . (p=0.004594)
+  1) a group of people standing on top of a tennis court . (p=0.001942)
+  2) a man standing on a tennis court holding a tennis racquet . (p=0.001428)
+Captions for image 29088335_2065409223473214_6384570637574209536_n.jpg:
+  0) a boat that is floating in the water . (p=0.002666)
+  1) a small boat in a body of water (p=0.001717)
+  2) a boat that is floating in the ocean . (p=0.000374)
+Captions for image 29092951_284998165367796_3273399192818548736_n.jpg:
+  0) a row of wooden boards sitting next to each other . (p=0.000095)
+  1) a row of wooden boards lined up against a wall . (p=0.000035)
+  2) a row of wooden boards sitting on top of a wooden floor . (p=0.000027)
+Captions for image 29089417_154796061878379_7801657601824915456_n.jpg:
+  0) a picture of a building with a large clock . (p=0.000004)
+  1) a picture of a building with a large clock on it . (p=0.000002)
+  2) a picture of a building with a large clock (p=0.000001)
+Captions for image 29403792_361370451044461_6435910413182828544_n.jpg:
+  0) a large building with a large clock tower . (p=0.000186)
+  1) a large building with a large clock on it . (p=0.000110)
+  2) a large building with a large clock on it 's side . (p=0.000100)
+Captions for image 29415874_111603049683104_8306398962995167232_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000257)
+  1) a street sign on a pole on a city street (p=0.000117)
+  2) a sign that is on the side of a wall . (p=0.000028)
+Captions for image 29089662_166294330757726_4224329527955816448_n.jpg:
+  0) a close up of a fire hydrant on a city street (p=0.000427)
+  1) a close up of a fire hydrant on a street (p=0.000070)
+  2) a close up of a fire hydrant on a city street . (p=0.000035)
+Captions for image 29416314_106268950217806_2382823679449890816_n.jpg:
+  0) a window with a red and white door (p=0.000001)
+  1) a window with a red and white sign on it . (p=0.000001)
+  2) a window with a red and white sign on it (p=0.000001)
+Captions for image 28763240_834727246709963_1881046782016749568_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.002521)
+  1) a large clock mounted to the side of a wall . (p=0.000597)
+  2) a large clock mounted to the ceiling of a building . (p=0.000307)
+Captions for image 29087522_435166940272948_5225331446528344064_n.jpg:
+  0) a group of people standing next to each other . (p=0.000053)
+  1) a group of people standing in front of a building . (p=0.000046)
+  2) a group of people standing next to each other in front of a building . (p=0.000014)
+Captions for image 29095987_2019902008331347_7216899402202349568_n.jpg:
+  0) a large clock on the side of a building . (p=0.001053)
+  1) a clock on the side of a building . (p=0.000581)
+  2) a clock on the side of a building (p=0.000491)
+Captions for image 29088081_148115142680483_2685330174706188288_n.jpg:
+  0) a large building with a large clock on it 's side . (p=0.000048)
+  1) a large white building with a large clock on it 's side . (p=0.000043)
+  2) a large building with a clock on the front of it . (p=0.000031)
+Captions for image 29095376_226126007951719_7448032268372672512_n.jpg:
+  0) a row of ties hanging from a ceiling . (p=0.000223)
+  1) a row of ties hanging from a wall . (p=0.000121)
+  2) a bunch of ties hanging from a wall . (p=0.000074)
+Captions for image 28765448_423139258144198_3635128373644099584_n.jpg:
+  0) a man riding a snowboard down a snow covered slope . (p=0.000700)
+  1) a group of people riding surfboards on top of a wave . (p=0.000267)
+  2) a man riding a snowboard down the side of a snow covered slope . (p=0.000211)
+Captions for image 29093290_2105057466393076_6811331030625026048_n.jpg:
+  0) a large building with a large clock on it . (p=0.000013)
+  1) a large building with a large clock on it 's side . (p=0.000011)
+  2) a large building with a large clock on it (p=0.000006)
+Captions for image 28766751_1927364447333741_7887800627009421312_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.000558)
+  1) a tree in the middle of a forest . (p=0.000506)
+  2) a red fire hydrant in the middle of a forest . (p=0.000219)
+Captions for image 29087727_180687112570773_3139888991961088000_n.jpg:
+  0) a red brick building with a clock on it . (p=0.000129)
+  1) a red brick building with a clock on it (p=0.000048)
+  2) a red brick building with a clock on the side of it . (p=0.000024)
+Captions for image 28763254_1092691360872023_9204545722022625280_n.jpg:
+  0) a room filled with lots of computer monitors . (p=0.000056)
+  1) a room filled with lots of different types of electronics . (p=0.000006)
+  2) a room filled with lots of different types of furniture . (p=0.000003)
+Captions for image 29092546_2691124291114559_534985189428822016_n.jpg:
+  0) a group of people standing next to each other . (p=0.001048)
+  1) a group of different colored ties hanging from a wall . (p=0.000128)
+  2) a group of people standing next to each other in a room . (p=0.000079)
+Captions for image 28765714_310799899444445_7759054223488057344_n.jpg:
+  0) a row of wooden benches sitting next to each other . (p=0.000425)
+  1) a row of benches sitting next to each other . (p=0.000244)
+  2) a row of wooden benches on a sidewalk . (p=0.000044)
+Captions for image 29094724_418672105227801_4389116771584442368_n.jpg:
+  0) a large metal clock hanging from a ceiling . (p=0.000070)
+  1) a large metal clock sitting inside of a building . (p=0.000044)
+  2) a large metal clock hanging from the ceiling . (p=0.000037)
+Captions for image 28766133_830929903758802_7166911261391716352_n.jpg:
+  0) a tall building with a clock on it 's side . (p=0.000083)
+  1) a tall building with a clock on the front of it . (p=0.000037)
+  2) a large building with a clock on the front of it . (p=0.000025)
+Captions for image 28764183_1996954270624823_5182191107085172736_n.jpg:
+  0) a couple of trees that are in the snow . (p=0.000317)
+  1) a tree in the middle of a forest . (p=0.000177)
+  2) a tree in the middle of a snowy forest . (p=0.000069)
+Captions for image 29400805_1641051345988458_7607914332931751936_n.jpg:
+  0) a brick building with a clock on the side of it . (p=0.000026)
+  1) a brick building with a clock on the front . (p=0.000015)
+  2) a brick building with a clock on the front of it . (p=0.000015)
+Captions for image 28754592_2158321371056368_6486611355355840512_n.jpg:
+  0) a room that has a clock on the wall . (p=0.000111)
+  1) a room that has a clock on the wall (p=0.000055)
+  2) a room that has a clock on a wall . (p=0.000012)
+Captions for image 29091028_202242420548643_7619800710758006784_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000014)
+  1) a group of people standing in front of a window . (p=0.000012)
+  2) a group of people standing next to each other in front of a building . (p=0.000004)
+Captions for image 28766334_188786815064280_3211828882420269056_n.jpg:
+  0) a view of a city street at night . (p=0.000048)
+  1) a view of a city street from a train station . (p=0.000009)
+  2) a view of a city street from a train . (p=0.000007)
+Captions for image 29089424_1203342623133324_1637885447617118208_n.jpg:
+  0) a large building with a large clock on it 's side . (p=0.000071)
+  1) a large building with a large clock on it . (p=0.000068)
+  2) a large building with a clock on it (p=0.000029)
+Captions for image 29092806_379643602503438_7101829059314712576_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000111)
+  1) a sign that is on the side of a wall . (p=0.000030)
+  2) a sign that is hanging from a wall . (p=0.000018)
+Captions for image 29090097_1631061956989448_4555310350714535936_n.jpg:
+  0) a group of different colored ties hanging from a ceiling . (p=0.000009)
+  1) a group of different colored ties hanging from a wall . (p=0.000009)
+  2) a group of different colored ties hanging from a metal pole . (p=0.000003)
+Captions for image 29092695_894817300699525_3173565959378042880_n.jpg:
+  0) a room filled with lots of wooden furniture . (p=0.000049)
+  1) a room filled with lots of different colored surfboards . (p=0.000011)
+  2) a room filled with lots of wooden furniture and windows . (p=0.000001)
+Captions for image 29090121_1309718359129733_80589349002936320_n.jpg:
+  0) a train on a track near a building (p=0.000267)
+  1) a train on a train track with a sky background (p=0.000149)
+  2) a train on a train track with buildings in the background (p=0.000131)
+Captions for image 29087521_179076432622819_6332087026275319808_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000431)
+  1) a clock tower in the middle of a city . (p=0.000358)
+  2) a large building with a clock tower in the middle . (p=0.000200)
+Captions for image 29090491_2022375588089526_6444692865388904448_n.jpg:
+  0) a close up of an open umbrella (p=0.000093)
+  1) a black and white photo of an apple (p=0.000068)
+  2) a black and white photo of a wooden bench (p=0.000034)
+Captions for image 29095415_157282654957180_1100064050764578816_n.jpg:
+  0) a close up of a wall with a clock on it (p=0.000022)
+  1) a close up of a building with a clock (p=0.000019)
+  2) a close up of a building with a clock on it (p=0.000018)
+Captions for image 28764078_210786396339301_2376765147042545664_n.jpg:
+  0) a bicycle is parked on the side of the road . (p=0.000307)
+  1) a bicycle is parked on the side of a road . (p=0.000196)
+  2) a bicycle is parked on the side of the road (p=0.000064)
+Captions for image 29090663_1364267237051872_8579192457885908992_n.jpg:
+  0) a traffic light hanging from the side of a building . (p=0.000347)
+  1) a traffic light hanging from the side of a pole . (p=0.000227)
+  2) a traffic light hanging from the side of a tall building . (p=0.000042)
+Captions for image 28764820_1855678914505928_3714477950272274432_n.jpg:
+  0) a train on a track near a building (p=0.000094)
+  1) a train on a train track near a building (p=0.000063)
+  2) a train on a train track with a sky background (p=0.000021)
+Captions for image 29415873_619857501696356_7013650417200398336_n.jpg:
+  0) the inside of a building with a clock on it . (p=0.000019)
+  1) the inside of a building with a clock on the ceiling . (p=0.000012)
+  2) the inside of a building with a clock on the ceiling (p=0.000008)
+Captions for image 29090846_166437667409889_3533368465119248384_n.jpg:
+  0) a group of people standing next to each other . (p=0.000328)
+  1) a group of people standing on top of a beach . (p=0.000086)
+  2) a group of people standing next to each other in front of a building . (p=0.000025)
+Captions for image 29087391_1766046297024575_4008469445230985216_n.jpg:
+  0) a bathroom with a large mirror and a large mirror . (p=0.000004)
+  1) a bathroom with a white toilet and a white sink . (p=0.000003)
+  2) a room with a large mirror and a clock on the wall (p=0.000002)
+Captions for image 29089135_1904613219829647_8757135409680482304_n.jpg:
+  0) a building with a clock on the front of it . (p=0.000380)
+  1) a building with a clock on the front of it (p=0.000355)
+  2) a building with a clock on the top of it . (p=0.000286)
+Captions for image 28763439_616304265381124_8851701028941201408_n.jpg:
+  0) a cat sitting on a window sill next to a window . (p=0.000258)
+  1) a bird sitting on a window sill next to a window . (p=0.000240)
+  2) a cat sitting on a window sill looking out a window . (p=0.000167)
+Captions for image 29416447_158344928104111_3928452636843442176_n.jpg:
+  0) a bench sitting in front of a building . (p=0.000067)
+  1) a large wooden bench sitting in front of a building . (p=0.000053)
+  2) a large wooden bench sitting in front of a window . (p=0.000010)
+Captions for image 29096109_208350996585721_265526259902054400_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.003262)
+  1) a train on a bridge over a body of water (p=0.001401)
+  2) a train on a bridge over a body of water . (p=0.000682)
+Captions for image 29090434_380521845746921_6799800112882122752_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.000083)
+  1) a black and white photo of a clock tower (p=0.000031)
+  2) a black and white photo of a white and black clock (p=0.000015)
+Captions for image 28764963_205743156853653_5202220901818433536_n.jpg:
+  0) a building with a clock on the side of it (p=0.000071)
+  1) a building with a clock on the side of it . (p=0.000064)
+  2) a large building with a clock on the side of it . (p=0.000042)
+Captions for image 28754467_185961662018274_4526907727691120640_n.jpg:
+  0) a tall building with a clock on it . (p=0.000314)
+  1) a tall building with a clock on it (p=0.000220)
+  2) a large building with a clock on it . (p=0.000200)
+Captions for image 29089301_199553037311660_9186030783729500160_n.jpg:
+  0) a person standing on a skateboard in a room . (p=0.000013)
+  1) a man standing on a skateboard in front of a building . (p=0.000012)
+  2) a man standing on a skateboard in a room . (p=0.000009)
+Captions for image 28766347_240463069831521_710785777176412160_n.jpg:
+  0) a large building with a large clock on it 's side . (p=0.000021)
+  1) a large building with a clock on it . (p=0.000014)
+  2) a large building with a clock on it (p=0.000013)
+Captions for image 28766435_587433881613991_582149122954362880_n.jpg:
+  0) a close up of a train on a train track (p=0.000286)
+  1) a close up of a train on a track (p=0.000194)
+  2) a close up of a train on a bridge (p=0.000083)
+Captions for image 28763183_1635712716514160_1314290727361970176_n.jpg:
+  0) a collage of photos with a bunch of different items (p=0.000006)
+  1) a collage of photos with a lot of different items (p=0.000005)
+  2) a collage of photos with a bunch of different images (p=0.000003)
+Captions for image 29400593_186380748815293_7531003863936008192_n.jpg:
+  0) a group of people walking down a rain soaked street . (p=0.000081)
+  1) a group of people walking down a street next to a building . (p=0.000006)
+  2) a group of people walking down a sidewalk next to a building . (p=0.000006)
+Captions for image 29090541_166027717450931_3705153644992135168_n.jpg:
+  0) a view of a boat in the water . (p=0.000048)
+  1) a view of a boat in the water (p=0.000017)
+  2) a view of a bed with a window in the background . (p=0.000004)
+Captions for image 29089124_1573287456121608_8005006449111465984_n.jpg:
+  0) a car parked on the side of a street . (p=0.000157)
+  1) a car parked on the side of a street next to a building . (p=0.000021)
+  2) a car parked on the side of a street next to a tall building . (p=0.000010)
+Captions for image 29090002_207137326722975_8083837077726167040_n.jpg:
+  0) a close up of a number of clocks on a wall (p=0.000024)
+  1) a close up of a number of different items (p=0.000017)
+  2) a close up of a number of different colored items (p=0.000011)
+Captions for image 29417985_180123049447671_5886705716613349376_n.jpg:
+  0) a couple of people standing next to a fence . (p=0.000046)
+  1) a couple of people standing in front of a fence . (p=0.000040)
+  2) a couple of people standing next to each other . (p=0.000039)
+Captions for image 29094360_394081281057567_7979363935281217536_n.jpg:
+  0) a sign that says `` <UNK> '' on the side of a building . (p=0.000001)
+  1) a sign that says `` <UNK> '' on a pole . (p=0.000000)
+  2) a sign that says `` <UNK> '' on the side of the building . (p=0.000000)
+Captions for image 28766790_1335559849876900_7976504943055994880_n.jpg:
+  0) a view of a building with a large window . (p=0.000006)
+  1) a view of a building from the window of a plane . (p=0.000002)
+  2) a view of a building from the window of a train . (p=0.000002)
+Captions for image 29415920_191759744883397_1483261900497092608_n.jpg:
+  0) the inside of a building with a clock on the wall . (p=0.000012)
+  1) the inside of a building with a clock on it . (p=0.000007)
+  2) the inside of a building with a clock on the wall (p=0.000005)
+Captions for image 29094163_365712460573086_8988290940393226240_n.jpg:
+  0) a group of birds standing on top of a building . (p=0.000041)
+  1) a group of birds standing on top of a roof . (p=0.000012)
+  2) a large building with a clock on it . (p=0.000007)
+Captions for image 29093637_1543317922443448_1621719212189810688_n.jpg:
+  0) a large building with a clock on it . (p=0.000340)
+  1) a large building with a clock on it (p=0.000263)
+  2) a large building with a large clock tower . (p=0.000214)
+Captions for image 28754460_379750175824678_8101292151234625536_n.jpg:
+  0) a large body of water with a clock on top of it . (p=0.000038)
+  1) a large body of water with a clock on it (p=0.000019)
+  2) a large body of water with a clock tower in the middle of it . (p=0.000016)
+Captions for image 28764200_172845173435549_6470337406443716608_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000228)
+  1) a close up of a person wearing a tie (p=0.000137)
+  2) a close up of a blue and white striped tie . (p=0.000086)
+Captions for image 28754061_1833699660015030_7579960147443712000_n.jpg:
+  0) a large building with a large clock tower . (p=0.000197)
+  1) a large building with a clock tower on top . (p=0.000051)
+  2) a large building with a clock tower in the background . (p=0.000041)
+Captions for image 28763751_258430034698275_8791345343884165120_n.jpg:
+  0) a large building with a large clock on it . (p=0.000048)
+  1) a large building with a large clock on it 's side . (p=0.000037)
+  2) a large building with a clock on the top of it . (p=0.000030)
+Captions for image 29093554_173170026665922_1830326052929404928_n.jpg:
+  0) an old house with a house in the background . (p=0.000017)
+  1) an old house with a house in the background (p=0.000010)
+  2) an old house with a house on the side . (p=0.000002)
+Captions for image 29095550_1619949428122856_2965003034679050240_n.jpg:
+  0) a flock of birds flying over a body of water . (p=0.006335)
+  1) a bird flying over a body of water . (p=0.002152)
+  2) a flock of birds flying over a lake . (p=0.001540)
+Captions for image 28763660_2042048486037742_6461272207950610432_n.jpg:
+  0) a row of wooden benches sitting next to each other . (p=0.002974)
+  1) a row of wooden benches sitting in front of a building . (p=0.000356)
+  2) a row of wooden benches sitting next to a building . (p=0.000067)
+Captions for image 29093331_537690923282151_2479795970750021632_n.jpg:
+  0) a man standing in front of a building holding a surfboard . (p=0.000070)
+  1) a man standing in front of a building holding a skateboard . (p=0.000042)
+  2) a man standing in front of a building holding a surfboard (p=0.000002)
+Captions for image 29092588_1215059101961345_6761296392498446336_n.jpg:
+  0) a woman holding an umbrella in the rain . (p=0.000196)
+  1) a man holding an umbrella in the rain . (p=0.000195)
+  2) a woman holding an umbrella in the rain (p=0.000100)
+Captions for image 29096441_139405880224406_3102584533820637184_n.jpg:
+  0) a close up of a window with a sky background (p=0.000063)
+  1) a close up of a window with a clock (p=0.000019)
+  2) a close up of a window with a clock on it (p=0.000011)
+Captions for image 28765610_568914683465237_5167788681582346240_n.jpg:
+  0) a train station with a train passing by . (p=0.000089)
+  1) a train station with a train on the tracks . (p=0.000079)
+  2) a train station with a train passing by (p=0.000052)
+Captions for image 28765906_552022818530374_1411021409571831808_n.jpg:
+  0) a large building with a large clock tower . (p=0.000140)
+  1) a large building with a large clock on it 's side . (p=0.000139)
+  2) a large building with a large clock on it . (p=0.000054)
+Captions for image 29094413_298472014018775_4922895268476616704_n.jpg:
+  0) a room filled with lots of wooden benches . (p=0.000072)
+  1) a room filled with lots of wooden furniture . (p=0.000069)
+  2) a room filled with lots of wooden furniture and windows . (p=0.000002)
+Captions for image 28763205_228555991042495_7336865612670435328_n.jpg:
+  0) a group of tennis rackets hanging from a rack . (p=0.000018)
+  1) a group of tennis rackets hanging from a wall . (p=0.000016)
+  2) a group of tennis rackets hanging from a rack (p=0.000003)
+Captions for image 28763457_555383881502379_1404609723478573056_n.jpg:
+  0) a street sign on a pole with a sky background (p=0.000080)
+  1) a street light with a clock on it (p=0.000066)
+  2) a street light with a street sign on it (p=0.000046)
+Captions for image 29089206_361105717738626_8221422773050802176_n.jpg:
+  0) a large building with a large clock tower . (p=0.000045)
+  1) a large building with a clock on it (p=0.000029)
+  2) a large building with a clock on the top of it . (p=0.000028)
+Captions for image 29088711_155242115295167_2996448684981354496_n.jpg:
+  0) a black and white photo of a clock tower . (p=0.000597)
+  1) a black and white photo of a clock tower (p=0.000249)
+  2) a black and white photo of a clock on a building (p=0.000194)
+Captions for image 29093075_366175180565235_2607690312889401344_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000617)
+  1) a train traveling over a bridge over water . (p=0.000136)
+  2) a train traveling over a bridge over a body of water . (p=0.000123)
+Captions for image 29414515_241612676382118_8312388621306953728_n.jpg:
+  0) a red and white kite flying over a city . (p=0.000012)
+  1) a red and white kite flying over a building . (p=0.000011)
+  2) a red and white kite flying over a city street . (p=0.000006)
+Captions for image 29087386_181515082637571_7870932413537320960_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.000363)
+  1) a large clock mounted to the side of a wall . (p=0.000329)
+  2) a large clock mounted to the side of a white building . (p=0.000042)
+Captions for image 29093545_2302777286402813_841438222759231488_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.000346)
+  1) a large clock mounted to the ceiling of a building . (p=0.000081)
+  2) a large clock mounted to the side of a wall . (p=0.000066)
+Captions for image 29096421_1682300731845561_7374960963268640768_n.jpg:
+  0) a view of a building with a plane flying in the sky . (p=0.000003)
+  1) a view of a building from the window of a plane . (p=0.000002)
+  2) a view of a building with a plane in the sky . (p=0.000002)
+Captions for image 29096275_980767412097820_929878239403311104_n.jpg:
+  0) a large crane on top of a building . (p=0.000056)
+  1) a large crane on top of a metal structure . (p=0.000039)
+  2) a large crane on top of a large body of water . (p=0.000025)
+Captions for image 29089021_1794059140903708_6763234234497761280_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000161)
+  1) a train station with a train passing by . (p=0.000085)
+  2) a train station with a train on the tracks (p=0.000083)
+Captions for image 28754153_1723649604325149_4786042848623460352_n.jpg:
+  0) a large building with a clock on the side of it . (p=0.000104)
+  1) a large building with a large clock on it . (p=0.000095)
+  2) a large building with a large clock on it 's side . (p=0.000055)
+Captions for image 29403220_151816688845840_6043686569418686464_n.jpg:
+  0) a large building with a clock on it . (p=0.000082)
+  1) a large building with a clock on it (p=0.000073)
+  2) a tall building with a clock on it (p=0.000058)
+Captions for image 28763033_657031698021391_3531855202111979520_n.jpg:
+  0) a blue and white building with a large clock . (p=0.000033)
+  1) a large blue and white building with a large clock . (p=0.000018)
+  2) a blue and white building with a large clock on it . (p=0.000015)
+Captions for image 28766608_901903459996524_3937105393922080768_n.jpg:
+  0) a black and white photo of a train . (p=0.000249)
+  1) a black and white photo of a train car . (p=0.000154)
+  2) a black and white photo of a train car (p=0.000092)
+Captions for image 29094314_360104104492558_2174687683090055168_n.jpg:
+  0) a plane flying in the sky with a sky background (p=0.000045)
+  1) a plane flying in the sky over a city . (p=0.000024)
+  2) a large airplane flying in the sky over a city . (p=0.000017)
+Captions for image 28765258_1182364478572247_4472154775932108800_n.jpg:
+  0) a building with a clock on the front of it (p=0.000171)
+  1) a building with a clock on the front of it . (p=0.000159)
+  2) a tall building with a clock on the front of it . (p=0.000139)
+Captions for image 29093385_1804336936535270_5734436971212701696_n.jpg:
+  0) a group of people standing next to a train . (p=0.000047)
+  1) a group of people standing around a train station . (p=0.000029)
+  2) a group of people standing next to a train station . (p=0.000011)
+Captions for image 29089451_242208959683496_7439950123469111296_n.jpg:
+  0) a large building with a clock on it . (p=0.000369)
+  1) a large building with a clock on it (p=0.000230)
+  2) a large clock tower in the middle of a city . (p=0.000208)
+Captions for image 29415857_709608622761526_5996245769416343552_n.jpg:
+  0) a blue and white clock with a blue sky in the background . (p=0.000001)
+  1) a blue and white clock with a blue sky (p=0.000001)
+  2) a blue and white clock with a blue sky in the background (p=0.000000)
+Captions for image 28764710_440473656385085_513592597277573120_n.jpg:
+  0) a close up of a pair of scissors (p=0.000238)
+  1) a close up of a pair of scissors on a table (p=0.000032)
+  2) a close up of a pair of scissors and a pair of scissors (p=0.000008)
+Captions for image 29402235_253483611859366_6874351072874332160_n.jpg:
+  0) a bunch of birds that are in the grass . (p=0.000306)
+  1) a bunch of birds that are sitting in a field . (p=0.000190)
+  2) a bunch of birds that are sitting on some grass . (p=0.000127)
+Captions for image 29087521_1787059194691273_3654441733472649216_n.jpg:
+  0) a view of a city skyline and a clock tower . (p=0.000037)
+  1) a view of a city skyline , with a clock tower in the background . (p=0.000002)
+  2) a view of a city skyline , with a clock tower in the distance . (p=0.000002)
+Captions for image 29403878_400058213755190_7943338810459291648_n.jpg:
+  0) a large building with a clock on it . (p=0.000073)
+  1) a large building with a clock on it (p=0.000071)
+  2) a view of a building with a clock on it . (p=0.000045)
+Captions for image 28763818_114663686042781_7374393529369362432_n.jpg:
+  0) a person sitting on a bench in front of a building . (p=0.000028)
+  1) a person sitting on a bench in front of a building (p=0.000017)
+  2) a person sitting on a bench in front of a window (p=0.000016)
+Captions for image 29090214_831714170345752_7306580621445300224_n.jpg:
+  0) a close up of a pair of scissors (p=0.000406)
+  1) a close up of a pair of scissors on a table (p=0.000030)
+  2) a close up of a blue and white clock . (p=0.000011)
+Captions for image 29093835_769149659942712_3484120291339141120_n.jpg:
+  0) a bunch of different colored ties hanging from a wall . (p=0.000032)
+  1) a bunch of different colored ties hanging from the ceiling . (p=0.000016)
+  2) a bunch of different colored ties are hanging on a wall (p=0.000012)
+Captions for image 29093842_933278336846175_8906680007649132544_n.jpg:
+  0) a large building with a large clock on it . (p=0.000023)
+  1) a large building with a large clock on it 's side . (p=0.000014)
+  2) a large building with a large clock on it (p=0.000010)
+Captions for image 29090652_2030709343814127_5494848362408574976_n.jpg:
+  0) a large clock tower towering over a city . (p=0.002182)
+  1) a large clock tower towering over a city at night . (p=0.000578)
+  2) a large building with a clock tower in the middle . (p=0.000134)
+Captions for image 29090079_2170333383258677_8580325981359702016_n.jpg:
+  0) a close up of a red and white striped tie . (p=0.000004)
+  1) a close up of a red and blue striped tie . (p=0.000003)
+  2) a close up of a red and black suit case (p=0.000002)
+Captions for image 28764179_217270492352422_8167301636750835712_n.jpg:
+  0) a couple of umbrellas that are on a sidewalk . (p=0.000009)
+  1) a couple of umbrellas that are in the air . (p=0.000008)
+  2) a couple of umbrellas that are sitting on a sidewalk . (p=0.000004)
+Captions for image 29415090_2104331966464198_3545898117377294336_n.jpg:
+  0) a view of a city street from a train station . (p=0.000009)
+  1) a view of a train station with a train passing by . (p=0.000006)
+  2) a view of a train station with a train on the tracks . (p=0.000001)
+Captions for image 29088450_200781140518599_3036358805291008000_n.jpg:
+  0) a yellow fire hydrant sitting on the side of a road . (p=0.001028)
+  1) a blue and white fire hydrant sitting on the side of a road . (p=0.000382)
+  2) a yellow fire hydrant sitting on the side of a street . (p=0.000198)
+Captions for image 28765386_132101117625071_2255780522519166976_n.jpg:
+  0) a group of colorful umbrellas hanging from a ceiling . (p=0.000124)
+  1) a group of umbrellas hanging from a ceiling . (p=0.000069)
+  2) a group of umbrellas that are hanging from a ceiling . (p=0.000025)
+Captions for image 28763153_1875701776054335_1876679414457040896_n.jpg:
+  0) a blue and white wall with a blue and white wall (p=0.000000)
+  1) a blue and white wall with a white and blue wall (p=0.000000)
+  2) a blue and white wall with a white wall and a white clock (p=0.000000)
+Captions for image 29087534_2004714872875381_2139671012294262784_n.jpg:
+  0) a row of wooden boards sitting next to each other . (p=0.000390)
+  1) a row of surfboards sitting on top of a wooden floor . (p=0.000045)
+  2) a row of wooden boards sitting on top of a wooden floor . (p=0.000033)
+Captions for image 29087641_207306536693125_160025086970036224_n.jpg:
+  0) a train on a train track near a building (p=0.000297)
+  1) a train on a train track with buildings in the background (p=0.000216)
+  2) a train on a train track near a bridge (p=0.000149)
+Captions for image 29088923_362232260939995_1219147164416999424_n.jpg:
+  0) a large bridge spanning the width of a river . (p=0.000236)
+  1) a large bridge spanning the width of a bridge . (p=0.000048)
+  2) a large bridge spanning the width of a train station . (p=0.000026)
+Captions for image 28754231_2034406853480763_5790987160626659328_n.jpg:
+  0) a man walking down a street holding a skateboard . (p=0.000245)
+  1) a man walking down a street with a skateboard . (p=0.000129)
+  2) a man is walking down a street with a skateboard . (p=0.000041)
+Captions for image 29414508_603597783316928_556309994111238144_n.jpg:
+  0) a traffic light hanging from the side of a pole . (p=0.000233)
+  1) a traffic light hanging from the side of a building . (p=0.000092)
+  2) a traffic light hanging from the side of a metal pole . (p=0.000050)
+Captions for image 28763474_1623798257689075_7256723893749022720_n.jpg:
+  0) a tall clock tower with a sky background (p=0.002684)
+  1) a tall building with a clock on it . (p=0.001189)
+  2) a tall building with a clock on it (p=0.000805)
+Captions for image 29087229_350872562080269_2694871749496930304_n.jpg:
+  0) a close up of an open umbrella (p=0.000097)
+  1) a close up of an open umbrella on a table (p=0.000020)
+  2) a close up of an open umbrella on the ground (p=0.000016)
+Captions for image 28765637_335038506985453_6873326074634174464_n.jpg:
+  0) a red brick building with a clock on it . (p=0.000123)
+  1) a red brick building with a clock on it (p=0.000043)
+  2) a red brick building with a red door (p=0.000033)
+Captions for image 29096093_1679230232159573_5569279363964207104_n.jpg:
+  0) a bathroom with a large mirror and a sink . (p=0.000012)
+  1) a bathroom with a large mirror and a sink (p=0.000009)
+  2) a bathroom with a white toilet and a white sink . (p=0.000006)
+Captions for image 28764147_450667535347453_6241197787350827008_n.jpg:
+  0) a brick building with a large clock on it . (p=0.000111)
+  1) a large building with a clock on the front of it . (p=0.000103)
+  2) a brick building with a clock on the front of it . (p=0.000080)
+Captions for image 29095550_1808209866146319_5134909414146310144_n.jpg:
+  0) a row of urinals sitting next to each other . (p=0.000274)
+  1) a row of wooden benches sitting next to each other . (p=0.000172)
+  2) a row of urinals sitting next to each other on a sidewalk . (p=0.000008)
+Captions for image 29087773_1606410906143850_3374686130954829824_n.jpg:
+  0) a person riding a skate board on a ledge (p=0.000649)
+  1) a person riding a skate board on a rail (p=0.000385)
+  2) a person riding a skate board on a city street (p=0.000095)
+Captions for image 28764664_161923147853413_7288022797903724544_n.jpg:
+  0) a woman standing in front of a window looking at her cell phone . (p=0.000123)
+  1) a woman standing in front of a window holding a cell phone . (p=0.000092)
+  2) a woman standing in front of a window looking at her phone . (p=0.000060)
+Captions for image 29095189_155373825140123_2712732693119893504_n.jpg:
+  0) a red and white building with a clock on it (p=0.000020)
+  1) a red and white building with a clock tower (p=0.000011)
+  2) a red and white building with a clock on it . (p=0.000010)
+Captions for image 29092782_238732276671832_6505420430189264896_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.000778)
+  1) a large clock mounted to the side of a wall . (p=0.000146)
+  2) a large building with a clock on the wall . (p=0.000114)
+Captions for image 29090399_170183553791734_1395205510331891712_n.jpg:
+  0) a large building with a clock on the ceiling . (p=0.000003)
+  1) a large building with a clock on the ceiling (p=0.000003)
+  2) a large building with a clock on the wall . (p=0.000002)
+Captions for image 29401263_487734691628565_7043783598511489024_n.jpg:
+  0) a room with a bed and a window (p=0.000017)
+  1) a view of a room with a bed and a window . (p=0.000007)
+  2) a view of a room with a bed and a table . (p=0.000003)
+Captions for image 29095616_556459988056512_3452462967868620800_n.jpg:
+  0) a red and white fire hydrant sitting on the side of a road . (p=0.000320)
+  1) a red and white fire hydrant sitting on a sidewalk . (p=0.000107)
+  2) a red and white fire hydrant on a street corner . (p=0.000096)
+Captions for image 29088498_2098350863743831_1821627189376843776_n.jpg:
+  0) a group of people standing next to a building . (p=0.000042)
+  1) a group of people standing next to each other . (p=0.000018)
+  2) a group of people standing next to a building with a clock . (p=0.000004)
+Captions for image 29400963_398653477274051_6942129638239895552_n.jpg:
+  0) a large building with a clock on it . (p=0.000152)
+  1) a large building with a large clock on it 's side . (p=0.000151)
+  2) a large building with a large clock on it . (p=0.000113)
+Captions for image 29087958_175079133213309_9129001413404262400_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000051)
+  1) a train station with a train passing by . (p=0.000041)
+  2) a train station with a train passing by (p=0.000031)
+Captions for image 29089732_129203157917029_1891703326022565888_n.jpg:
+  0) a group of people standing next to a train . (p=0.000120)
+  1) a group of people standing in front of a building . (p=0.000095)
+  2) a group of people standing in front of a large building . (p=0.000035)
+Captions for image 28763417_1472742602852755_3913709826592473088_n.jpg:
+  0) a man in a red shirt is standing in front of a building . (p=0.000000)
+  1) a man in a red shirt is standing on a bench (p=0.000000)
+  2) a man in a red shirt is standing in front of a building (p=0.000000)

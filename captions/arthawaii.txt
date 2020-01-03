@@ -1,0 +1,20 @@
+Captions for image 12534084_217847535216796_878967598_n.jpg:
+  0) a plane flying in the sky with a sky background (p=0.000049)
+  1) a plane flying in the sky over a building . (p=0.000042)
+  2) a plane flying in the sky over a tree . (p=0.000027)
+Captions for image 12523565_938461079578840_1206803151_n.jpg:
+  0) a view of a city skyline from the beach . (p=0.000020)
+  1) a view of a beach with a large umbrella . (p=0.000005)
+  2) a view of a city skyline from the beach (p=0.000003)
+Captions for image 44884218_345707102882519_2446069589734326272_n.jpg:
+  0) a white toilet sitting on top of a wooden floor . (p=0.000743)
+  1) a white toilet sitting on top of a white toilet . (p=0.000332)
+  2) a white toilet with a black seat on top of a white floor . (p=0.000073)
+Captions for image 10727404_925736610854193_2129136228_n.jpg:
+  0) an airplane is flying in the sky with clouds . (p=0.000018)
+  1) an airplane is flying in the sky with clouds in the background . (p=0.000012)
+  2) a plane flying in the sky with a smoke trail behind it . (p=0.000008)
+Captions for image 1209640_1539310599712687_1500756373_n.jpg:
+  0) a boat sitting on top of a sandy beach . (p=0.001459)
+  1) a boat sitting on top of a beach next to the ocean . (p=0.000739)
+  2) a boat sitting on top of a sandy beach next to the ocean . (p=0.000537)

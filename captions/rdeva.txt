@@ -1,0 +1,40 @@
+Captions for image 11142399_1600773420140782_928654361_n.jpg:
+  0) a cell phone sitting on top of a book . (p=0.001160)
+  1) a cell phone sitting on top of a table . (p=0.000250)
+  2) a cell phone sitting on a table next to a book . (p=0.000084)
+Captions for image 11192783_384921825029159_201198688_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.000719)
+  1) a group of people standing on top of a beach . (p=0.000474)
+  2) a group of people standing on a beach next to a boat . (p=0.000009)
+Captions for image 11192844_484941518325503_1171695858_n.jpg:
+  0) a group of people standing next to each other . (p=0.000309)
+  1) a group of people standing next to each other in a room . (p=0.000022)
+  2) a group of people standing next to each other in front of a building . (p=0.000018)
+Captions for image 11190178_648838631927082_1882804390_n.jpg:
+  0) a group of people sitting around a table . (p=0.003625)
+  1) a group of people sitting around a table eating food . (p=0.001989)
+  2) a group of people sitting around a table eating pizza . (p=0.000713)
+Captions for image 11186914_457585711070681_616240556_n.jpg:
+  0) a group of people sitting around a table eating food . (p=0.003768)
+  1) a group of people sitting at a picnic table . (p=0.003489)
+  2) a group of people sitting around a table with food . (p=0.002226)
+Captions for image 11195811_1421194304855473_694014597_n.jpg:
+  0) a close up of a tennis racket on a court (p=0.000880)
+  1) a close up of a tennis racket and a ball (p=0.000233)
+  2) a close up of a tennis racket with a ball in it (p=0.000090)
+Captions for image 52001904_107726163589397_3803446317725986202_n.jpg:
+  0) a group of people sitting around a table with food . (p=0.000636)
+  1) a large group of people sitting at a table (p=0.000466)
+  2) a group of people sitting at a table with food . (p=0.000391)
+Captions for image 11193078_1075531099127117_211786813_n.jpg:
+  0) a young boy holding a tennis racquet on a tennis court . (p=0.002968)
+  1) a little girl holding a tennis racquet on a tennis court . (p=0.001215)
+  2) a young boy holding a tennis racquet on a court . (p=0.000930)
+Captions for image 11186821_1584399375171515_1219917223_n.jpg:
+  0) a man standing in a field holding a frisbee . (p=0.000943)
+  1) a man standing in a field with a frisbee . (p=0.000852)
+  2) a man standing in a field with a frisbee in his hand . (p=0.000249)
+Captions for image 44884218_345707102882519_2446069589734326272_n.jpg:
+  0) a white toilet sitting on top of a wooden floor . (p=0.000743)
+  1) a white toilet sitting on top of a white toilet . (p=0.000332)
+  2) a white toilet with a black seat on top of a white floor . (p=0.000073)

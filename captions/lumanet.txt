@@ -1,0 +1,24 @@
+Captions for image 10784921_565913910219452_197045446_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000754)
+  1) a pair of scissors sitting on a table . (p=0.000292)
+  2) a pair of scissors sitting on top of a table (p=0.000083)
+Captions for image 10817711_390855984397311_1034265303_n.jpg:
+  0) a table with a cake and a candle on it (p=0.000015)
+  1) a table with a cake and a candle on it . (p=0.000009)
+  2) a birthday cake with a candle on it (p=0.000007)
+Captions for image 928607_301739870021528_456736195_n.jpg:
+  0) a pair of scissors sitting on the ground . (p=0.000009)
+  1) a pair of scissors sitting on top of a table . (p=0.000007)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000003)
+Captions for image 10864823_883227185031373_120341575_n.jpg:
+  0) a close up of a piece of cake on a plate (p=0.000406)
+  1) a close up of a cake on a pan (p=0.000335)
+  2) a piece of cake on a plate with a fork . (p=0.000206)
+Captions for image 10729352_467872383353342_233496025_a.jpg:
+  0) a man riding a motorcycle on top of a beach . (p=0.000393)
+  1) a man riding a motorcycle on top of a body of water . (p=0.000315)
+  2) a man riding a motorcycle on top of a sandy beach . (p=0.000203)
+Captions for image 10817642_1518523381763493_1139470679_n.jpg:
+  0) a bathroom with a toilet and a shower . (p=0.000079)
+  1) a bathroom with a toilet and a sink (p=0.000066)
+  2) a bathroom with a toilet and a shower (p=0.000051)

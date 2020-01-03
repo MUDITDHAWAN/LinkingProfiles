@@ -1,0 +1,24 @@
+Captions for image 11205943_485311124956312_1545129234_n.jpg:
+  0) a small bird perched on top of a tree branch . (p=0.007114)
+  1) a small bird perched on a tree branch . (p=0.003368)
+  2) a small bird perched on a tree branch (p=0.001970)
+Captions for image 11176362_400268350158222_1508299508_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.001092)
+  1) a vase of flowers sitting on a table . (p=0.000827)
+  2) a vase filled with flowers sitting on a table . (p=0.000660)
+Captions for image 11143057_848108541927101_1036368727_n.jpg:
+  0) a red and white fire hydrant sitting in the grass . (p=0.000021)
+  1) a red and white fire hydrant sitting in the middle of a field . (p=0.000012)
+  2) a red and white fire hydrant sitting in the middle of a forest . (p=0.000009)
+Captions for image 11189215_445023122332844_313342417_n.jpg:
+  0) a plant growing out of the ground in a garden . (p=0.000008)
+  1) a plant growing out of the ground in a garden (p=0.000004)
+  2) a plant growing out of the ground in a field . (p=0.000003)
+Captions for image 11850008_1494956384135301_811812970_a.jpg:
+  0) a man wearing a hat and a hat on his head (p=0.000029)
+  1) a man wearing a hat and a hat on his head . (p=0.000028)
+  2) a man wearing a hat and a hat on his shoulder . (p=0.000005)
+Captions for image 11195812_886474891414477_1144667183_n.jpg:
+  0) a night time view of a city street at night . (p=0.000064)
+  1) a night time view of a night time scene . (p=0.000032)
+  2) a night time view of a city street at night (p=0.000013)

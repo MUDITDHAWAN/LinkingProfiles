@@ -1,0 +1,12 @@
+Captions for image 1530713_788581667832603_2105289895_n.jpg:
+  0) a book sitting on top of a wooden bench . (p=0.002526)
+  1) a book sitting on a bench in front of a building . (p=0.000074)
+  2) a book sitting on top of a bench next to a sign . (p=0.000044)
+Captions for image 44884218_345707102882519_2446069589734326272_n.jpg:
+  0) a white toilet sitting on top of a wooden floor . (p=0.000743)
+  1) a white toilet sitting on top of a white toilet . (p=0.000332)
+  2) a white toilet with a black seat on top of a white floor . (p=0.000073)
+Captions for image 1660269_753207461406450_1346224083_n.jpg:
+  0) a woman in a white dress holding a pair of scissors . (p=0.000021)
+  1) a woman in a white dress holding a pink umbrella . (p=0.000008)
+  2) a woman wearing a tie and a hat (p=0.000006)

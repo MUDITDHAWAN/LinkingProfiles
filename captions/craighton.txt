@@ -1,0 +1,752 @@
+Captions for image 22580569_112009236227958_20410874296532992_n.jpg:
+  0) a tall clock tower with a sky background (p=0.001729)
+  1) a clock tower in the middle of a city . (p=0.000672)
+  2) a large clock tower in the middle of a city . (p=0.000329)
+Captions for image 13627927_974998672598291_1096111889_a.jpg:
+  0) a man in a suit and tie standing on a beach . (p=0.000131)
+  1) a man in a suit and tie standing in a field . (p=0.000044)
+  2) a man in a suit and tie standing on a beach (p=0.000029)
+Captions for image 24327987_566700743671100_7843395973748359168_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.001451)
+  1) a table topped with plates of food and bowls of food . (p=0.000499)
+  2) a table topped with plates of food and a bowl of soup . (p=0.000062)
+Captions for image 25016939_944675945689169_3925277431946018816_n.jpg:
+  0) a man on a beach with a surfboard . (p=0.001986)
+  1) a man standing on a beach holding a surfboard . (p=0.001868)
+  2) a man standing on a beach with a surfboard . (p=0.001452)
+Captions for image 30591968_1913325008942512_5984936334546960384_n.jpg:
+  0) an airplane is parked on the tarmac at an airport . (p=0.000060)
+  1) an airplane is parked at the airport terminal . (p=0.000043)
+  2) an airplane is parked on the runway at the airport . (p=0.000033)
+Captions for image 26185342_165271647416258_5739367778352103424_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.011951)
+  1) a large jetliner sitting on top of an airport runway . (p=0.005153)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001860)
+Captions for image 46170443_724850294540233_4873478833377337531_n.jpg:
+  0) a large commercial airplane flying in the sky . (p=0.002730)
+  1) a large commercial airplane flying in the sky (p=0.002725)
+  2) a large commercial airplane flying in the air . (p=0.000751)
+Captions for image 57799309_2308517172738108_6980628447424386787_n.jpg:
+  0) a large body of water with mountains in the background . (p=0.000851)
+  1) a large body of water with a mountain in the background . (p=0.000835)
+  2) a large body of water with a mountain in the background (p=0.000385)
+Captions for image 56981663_346002582695566_4915485068662651718_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.000759)
+  1) a city street at night with a red light . (p=0.000051)
+  2) a city street at night with a red light (p=0.000028)
+Captions for image 57319887_392814781571831_2655083692492586123_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009830)
+  1) a large jetliner sitting on top of an airport runway . (p=0.007084)
+  2) a large jetliner sitting on top of a runway . (p=0.001793)
+Captions for image 62250390_343419359653851_7350753442462312247_n.jpg:
+  0) a bus that is sitting in the street . (p=0.000283)
+  1) a bus that is sitting on the side of the road . (p=0.000128)
+  2) a bus that is sitting on the side of a road . (p=0.000111)
+Captions for image 56899791_2362273450726320_1897175826167885713_n.jpg:
+  0) a view of the wing of an airplane . (p=0.000181)
+  1) a view of the wing of an airplane window . (p=0.000157)
+  2) a view of the wing of an airplane window (p=0.000034)
+Captions for image 56161653_189860311990522_3614358838867206349_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.012469)
+  1) a large jetliner sitting on top of an airport runway . (p=0.006140)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001767)
+Captions for image 56669851_335140143810207_2552059869293647155_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009436)
+  1) a large jetliner sitting on top of an airport runway . (p=0.006040)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.004173)
+Captions for image 60546658_402845180570948_4751760210222308647_n.jpg:
+  0) a stop sign on the side of the road . (p=0.000610)
+  1) a stop sign on the side of a road . (p=0.000470)
+  2) a stop sign on the side of the road (p=0.000270)
+Captions for image 17438179_1834308530177135_450019023938125824_n.jpg:
+  0) a view of a city street from the airport . (p=0.000015)
+  1) a view of a city street from a window . (p=0.000004)
+  2) a view of a city street from the airport (p=0.000003)
+Captions for image 46197048_131099244558292_7948302819693062625_n.jpg:
+  0) a yellow fire hydrant sitting on the side of a road . (p=0.002468)
+  1) a red fire hydrant sitting on the side of a road . (p=0.002035)
+  2) a yellow fire hydrant sitting on the side of a street . (p=0.000584)
+Captions for image 45692568_2221830008089795_814620367055332128_n.jpg:
+  0) a black and white photo of a street sign . (p=0.000039)
+  1) a black and white photo of a street sign (p=0.000033)
+  2) a black and white photo of a building with a clock . (p=0.000010)
+Captions for image 42003740_563146310825098_7607436754460370152_n.jpg:
+  0) a garden with a lot of lawn chairs and umbrellas (p=0.000002)
+  1) a garden with a lot of lawn chairs and umbrellas . (p=0.000002)
+  2) a garden with a lot of lawn chairs under umbrellas . (p=0.000001)
+Captions for image 43986134_2173263029589155_3461622132870121121_n.jpg:
+  0) a view of the wing of a plane in the air . (p=0.000038)
+  1) a view of the wing of a plane in the sky . (p=0.000037)
+  2) a view of the wing of a plane flying over a mountain . (p=0.000009)
+Captions for image 44384881_2313812735298985_5465621111888676440_n.jpg:
+  0) a large long train on a steel track . (p=0.003220)
+  1) a group of boats that are sitting in the water . (p=0.000114)
+  2) a group of boats that are in the water . (p=0.000057)
+Captions for image 41301168_308162309769574_3475825858929686076_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.008637)
+  1) a large jetliner sitting on top of an airport runway . (p=0.004525)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001600)
+Captions for image 41443727_1755973401166867_1840055850717386604_n.jpg:
+  0) a tray of food that includes a sandwich and chips . (p=0.000004)
+  1) a tray of food that includes a sandwich and chips (p=0.000000)
+  2) a tray of food that includes a sandwich , chips , and salad . (p=0.000000)
+Captions for image 40022242_232384577442984_3628913770138618349_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009596)
+  1) a large jetliner sitting on top of an airport runway . (p=0.005263)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001765)
+Captions for image 40240913_1984659661601237_102698874275102720_n.jpg:
+  0) a view of a city street from the airport . (p=0.000005)
+  1) a view of a train station with a train passing by . (p=0.000003)
+  2) a view of a train station with a train on the tracks . (p=0.000002)
+Captions for image 38646011_258429128215625_1503136724220379136_n.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.002803)
+  1) a large group of people on a beach . (p=0.001047)
+  2) a group of people standing on top of a beach . (p=0.000601)
+Captions for image 36028585_247038935885213_7974085575093256192_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009757)
+  1) a large jetliner sitting on top of an airport runway . (p=0.009256)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.003907)
+Captions for image 35575976_1270248369777078_7557591489614708736_n.jpg:
+  0) a plane flying over a snowy mountain range . (p=0.000426)
+  1) a plane flying over a snowy mountain range (p=0.000105)
+  2) an airplane flying over a mountain range with snow . (p=0.000014)
+Captions for image 33239813_1798363450226840_1064262302896750592_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.007226)
+  1) a large jetliner sitting on top of an airport runway . (p=0.004114)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001415)
+Captions for image 13183395_1122773057763763_151294513_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009053)
+  1) a large jetliner sitting on top of an airport runway . (p=0.005352)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001557)
+Captions for image 30592456_1013793142104488_6718527069510172672_n.jpg:
+  0) a large truck is parked on the side of the road . (p=0.000033)
+  1) a large truck with a crane on the back of it . (p=0.000023)
+  2) a large truck is parked on the side of a road . (p=0.000021)
+Captions for image 30856224_165477977450331_5255891440214474752_n.jpg:
+  0) a view of a mountain range from a plane . (p=0.000201)
+  1) a view of a mountain range from an airplane . (p=0.000185)
+  2) a view of a mountain range from an airplane window . (p=0.000176)
+Captions for image 30087363_1474464519331144_1575401443056156672_n.jpg:
+  0) a large propeller airplane sitting on top of an airport tarmac . (p=0.000786)
+  1) a large propeller airplane sitting on top of a tarmac . (p=0.000593)
+  2) a large propeller airplane sitting on top of a runway . (p=0.000531)
+Captions for image 30589910_209630442958842_7633254987870502912_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.000176)
+  1) a train traveling down tracks next to a tall building . (p=0.000134)
+  2) a train traveling down tracks next to a snow covered mountain . (p=0.000046)
+Captions for image 30078871_1991312007608839_7930647332423467008_n.jpg:
+  0) a snow covered mountain with a snow covered mountain . (p=0.000141)
+  1) a snow covered mountain with a snow covered mountain in the background . (p=0.000130)
+  2) a snow covered mountain with a lot of snow (p=0.000075)
+Captions for image 29740834_258999357974724_1434431085869006848_n.jpg:
+  0) a city street at night with a street light . (p=0.000045)
+  1) a city street at night with a red light . (p=0.000028)
+  2) a city street at night with a street light (p=0.000026)
+Captions for image 27573511_190593038199061_8963138233223348224_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.011990)
+  1) a large jetliner sitting on top of an airport runway . (p=0.009996)
+  2) a large jetliner sitting on top of a runway . (p=0.001860)
+Captions for image 26869376_923176374501003_4251362412894093312_n.jpg:
+  0) an airplane wing flying over a mountain range . (p=0.001329)
+  1) an airplane wing flying over a snowy mountain range . (p=0.000301)
+  2) an airplane wing flying over a snowy mountain . (p=0.000203)
+Captions for image 26153632_1798245386886064_4927729284233035776_n.jpg:
+  0) a man in a suit and tie holding a sign . (p=0.000003)
+  1) a man in a suit and tie holding up a sign . (p=0.000002)
+  2) a man in a suit and tie holding a sign (p=0.000001)
+Captions for image 26869111_1361797447298873_6415881507507798016_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.013548)
+  1) a large jetliner sitting on top of an airport runway . (p=0.008405)
+  2) a large jetliner sitting on top of a tarmac . (p=0.002121)
+Captions for image 26279262_1964798747092821_753697753208455168_n.jpg:
+  0) a stop sign on the side of the road . (p=0.000432)
+  1) a stop sign on the side of a road . (p=0.000212)
+  2) a stop sign on the side of the road (p=0.000181)
+Captions for image 11347869_1622359981371730_1011629027_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.008719)
+  1) a large jetliner sitting on top of an airport runway . (p=0.005181)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001463)
+Captions for image 25012690_1763870060573609_2090022268389294080_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009365)
+  1) a large jetliner sitting on top of an airport runway . (p=0.009195)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.003527)
+Captions for image 25005509_178632439391742_4498289209546637312_n.jpg:
+  0) a woman sitting on a bench looking at her cell phone . (p=0.000601)
+  1) a woman sitting on a bench looking at her phone . (p=0.000376)
+  2) a woman sitting on a bench in front of a window . (p=0.000257)
+Captions for image 25038225_138796320159974_3765068275562577920_n.jpg:
+  0) a group of people standing around a luggage carousel . (p=0.000462)
+  1) a group of people sitting on a bus . (p=0.000138)
+  2) a group of people standing around a luggage carousel (p=0.000044)
+Captions for image 25011942_559759174363897_9032115760184426496_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009232)
+  1) a large jetliner sitting on top of an airport runway . (p=0.005481)
+  2) a large jetliner sitting on top of a runway . (p=0.001995)
+Captions for image 22582165_1731815717124151_8580417803465523200_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.007428)
+  1) a large jetliner sitting on top of an airport runway . (p=0.004085)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001370)
+Captions for image 25037510_517853791904304_3438997154473967616_n.jpg:
+  0) a smart phone sitting on top of a wooden table . (p=0.003008)
+  1) a smart phone sitting on top of a table . (p=0.002652)
+  2) a smart phone sitting on top of a table next to a book . (p=0.000118)
+Captions for image 25017062_733569070172548_2045264289643626496_n.jpg:
+  0) a truck driving down a road next to a mountain . (p=0.000039)
+  1) a truck driving down a dirt road next to a mountain . (p=0.000021)
+  2) a truck driving down a dirt road next to a forest . (p=0.000018)
+Captions for image 24124979_128181681212502_210626604945113088_n.jpg:
+  0) a group of people standing on top of a snow covered slope . (p=0.001647)
+  1) a group of people standing on a snow covered slope . (p=0.000762)
+  2) a group of people standing on top of a snow covered ski slope . (p=0.000601)
+Captions for image 25006433_134170747249650_5459950975739494400_n.jpg:
+  0) a black cat sitting in a bathroom sink . (p=0.002680)
+  1) a black cat sitting on top of a toilet seat . (p=0.001438)
+  2) a black cat sitting in a bathroom sink (p=0.000759)
+Captions for image 25037246_1763306550388539_5027458038299099136_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009516)
+  1) a large jetliner sitting on top of an airport runway . (p=0.008112)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.002327)
+Captions for image 925549_1517915898481658_2112192739_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.010952)
+  1) a large jetliner sitting on top of an airport runway . (p=0.007330)
+  2) a large jetliner sitting on top of a runway . (p=0.001625)
+Captions for image 23823452_1653566794763029_2076632510275518464_n.jpg:
+  0) a black and white photo of a clock (p=0.000184)
+  1) a black and white photo of a computer monitor . (p=0.000119)
+  2) a black and white photo of a computer screen . (p=0.000117)
+Captions for image 23667709_841493992698601_4707974271761121280_n.jpg:
+  0) a view of a mountain range from a plane . (p=0.000088)
+  1) a view of a mountain range from a plane window . (p=0.000036)
+  2) a view of a mountain range from the airplane . (p=0.000031)
+Captions for image 23733780_182692512309439_7904090883912368128_n.jpg:
+  0) a plate of food that is on a table . (p=0.000693)
+  1) a piece of cake on a plate with a fork . (p=0.000660)
+  2) a piece of cake on a plate with a fork (p=0.000321)
+Captions for image 23596085_130267931079332_5300016972140904448_n.jpg:
+  0) a close up of a tv on a wall (p=0.000232)
+  1) a close up of a tv with a picture of a person on it (p=0.000002)
+  2) a close up of a tv with a picture of a man on it (p=0.000002)
+Captions for image 23279440_364016570713185_2860856017690820608_n.jpg:
+  0) a smart phone sitting on top of a wooden table . (p=0.002563)
+  1) a smart phone sitting on top of a table . (p=0.001457)
+  2) a smart phone sitting on top of a table next to a smart phone . (p=0.000136)
+Captions for image 23279648_591827067875137_1403761540452057088_n.jpg:
+  0) a laptop computer sitting on top of a table . (p=0.001857)
+  1) a laptop computer sitting on top of a wooden table . (p=0.001032)
+  2) a laptop computer sitting on top of a desk . (p=0.000977)
+Captions for image 22861045_156916771712594_8292058861762772992_n.jpg:
+  0) a view of the wing of an airplane . (p=0.000354)
+  1) a view of the wing of a plane flying in the sky . (p=0.000026)
+  2) a view of the wing of a plane flying over a mountain . (p=0.000024)
+Captions for image 23101023_128037157905974_4169986204407693312_n.jpg:
+  0) a view of the wing of an airplane . (p=0.000484)
+  1) a view of the wing of an airplane window . (p=0.000119)
+  2) a view of the wing of an airplane window (p=0.000020)
+Captions for image 22802794_2053514758202308_2274055131622277120_n.jpg:
+  0) an airplane is flying over a snowy mountain . (p=0.000596)
+  1) an airplane is flying over a mountain range . (p=0.000263)
+  2) an airplane is flying over a snowy mountain range . (p=0.000149)
+Captions for image 22860876_1349649318497937_6726265599850184704_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009869)
+  1) a large jetliner sitting on top of an airport runway . (p=0.004994)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001556)
+Captions for image 23164747_398879237194762_5109423408924327936_n.jpg:
+  0) a large jetliner flying over a large body of water . (p=0.000594)
+  1) a large jetliner flying over a large city . (p=0.000385)
+  2) a large jetliner flying over a bridge over a river . (p=0.000289)
+Captions for image 22802489_1539981416096312_9024658906684588032_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.007385)
+  1) a large jetliner sitting on top of an airport runway . (p=0.003868)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001370)
+Captions for image 22708899_134459497304376_6980971441269243904_n.jpg:
+  0) a tall building with a clock on it . (p=0.000705)
+  1) a tall building with a clock on it (p=0.000703)
+  2) a tall building with a clock on top (p=0.000238)
+Captions for image 22582665_1062618540507203_5870703213929299968_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.012105)
+  1) a large jetliner sitting on top of an airport runway . (p=0.007660)
+  2) a large jetliner sitting on top of a runway . (p=0.002080)
+Captions for image 22639392_131281720857963_3152431950027816960_n.jpg:
+  0) a view of a city skyline from a plane . (p=0.000017)
+  1) a view of a city skyline from a distance . (p=0.000012)
+  2) a view of a city skyline from a plane (p=0.000004)
+Captions for image 22580497_401225300293169_1267977665512472576_n.jpg:
+  0) a view of a city street at night . (p=0.000085)
+  1) a view of a city street at sunset . (p=0.000068)
+  2) a view of a city street at night (p=0.000016)
+Captions for image 11849278_1682891258607037_876294089_n.jpg:
+  0) a large jetliner sitting on top of an airport runway . (p=0.008945)
+  1) a large jetliner sitting on top of an airport tarmac . (p=0.007817)
+  2) a large passenger jet sitting on top of an airport runway . (p=0.003615)
+Captions for image 22581779_1959840184269781_4497995051531501568_n.jpg:
+  0) a television that is on in a room . (p=0.000178)
+  1) a television that is on in a room (p=0.000075)
+  2) a television that is sitting on a wall . (p=0.000064)
+Captions for image 22344088_1741642789210756_1506137909927870464_n.jpg:
+  0) a man on a skateboard doing a trick . (p=0.001041)
+  1) a man on a skateboard doing a trick on a ramp . (p=0.000220)
+  2) a young man riding a skateboard on top of a cement block . (p=0.000119)
+Captions for image 22158070_1989887751226527_8949447320592711680_n.jpg:
+  0) a view of a beach with a boat in the water . (p=0.000004)
+  1) a view of a beach with a boat on it . (p=0.000003)
+  2) a view of a beach with a boat in the background . (p=0.000001)
+Captions for image 22708674_124695971513845_4557230175326044160_n.jpg:
+  0) a man kiteboarding over a body of water . (p=0.001137)
+  1) a person is flying a kite on the beach . (p=0.001076)
+  2) a person is flying a kite on the beach (p=0.000684)
+Captions for image 22220810_1526662000734928_5618770044482748416_n.jpg:
+  0) a man standing in a room with a table and chairs . (p=0.000007)
+  1) a man standing in a room with a bunch of bananas . (p=0.000006)
+  2) a man standing in a room with a bunch of bananas on it . (p=0.000001)
+Captions for image 21910691_427047501023788_5771262828262457344_n.jpg:
+  0) a table topped with lots of different items . (p=0.000072)
+  1) a table topped with lots of clutter and electronics . (p=0.000061)
+  2) a table topped with lots of different types of items . (p=0.000036)
+Captions for image 21827603_275704416256491_7752726289257070592_n.jpg:
+  0) a group of people standing around a pile of luggage . (p=0.000434)
+  1) a group of people standing around a luggage cart . (p=0.000318)
+  2) a group of people standing around a luggage cart (p=0.000014)
+Captions for image 21689080_278529042661597_2362957982532108288_n.jpg:
+  0) a view of a plane wing from a plane . (p=0.000031)
+  1) a view of a plane wing from a plane window . (p=0.000019)
+  2) a view of a plane wing from above (p=0.000017)
+Captions for image 21296065_119101345416843_4176175213626523648_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.001880)
+  1) a train traveling over a bridge over water . (p=0.000374)
+  2) a train traveling over a bridge over a body of water . (p=0.000272)
+Captions for image 20987365_473787926311469_3226776901913673728_n.jpg:
+  0) a little boy standing on top of a skateboard . (p=0.000166)
+  1) a little boy standing on a skateboard on a sidewalk . (p=0.000042)
+  2) a little boy standing on a skateboard in the middle of the street . (p=0.000011)
+Captions for image 20687162_1468148156606228_2058747209893019648_n.jpg:
+  0) an airplane is parked on the tarmac at an airport . (p=0.000170)
+  1) an airplane is parked on the runway at the airport . (p=0.000165)
+  2) an airplane is parked on the runway at an airport . (p=0.000113)
+Captions for image 20837182_293800334428581_8590678420206125056_n.jpg:
+  0) a lush green field with animals grazing on it . (p=0.000257)
+  1) a lush green field with animals grazing on top of it . (p=0.000199)
+  2) a lush green hillside covered in lots of animals . (p=0.000082)
+Captions for image 20185033_1237025943091146_2392956662647357440_n.jpg:
+  0) an airplane flying over a body of water . (p=0.001241)
+  1) a plane flying over a body of water . (p=0.000736)
+  2) a plane flying over a body of water (p=0.000676)
+Captions for image 20181190_329879134123170_8617843706101235712_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009730)
+  1) a large jetliner sitting on top of an airport runway . (p=0.005005)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001596)
+Captions for image 20184502_1865424397112599_4759356790884270080_n.jpg:
+  0) a herd of sheep grazing on a lush green hillside . (p=0.001094)
+  1) a herd of sheep grazing on a lush green field . (p=0.000948)
+  2) a herd of cattle grazing on a lush green hillside . (p=0.000639)
+Captions for image 18380127_1837434526506208_8093781864046657536_n.jpg:
+  0) a red car parked in front of a building . (p=0.000202)
+  1) a red and white car parked in front of a building . (p=0.000039)
+  2) a red car parked in front of a store front . (p=0.000030)
+Captions for image 18299856_1492155644182409_1688298888974303232_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009125)
+  1) a large jetliner sitting on top of an airport runway . (p=0.007335)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.004097)
+Captions for image 18161337_207413749763549_7487715356711059456_n.jpg:
+  0) a large jetliner sitting on top of an airport runway . (p=0.002224)
+  1) a large jetliner sitting on top of an airport tarmac . (p=0.001538)
+  2) a large jetliner sitting on top of a runway . (p=0.000847)
+Captions for image 17126551_1673396652961554_4746839868909289472_n.jpg:
+  0) an airplane is parked on the tarmac at an airport . (p=0.000160)
+  1) an airplane is parked on the runway at the airport . (p=0.000150)
+  2) an airplane is parked on the runway at an airport . (p=0.000130)
+Captions for image 15258770_230665160700118_4022879343976906752_n.jpg:
+  0) a cell phone sitting on top of a table . (p=0.000906)
+  1) a cell phone sitting on top of a book . (p=0.000448)
+  2) a cell phone sitting on a table next to a cell phone . (p=0.000110)
+Captions for image 10838582_414088678739370_662833131_n.jpg:
+  0) a group of people riding skis down a snow covered slope . (p=0.000354)
+  1) a group of people standing on top of a snow covered slope . (p=0.000153)
+  2) a group of people standing on a snow covered slope . (p=0.000034)
+Captions for image 15875948_636246606579289_5606976240381591552_n.jpg:
+  0) a white plate topped with a sandwich and fries . (p=0.002874)
+  1) a white plate topped with a sandwich and french fries . (p=0.002088)
+  2) a white plate topped with a sandwich and a salad . (p=0.000324)
+Captions for image 14566531_1787632711491277_2990989085763436544_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.003499)
+  1) a person holding a cell phone in their hand . (p=0.000885)
+  2) a close up of a person holding a cellphone (p=0.000317)
+Captions for image 14733578_318680811846083_3291079326908284928_n.jpg:
+  0) a smart phone sitting on top of a table . (p=0.001859)
+  1) a smart phone sitting on top of a wooden table . (p=0.001521)
+  2) a cell phone sitting on top of a table (p=0.000103)
+Captions for image 14540399_557977917737002_7053238651186053120_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.001402)
+  1) a close up of a sign on a pole (p=0.000238)
+  2) a close up of a street sign with trees in the background (p=0.000132)
+Captions for image 14712116_916303855135967_9170918808154537984_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.001758)
+  1) a white plate topped with meat , potatoes and veggies . (p=0.000357)
+  2) a white plate topped with meat , potatoes and vegetables . (p=0.000349)
+Captions for image 14549918_170228733435677_5557110201196216320_n.jpg:
+  0) a collage of photos of a man and a woman . (p=0.000005)
+  1) a collage of photos of a man and a woman (p=0.000004)
+  2) a collage of photos with a sign and a clock (p=0.000004)
+Captions for image 14478348_324460201242334_828838141627465728_n.jpg:
+  0) a truck is parked in a parking lot . (p=0.000462)
+  1) a truck is parked in a parking lot (p=0.000147)
+  2) a truck parked in a parking lot next to a car . (p=0.000091)
+Captions for image 14128848_672850952870946_154748384_n.jpg:
+  0) a plate of food that includes a sandwich and salad . (p=0.000031)
+  1) a plate of food that includes a sandwich and a salad . (p=0.000007)
+  2) a plate of food with a sandwich and a bowl of soup . (p=0.000003)
+Captions for image 14099583_1751180901803019_2114135596_n.jpg:
+  0) a large jetliner sitting on top of an airport runway . (p=0.009817)
+  1) a large jetliner sitting on top of an airport tarmac . (p=0.007960)
+  2) a large passenger jet sitting on top of an airport runway . (p=0.003490)
+Captions for image 13722193_1770306369879968_1087347433_n.jpg:
+  0) a book is sitting on top of a book . (p=0.000086)
+  1) a book is sitting on top of a book (p=0.000065)
+  2) a book with a picture of a cat on it . (p=0.000012)
+Captions for image 13643083_1110560272352625_770519349_n.jpg:
+  0) a cell phone sitting on top of a table . (p=0.000085)
+  1) a cell phone sitting on top of a book . (p=0.000032)
+  2) a cell phone sitting on top of a table (p=0.000010)
+Captions for image 13712105_315651715433528_754717431_n.jpg:
+  0) a close up of a stuffed animal on a table (p=0.000106)
+  1) a close up of a person holding a baseball bat (p=0.000051)
+  2) a close up of a person holding a baseball glove (p=0.000041)
+Captions for image 13704111_313599772310304_971057115_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.012660)
+  1) a large jetliner sitting on top of an airport runway . (p=0.005726)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.004937)
+Captions for image 13714157_1097305476983798_1117253964_n.jpg:
+  0) a close up of a sign on a pole (p=0.000075)
+  1) a close up of a sign with a sticker on it (p=0.000029)
+  2) a close up of a sign with a sticker on it . (p=0.000009)
+Captions for image 13741200_743108652487970_1543299948_n.jpg:
+  0) a small airplane sitting on top of a runway . (p=0.001969)
+  1) a small plane sitting on top of an airport runway . (p=0.001829)
+  2) a small plane sitting on top of a runway . (p=0.001666)
+Captions for image 13741283_1318134731547706_1032296408_n.jpg:
+  0) an airplane is parked on the runway at the airport . (p=0.000095)
+  1) an airplane is parked on the tarmac at an airport . (p=0.000082)
+  2) an airplane is parked on the runway at the airport (p=0.000021)
+Captions for image 13744065_275336879489704_1887218127_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.004650)
+  1) a large jetliner sitting on top of an airport runway . (p=0.004390)
+  2) a large jetliner sitting on top of a runway . (p=0.001813)
+Captions for image 13725778_1434339146592624_957641446_n.jpg:
+  0) a large jetliner sitting on top of an airport runway . (p=0.003252)
+  1) a large jetliner sitting on top of an airport tarmac . (p=0.003022)
+  2) a large jetliner taking off from an airport runway . (p=0.002490)
+Captions for image 13725571_1098261993546616_978974870_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.008461)
+  1) a large jetliner sitting on top of an airport runway . (p=0.007919)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.003815)
+Captions for image 13532025_269645580063448_175189234_n.jpg:
+  0) a close up of a plastic container of food (p=0.000172)
+  1) a close up of a hot dog and a drink (p=0.000085)
+  2) a close up of a plastic container with a doughnut (p=0.000069)
+Captions for image 13561524_1736479409923728_1020546620_n.jpg:
+  0) a plate of food that includes rice and broccoli . (p=0.000203)
+  1) a plate of food that includes rice and vegetables . (p=0.000196)
+  2) a plate of food that includes rice and broccoli (p=0.000013)
+Captions for image 13402414_517390068464489_1603019374_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.012588)
+  1) a large jetliner sitting on top of an airport runway . (p=0.009007)
+  2) a large jetliner sitting on top of a runway . (p=0.002085)
+Captions for image 13402214_1058751597552399_1063239131_n.jpg:
+  0) a small airplane sitting on top of an airport tarmac . (p=0.000860)
+  1) a small airplane sitting on top of a tarmac . (p=0.000641)
+  2) a small airplane sitting on top of a runway . (p=0.000544)
+Captions for image 13187921_1598594683785677_475154388_n.jpg:
+  0) an airplane wing flying over a mountain range . (p=0.003839)
+  1) an airplane wing flying over a snowy mountain range . (p=0.000706)
+  2) an airplane wing flying over a snowy mountain . (p=0.000492)
+Captions for image 12328379_873442219445459_1019501814_n.jpg:
+  0) an airplane is flying over a parking lot . (p=0.000243)
+  1) an airplane is parked on the runway at the airport . (p=0.000140)
+  2) an airplane is parked on the tarmac at an airport . (p=0.000075)
+Captions for image 12724888_252782298397528_1336247222_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.009398)
+  1) a large jetliner sitting on top of an airport runway . (p=0.006764)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.003549)
+Captions for image 12230981_208344686204567_642988770_n.jpg:
+  0) a black and white photo of a snow covered mountain . (p=0.001269)
+  1) a black and white photo of a snow capped mountain (p=0.000585)
+  2) a black and white photo of a snow capped mountain . (p=0.000528)
+Captions for image 12599403_1142440059142051_1047533234_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.010796)
+  1) a large jetliner sitting on top of an airport runway . (p=0.009358)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.003648)
+Captions for image 12677378_1203762339664449_1020022325_n.jpg:
+  0) a sign that says `` <UNK> '' on a wall . (p=0.000002)
+  1) a sign that says `` <UNK> '' on the side of a building . (p=0.000001)
+  2) a sign that says `` <UNK> '' on the side of it . (p=0.000001)
+Captions for image 11190838_814468861971896_2011092241_n.jpg:
+  0) a room filled with lots of luggage and bags . (p=0.000179)
+  1) a room filled with lots of luggage sitting on a floor . (p=0.000030)
+  2) a room filled with lots of luggage sitting on top of a floor . (p=0.000014)
+Captions for image 11950639_678277908973641_795075873_n.jpg:
+  0) a white refrigerator sitting next to a white wall . (p=0.000058)
+  1) a white refrigerator sitting next to a wall . (p=0.000041)
+  2) a white box with a sticker on it (p=0.000015)
+Captions for image 11376234_1032017190150874_1010983880_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.001054)
+  1) a red stop sign sitting in the middle of a forest . (p=0.000187)
+  2) a red stop sign sitting in the middle of a road . (p=0.000146)
+Captions for image 11355258_613462722090399_176884515_n.jpg:
+  0) an airplane parked on the tarmac at an airport . (p=0.000175)
+  1) an airplane is parked on the tarmac at an airport . (p=0.000112)
+  2) an airplane is parked on the runway at the airport . (p=0.000099)
+Captions for image 924738_1635814766675530_624343688_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.011595)
+  1) a large jetliner sitting on top of an airport runway . (p=0.008505)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.003747)
+Captions for image 11348192_1685224511714274_1290118679_n.jpg:
+  0) a small boat in a body of water (p=0.001182)
+  1) a small boat is in the water near a dock . (p=0.000007)
+  2) a small boat in a body of water with a sky background (p=0.000006)
+Captions for image 11326161_890805614300885_2053977058_n.jpg:
+  0) a red car is parked on the side of the road . (p=0.000094)
+  1) a red car is parked on the side of a road . (p=0.000056)
+  2) a red car is parked on the side of the street . (p=0.000048)
+Captions for image 11251132_412697402266466_206218037_n.jpg:
+  0) a street sign with a building in the background (p=0.000227)
+  1) a street sign with a building in the background . (p=0.000079)
+  2) a street sign that is on a pole . (p=0.000048)
+Captions for image 11056041_1581651838769749_1063326559_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.001276)
+  1) a person holding a cell phone in their hands . (p=0.000918)
+  2) a person holding a smart phone in their hand . (p=0.000905)
+Captions for image 11374369_1163200650362637_1648307180_n.jpg:
+  0) a small airplane sitting on top of an airport tarmac . (p=0.001657)
+  1) a small airplane sitting on top of an airport runway . (p=0.001636)
+  2) a small airplane sitting on top of a runway . (p=0.001543)
+Captions for image 10808701_1554090668142475_83675634_n.jpg:
+  0) an airplane is parked on the runway at the airport . (p=0.000162)
+  1) an airplane is parked on the tarmac at an airport . (p=0.000121)
+  2) an airplane is parked on the runway at an airport . (p=0.000084)
+Captions for image 10326390_687032554667675_1746279932_n.jpg:
+  0) a close up of a vandalized stop sign (p=0.000340)
+  1) a close up of a stop sign with a sky background (p=0.000084)
+  2) a close up of a stop sign with graffiti on it (p=0.000024)
+Captions for image 1741448_586401631440954_1192861368_n.jpg:
+  0) a black and white cat sitting on a chair . (p=0.000582)
+  1) a black and white cat is sitting on a chair (p=0.000354)
+  2) a black and white cat is sitting on a chair . (p=0.000336)
+Captions for image 915596_785321974833243_1706905706_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.005514)
+  1) a person holding a cell phone in their hand (p=0.001378)
+  2) a person holding a cell phone in their hands . (p=0.000900)
+Captions for image 10890906_1377003609268083_1188359551_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.008789)
+  1) a large jetliner sitting on top of an airport runway . (p=0.003204)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001731)
+Captions for image 11375887_403084539890704_1737619865_n.jpg:
+  0) a close up of a person holding a sandwich (p=0.000539)
+  1) a close up of a person holding a hot dog (p=0.000504)
+  2) a close up of a person holding a piece of food (p=0.000140)
+Captions for image 10844211_718429861588261_991590124_n.jpg:
+  0) a small airplane sitting on top of an airport tarmac . (p=0.001316)
+  1) a small airplane sitting on top of a runway . (p=0.000805)
+  2) a small airplane sitting on top of an airport runway . (p=0.000799)
+Captions for image 927550_214912735371424_961862237_n.jpg:
+  0) a picture of a tv screen showing a picture of a man . (p=0.000001)
+  1) a picture of a tv screen showing a picture of a man and a woman . (p=0.000000)
+  2) a picture of a tv screen showing a picture of a man and a dog . (p=0.000000)
+Captions for image 10784884_1503630359922533_304877738_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.004569)
+  1) a large jetliner sitting on top of an airport runway . (p=0.001674)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001202)
+Captions for image 10808542_797362793654527_1760429251_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.003651)
+  1) a slice of cake on a plate with a fork . (p=0.002430)
+  2) a piece of cake sitting on a plate with a fork . (p=0.001532)
+Captions for image 10727404_330318600484298_606662148_n.jpg:
+  0) a collage of photos of a man and a woman . (p=0.000013)
+  1) a collage of photos of a man and a woman (p=0.000010)
+  2) a collage of photos of a man and a dog . (p=0.000007)
+Captions for image 10747996_1580242318861377_227401249_n.jpg:
+  0) a sign that says `` <UNK> '' on a wall . (p=0.000001)
+  1) a sign that says `` <UNK> '' on the wall . (p=0.000001)
+  2) a sign that says `` <UNK> '' on it 's side . (p=0.000001)
+Captions for image 10802840_898990983459223_1281427832_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.005955)
+  1) a large jetliner sitting on top of an airport runway . (p=0.003401)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001045)
+Captions for image 10616804_1496173427189083_943036413_n.jpg:
+  0) a close up of a sandwich on a plate (p=0.002206)
+  1) a close up of a sandwich on a table (p=0.000421)
+  2) a close up of a plate of food with a sandwich (p=0.000290)
+Captions for image 10175214_292166484317484_1793095168_n.jpg:
+  0) a sign with a picture of a man on it . (p=0.000002)
+  1) a sign with a picture of a man on it (p=0.000001)
+  2) a sign that says `` <UNK> '' on it 's side . (p=0.000000)
+Captions for image 10706880_1494754557453887_409735198_n.jpg:
+  0) a group of people on a field playing baseball . (p=0.006495)
+  1) a group of people on a field playing soccer . (p=0.003470)
+  2) a crowd of people watching a baseball game . (p=0.003281)
+Captions for image 10665657_301632446627225_643951154_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000123)
+  1) a pair of scissors sitting on a table . (p=0.000052)
+  2) a pair of scissors sitting on top of a piece of paper . (p=0.000045)
+Captions for image 10643876_732278536837240_1467898884_n.jpg:
+  0) a crowd of people standing on top of a bridge . (p=0.000120)
+  1) a crowd of people standing on top of a lush green field . (p=0.000064)
+  2) a crowd of people standing on a bridge over a river . (p=0.000023)
+Captions for image 10576065_282122095322003_390829651_n.jpg:
+  0) a man standing in front of an open refrigerator . (p=0.001860)
+  1) a man standing in front of a refrigerator . (p=0.000704)
+  2) a man standing in front of a white refrigerator . (p=0.000466)
+Captions for image 10623742_333723033457602_653608216_n.jpg:
+  0) a microwave oven sitting on top of a refrigerator . (p=0.000438)
+  1) a microwave oven sitting on top of a counter . (p=0.000353)
+  2) a microwave oven sitting on top of a counter next to a window . (p=0.000004)
+Captions for image 10616724_703316049749939_1391932956_n.jpg:
+  0) a black and white photo of an old truck . (p=0.000789)
+  1) a black and white photo of an old truck (p=0.000591)
+  2) a black and white photo of a train (p=0.000282)
+Captions for image 10644074_649649081809377_1151849122_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.003710)
+  1) a boat floating on top of a lake next to a shore . (p=0.000169)
+  2) a boat floating on top of a lake next to a forest . (p=0.000117)
+Captions for image 10569961_1436174923337035_204304907_n.jpg:
+  0) a store window with a clock on display . (p=0.000006)
+  1) a store window with a clock on the wall . (p=0.000004)
+  2) a store window with a large clock on the wall . (p=0.000002)
+Captions for image 10513767_688748131174235_1482796374_n.jpg:
+  0) a black and white dog laying on top of a rug . (p=0.000087)
+  1) a black and white dog laying on top of a skateboard . (p=0.000077)
+  2) a black and white dog laying on a rug . (p=0.000064)
+Captions for image 929141_615363018571187_1972264067_n.jpg:
+  0) a bowl of soup and a sandwich on a plate . (p=0.000320)
+  1) a bowl of soup and a sandwich on a table . (p=0.000186)
+  2) a bowl of soup and a sandwich on a plate (p=0.000111)
+Captions for image 1922387_529152667197245_1880830469_n.jpg:
+  0) a television with a picture of a man on it . (p=0.000006)
+  1) a television screen with a picture of a man on it . (p=0.000003)
+  2) a television with a picture of a man on it (p=0.000002)
+Captions for image 10431877_528802993909669_778328632_n.jpg:
+  0) a close up of a keyboard and a mouse (p=0.000242)
+  1) a close up of a computer keyboard and mouse . (p=0.000162)
+  2) a close up of a computer keyboard and a mouse . (p=0.000085)
+Captions for image 10414025_325747667576368_1641701461_n.jpg:
+  0) a bowl of soup sitting on top of a table . (p=0.000156)
+  1) a bowl of soup sitting on a table . (p=0.000128)
+  2) a bowl of soup with a spoon in it . (p=0.000120)
+Captions for image 10354324_292198294292309_1919093404_n.jpg:
+  0) a large building with a clock on it (p=0.000082)
+  1) a large building with a large clock on it . (p=0.000072)
+  2) a large building with a clock on the side of it . (p=0.000064)
+Captions for image 10413782_655385674510210_1095314988_n.jpg:
+  0) a statue of a man holding a clock . (p=0.000049)
+  1) a statue of a man in a suit and tie (p=0.000020)
+  2) a statue of a man in a suit and tie . (p=0.000019)
+Captions for image 10413218_1506353126250878_247222875_n.jpg:
+  0) a pile of books sitting on top of a bed . (p=0.000081)
+  1) a pile of books sitting on top of a table . (p=0.000075)
+  2) a pile of books sitting on top of a book . (p=0.000042)
+Captions for image 10354348_271184329734734_1285843607_n.jpg:
+  0) a group of people standing on top of a street . (p=0.000131)
+  1) a group of people standing in front of a building . (p=0.000102)
+  2) a group of people standing in front of a large building . (p=0.000064)
+Captions for image 10362271_644990888909996_1311127613_n.jpg:
+  0) a red fire truck parked in a parking lot . (p=0.002461)
+  1) a fire truck parked in a parking lot . (p=0.002003)
+  2) a red fire truck parked in front of a building . (p=0.001517)
+Captions for image 1662910_1494557830757580_929871023_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.007305)
+  1) an open laptop computer sitting on top of a table . (p=0.006946)
+  2) an open laptop computer sitting on top of a wooden table . (p=0.003821)
+Captions for image 10254153_265247386932624_1634161991_n.jpg:
+  0) a small boat in a body of water (p=0.001671)
+  1) a boat floating on top of a body of water . (p=0.000613)
+  2) a boat floating on top of a lake next to a forest . (p=0.000102)
+Captions for image 10369345_781376798547778_2066752830_n.jpg:
+  0) a black and white photo of a baseball bat . (p=0.000326)
+  1) a black and white photo of a baseball bat (p=0.000204)
+  2) a black and white photo of a tennis racket . (p=0.000100)
+Captions for image 10254334_1492725034272370_807121429_n.jpg:
+  0) a teddy bear wearing a santa claus hat . (p=0.000098)
+  1) a teddy bear wearing a santa claus hat (p=0.000024)
+  2) a teddy bear wearing a santa hat and a hat . (p=0.000003)
+Captions for image 10009736_237488323107848_81125105_n.jpg:
+  0) a man standing on a tennis court holding a racquet . (p=0.003281)
+  1) a man standing on a tennis court holding a tennis racquet . (p=0.000936)
+  2) a man standing on a tennis court with a racquet . (p=0.000286)
+Captions for image 923977_635321446546698_1903671662_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.007252)
+  1) a large jetliner sitting on top of an airport runway . (p=0.003245)
+  2) a large jetliner sitting on top of a tarmac . (p=0.001215)
+Captions for image 1538352_1463061980592372_642499096_n.jpg:
+  0) a nintendo wii game controller sitting on top of a table . (p=0.001248)
+  1) a nintendo wii game controller sitting on a table . (p=0.000869)
+  2) a nintendo wii controller sitting on top of a table . (p=0.000796)
+Captions for image 918134_706221219455117_1772090551_n.jpg:
+  0) a car is parked next to a parking meter . (p=0.000469)
+  1) a car is parked on the side of the road . (p=0.000357)
+  2) a car is parked on the side of the street . (p=0.000224)
+Captions for image 927201_1434776070100900_1005771654_n.jpg:
+  0) a view of a mountain range from a plane . (p=0.000459)
+  1) a view of a mountain range from an airplane window . (p=0.000245)
+  2) a view of a mountain range from a plane window . (p=0.000177)
+Captions for image 11287815_576225559184495_1218339231_n.jpg:
+  0) a man taking a selfie with his cell phone . (p=0.001791)
+  1) a man taking a picture of himself in a mirror . (p=0.001386)
+  2) a man taking a selfie with his cell phone (p=0.000757)
+Captions for image 11287912_894430920617077_1299089660_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.010506)
+  1) a large jetliner sitting on top of an airport runway . (p=0.008068)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.003955)
+Captions for image 11427252_818538978236403_43076507_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.011743)
+  1) a large jetliner sitting on top of an airport runway . (p=0.009261)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.004055)
+Captions for image 11356837_790486121064763_1927306524_n.jpg:
+  0) an airplane is parked on the runway at the airport . (p=0.000115)
+  1) an airplane is parked on the tarmac at an airport . (p=0.000093)
+  2) an airplane is parked on the runway at an airport . (p=0.000063)
+Captions for image 11378856_1631308813771803_161176977_n.jpg:
+  0) a couple of ducks standing on top of a grass covered field . (p=0.000086)
+  1) a couple of ducks standing on top of a dirt field . (p=0.000067)
+  2) a couple of ducks standing on top of a cement ground . (p=0.000037)
+Captions for image 11356362_1692655564289945_994930882_n.jpg:
+  0) the wing of an airplane flying over a mountain . (p=0.000389)
+  1) the wing of an airplane in the sky . (p=0.000327)
+  2) the wing of an airplane flying over a mountain range . (p=0.000325)
+Captions for image 11375868_700383910066262_2122593138_n.jpg:
+  0) a bird is standing on a brick wall . (p=0.000028)
+  1) a bird is standing on a brick wall (p=0.000017)
+  2) a bird is standing on the ground near a wall . (p=0.000003)
+Captions for image 11385211_1405944309733648_125119591_n.jpg:
+  0) a view of a snowy landscape from a plane . (p=0.000012)
+  1) a view of a snowy landscape from a plane (p=0.000002)
+  2) a view of a snowy mountain with a mountain in the background . (p=0.000002)
+Captions for image 11311661_1676116349286175_1737285826_n.jpg:
+  0) a group of people sitting on a bench in a park . (p=0.000014)
+  1) a group of people sitting on a bench under a tree . (p=0.000012)
+  2) a group of people sitting on a bench in front of a lake . (p=0.000003)
+Captions for image 11429263_390574614459019_907229702_n.jpg:
+  0) a sandy beach with a surfboard on top of it . (p=0.000375)
+  1) a beach with a surfboard on the beach . (p=0.000203)
+  2) a beach with a surfboard on the beach (p=0.000102)
+Captions for image 11417453_1606576922961292_1205236812_n.jpg:
+  0) the wing of an airplane flying over a mountain . (p=0.000460)
+  1) the wing of an airplane flying over a mountain range . (p=0.000419)
+  2) the wing of a plane flying over a mountain range . (p=0.000303)
+Captions for image 11325996_394593600743589_1117068911_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.008161)
+  1) a large jetliner sitting on top of an airport runway . (p=0.006508)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.003170)
+Captions for image 11417277_361645404023944_575693328_n.jpg:
+  0) a large jetliner sitting on top of an airport runway . (p=0.009491)
+  1) a large jetliner sitting on top of an airport tarmac . (p=0.009060)
+  2) a large passenger jet sitting on top of an airport runway . (p=0.003000)
+Captions for image 11283308_814936095250472_1637110025_n.jpg:
+  0) a large jetliner sitting on top of an airport tarmac . (p=0.010304)
+  1) a large jetliner sitting on top of an airport runway . (p=0.007288)
+  2) a large passenger jet sitting on top of an airport tarmac . (p=0.004432)
+Captions for image 11282298_1586519708287988_961729045_n.jpg:
+  0) a black and white photo of a street sign (p=0.000041)
+  1) a close up of a mirror with a digital camera (p=0.000024)
+  2) a close up of a mirror with a digital screen (p=0.000020)
+Captions for image 11426220_1606750256268535_582330562_n.jpg:
+  0) a birthday cake with a train on it (p=0.000145)
+  1) a birthday cake with a train on it . (p=0.000129)
+  2) a birthday cake with a train on top of it . (p=0.000025)

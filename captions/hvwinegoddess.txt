@@ -1,0 +1,888 @@
+Captions for image 20688449_2079474218946832_9067611710675746816_a.jpg:
+  0) a woman sitting at a table with a glass of wine . (p=0.003666)
+  1) a woman holding a glass of wine in her hand . (p=0.001831)
+  2) a woman sitting at a table with a glass of wine (p=0.000590)
+Captions for image 53614289_574015479747033_4118034544609056539_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.003173)
+  1) a bottle of wine next to a glass of wine . (p=0.001776)
+  2) a bottle of wine and a glass of wine (p=0.000685)
+Captions for image 47077687_495211417633710_311571491816530250_n.jpg:
+  0) a woman holding a teddy bear in a room . (p=0.000055)
+  1) a woman holding a teddy bear in front of a christmas tree . (p=0.000030)
+  2) a woman holding a teddy bear in front of a man . (p=0.000018)
+Captions for image 62514169_543047516226979_6601779830374573284_n.jpg:
+  0) a person holding a bottle of wine in their hand . (p=0.000174)
+  1) a person holding a bottle of wine in front of a mirror . (p=0.000032)
+  2) a person holding a bottle of wine in front of a table . (p=0.000031)
+Captions for image 65962843_537214206812351_4650022397126119680_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001390)
+  1) a bottle of wine sitting on top of a wooden table . (p=0.001373)
+  2) a bottle of wine and a bottle of wine (p=0.000169)
+Captions for image 64440375_145594233184799_2459892352165326989_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.001903)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.001560)
+  2) a bottle of wine next to a glass of wine . (p=0.001315)
+Captions for image 62498538_142533380143286_5660807183719780184_n.jpg:
+  0) a bottle of wine sitting next to a glass of wine . (p=0.001727)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.001529)
+  2) a bottle of wine and a glass of wine on a table . (p=0.000710)
+Captions for image 46954170_279746925932692_6708232363210437381_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.004286)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.002221)
+  2) a bottle of wine and a glass of wine . (p=0.001670)
+Captions for image 62464827_343765592973164_8585110170755774834_n.jpg:
+  0) a man holding a glass of wine in his hand . (p=0.000811)
+  1) a man holding a glass of wine in front of him . (p=0.000266)
+  2) a man holding a glass of wine in his hand (p=0.000205)
+Captions for image 64679209_145816609819570_5969585902619904332_n.jpg:
+  0) a blender sitting on top of a counter . (p=0.000442)
+  1) a blender sitting on a counter next to a glass . (p=0.000030)
+  2) a blender sitting on top of a counter next to a glass . (p=0.000028)
+Captions for image 60618219_538196506711495_7268322970203518451_n.jpg:
+  0) a woman holding a dog in her arms . (p=0.000298)
+  1) a woman is holding a dog in her arms . (p=0.000248)
+  2) a woman is holding a dog in her arms (p=0.000193)
+Captions for image 62050122_140344783722448_2292336511109227126_n.jpg:
+  0) a slice of pizza sitting on top of a white plate . (p=0.001885)
+  1) a slice of pizza sitting on top of a plate . (p=0.000793)
+  2) a slice of pizza on a plate next to a glass of wine . (p=0.000108)
+Captions for image 61796513_634271620382353_1055993272293070110_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.001423)
+  1) a bottle of wine and a bottle of wine . (p=0.001180)
+  2) a bottle of wine and a bottle of wine on a table . (p=0.000521)
+Captions for image 64326293_141426016942332_541559036315070191_n.jpg:
+  0) a bunch of bottles of wine sitting on top of a table . (p=0.000379)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.000186)
+  2) a bottle of wine and a bottle of wine on a table . (p=0.000112)
+Captions for image 61596012_763475427387223_4310428121894386040_n.jpg:
+  0) a plate of food and a glass of wine . (p=0.000325)
+  1) a couple of wine glasses sitting on a table . (p=0.000234)
+  2) a plate of food and a glass of wine (p=0.000190)
+Captions for image 61337015_2448860825346575_9032169171364761741_n.jpg:
+  0) a bird sitting on top of a table . (p=0.000219)
+  1) a bird sitting on top of a book . (p=0.000218)
+  2) a bird is sitting on top of a book . (p=0.000080)
+Captions for image 64467845_928782434130700_7161539719046230128_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000921)
+  1) a bottle of wine and a bottle of wine on a table . (p=0.000767)
+  2) a bottle of wine next to a bottle of wine . (p=0.000583)
+Captions for image 44822345_974642016065392_2066317707525186671_n.jpg:
+  0) a blue and white sign on a white wall . (p=0.000003)
+  1) a blue and white sign that says <UNK> . (p=0.000002)
+  2) a blue and white sign on a white wall (p=0.000002)
+Captions for image 60459161_2077493932544813_456226038121908350_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.003201)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.001932)
+  2) a bottle of wine and a glass of wine (p=0.000953)
+Captions for image 61391604_472094670199975_8928495571688888123_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.003732)
+  1) a vase filled with flowers sitting on top of a table . (p=0.002962)
+  2) a vase filled with flowers on top of a wooden table . (p=0.001076)
+Captions for image 60710957_327712004584887_6627934065099412765_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000944)
+  1) a bottle of wine and a glass of wine . (p=0.000786)
+  2) a bottle of wine sitting next to a glass of wine . (p=0.000698)
+Captions for image 59381115_332706567390945_2254527693509939897_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.002414)
+  1) a glass of wine sitting on a table . (p=0.000869)
+  2) a bottle of wine sitting on top of a wooden table . (p=0.000643)
+Captions for image 60156833_2400053696920564_7606110031268623917_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.003963)
+  1) a bottle of wine next to a glass of wine . (p=0.002615)
+  2) a bottle of wine and a glass of wine (p=0.001011)
+Captions for image 61344331_144839133240765_201819326202301259_n.jpg:
+  0) a hot dog with mustard and ketchup on a plate . (p=0.000254)
+  1) a hot dog on a bun with mustard and ketchup . (p=0.000227)
+  2) a hot dog with mustard and ketchup on a bun . (p=0.000223)
+Captions for image 60285593_716470805452760_7539428197615552203_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.002966)
+  1) a table topped with plates of food and bowls of food . (p=0.000711)
+  2) a table topped with plates of food and a bowl of soup . (p=0.000108)
+Captions for image 59880005_243101249979582_5897237511308604969_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000900)
+  1) a man and a woman are posing for a picture . (p=0.000212)
+  2) a man and a woman are standing together . (p=0.000104)
+Captions for image 60562066_281994232684419_6813980890889038621_n.jpg:
+  0) a close up of a plate of food on a table (p=0.003870)
+  1) a close up of a plate of food (p=0.001354)
+  2) a close up of a plate of food with broccoli (p=0.000717)
+Captions for image 60304339_628618577606358_373098198168761611_n.jpg:
+  0) a cake shaped like a train on a table . (p=0.000026)
+  1) a cake shaped like a teddy bear on a table . (p=0.000011)
+  2) a cake shaped like a train on a table (p=0.000006)
+Captions for image 59582662_2170146043022219_8478565101120359270_n.jpg:
+  0) a bottle of wine and a glass of wine . (p=0.001359)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.001095)
+  2) a bottle of wine sitting next to a wine glass . (p=0.000893)
+Captions for image 59311936_2478552352166058_6128376084593772699_n.jpg:
+  0) a couple of women standing next to each other . (p=0.002254)
+  1) a couple of women standing next to each other holding a teddy bear . (p=0.000169)
+  2) a couple of women standing next to each other holding a frisbee . (p=0.000077)
+Captions for image 58630012_138956803890404_8847431631560504091_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.000479)
+  1) a bottle of wine sitting on top of a wooden table . (p=0.000316)
+  2) a bottle of wine and a bottle of wine (p=0.000020)
+Captions for image 58430456_114494806215891_402338406648878414_n.jpg:
+  0) a person holding a banana in their hand . (p=0.000113)
+  1) a person holding a banana in their hand (p=0.000063)
+  2) a man holding a banana in his hand . (p=0.000054)
+Captions for image 57160296_2179336878769678_2685448306206182751_n.jpg:
+  0) a glass of wine sitting next to a glass of wine . (p=0.000648)
+  1) a glass of wine sitting on a table next to a glass . (p=0.000195)
+  2) a glass of wine sitting on a table next to a glass of wine . (p=0.000147)
+Captions for image 56184628_849818118743895_6884672261599494217_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.001913)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.001419)
+  2) a bottle of wine and a glass of wine . (p=0.001369)
+Captions for image 57178263_407496859833641_441388647827843033_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000487)
+  1) a bottle of wine and a bottle of wine . (p=0.000441)
+  2) a bottle of wine and a bottle of wine on a table . (p=0.000184)
+Captions for image 56411013_313340302692759_758004323200982479_n.jpg:
+  0) a bunch of bottles of wine sitting on a table . (p=0.000180)
+  1) a bunch of bottles of wine on a table . (p=0.000178)
+  2) a bunch of bottles of wine sitting on top of a table . (p=0.000159)
+Captions for image 56436554_571753339986946_265492751909359595_n.jpg:
+  0) a close up of a box of doughnuts (p=0.000997)
+  1) a close up of a doughnut on a plate (p=0.000530)
+  2) a close up of a doughnut on a napkin (p=0.000387)
+Captions for image 54511400_948477928691280_1715191277704627239_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.000622)
+  1) a bottle of wine and a bottle of wine (p=0.000054)
+  2) a bottle of wine sitting on a table next to a bottle . (p=0.000023)
+Captions for image 54800834_561471601029432_4511055169141168947_n.jpg:
+  0) a group of people sitting around a table . (p=0.001620)
+  1) a group of people sitting around a table with food . (p=0.000516)
+  2) a group of people sitting at a table with food . (p=0.000317)
+Captions for image 56161939_117077009472692_5959631502844476117_n.jpg:
+  0) a bird that is standing in the grass . (p=0.000586)
+  1) a bird that is sitting in a tree . (p=0.000302)
+  2) a bird that is sitting on a tree branch . (p=0.000155)
+Captions for image 54511411_129045504853941_3500874530689596660_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.000483)
+  1) a table topped with plates of food and drinks . (p=0.000383)
+  2) a bunch of wine glasses sitting on a table . (p=0.000352)
+Captions for image 53854028_190698005234241_5727026692754268949_n.jpg:
+  0) a group of wine glasses sitting on a table . (p=0.000703)
+  1) a group of wine glasses sitting on a table (p=0.000203)
+  2) a table topped with plates of food and cups of coffee . (p=0.000105)
+Captions for image 54446920_201243554181911_4629832455077303015_n.jpg:
+  0) a young boy holding a baseball bat in his hands . (p=0.000157)
+  1) a young boy holding a baseball bat on a field . (p=0.000130)
+  2) a young boy holding a baseball bat in his hand . (p=0.000039)
+Captions for image 53840136_2276594745929964_6912163960413041793_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.002334)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.001223)
+  2) a bottle of wine and a glass of wine (p=0.000552)
+Captions for image 54513297_414842519077125_1107624688996784694_n.jpg:
+  0) a group of people standing next to each other . (p=0.001184)
+  1) a group of people standing around a table . (p=0.000724)
+  2) a group of people standing around a table with a cake . (p=0.000131)
+Captions for image 54248115_616717185463138_38889545075795767_n.jpg:
+  0) a bottle of wine sitting next to a glass of wine . (p=0.001931)
+  1) a bottle of wine and a glass of wine . (p=0.001551)
+  2) a bottle of wine sitting next to a wine glass . (p=0.001200)
+Captions for image 53861087_126655435116996_1532677042468429147_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.003008)
+  1) a bottle of wine sitting on top of a wooden table . (p=0.000920)
+  2) a bottle of wine sitting next to a bottle of wine . (p=0.000800)
+Captions for image 36592916_1967447753307325_1277996724702412800_n.jpg:
+  0) a white plate topped with a piece of cake . (p=0.000681)
+  1) a piece of cake on a plate with a fork . (p=0.000497)
+  2) a piece of cake on a plate with a fork (p=0.000236)
+Captions for image 53759534_2389837584380718_4433128599606734882_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.002187)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.001431)
+  2) a bottle of wine and a glass of wine (p=0.000824)
+Captions for image 52837108_389543795172151_5574692115264818953_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000351)
+  1) a close up of a keyboard and a mouse (p=0.000176)
+  2) a close up of a computer keyboard and a mouse . (p=0.000058)
+Captions for image 54277328_348891675727905_5027756874229547920_n.jpg:
+  0) a table topped with plates and bowls of food . (p=0.001055)
+  1) a table topped with plates of food and drinks . (p=0.000812)
+  2) a table topped with plates of food and cups of coffee . (p=0.000718)
+Captions for image 53711806_834281183591474_5830652936346637447_n.jpg:
+  0) a bottle of wine and a glass of orange juice . (p=0.000023)
+  1) a bottle of beer and a glass of orange juice . (p=0.000021)
+  2) a bottle of wine and a glass of wine . (p=0.000018)
+Captions for image 54234047_2252566511731050_167692544063816230_n.jpg:
+  0) a couple of women standing next to each other . (p=0.001569)
+  1) a couple of women standing next to each other holding a teddy bear . (p=0.000141)
+  2) a couple of women standing next to each other holding a cake . (p=0.000055)
+Captions for image 52651668_2124075454376202_2717379727898110912_n.jpg:
+  0) a group of people standing in front of a clock . (p=0.000028)
+  1) a group of people standing in front of a large clock . (p=0.000019)
+  2) a group of people standing in front of a giant clock . (p=0.000018)
+Captions for image 51934389_388928391942186_1142842261723821562_n.jpg:
+  0) a close up of a plate of food on a table (p=0.001438)
+  1) a close up of a plate of food (p=0.001061)
+  2) a close up of a plate of food with a fork (p=0.000863)
+Captions for image 52094227_2332401260379968_9132161426277315126_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.000683)
+  1) a bottle of wine sitting on top of a table next to a glass . (p=0.000078)
+  2) a bottle of wine sitting on a table next to a glass of wine . (p=0.000042)
+Captions for image 53073121_433386850736605_6522185991641404347_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.001280)
+  1) a city street filled with traffic and traffic lights . (p=0.000293)
+  2) a city street filled with lots of traffic and traffic lights . (p=0.000097)
+Captions for image 51797092_2200650116663466_3012800008247893262_n.jpg:
+  0) a close up of a glass of wine on a table (p=0.000706)
+  1) a close up of a bottle of wine on a table (p=0.000635)
+  2) a close up of a bottle of wine on a table . (p=0.000080)
+Captions for image 51236354_1030376253825967_7274193500727904187_n.jpg:
+  0) a couple of wine glasses sitting on a table . (p=0.001194)
+  1) a glass of wine sitting on top of a table . (p=0.001177)
+  2) a couple of wine glasses sitting on a table (p=0.000343)
+Captions for image 51701620_771966213188071_8047272328048873398_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.002596)
+  1) a bottle of wine sitting next to a wine glass . (p=0.001332)
+  2) a bottle of wine and a glass of wine (p=0.000668)
+Captions for image 52961340_353424478833703_2691621690561026299_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.001955)
+  1) a bottle of wine next to a glass of wine . (p=0.001882)
+  2) a bottle of wine and a glass of wine . (p=0.001679)
+Captions for image 52111552_1960853680707929_1737523158748188186_n.jpg:
+  0) a glass of orange juice on a table . (p=0.000277)
+  1) a glass of orange juice sitting on a table . (p=0.000160)
+  2) a glass of orange juice on a table (p=0.000150)
+Captions for image 50751437_793392347683059_7255964799086446517_n.jpg:
+  0) a bottle of wine sitting next to a glass of wine . (p=0.001901)
+  1) a bottle of wine and a glass of wine . (p=0.001832)
+  2) a bottle of wine sitting next to a wine glass . (p=0.001154)
+Captions for image 51401571_2041610749286256_6600294264702425817_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000569)
+  1) a close up of a vase with a flower in it (p=0.000314)
+  2) a close up of a vase on a table (p=0.000165)
+Captions for image 50762754_106183300410346_8442422536794838685_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001629)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.001079)
+  2) a bottle of wine and a glass of wine (p=0.000457)
+Captions for image 51252707_299168377320128_6758598575826012628_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.000976)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.000561)
+  2) a bottle of wine and a bottle of wine (p=0.000146)
+Captions for image 50919743_289443051729303_5503701558279484265_n.jpg:
+  0) a woman in a red shirt and a red tie (p=0.000026)
+  1) a woman in a red shirt and a pink tie (p=0.000012)
+  2) a woman in a red shirt and a red tie . (p=0.000011)
+Captions for image 51430025_300093157363208_8804593452566520184_n.jpg:
+  0) a bottle of wine sitting next to a glass of wine . (p=0.000762)
+  1) a bottle of wine sitting next to a wine glass . (p=0.000583)
+  2) a bottle of wine and a glass of wine on a table . (p=0.000352)
+Captions for image 50959074_2055022514552709_9115260050437013222_n.jpg:
+  0) a yellow fire hydrant sitting on the side of a road . (p=0.000691)
+  1) a yellow fire hydrant sitting on a sidewalk . (p=0.000145)
+  2) a yellow fire hydrant sitting on the side of a street . (p=0.000118)
+Captions for image 50271495_2218126988207392_8275586733883355611_n.jpg:
+  0) a couple of women sitting at a table . (p=0.000463)
+  1) two women sitting at a table with wine glasses . (p=0.000361)
+  2) two women sitting at a table with wine glasses (p=0.000214)
+Captions for image 51822778_585117031954091_2015566012869671989_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001916)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.000899)
+  2) a bottle of wine and a glass of wine . (p=0.000722)
+Captions for image 51147756_501505053708323_1381519608725683254_n.jpg:
+  0) a group of people sitting on top of a sandy beach . (p=0.000538)
+  1) a group of people standing on top of a sandy beach . (p=0.000336)
+  2) a group of people sitting on top of a beach next to the ocean . (p=0.000058)
+Captions for image 50570925_473771023153025_6529102986854099903_n.jpg:
+  0) a traffic light sitting on the side of a road . (p=0.000563)
+  1) a traffic light suspended over a street next to a forest . (p=0.000052)
+  2) a traffic light sitting on the side of a road next to a forest . (p=0.000004)
+Captions for image 50695826_1908650119263269_8727274106030528428_n.jpg:
+  0) a table topped with a smart phone and a smart phone . (p=0.000055)
+  1) a table topped with a smart phone and a cup of coffee . (p=0.000042)
+  2) a table topped with a smart phone next to a cup of coffee . (p=0.000014)
+Captions for image 50690304_1107608062780754_8759582364453165372_n.jpg:
+  0) a couple of people standing on top of a sandy beach . (p=0.000344)
+  1) a couple of people standing on top of a beach . (p=0.000283)
+  2) a couple of people standing on a beach next to the ocean . (p=0.000152)
+Captions for image 50035338_153694318957577_3543512518729855876_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001290)
+  1) a bottle of wine sitting on top of a wooden table . (p=0.000525)
+  2) a bottle of wine and a glass of wine (p=0.000343)
+Captions for image 49913332_1549677421831382_3998866501273781533_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.000669)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.000334)
+  2) a bottle of wine sitting on top of a table next to bottles of wine . (p=0.000048)
+Captions for image 50496863_116592192740086_35355468527376785_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000506)
+  1) a bottle of wine and a bottle of wine . (p=0.000473)
+  2) a bottle of wine and a bottle of wine on a table . (p=0.000238)
+Captions for image 49748616_116865056053467_7559212692679692589_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000391)
+  1) a bottle of wine and a bottle of wine on a table . (p=0.000216)
+  2) a bottle of wine sitting next to a wine glass . (p=0.000156)
+Captions for image 49725344_364629874116221_4295737263683935739_n.jpg:
+  0) a white plate topped with different types of desserts . (p=0.000320)
+  1) a white plate topped with different types of cake . (p=0.000237)
+  2) a white plate topped with different types of food . (p=0.000212)
+Captions for image 49956530_355582828377886_2593266167542137971_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.001941)
+  1) a bottle of wine and a bottle of wine . (p=0.001627)
+  2) a bottle of wine next to a bottle of wine . (p=0.001279)
+Captions for image 49550300_1659069117571854_5937262298816813170_n.jpg:
+  0) a plate of food on a table (p=0.000699)
+  1) a plate of food on a table with a fork (p=0.000080)
+  2) a plate of food on a table with a glass of wine (p=0.000052)
+Captions for image 49858245_296211394410178_8704454415827794700_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.002274)
+  1) a glass of wine sitting on top of a wooden table . (p=0.001240)
+  2) a glass of wine sitting on a table next to a bottle of wine . (p=0.000190)
+Captions for image 50477486_353181401940884_5019728439028184867_n.jpg:
+  0) a cup of coffee sitting next to a cup of coffee . (p=0.000378)
+  1) a cup of coffee and a donut on a table . (p=0.000279)
+  2) a cup of coffee sitting next to a plate of food . (p=0.000170)
+Captions for image 50690290_1115735941967142_4689595536537441653_n.jpg:
+  0) a bottle of wine and a glass of wine . (p=0.001926)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.001686)
+  2) a bottle of wine sitting next to a wine glass . (p=0.001201)
+Captions for image 49663053_2017462718349853_9000016296069549195_n.jpg:
+  0) a man and a woman are cutting a cake (p=0.000221)
+  1) a man and a woman are cutting a cake together . (p=0.000194)
+  2) a man and a woman are cutting a cake together (p=0.000189)
+Captions for image 46710927_101909120852871_5698543593434585344_n.jpg:
+  0) a group of people sitting at a table . (p=0.000405)
+  1) a group of people standing around each other . (p=0.000307)
+  2) a group of people sitting at a table with wine glasses . (p=0.000018)
+Captions for image 49858362_298037857728669_6140589168394041524_n.jpg:
+  0) a bird standing on a tree branch in a forest . (p=0.000093)
+  1) a bird standing on a tree branch in a river . (p=0.000041)
+  2) a bird is standing in the middle of a forest . (p=0.000039)
+Captions for image 50728932_226996788208486_4135774787561708608_n.jpg:
+  0) a train traveling through a lush green countryside . (p=0.000186)
+  1) a train traveling through a rural country side . (p=0.000152)
+  2) a train traveling through a lush green forest . (p=0.000152)
+Captions for image 49956580_378888422870042_1551767533100743946_n.jpg:
+  0) a group of people sitting at a table with food . (p=0.000689)
+  1) a group of people sitting at a table with plates of food . (p=0.000548)
+  2) a group of people sitting at a table with a cake . (p=0.000246)
+Captions for image 47690335_1192120697622802_7151215166781914872_n.jpg:
+  0) a plate of food with a fork and knife . (p=0.000032)
+  1) a plate of food with a fork and a knife . (p=0.000015)
+  2) a plate of food with a fork and a spoon . (p=0.000008)
+Captions for image 47583710_286265232088779_2353153397026067558_n.jpg:
+  0) a man is standing in front of a clock (p=0.000018)
+  1) a man is standing in front of a clock . (p=0.000017)
+  2) a man is standing in front of a podium . (p=0.000015)
+Captions for image 47690050_273307100006714_8049402860240427829_n.jpg:
+  0) a woman holding a teddy bear in a room . (p=0.000055)
+  1) a woman holding a teddy bear in front of a christmas tree . (p=0.000030)
+  2) a woman holding a teddy bear in front of a man . (p=0.000018)
+Captions for image 49686672_388640671872055_2467886262437598717_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000711)
+  1) a bottle of wine and a bottle of wine . (p=0.000454)
+  2) a bottle of wine sitting next to a bottle of beer . (p=0.000392)
+Captions for image 49596634_374842509754317_1321490339012893342_n.jpg:
+  0) a bottle of wine and a glass of wine . (p=0.001094)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.001077)
+  2) a bottle of wine sitting next to a bottle of wine . (p=0.000980)
+Captions for image 47582483_304112260213445_6594955392783086596_n.jpg:
+  0) a plate of food with a fork and knife . (p=0.000062)
+  1) a plate with a sandwich and a bowl of soup . (p=0.000023)
+  2) a plate of food with a fork and knife (p=0.000020)
+Captions for image 49315697_137833170547217_4574579080763712320_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.004220)
+  1) a bottle of wine sitting on top of a wooden table . (p=0.001944)
+  2) a bottle of wine sitting next to a wine glass (p=0.000361)
+Captions for image 46409746_534457457074344_7180514297219302778_n.jpg:
+  0) a close up of a cup of coffee on a table (p=0.000734)
+  1) a close up of a cup of coffee on a desk (p=0.000106)
+  2) a close up of a cup of coffee and a cell phone (p=0.000056)
+Captions for image 47691998_1195208313964507_7349254146228230839_n.jpg:
+  0) a couple of people that are eating some food . (p=0.000508)
+  1) a couple of people that are sitting at a table (p=0.000385)
+  2) a couple of people that are eating some food (p=0.000375)
+Captions for image 47016489_2293692747544077_7299959567676418109_n.jpg:
+  0) a blender filled with liquid sitting on top of a counter . (p=0.000322)
+  1) a blender filled with food sitting on top of a counter . (p=0.000304)
+  2) a blender filled with liquid on top of a counter . (p=0.000249)
+Captions for image 47196637_799300127081071_181707121321812898_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000785)
+  1) a bottle of wine and a bottle of wine . (p=0.000584)
+  2) a bottle of wine sitting next to a glass of wine . (p=0.000409)
+Captions for image 46538789_2487471134626879_5564918361999342487_n.jpg:
+  0) a cup of coffee sitting next to a cup of coffee . (p=0.000202)
+  1) a cup of coffee and a pair of scissors . (p=0.000137)
+  2) a cup of coffee sitting next to a laptop computer . (p=0.000097)
+Captions for image 45738362_272643970264682_305981612313503087_n.jpg:
+  0) a man sitting at a table with a glass of wine . (p=0.002145)
+  1) a man sitting at a table with a glass of wine (p=0.000351)
+  2) a man holding a glass of wine in front of a glass of wine . (p=0.000235)
+Captions for image 37139873_1330431040424542_9200329077750235136_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.000672)
+  1) a red stop sign sitting on top of a metal pole . (p=0.000227)
+  2) a red stop sign sitting on top of a white sign . (p=0.000098)
+Captions for image 56573629_394371131407504_6780602264091173078_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000755)
+  1) a bottle of wine next to a glass of wine . (p=0.000723)
+  2) a bottle of wine and a glass of wine . (p=0.000632)
+Captions for image 46247689_889112461287290_3232009326448732014_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000729)
+  1) a bottle of wine next to a wine glass . (p=0.000704)
+  2) a bottle of wine sitting next to a wine glass . (p=0.000657)
+Captions for image 45999085_328745824574873_8747030209366263184_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.000067)
+  1) a close up of a person holding a sign (p=0.000037)
+  2) a close up of a sign that says `` <UNK> '' . (p=0.000002)
+Captions for image 46731309_2228669557460764_2413838028188210389_n.jpg:
+  0) a bottle of wine sitting next to a glass of wine . (p=0.001170)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.001145)
+  2) a bottle of wine and a glass of wine . (p=0.001041)
+Captions for image 45417243_196502954621685_4210280309156422889_n.jpg:
+  0) a white plate topped with a cut in half sandwich . (p=0.000599)
+  1) a plate of food with a glass of wine . (p=0.000412)
+  2) a white plate topped with a cut in half sandwich and a salad . (p=0.000052)
+Captions for image 44880277_364206251014054_7159857882405047244_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.003138)
+  1) a bottle of wine and a bottle of wine . (p=0.002444)
+  2) a bottle of wine and a glass of wine . (p=0.001773)
+Captions for image 45728781_619747071773996_1803880090184507596_n.jpg:
+  0) a cup of coffee sitting next to a laptop computer . (p=0.000085)
+  1) a cup of coffee sitting next to a glass of water . (p=0.000049)
+  2) a cup of coffee sitting next to a bottle of water . (p=0.000028)
+Captions for image 45327639_1109387859224171_4391832024697070146_n.jpg:
+  0) a blender filled with a mixture of fruit and vegetables . (p=0.000012)
+  1) a kitchen counter with a bowl of fruit on it (p=0.000008)
+  2) a kitchen counter with a bowl of fruit on it . (p=0.000005)
+Captions for image 45426936_1127685124075336_3472872340913462090_n.jpg:
+  0) a close up of a bottle of wine on a table (p=0.000670)
+  1) a close up of a bottle of wine next to a glass (p=0.000065)
+  2) a close up of a bottle of wine next to a bottle (p=0.000063)
+Captions for image 43564233_250942198932162_3419097994617723579_n.jpg:
+  0) a bottle of wine sitting next to a glass of orange juice . (p=0.000037)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.000036)
+  2) a bottle of wine sitting next to a bottle of wine . (p=0.000033)
+Captions for image 44692924_359980521414461_5192715811892363925_n.jpg:
+  0) a group of people sitting around a table . (p=0.008899)
+  1) a group of people sitting around a table with food . (p=0.001450)
+  2) a group of people sitting around a table with plates of food . (p=0.001085)
+Captions for image 44532277_140630550236576_292648649021268740_n.jpg:
+  0) a group of men playing a game of soccer . (p=0.007572)
+  1) a group of people playing a game of soccer . (p=0.006354)
+  2) a group of people playing soccer on a field (p=0.005444)
+Captions for image 43913738_189971541922826_2193535170144770939_n.jpg:
+  0) a book and a keyboard on a table . (p=0.000027)
+  1) a book and a keyboard on a desk . (p=0.000024)
+  2) a book and a keyboard on a table (p=0.000016)
+Captions for image 43075983_325018298296620_6960982762760175179_n.jpg:
+  0) a group of men playing a game of soccer . (p=0.003244)
+  1) a group of people playing soccer on a field (p=0.001290)
+  2) a group of men playing a game of soccer on a field . (p=0.000911)
+Captions for image 43817772_527213451074020_8933653709315174884_n.jpg:
+  0) a couple of women standing next to each other . (p=0.002826)
+  1) a couple of women standing next to each other in a kitchen . (p=0.000261)
+  2) a couple of women standing next to each other in front of a table . (p=0.000173)
+Captions for image 44844617_249141909091615_1714642473952625877_n.jpg:
+  0) a woman wearing a hat and sunglasses is talking on a cell phone . (p=0.000006)
+  1) a woman wearing a hat and sunglasses is talking on her cell phone . (p=0.000003)
+  2) a woman in a red hat and sunglasses is talking on a cell phone . (p=0.000001)
+Captions for image 43986093_757046894651707_7257931142163857793_n.jpg:
+  0) a book is sitting on top of a book . (p=0.000148)
+  1) a book is sitting on top of a book (p=0.000060)
+  2) a book is sitting on top of a book shelf . (p=0.000030)
+Captions for image 44912760_344002689741736_7884007127477910663_n.jpg:
+  0) a table topped with plates of food and a cup of coffee . (p=0.000111)
+  1) a table topped with a plate of food and a glass of wine . (p=0.000078)
+  2) a table with a plate of food and a glass of wine (p=0.000060)
+Captions for image 44442138_340686060019543_4814409137905287351_n.jpg:
+  0) a variety of different types of wines on display . (p=0.000093)
+  1) a variety of different types of wines on a table . (p=0.000029)
+  2) a variety of different types of wines on display (p=0.000011)
+Captions for image 43375139_2024700390920921_8079065781807536273_n.jpg:
+  0) a group of people standing around a luggage carousel . (p=0.001126)
+  1) a group of people standing around a baggage claim . (p=0.000643)
+  2) a group of people standing around a baggage claim area . (p=0.000550)
+Captions for image 43818273_179563342977045_602452482957181514_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.000657)
+  1) a bottle of beer and a bottle of wine . (p=0.000508)
+  2) a bottle of beer sitting next to a bottle of wine . (p=0.000354)
+Captions for image 43913496_305635923365567_540980776419220601_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.001468)
+  1) a close up of a plate of food on a table (p=0.001299)
+  2) a close up of a plate of food (p=0.000433)
+Captions for image 43985032_348422355731507_9032215621960900816_n.jpg:
+  0) a group of people sitting at a table with wine glasses . (p=0.000039)
+  1) a group of people standing around a table with wine glasses . (p=0.000035)
+  2) a group of people standing around a table filled with wine . (p=0.000026)
+Captions for image 43119089_469631520224170_8560408526374251816_n.jpg:
+  0) a glass vase with a flower in it (p=0.000063)
+  1) a glass vase with a flower in it . (p=0.000058)
+  2) a glass vase with a red flower in it . (p=0.000033)
+Captions for image 43603127_1831304816976344_2977462814860621610_n.jpg:
+  0) a white plate topped with a piece of cake . (p=0.000954)
+  1) a white plate with a piece of cake on it . (p=0.000204)
+  2) a white plate with a piece of cake on it (p=0.000107)
+Captions for image 43914613_2183712458319574_1580420976622001542_n.jpg:
+  0) a room filled with lots of different types of luggage . (p=0.000048)
+  1) a group of people standing around a table filled with wine bottles . (p=0.000007)
+  2) a group of people standing around a table filled with wine . (p=0.000006)
+Captions for image 44389976_602943480122104_3411008926611536239_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.000290)
+  1) a bottle of wine sitting on top of a wooden table . (p=0.000157)
+  2) a bottle of wine sitting on a table next to a bottle . (p=0.000004)
+Captions for image 43914282_714348972259210_780133394864266420_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.002707)
+  1) a glass of wine sitting on top of a wooden table . (p=0.000843)
+  2) a bottle of wine and a glass of wine (p=0.000382)
+Captions for image 43778815_335345950357585_7557807976470899512_n.jpg:
+  0) a table topped with a laptop computer and a mouse . (p=0.000203)
+  1) a table topped with a laptop computer and a keyboard . (p=0.000134)
+  2) a table topped with a laptop computer and a laptop . (p=0.000096)
+Captions for image 43504008_620994324970665_5429103005916998870_n.jpg:
+  0) a woman wearing a hat and sunglasses is talking on a cell phone . (p=0.000006)
+  1) a woman wearing a hat and sunglasses is talking on her cell phone . (p=0.000003)
+  2) a woman in a red hat and sunglasses is talking on a cell phone . (p=0.000001)
+Captions for image 43052081_405746406629749_1740849695391700918_n.jpg:
+  0) a close up of a doughnut on a plate (p=0.000586)
+  1) a close up of a plate of food (p=0.000314)
+  2) a close up of a plate of food on a table (p=0.000277)
+Captions for image 43143482_175306246737492_1795388079065286375_n.jpg:
+  0) several bottles of wine sitting on a table . (p=0.000302)
+  1) several bottles of wine sitting on top of a table . (p=0.000236)
+  2) several bottles of wine sitting on a counter . (p=0.000228)
+Captions for image 41154155_488431178340255_1798870793057842751_n.jpg:
+  0) a close up of a bottle of wine on a table (p=0.000427)
+  1) a close up of a bottle of wine on a table . (p=0.000050)
+  2) a close up of a bottle of wine and a glass (p=0.000025)
+Captions for image 44207520_378844166202114_3273087630889573120_n.jpg:
+  0) a group of people sitting on top of a tennis court . (p=0.000353)
+  1) a group of young people sitting on a bench . (p=0.000311)
+  2) a group of people sitting on top of a grass covered field . (p=0.000220)
+Captions for image 42758399_494259664389670_7441312964676896889_n.jpg:
+  0) a group of men standing next to each other . (p=0.002128)
+  1) a group of men standing next to each other holding racquets . (p=0.000246)
+  2) a group of men standing next to each other holding a frisbee . (p=0.000178)
+Captions for image 43080343_2256881171019572_8560824913217139910_n.jpg:
+  0) a woman sitting at a table with a glass of wine . (p=0.003063)
+  1) a woman is holding a glass of wine . (p=0.001048)
+  2) a woman sitting at a table with a wine glass . (p=0.000904)
+Captions for image 43817731_278850989406049_4960673833768943063_n.jpg:
+  0) a white plate topped with a salad and a salad . (p=0.000116)
+  1) a plate of food that includes broccoli and meat . (p=0.000113)
+  2) a white plate topped with a salad and a sandwich . (p=0.000091)
+Captions for image 43913853_543416542773431_1201695927361828482_n.jpg:
+  0) a group of people sitting around a table . (p=0.005853)
+  1) a group of people sitting around a table with food . (p=0.001314)
+  2) a group of people sitting at a table with food . (p=0.000881)
+Captions for image 43216385_304959553656931_6664035113284753011_n.jpg:
+  0) a woman holding a wine glass in her hand . (p=0.003369)
+  1) a woman holding a glass of wine in her hand . (p=0.003257)
+  2) a woman holding a wine glass in her hand (p=0.000835)
+Captions for image 41859400_343203113102446_7734507249582079363_n.jpg:
+  0) a plate of food with a glass of wine . (p=0.000143)
+  1) a plate of food with a fork and a glass of wine . (p=0.000045)
+  2) a plate of food with a fork and knife (p=0.000040)
+Captions for image 43594897_1140847989425087_5989669401602556744_n.jpg:
+  0) a piece of cake on a plate with a fork . (p=0.001497)
+  1) a white plate topped with a piece of cake . (p=0.001300)
+  2) a piece of cake on a plate with a fork (p=0.000626)
+Captions for image 45739266_323969701544801_3943579535871475953_n.jpg:
+  0) a group of men playing a game of soccer . (p=0.003220)
+  1) a group of people playing soccer on a field (p=0.001258)
+  2) a group of men playing a game of soccer on a field . (p=0.000896)
+Captions for image 43478247_2400207880052825_2438869401656168758_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001499)
+  1) a bottle of wine and a bottle of wine (p=0.000193)
+  2) a bottle of wine sitting on a table next to a bottle of wine . (p=0.000047)
+Captions for image 42319315_898990880308634_4771690619427977579_n.jpg:
+  0) a book and a book on a table . (p=0.000110)
+  1) a book and a book on a table (p=0.000024)
+  2) a book with a picture of a man on it . (p=0.000005)
+Captions for image 42918849_341870513215130_2384333640599367127_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.002901)
+  1) a close up of a plate of food on a table (p=0.001042)
+  2) a close up of a plate of food with vegetables (p=0.000997)
+Captions for image 44647515_2294998710717826_5515806465905143257_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.005091)
+  1) a close up of a plate of food on a table (p=0.002026)
+  2) a close up of a plate of food (p=0.000809)
+Captions for image 42482300_267234447329495_6289806926196775970_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000808)
+  1) a pair of scissors sitting on top of a wooden table . (p=0.000328)
+  2) a pair of scissors sitting on top of a wooden table (p=0.000007)
+Captions for image 42609296_513593855775117_6228316067557339631_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000131)
+  1) a bottle of wine and a bottle of wine on a table . (p=0.000081)
+  2) a bottle of wine next to a bottle of wine . (p=0.000076)
+Captions for image 43913387_2740925559254663_5004787091895321173_n.jpg:
+  0) a close up of a plate of food (p=0.002351)
+  1) a close up of a plate of food on a table (p=0.002208)
+  2) a close up of a plate of food with meat (p=0.001360)
+Captions for image 44422296_1832525923542557_750529344032861247_n.jpg:
+  0) a white plate topped with a cut in half sandwich . (p=0.001244)
+  1) a white plate topped with a sandwich and a salad . (p=0.001152)
+  2) a white plate topped with a sandwich and salad . (p=0.001033)
+Captions for image 42619284_252549228785217_6955792936145609177_n.jpg:
+  0) a small child is on a boat in the water (p=0.000096)
+  1) a small child is on a boat in the water . (p=0.000071)
+  2) a small child is on a boat in a body of water (p=0.000009)
+Captions for image 43360365_1159246964230785_2377019641045939100_n.jpg:
+  0) a plate of food and a glass of wine . (p=0.000263)
+  1) a plate of food and a glass of wine (p=0.000159)
+  2) a piece of cake on a plate with a fork . (p=0.000087)
+Captions for image 43529824_897352087319636_688335212980005504_n.jpg:
+  0) a plate of food that includes meat and vegetables . (p=0.000344)
+  1) a white plate topped with a sandwich and a salad . (p=0.000130)
+  2) a plate of food with a sandwich and a salad . (p=0.000032)
+Captions for image 41837749_1942212319406177_1029636229341823462_n.jpg:
+  0) a woman standing on a beach holding a surfboard . (p=0.000256)
+  1) a woman standing on a beach with a surfboard . (p=0.000199)
+  2) a woman is standing on a boat in the water . (p=0.000116)
+Captions for image 41908259_2190149971055493_7292465908137748346_n.jpg:
+  0) a hot dog with mustard and ketchup on a table . (p=0.000017)
+  1) a hot dog with mustard and ketchup on it . (p=0.000011)
+  2) a hot dog with mustard and ketchup on a table (p=0.000006)
+Captions for image 43820670_618399415224570_224128433431999959_n.jpg:
+  0) a close up of a plate of food on a table (p=0.002787)
+  1) a close up of a plate of food (p=0.001028)
+  2) a white plate with a piece of cake on it . (p=0.000354)
+Captions for image 44386826_171278010491000_6944204492798224006_n.jpg:
+  0) a close up of a sandwich on a plate (p=0.003980)
+  1) a close up of a sandwich with meat (p=0.000379)
+  2) a close up of a sandwich with meat and lettuce (p=0.000346)
+Captions for image 42526137_475569632929191_5677480447627088005_n.jpg:
+  0) a woman standing on a boat in the water . (p=0.000289)
+  1) a woman standing on a boat in the water (p=0.000101)
+  2) a woman standing on a boat in a body of water . (p=0.000054)
+Captions for image 42477937_2139234909627036_4800201063517294977_n.jpg:
+  0) a plate with a sandwich and a cup of coffee . (p=0.000011)
+  1) a plate with a sandwich and a glass of milk . (p=0.000005)
+  2) a plate with a sandwich and a cup of coffee (p=0.000003)
+Captions for image 41553554_142220006729837_5161309905650055140_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001702)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.001598)
+  2) a bottle of wine and a bottle of wine . (p=0.001140)
+Captions for image 44396997_354496801791789_3849818825819019942_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.001109)
+  1) a bottle of wine and a bottle of wine . (p=0.001075)
+  2) a bottle of wine and a glass of wine . (p=0.000746)
+Captions for image 42668472_2028186417241135_6539588674450136297_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001413)
+  1) a bottle of wine and a glass of wine . (p=0.000563)
+  2) a bottle of wine sitting on top of a wooden table . (p=0.000408)
+Captions for image 41684265_304045173708732_5093294913812325043_n.jpg:
+  0) a wooden table topped with lots of vegetables . (p=0.000382)
+  1) a wooden table topped with lots of food . (p=0.000270)
+  2) a wooden table topped with lots of fresh vegetables . (p=0.000192)
+Captions for image 40392463_263898891132132_2039273784636629284_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.000169)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.000148)
+  2) a bottle of wine and a bottle of wine on a table . (p=0.000101)
+Captions for image 41349100_330606664357435_8407934865375997546_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.000824)
+  1) a bottle of wine and a glass of wine (p=0.000172)
+  2) a glass of wine sitting on a table next to a bottle of wine . (p=0.000058)
+Captions for image 41322971_2205358279701829_9001451524149334937_n.jpg:
+  0) two bottles of wine sitting on top of a table . (p=0.000400)
+  1) two bottles of wine sitting on top of a counter . (p=0.000393)
+  2) two bottles of wine sitting on a counter top . (p=0.000224)
+Captions for image 40594723_327063721452080_5782853575114232563_n.jpg:
+  0) a lighthouse on a beach with a lighthouse in the background . (p=0.000078)
+  1) a lighthouse with a lighthouse on the side of it . (p=0.000030)
+  2) a lighthouse on a beach with a lighthouse in the background (p=0.000022)
+Captions for image 41357427_315397782601198_1428618920101743371_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001919)
+  1) a bottle of wine and a bottle of wine . (p=0.001737)
+  2) a bottle of wine sitting next to a bottle of wine . (p=0.001656)
+Captions for image 42703872_2049003635412588_7082323290840058224_n.jpg:
+  0) a man holding a glass of wine in his hand . (p=0.000108)
+  1) a man holding a glass of wine in his hands . (p=0.000053)
+  2) a man holding a glass of wine in his right hand . (p=0.000030)
+Captions for image 40409906_2224392391127028_4521037056809536568_n.jpg:
+  0) a bunch of bottles of wine sitting on a table . (p=0.000186)
+  1) two bottles of wine sitting on a table . (p=0.000179)
+  2) a bunch of bottles of wine sitting on top of a table . (p=0.000124)
+Captions for image 32443624_192891328000548_999350301783752704_n.jpg:
+  0) a plate of food and a drink on a table . (p=0.001104)
+  1) a plate of food with a sandwich and french fries . (p=0.000410)
+  2) a plate of food and a drink on a table (p=0.000200)
+Captions for image 40246070_1165260730296838_760110555313341771_n.jpg:
+  0) a woman holding a glass of wine in front of her . (p=0.000055)
+  1) a woman holding a glass of wine next to a man . (p=0.000033)
+  2) a woman holding a glass of wine in front of her (p=0.000026)
+Captions for image 39538817_242947563083378_8330463615917238198_n.jpg:
+  0) a group of people standing next to each other . (p=0.000350)
+  1) a group of people standing next to each other holding surfboards . (p=0.000123)
+  2) a group of people standing next to each other on a beach . (p=0.000014)
+Captions for image 40033195_1112631725568711_4715153197716398437_n.jpg:
+  0) a table with a vase of flowers on it (p=0.000039)
+  1) a glass vase with a flower in it (p=0.000032)
+  2) a table with a vase of flowers on it . (p=0.000024)
+Captions for image 40235563_1990959277609195_4728930382571051234_n.jpg:
+  0) a herd of sheep grazing on a lush green field . (p=0.003686)
+  1) a herd of cattle grazing on a lush green field . (p=0.002163)
+  2) a herd of sheep grazing on a lush green hillside . (p=0.001578)
+Captions for image 40601514_148295652769556_2448493523552546984_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.001802)
+  1) a bottle of wine and a bottle of wine . (p=0.001766)
+  2) a bottle of wine next to a bottle of wine . (p=0.001197)
+Captions for image 39245156_276332019636356_6575500984775397405_n.jpg:
+  0) a laptop computer sitting on top of a table . (p=0.000868)
+  1) a laptop computer sitting on top of a wooden table . (p=0.000468)
+  2) a laptop computer sitting on top of a wooden desk . (p=0.000421)
+Captions for image 39907536_284689779029863_400893132171902976_n.jpg:
+  0) a white plate with a clock on top of it . (p=0.000043)
+  1) a white plate with a clock on top of it (p=0.000007)
+  2) a white and black wedding cake with a flower on top . (p=0.000002)
+Captions for image 39368689_1871446546266524_7130346711155043647_n.jpg:
+  0) a plate with a hot dog and french fries . (p=0.000349)
+  1) a plate with a hot dog and french fries (p=0.000096)
+  2) a plate with a hot dog and fries on a table . (p=0.000094)
+Captions for image 38419906_283510392460578_2121125616298458198_n.jpg:
+  0) a man holding a skateboard in his hands . (p=0.000056)
+  1) a man holding a skateboard in his hand . (p=0.000051)
+  2) a man holding a skateboard in his hand (p=0.000017)
+Captions for image 39121682_2097216463863545_8076273580242076300_n.jpg:
+  0) a sandwich and a drink on a table . (p=0.000622)
+  1) a plate of food and a drink on a table . (p=0.000310)
+  2) a plate of food and a glass of wine . (p=0.000165)
+Captions for image 38514439_355983924940104_1115991576204541952_n.jpg:
+  0) a plate of food and a glass of wine . (p=0.000361)
+  1) a plate of food and a bottle of wine . (p=0.000341)
+  2) a plate of food and a glass of wine (p=0.000313)
+Captions for image 38507959_339575933251081_5919987186261819392_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.003596)
+  1) a bottle of wine sitting next to a glass of wine . (p=0.001771)
+  2) a bottle of wine sitting on top of a table next to a glass . (p=0.000351)
+Captions for image 38938314_304750453626964_1812803496894791680_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001243)
+  1) a bottle of wine sitting on top of a wooden table . (p=0.000632)
+  2) a bottle of wine sitting on a table next to a bottle . (p=0.000029)
+Captions for image 37857771_262242774382350_3520719571684163584_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.002973)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.001676)
+  2) a bottle of wine sitting on top of a table next to a glass . (p=0.000181)
+Captions for image 37783454_248603735962461_1408890538857332736_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.000977)
+  1) a bottle of wine sitting on top of a wooden table . (p=0.000356)
+  2) a bottle of wine and a bottle of wine (p=0.000080)
+Captions for image 38286491_237601996896323_5900618438535020544_n.jpg:
+  0) a plate of food and a drink on a table . (p=0.000773)
+  1) a plate of food and a glass of wine . (p=0.000569)
+  2) a plate of food and a glass of wine (p=0.000468)
+Captions for image 37529986_1083770528442812_2135412792738447360_n.jpg:
+  0) a plate of food and a drink on a table . (p=0.000290)
+  1) a plate of food and a glass of wine . (p=0.000220)
+  2) a plate of food and a glass of wine (p=0.000187)
+Captions for image 37647847_461684957627675_2156331147485773824_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001532)
+  1) a bottle of wine next to a glass of wine . (p=0.001158)
+  2) a bottle of wine and a glass of wine (p=0.000616)
+Captions for image 37024300_831175263757830_2661243624448065536_n.jpg:
+  0) a white plate topped with meat and vegetables . (p=0.003303)
+  1) a white plate topped with meat and veggies . (p=0.001664)
+  2) a white plate topped with meat , potatoes and broccoli . (p=0.000696)
+Captions for image 37019677_2044826922215240_172057309000761344_n.jpg:
+  0) a person on a surfboard in the water . (p=0.002617)
+  1) a person riding a surf board on a body of water (p=0.002091)
+  2) a person riding a surf board on a wave (p=0.001059)
+Captions for image 34266281_205645640057320_5543165803890737152_n.jpg:
+  0) a close up of a bottle of wine on a table (p=0.000857)
+  1) a bottle of wine and a glass of wine . (p=0.000328)
+  2) a bottle of wine and a glass of wine (p=0.000172)
+Captions for image 36957280_226264444691123_1120939893925609472_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.020129)
+  1) a close up of a plate of food on a table (p=0.001490)
+  2) a close up of a plate of food containing broccoli (p=0.000777)
+Captions for image 37271752_666621407049242_3732701200156459008_n.jpg:
+  0) a white plate with a clock on top of it . (p=0.000011)
+  1) a bottle of wine and a glass of wine . (p=0.000007)
+  2) a glass of wine and a glass of wine . (p=0.000007)
+Captions for image 36149259_2588091778081682_6568581510574637056_n.jpg:
+  0) a bottle of beer and a sandwich on a table . (p=0.000182)
+  1) a bottle of wine and a sandwich on a table . (p=0.000077)
+  2) a bottle of beer and a sandwich on a table (p=0.000067)
+Captions for image 37328435_281350799278154_8588842085463883776_n.jpg:
+  0) a white plate topped with a cut in half sandwich . (p=0.000714)
+  1) a white plate topped with a sandwich and salad . (p=0.000470)
+  2) a white plate topped with a sandwich and a salad . (p=0.000367)
+Captions for image 35000816_177535916437918_235865026777317376_n.jpg:
+  0) a bottle of wine sitting next to a glass of wine . (p=0.002062)
+  1) a bottle of wine and a glass of wine . (p=0.001394)
+  2) a bottle of wine sitting next to a wine glass . (p=0.001312)
+Captions for image 36113513_621013828278213_2251871543934058496_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000783)
+  1) a bottle of wine and a bottle of wine on a table . (p=0.000393)
+  2) a bottle of wine sitting next to a bottle of beer . (p=0.000379)
+Captions for image 36086497_228133854462545_5563802709431156736_n.jpg:
+  0) a bottle of wine and a bottle of wine . (p=0.001914)
+  1) a bottle of wine sitting next to a bottle of wine . (p=0.001778)
+  2) a bottle of wine and a glass of wine . (p=0.001439)
+Captions for image 35328637_599609850438821_7599202988204228608_n.jpg:
+  0) a man and a woman holding wine glasses . (p=0.000488)
+  1) a man and a woman are holding wine glasses . (p=0.000293)
+  2) a man and a woman standing next to each other . (p=0.000253)
+Captions for image 35617587_502794126801273_1755473371484651520_n.jpg:
+  0) a plate of food and a glass of wine . (p=0.000088)
+  1) a plate of food and a glass of wine (p=0.000053)
+  2) a plate of food and a bowl of fruit (p=0.000009)
+Captions for image 36160017_1908094319221193_4557066283668996096_n.jpg:
+  0) a laptop computer sitting on top of a wooden table . (p=0.009115)
+  1) an open laptop computer sitting on top of a wooden table . (p=0.007273)
+  2) a laptop computer sitting on top of a wooden desk . (p=0.005585)
+Captions for image 35617569_194598571245377_8560251785254535168_n.jpg:
+  0) a plate of food and a drink on a table . (p=0.000504)
+  1) a plate of food and a glass of wine . (p=0.000199)
+  2) a plate of food and a glass of wine (p=0.000170)
+Captions for image 36136726_228814631281035_6801317804000673792_n.jpg:
+  0) a close up of a plate of food with broccoli (p=0.005501)
+  1) a close up of a plate of food with meat (p=0.004061)
+  2) a close up of a plate of food with a sandwich (p=0.000711)
+Captions for image 34808472_238086206787896_43529785602736128_n.jpg:
+  0) a cup of coffee and a glass of orange juice . (p=0.000227)
+  1) a cup of coffee sitting next to a glass of orange juice . (p=0.000218)
+  2) a cup of coffee and a glass of orange juice (p=0.000117)
+Captions for image 34356202_179976722847380_7610181972584824832_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000690)
+  1) a bottle of wine and a bottle of wine . (p=0.000519)
+  2) a bottle of wine sitting next to a wine glass . (p=0.000237)
+Captions for image 33684866_247058362705092_1865385381340381184_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.001849)
+  1) a bottle of wine and a bottle of wine . (p=0.001163)
+  2) a bottle of wine sitting next to a glass of wine . (p=0.001093)
+Captions for image 34578193_1972196776137859_4891065261550993408_n.jpg:
+  0) a white plate topped with a sandwich and salad . (p=0.001036)
+  1) a white plate topped with a cut in half sandwich . (p=0.000946)
+  2) a white plate topped with a sandwich and a salad . (p=0.000691)
+Captions for image 34795661_1735419253231642_6157942663816413184_n.jpg:
+  0) a plate of food with a fork and knife (p=0.000157)
+  1) a plate of food on a table with a fork (p=0.000134)
+  2) a plate of food with a fork and knife on it . (p=0.000122)
+Captions for image 36797788_2240401109579543_3847405182333747200_n.jpg:
+  0) a man in a hat and sunglasses is holding a banana . (p=0.000006)
+  1) a man wearing a hat and a hat and a hat . (p=0.000003)
+  2) a man wearing a hat and a hat and a hat (p=0.000001)
+Captions for image 34357188_178427939514048_3461089109034926080_n.jpg:
+  0) a bottle of wine sitting next to a glass of wine . (p=0.000347)
+  1) a bottle of wine and a glass of wine . (p=0.000319)
+  2) a bottle of wine sitting next to a bottle of wine . (p=0.000239)
+Captions for image 33994362_1873014649665397_6189692118630400000_n.jpg:
+  0) a bottle of beer sitting next to a bottle of beer . (p=0.000392)
+  1) a bottle of beer sitting on a table next to a bottle of water . (p=0.000042)
+  2) a bottle of beer sitting next to a bottle of beer (p=0.000041)
+Captions for image 33939264_201144653858143_5503499590478856192_n.jpg:
+  0) a dog and a cat are playing with each other . (p=0.000050)
+  1) a dog and a cat are sitting on a rug . (p=0.000015)
+  2) a dog and a cat are standing on a rug . (p=0.000014)
+Captions for image 34390022_1676055609116626_3591576937111224320_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.001712)
+  1) a glass of wine sitting on top of a wooden table . (p=0.000715)
+  2) a glass of wine sitting on a table next to a glass of wine . (p=0.000088)
+Captions for image 32247578_167494490761463_7994566225428480000_n.jpg:
+  0) a couple of women standing next to each other . (p=0.006205)
+  1) a woman and a man standing next to each other . (p=0.001644)
+  2) a couple of women standing next to each other in a room . (p=0.000445)
+Captions for image 33630441_201007963855828_1859078913355939840_n.jpg:
+  0) a close up of a plate of food on a table (p=0.001142)
+  1) a close up of a glass of wine on a table (p=0.000621)
+  2) a close up of a plate of food (p=0.000536)
+Captions for image 33721527_1276295055836634_2376596651180556288_n.jpg:
+  0) a sign that is on the side of a road . (p=0.000075)
+  1) a sign that is on the side of a hill . (p=0.000031)
+  2) a sign that is on the side of the road . (p=0.000026)
+Captions for image 33037873_1690608241027879_1842086704178003968_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.000887)
+  1) a bottle of wine sitting on top of a wooden table . (p=0.000426)
+  2) a bottle of wine sitting on a table next to a bottle . (p=0.000026)

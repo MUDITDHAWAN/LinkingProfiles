@@ -1,0 +1,20 @@
+Captions for image 10832213_926745640676559_726438644_n.jpg:
+  0) a birthday cake with a train on it (p=0.000135)
+  1) a birthday cake with a train on it . (p=0.000101)
+  2) a birthday cake with a teddy bear on top of it . (p=0.000058)
+Captions for image 10853100_1511418992467848_543915859_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000844)
+  1) a close up of a pair of scissors (p=0.000602)
+  2) a close up of a pair of scissors on a table (p=0.000482)
+Captions for image 10860044_732110386866377_8408998_n.jpg:
+  0) a woman and a man standing next to each other . (p=0.000395)
+  1) a woman and a man are standing together (p=0.000113)
+  2) a woman and a man are standing together . (p=0.000099)
+Captions for image 10865093_1544753205770140_1963734013_n.jpg:
+  0) a woman wearing a hat and a tie . (p=0.000022)
+  1) a woman wearing a hat and a tie (p=0.000008)
+  2) a woman wearing a red hat and a red tie . (p=0.000004)
+Captions for image 10413145_1528522817399499_379898130_a.jpg:
+  0) a woman in a pink dress holding a teddy bear . (p=0.000040)
+  1) a woman in a pink dress holding a teddy bear (p=0.000007)
+  2) a woman in a dress and a tie (p=0.000007)

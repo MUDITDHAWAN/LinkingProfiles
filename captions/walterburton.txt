@@ -1,0 +1,20 @@
+Captions for image 11176177_665270866910536_30438727_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.001141)
+  1) a close up of a person laying on a bed (p=0.000765)
+  2) a close up of a person holding a pair of scissors (p=0.000638)
+Captions for image 11116975_401851406663777_2012269716_n.jpg:
+  0) a woman is holding a glass of wine . (p=0.000817)
+  1) a woman is holding a glass of wine (p=0.000386)
+  2) a woman holding a glass of wine in a kitchen . (p=0.000288)
+Captions for image 11176313_1579621142288462_185330264_n.jpg:
+  0) a person holding a pair of scissors in their hands . (p=0.001674)
+  1) a person holding a pair of scissors in their hand . (p=0.001015)
+  2) a person is holding a pair of scissors (p=0.000648)
+Captions for image 11176147_645024578974392_300832846_n.jpg:
+  0) a man with a beard and a tie is smiling . (p=0.000009)
+  1) a man with a beard and a tie on (p=0.000005)
+  2) a man with a beard and a tie is smiling (p=0.000004)
+Captions for image 11351645_1517714485186300_1867429990_a.jpg:
+  0) a close up of a street sign with a sky background (p=0.001466)
+  1) a close up of a stop sign with a sky background (p=0.000498)
+  2) a close up of a stop sign with a sign on it (p=0.000067)

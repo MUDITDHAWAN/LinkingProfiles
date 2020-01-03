@@ -1,0 +1,8 @@
+Captions for image 11186836_447719388731558_1165845556_n.jpg:
+  0) a small white dog laying on top of a bed . (p=0.001864)
+  1) a small white dog laying on a bed . (p=0.000779)
+  2) a small white dog laying on top of a couch . (p=0.000317)
+Captions for image 11899520_171351633195956_214558681_a.jpg:
+  0) a woman in a black shirt and a red tie (p=0.000024)
+  1) a woman in a black shirt and a black tie (p=0.000023)
+  2) a woman in a black shirt and tie (p=0.000014)

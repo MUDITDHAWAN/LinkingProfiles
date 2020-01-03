@@ -1,0 +1,828 @@
+Captions for image 20181373_1717157468578482_565868516842930176_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.001297)
+  1) a train traveling over a bridge over water . (p=0.000558)
+  2) a train traveling over a bridge over a body of water . (p=0.000300)
+Captions for image 65025818_324085548479661_419642081758150656_n.jpg:
+  0) a woman wearing a hat and a bow tie . (p=0.000038)
+  1) a woman wearing a hat and a bow tie (p=0.000014)
+  2) a woman in a blue shirt and a red bow tie . (p=0.000006)
+Captions for image 44666872_727602764284045_6073293416974074488_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000521)
+  1) a train traveling over a bridge over water . (p=0.000143)
+  2) a train traveling over a bridge over a lake . (p=0.000083)
+Captions for image 47694002_1816255555152921_4311321808475372155_n.jpg:
+  0) a large body of water with a mountain in the background . (p=0.000740)
+  1) a large body of water with a boat in the distance . (p=0.000385)
+  2) a large body of water with a mountain in the background (p=0.000267)
+Captions for image 50042590_230615991176590_7203549153487949228_n.jpg:
+  0) a woman sitting on a bench in front of a building . (p=0.000328)
+  1) a woman sitting on a bench in front of a brick building . (p=0.000075)
+  2) a woman sitting on a bench in front of a building (p=0.000064)
+Captions for image 55855645_2225659117686309_8863576847256376869_n.jpg:
+  0) a large bridge spanning the width of a river . (p=0.001182)
+  1) a large bridge spanning the width of a city . (p=0.000187)
+  2) a large bridge spanning the width of a river (p=0.000059)
+Captions for image 66455499_171214263913439_7259650583394680062_n.jpg:
+  0) a view of a body of water with a mountain in the background . (p=0.000014)
+  1) a view of a body of water with a boat in the background . (p=0.000008)
+  2) a view of a body of water with a boat in the distance . (p=0.000008)
+Captions for image 56173406_2073920126238976_9022060301634071078_n.jpg:
+  0) a red and white fire hydrant sitting on the side of a road . (p=0.000172)
+  1) a blue and white fire hydrant sitting on a beach . (p=0.000083)
+  2) a red and white fire hydrant sitting on a beach . (p=0.000078)
+Captions for image 54513579_2902245903126367_4702926403030206402_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000238)
+  1) a large building with a clock tower in the middle . (p=0.000133)
+  2) a large building with a clock tower in the middle of it . (p=0.000118)
+Captions for image 50080122_1342571849231439_1352355837621217848_n.jpg:
+  0) a large building with a clock on the front . (p=0.000722)
+  1) a large building with a clock on the front of it . (p=0.000580)
+  2) a large building with a clock on it (p=0.000442)
+Captions for image 58468682_194980528157206_3436909756705750143_n.jpg:
+  0) a couple of animals that are in the grass . (p=0.000158)
+  1) a couple of animals that are in a field (p=0.000051)
+  2) a couple of animals that are in some grass (p=0.000043)
+Captions for image 47582826_1187742408046351_5060580066178039592_n.jpg:
+  0) a large body of water with mountains in the background . (p=0.001094)
+  1) a large body of water with a mountain in the background . (p=0.000661)
+  2) a large body of water with a mountain in the background (p=0.000283)
+Captions for image 49627624_308677266444756_1271953654781528989_n.jpg:
+  0) a bench sitting on top of a sandy beach . (p=0.000343)
+  1) a wooden bench sitting on top of a sandy beach . (p=0.000167)
+  2) a bench sitting on top of a sandy beach next to the ocean . (p=0.000056)
+Captions for image 44325908_2216920891886930_5177459695191604794_n.jpg:
+  0) a view of a city street at night . (p=0.000108)
+  1) a view of a city street from a train . (p=0.000012)
+  2) a view of a city street from a train station . (p=0.000008)
+Captions for image 56800942_323946188324165_2839890171977289897_n.jpg:
+  0) a bench sitting on top of a sandy beach . (p=0.000272)
+  1) a bench sitting in the middle of a lake . (p=0.000111)
+  2) a bench sitting in the middle of a flooded area . (p=0.000033)
+Captions for image 50015913_102544084129503_3605645007409244833_n.jpg:
+  0) a man standing in front of a brick building . (p=0.001222)
+  1) a man standing in front of a building . (p=0.000880)
+  2) a man standing in front of a building with a clock . (p=0.000046)
+Captions for image 44505696_1988765274517804_2908824220068188957_n.jpg:
+  0) a park bench sitting in the middle of a forest . (p=0.000578)
+  1) a park bench sitting in the middle of a park . (p=0.000249)
+  2) a park bench sitting in the middle of a lush green forest . (p=0.000090)
+Captions for image 47693527_224847801793206_2849626049448150409_n.jpg:
+  0) a vase of flowers sitting on a table . (p=0.000265)
+  1) a vase of flowers sits on a table . (p=0.000161)
+  2) a vase of flowers sitting on a table (p=0.000118)
+Captions for image 43450713_1222916354532506_80091498696983369_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.000347)
+  1) a red and white fire hydrant sitting in the middle of a forest . (p=0.000109)
+  2) a red and white fire hydrant sitting next to a tree . (p=0.000048)
+Captions for image 20213753_1386176358118854_8869219418857537536_n.jpg:
+  0) a couple of people are sitting on a bench (p=0.000158)
+  1) a large building with a clock tower in the middle of it . (p=0.000032)
+  2) a large building with a clock tower in the middle . (p=0.000031)
+Captions for image 44355565_1034674813406754_1663146448139713178_n.jpg:
+  0) a park bench sitting in the middle of a park . (p=0.001199)
+  1) a park bench in the middle of a park . (p=0.001188)
+  2) a park bench sitting in the middle of a forest . (p=0.000970)
+Captions for image 13643518_638747326301258_1244341220_n.jpg:
+  0) a bunch of boats that are in the water . (p=0.001042)
+  1) a bunch of boats that are sitting in the water . (p=0.000716)
+  2) a group of boats floating on top of a river . (p=0.000215)
+Captions for image 43503418_323661851553342_6278380638993717252_n.jpg:
+  0) a grassy field with a bench in front of it . (p=0.000016)
+  1) a grassy field with a bench in the middle of it . (p=0.000008)
+  2) a grassy field with a bench in front of it (p=0.000007)
+Captions for image 44433835_326162734842704_1462414651433977246_n.jpg:
+  0) a view of a mountain range from below . (p=0.000258)
+  1) a view of a mountain range with a mountain in the background . (p=0.000043)
+  2) a view of a mountain range from below (p=0.000036)
+Captions for image 50068005_100852884366304_6389899729026398092_n.jpg:
+  0) a woman standing on a sidewalk next to a building . (p=0.000098)
+  1) a woman standing on a sidewalk next to a tree . (p=0.000085)
+  2) a woman standing on a sidewalk next to a brick building . (p=0.000050)
+Captions for image 44718695_328250961240302_2082645484496100593_n.jpg:
+  0) a couple of boats that are sitting in the water . (p=0.000402)
+  1) a couple of boats that are in the water . (p=0.000296)
+  2) a couple of boats sitting on top of a beach . (p=0.000281)
+Captions for image 13277655_1427815830572035_409479876_n.jpg:
+  0) a close up of a box of doughnuts (p=0.000265)
+  1) a close up of a plate of doughnuts (p=0.000139)
+  2) a close up of a plate of food (p=0.000111)
+Captions for image 45562916_207820673333000_3798206217376784922_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.000083)
+  1) a red fire hydrant sitting in the middle of a park . (p=0.000072)
+  2) a red fire hydrant sitting next to a tree . (p=0.000061)
+Captions for image 20065559_1465838953481521_3767656676258217984_n.jpg:
+  0) a view of a beach with a boat in the water . (p=0.000008)
+  1) a view of a beach with a boat in the distance . (p=0.000007)
+  2) a view of a beach with a large body of water . (p=0.000003)
+Captions for image 20347493_157262821503104_5975575973016371200_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000557)
+  1) a cup of coffee sitting on top of a table next to a cup . (p=0.000014)
+  2) a cup of coffee sitting on a table next to a cup . (p=0.000014)
+Captions for image 15251566_210871599319418_3508857507667771392_n.jpg:
+  0) a group of people standing in front of a building . (p=0.000099)
+  1) a group of people standing in front of a large building . (p=0.000069)
+  2) a group of people standing in front of a large clock . (p=0.000042)
+Captions for image 14718098_160804401056412_6581362023282507776_n.jpg:
+  0) a refrigerator with a lot of food inside of it (p=0.000008)
+  1) a refrigerator with a lot of food on it (p=0.000006)
+  2) a white refrigerator with a lot of stickers on it . (p=0.000004)
+Captions for image 44255241_302637840575858_8593274546063277633_n.jpg:
+  0) a bunch of flowers that are sitting in the grass . (p=0.000119)
+  1) a bunch of flowers that are sitting on a bench . (p=0.000065)
+  2) a bunch of flowers that are sitting on a table . (p=0.000057)
+Captions for image 20067102_154556101778328_594777950302240768_n.jpg:
+  0) a bench on a beach near a body of water (p=0.000426)
+  1) a bench on a beach near the ocean (p=0.000251)
+  2) a bench sitting on a beach next to the ocean . (p=0.000195)
+Captions for image 19985893_451035995265606_373819599663136768_n.jpg:
+  0) a large body of water with mountains in the background . (p=0.000191)
+  1) a large body of water with a mountain in the background . (p=0.000099)
+  2) a large body of water next to a body of water . (p=0.000061)
+Captions for image 44538771_270509210335521_7923168620861001377_n.jpg:
+  0) a large body of water next to a forest . (p=0.000152)
+  1) a large body of water next to a river . (p=0.000094)
+  2) a large body of water next to a forest filled with trees . (p=0.000065)
+Captions for image 20065784_1592336104143792_7008799492157734912_n.jpg:
+  0) a man is looking at a television screen . (p=0.000090)
+  1) a man is looking at a television screen (p=0.000055)
+  2) a man is sitting in front of a television . (p=0.000035)
+Captions for image 19986152_334253743673133_1074850071591256064_n.jpg:
+  0) a bench sitting in the middle of a lush green field . (p=0.000316)
+  1) a bench sitting on top of a lush green hillside . (p=0.000255)
+  2) a bench sitting in the middle of a field . (p=0.000210)
+Captions for image 19437105_1433984896689369_7327927815792230400_n.jpg:
+  0) a red and white train traveling through a rural countryside . (p=0.000035)
+  1) a red and white train traveling through a lush green field . (p=0.000022)
+  2) a red and white train traveling through a lush green countryside . (p=0.000019)
+Captions for image 19051708_676245809238333_1288777711090663424_n.jpg:
+  0) a bird sitting on top of a lush green field . (p=0.000106)
+  1) a bird sitting on a tree branch in a field . (p=0.000026)
+  2) a bird sitting on top of a tree in a forest . (p=0.000023)
+Captions for image 43244800_478826212606418_356203624562453051_n.jpg:
+  0) a large body of water surrounded by trees . (p=0.000325)
+  1) a large body of water next to a forest . (p=0.000302)
+  2) a large body of water next to a river . (p=0.000193)
+Captions for image 18298487_1660606950912357_7317713674892738560_n.jpg:
+  0) a bench sitting in the middle of a forest . (p=0.000830)
+  1) a wooden bench sitting in the middle of a forest . (p=0.000614)
+  2) a wooden bench sitting in the middle of a lush green field . (p=0.000067)
+Captions for image 17076029_419624025046489_5316134897776066560_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.002601)
+  1) a clock mounted to the side of a building . (p=0.001176)
+  2) a large clock mounted to the side of a wall . (p=0.000606)
+Captions for image 16908510_414445065575310_2754159065734053888_n.jpg:
+  0) a man standing in front of a brick building . (p=0.000234)
+  1) a man standing in front of a brick wall holding a skateboard . (p=0.000037)
+  2) a man standing in front of a building with a skateboard . (p=0.000029)
+Captions for image 16908320_1326687197391110_3943075716291100672_n.jpg:
+  0) a church with a clock tower in the middle of it . (p=0.000023)
+  1) a church with a clock tower in the middle of it (p=0.000014)
+  2) a church with a clock tower in the middle (p=0.000008)
+Captions for image 17076933_1644009755893952_526690422169272320_n.jpg:
+  0) a river with a bridge spanning the width of it . (p=0.000172)
+  1) a river with a bridge spanning the width of it (p=0.000058)
+  2) a bridge over a river with a bridge in the background . (p=0.000019)
+Captions for image 16908600_1885857488363824_7802140115630817280_n.jpg:
+  0) a woman standing on a lush green field . (p=0.000445)
+  1) a woman standing on a lush green field holding a kite . (p=0.000091)
+  2) a woman standing on a lush green field holding a frisbee . (p=0.000068)
+Captions for image 16906091_264629017282348_3393356886366486528_n.jpg:
+  0) a bird is standing in the middle of a lake . (p=0.000044)
+  1) a bird is standing in the middle of a lake (p=0.000018)
+  2) a bird is standing in the middle of a pond . (p=0.000017)
+Captions for image 16465822_1851141765171407_2071592821420195840_n.jpg:
+  0) a view of a building with a train in the background . (p=0.000002)
+  1) a view of a train in the middle of a building . (p=0.000001)
+  2) a view of a building with a train in the distance . (p=0.000001)
+Captions for image 16583234_172339239924702_3726499181481689088_n.jpg:
+  0) a woman is sitting on a bench in the woods . (p=0.000014)
+  1) a woman is sitting on a bench in a garden . (p=0.000012)
+  2) a woman is sitting on a bench with a teddy bear . (p=0.000006)
+Captions for image 16464598_2062833654012554_2054839657237053440_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000904)
+  1) a large clock tower towering over a city at night . (p=0.000249)
+  2) a group of people walking down a street next to tall buildings . (p=0.000080)
+Captions for image 16230655_208211516313818_6302224135846100992_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000244)
+  1) a large building with a clock tower in the middle of it . (p=0.000158)
+  2) a large building with a clock tower in the middle . (p=0.000125)
+Captions for image 44505507_134396110877060_6601925972462893081_n.jpg:
+  0) a large stone building with a clock tower . (p=0.000130)
+  1) a large stone building with a clock on it (p=0.000110)
+  2) a large stone building with a clock on it . (p=0.000109)
+Captions for image 16229213_702265243289772_1085308325546950656_n.jpg:
+  0) a television screen showing a man on a cell phone . (p=0.000007)
+  1) a television screen showing a man holding a cell phone . (p=0.000005)
+  2) a television screen showing a man on a cell phone (p=0.000003)
+Captions for image 16122986_1249500388478098_1143834702428241920_n.jpg:
+  0) a large building with a clock on the side of it . (p=0.000046)
+  1) a large building with a clock tower in the middle of it . (p=0.000029)
+  2) a large building with a clock on the side of it (p=0.000016)
+Captions for image 16465558_867645896671954_4052609665945567232_n.jpg:
+  0) a clock that is sitting on a table . (p=0.000347)
+  1) a clock that is sitting on top of a table . (p=0.000110)
+  2) a clock that is sitting on a table (p=0.000064)
+Captions for image 44746780_206854563542938_1270441470043837039_n.jpg:
+  0) a park bench sitting in the middle of a park . (p=0.001760)
+  1) a park bench in the middle of a park . (p=0.001253)
+  2) a bench sitting in the middle of a park . (p=0.000942)
+Captions for image 16465554_142032236307180_2794050047669436416_n.jpg:
+  0) a street sign on a pole on a city street (p=0.000347)
+  1) a street sign on a pole with a sky background (p=0.000311)
+  2) a street sign on a pole on a street . (p=0.000134)
+Captions for image 16464829_1174440442677452_4114087376848945152_n.jpg:
+  0) a building with a clock tower in the middle of it . (p=0.000074)
+  1) a large building with a clock on the front of it . (p=0.000068)
+  2) a building with a clock tower in the middle of it (p=0.000068)
+Captions for image 16228588_1833865160171625_144285049737445376_n.jpg:
+  0) a couple of boats floating on top of a lake . (p=0.000683)
+  1) a couple of boats floating on top of a river . (p=0.000508)
+  2) a boat floating on a lake next to a forest . (p=0.000259)
+Captions for image 16122939_1835087866705666_5723762860790644736_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000104)
+  1) a fire hydrant in the middle of a flooded area . (p=0.000055)
+  2) a fire hydrant in the middle of a flooded field . (p=0.000040)
+Captions for image 15876110_1779965872253837_482539730324422656_n.jpg:
+  0) a flock of birds flying over a body of water . (p=0.004209)
+  1) a flock of birds sitting on top of a beach . (p=0.001612)
+  2) a flock of birds sitting on top of a sandy beach . (p=0.001256)
+Captions for image 44900795_2181764365408942_7639144277911150341_n.jpg:
+  0) a large body of water next to a river . (p=0.000155)
+  1) a large body of water next to a bridge . (p=0.000124)
+  2) a large body of water surrounded by trees (p=0.000047)
+Captions for image 15802511_1420248011340901_4563486954833838080_n.jpg:
+  0) a room filled with lots of furniture and decor . (p=0.000033)
+  1) a room filled with lots of different types of furniture . (p=0.000018)
+  2) a room filled with lots of furniture and a chandelier . (p=0.000018)
+Captions for image 15625079_657834354422502_7507940675535503360_n.jpg:
+  0) a young boy wearing a blue shirt and tie . (p=0.000006)
+  1) a young boy wearing a tie and a hat . (p=0.000003)
+  2) a young boy wearing a blue shirt and tie (p=0.000002)
+Captions for image 15276518_698931330270224_5273163994792722432_n.jpg:
+  0) a large building with a clock on it . (p=0.000023)
+  1) a large building with a clock on it (p=0.000019)
+  2) a large building with a clock tower in the center . (p=0.000008)
+Captions for image 15306541_735087826667755_3509477400297603072_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000560)
+  1) a large building with a clock tower in the middle . (p=0.000188)
+  2) a large building with a clock tower in the center . (p=0.000173)
+Captions for image 15306034_1816552151917249_7111636368027025408_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000224)
+  1) a view of a city street at night . (p=0.000128)
+  2) a clock tower in the middle of a city at night . (p=0.000060)
+Captions for image 15043902_1175793255847211_6529599154740527104_n.jpg:
+  0) a man sitting on a bench in front of a building . (p=0.000530)
+  1) a man sitting on a bench next to a building . (p=0.000250)
+  2) a man sitting on a bench in front of a brick building . (p=0.000129)
+Captions for image 15258804_544372575762072_7573748160149848064_n.jpg:
+  0) a black and white photo of a fire hydrant . (p=0.000202)
+  1) a black and white photo of a fire hydrant (p=0.000127)
+  2) a close up of a black and white photo of a clock (p=0.000006)
+Captions for image 15099455_954120531388749_4524161319443628032_n.jpg:
+  0) a fire hydrant in the middle of a street . (p=0.000079)
+  1) a fire hydrant in the middle of a road . (p=0.000050)
+  2) a fire hydrant in the middle of a sidewalk . (p=0.000036)
+Captions for image 15337260_1186801644738621_2197713539634823168_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.000218)
+  1) a bunch of flowers that are in a vase (p=0.000113)
+  2) a bunch of flowers that are in a tree . (p=0.000062)
+Captions for image 14478327_1694102804250880_6560181246033395712_n.jpg:
+  0) a red and white fire hydrant sitting next to a street . (p=0.000032)
+  1) a red and white fire hydrant sitting next to a sidewalk . (p=0.000028)
+  2) a red and white fire hydrant sitting next to a tree . (p=0.000028)
+Captions for image 15306535_214152488995338_245450247025721344_n.jpg:
+  0) a fire hydrant in the middle of a field . (p=0.000484)
+  1) a red fire hydrant in the middle of a field . (p=0.000223)
+  2) a fire hydrant in the middle of a field of grass . (p=0.000195)
+Captions for image 14709573_1837325829845696_1194073536184975360_n.jpg:
+  0) a man sitting in a chair in front of a window . (p=0.000089)
+  1) a man sitting on a bench in front of a store . (p=0.000031)
+  2) a man sitting in a chair with a laptop in his lap . (p=0.000014)
+Captions for image 15048080_1717548648564893_2555973894418726912_n.jpg:
+  0) a red and white fire hydrant sitting on the side of a road . (p=0.000116)
+  1) a red fire hydrant in front of a building . (p=0.000098)
+  2) a red fire hydrant in front of a brick building . (p=0.000068)
+Captions for image 14597229_545324378999712_4202505506339684352_n.jpg:
+  0) a group of people sitting on top of a wooden bench . (p=0.000044)
+  1) a group of people sitting on top of a bench . (p=0.000029)
+  2) a group of people sitting on a bench next to a river . (p=0.000011)
+Captions for image 14134658_638063349706694_4745888623847538688_n.jpg:
+  0) a close up of a clock on a table (p=0.000077)
+  1) a close up of a clock on a wooden table (p=0.000025)
+  2) a close up of a clock on a wooden surface (p=0.000011)
+Captions for image 15043828_1325049397546362_2487188120567545856_n.jpg:
+  0) a bench sitting in the middle of a forest . (p=0.000149)
+  1) a bench sitting in the middle of a lush green forest . (p=0.000040)
+  2) a bench sitting in the middle of a lush green field . (p=0.000035)
+Captions for image 13704129_302010283484307_1461895095_n.jpg:
+  0) a boat sitting on top of a sandy beach . (p=0.000549)
+  1) a boat sitting on top of a sandy beach next to the ocean . (p=0.000180)
+  2) a boat sitting on top of a beach next to the ocean . (p=0.000164)
+Captions for image 14677162_1792718621006712_177851443221364736_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000088)
+  1) a train station with a train passing by . (p=0.000069)
+  2) a train station with a train passing by (p=0.000041)
+Captions for image 13628484_489336061264581_1713701631_n.jpg:
+  0) a red fire hydrant sitting on the side of a road . (p=0.000079)
+  1) a red fire hydrant sitting on the side of a street . (p=0.000021)
+  2) a red fire hydrant sitting on the side of a street (p=0.000000)
+Captions for image 14553198_1731557770497629_5936933705577660416_n.jpg:
+  0) a river with trees and a bridge in the distance . (p=0.000008)
+  1) a river with trees and a bridge in the background . (p=0.000008)
+  2) a river with trees and a bridge in the distance (p=0.000002)
+Captions for image 14583330_1806262506279674_1589730231344693248_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000691)
+  1) a close up of a flower in a tree (p=0.000102)
+  2) a close up of a flower in a vase (p=0.000097)
+Captions for image 14726248_607523036114253_4879397974301474816_n.jpg:
+  0) a river with a river and a bridge in the background . (p=0.000003)
+  1) a river with a river and a bridge in the distance . (p=0.000002)
+  2) a river with a river and a bridge in the distance (p=0.000001)
+Captions for image 14712272_369908106673917_3114231514464780288_n.jpg:
+  0) a person holding a piece of food in their hand . (p=0.000367)
+  1) a person holding a piece of food in their hands . (p=0.000343)
+  2) a person is holding a piece of food (p=0.000107)
+Captions for image 14714629_541720772689376_1219789253437816832_n.jpg:
+  0) a tree with a bunch of trees in the background (p=0.000038)
+  1) a tree with a bunch of trees in it (p=0.000027)
+  2) a large tree with a bunch of trees in the background (p=0.000011)
+Captions for image 915710_1004188826314590_662697400_n.jpg:
+  0) a large building with a clock on the top . (p=0.000631)
+  1) a large building with a clock on it (p=0.000516)
+  2) a large building with a clock on the front of it . (p=0.000328)
+Captions for image 14712092_193737007719653_4131336107243601920_n.jpg:
+  0) a river with a river and lots of trees . (p=0.000029)
+  1) a river with a river and lots of trees (p=0.000004)
+  2) a river with a river and a bridge in the background . (p=0.000002)
+Captions for image 14240484_1711939499130708_1025968464_n.jpg:
+  0) a couple of women sitting next to each other . (p=0.000340)
+  1) a couple of women sitting on top of a bench . (p=0.000221)
+  2) a couple of women sitting next to each other on a beach . (p=0.000214)
+Captions for image 14334606_1303066603037990_1777319919_n.jpg:
+  0) a person on a surfboard in the water . (p=0.001670)
+  1) a person on a surfboard riding a wave . (p=0.000338)
+  2) a person on a surfboard in the water (p=0.000236)
+Captions for image 14499090_1180452332028481_4590717665965768704_n.jpg:
+  0) a young boy holding a pair of scissors in his hands . (p=0.000044)
+  1) a little boy sitting at a table with a box of donuts . (p=0.000040)
+  2) a little boy sitting at a table with a book . (p=0.000034)
+Captions for image 14280322_1785739161708731_89126878_n.jpg:
+  0) a view of a lake with a boat in the distance . (p=0.000013)
+  1) a view of a lake and a boat in the distance . (p=0.000011)
+  2) a view of a beach with a boat in the distance . (p=0.000008)
+Captions for image 14272048_1777320679169539_1387357818_n.jpg:
+  0) a pair of shoes sitting on a skateboard . (p=0.000158)
+  1) a pair of shoes sitting on a beach . (p=0.000153)
+  2) a pair of shoes on a beach with a surfboard . (p=0.000029)
+Captions for image 14156235_1854781601419065_1585891270_n.jpg:
+  0) a view of a river with a bridge in the background . (p=0.000066)
+  1) a view of a river with a bridge in the distance . (p=0.000046)
+  2) a view of a bridge over a river with a bridge in the background . (p=0.000007)
+Captions for image 14031638_850391438394364_939744390_n.jpg:
+  0) a woman in a dress holding a pair of scissors . (p=0.000037)
+  1) a woman in a white dress holding a pair of scissors . (p=0.000033)
+  2) a woman in a dress holding a pair of scissors (p=0.000015)
+Captions for image 14145569_560233904170739_1152573967_n.jpg:
+  0) a black and white photo of a woman sitting on a bench . (p=0.000603)
+  1) a black and white photo of a woman sitting on a bench (p=0.000541)
+  2) a black and white photo of a woman sitting on a chair (p=0.000113)
+Captions for image 14052256_179119222510408_1208690238_n.jpg:
+  0) a kitchen counter with a blender and a bowl of fruit . (p=0.000003)
+  1) a kitchen counter with a blender and a bowl on it (p=0.000003)
+  2) a kitchen counter with a blender and a bowl of fruit (p=0.000002)
+Captions for image 13703136_1597634610529210_1073359057_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.000333)
+  1) a boat floating on a river next to a forest . (p=0.000109)
+  2) a boat floating on top of a river next to a forest . (p=0.000037)
+Captions for image 13768184_1827649417462874_756130634_n.jpg:
+  0) a bunch of different colored vases on a table (p=0.000092)
+  1) a bunch of different colored vases on a table . (p=0.000060)
+  2) a bunch of different colored vases on display (p=0.000041)
+Captions for image 13731350_316718768675485_450549318_n.jpg:
+  0) a flock of birds flying over a beach . (p=0.008464)
+  1) a flock of birds flying over a body of water . (p=0.007146)
+  2) a flock of birds flying over the ocean . (p=0.005085)
+Captions for image 14026504_557142464458376_1223196685_n.jpg:
+  0) a pile of books sitting on top of a wooden table . (p=0.000323)
+  1) a pile of luggage sitting on top of a wooden table . (p=0.000231)
+  2) a pile of luggage sitting on top of a wooden floor . (p=0.000167)
+Captions for image 13722016_262731787445536_266774231_n.jpg:
+  0) a picture of a person holding a cell phone . (p=0.000031)
+  1) a picture of a person holding a cell phone (p=0.000005)
+  2) a picture of a person taking a picture of a mirror . (p=0.000002)
+Captions for image 13712170_1828903277339922_474138721_n.jpg:
+  0) a boat floating on top of a body of water . (p=0.002268)
+  1) a boat floating on top of a lake next to a shore . (p=0.000199)
+  2) a boat floating on top of a lake next to a forest . (p=0.000108)
+Captions for image 13745175_178775915871534_1772798488_n.jpg:
+  0) a bird sitting on top of a book . (p=0.000032)
+  1) a group of birds sitting on top of a book . (p=0.000025)
+  2) a bird sitting on top of a rock . (p=0.000025)
+Captions for image 13694589_1041669172567970_1944989632_n.jpg:
+  0) a man riding a bike down a street next to a river . (p=0.000128)
+  1) a man riding a bike on a beach next to a lake . (p=0.000110)
+  2) a man riding a bike down a street next to a lake . (p=0.000089)
+Captions for image 13694927_284293101925158_253456208_n.jpg:
+  0) a cat sitting on the beach next to the ocean . (p=0.000129)
+  1) a cat sitting on the beach next to the ocean (p=0.000085)
+  2) a cat is sitting on the beach by the ocean . (p=0.000060)
+Captions for image 13732176_757117524431322_1449934792_n.jpg:
+  0) a person riding a surf board on a wave (p=0.004339)
+  1) a person on a surfboard in the water . (p=0.001606)
+  2) a person riding a surf board on a body of water (p=0.001272)
+Captions for image 13671777_1752649125014744_132259856_n.jpg:
+  0) a white toilet sitting in a bathroom next to a wall . (p=0.000068)
+  1) a white toilet sitting next to a wall . (p=0.000040)
+  2) a white toilet sitting in a bathroom next to a window . (p=0.000027)
+Captions for image 13643679_618851341611307_496270527_n.jpg:
+  0) a view of a beach with a boat in the distance . (p=0.000019)
+  1) a view of a beach with a boat in the background . (p=0.000013)
+  2) a view of a beach with a boat in the water . (p=0.000009)
+Captions for image 13649246_302723936739313_408842781_n.jpg:
+  0) a bunch of bananas hanging from a ceiling . (p=0.000148)
+  1) a room filled with lots of different types of vegetables . (p=0.000098)
+  2) a bunch of bananas hanging from a ceiling (p=0.000081)
+Captions for image 12407372_161446600898472_1793941001_n.jpg:
+  0) a boat sitting on top of a sandy beach . (p=0.000907)
+  1) a boat sitting on top of a beach next to the ocean . (p=0.000467)
+  2) a boat sitting on top of a sandy beach next to the ocean . (p=0.000325)
+Captions for image 13671768_618624701637291_622262598_n.jpg:
+  0) a building with a large clock on it (p=0.000011)
+  1) a building with a large clock on it . (p=0.000010)
+  2) a large building with a large clock on it . (p=0.000010)
+Captions for image 13649305_1627247697587816_861598464_n.jpg:
+  0) a wooden bench sitting on top of a lush green field . (p=0.000427)
+  1) a wooden bench sitting on top of a sandy beach . (p=0.000361)
+  2) a wooden bench sitting in the middle of a field . (p=0.000358)
+Captions for image 13658836_1739281786359285_126071543_n.jpg:
+  0) a building with a clock on the side of it (p=0.000075)
+  1) a building with a clock on the side of it . (p=0.000072)
+  2) a building with a clock on the front of it (p=0.000042)
+Captions for image 12120396_1679231715662307_72120578_n.jpg:
+  0) a river with a boat in the water . (p=0.000012)
+  1) a river with a boat in the middle of it (p=0.000010)
+  2) a river with a boat in the middle of it . (p=0.000008)
+Captions for image 13277773_1728701417370131_1645610100_n.jpg:
+  0) a woman in a white shirt is playing a video game (p=0.000005)
+  1) a woman in a white shirt is playing a game (p=0.000002)
+  2) a woman in a white shirt holding a white frisbee (p=0.000001)
+Captions for image 13531919_279474229070834_60764727_n.jpg:
+  0) a group of people standing in a room . (p=0.003207)
+  1) a group of people standing around a room . (p=0.001645)
+  2) a group of people standing in a room with a clock . (p=0.000091)
+Captions for image 13573429_144341099323981_530894824_n.jpg:
+  0) a couple of people that are sitting on a rock (p=0.000498)
+  1) a couple of people that are sitting on a rock . (p=0.000259)
+  2) a couple of people that are on a rock (p=0.000101)
+Captions for image 13556916_589252387902112_480145213_n.jpg:
+  0) a man standing on a beach next to the ocean . (p=0.000838)
+  1) a man standing on a beach next to a body of water . (p=0.000584)
+  2) a man standing on a beach with a surfboard . (p=0.000356)
+Captions for image 13532105_156026511483375_1759844107_n.jpg:
+  0) a bunch of plants that are in the water . (p=0.000022)
+  1) a bunch of green plants in a garden (p=0.000014)
+  2) a bunch of plants that are in a tree . (p=0.000010)
+Captions for image 13597845_1058640734230871_550622567_n.jpg:
+  0) a wooden bench sitting in the middle of a forest . (p=0.000834)
+  1) a bench sitting in the middle of a forest . (p=0.000712)
+  2) a bench sitting in the middle of a flooded park . (p=0.000128)
+Captions for image 13391098_499374233596222_38247068_n.jpg:
+  0) a group of people standing next to each other . (p=0.002867)
+  1) a group of people standing next to each other in a parking lot . (p=0.000136)
+  2) a group of people standing next to each other in front of a building . (p=0.000093)
+Captions for image 12976557_1004118596290166_57145739_n.jpg:
+  0) a bunch of boats that are in the water . (p=0.001606)
+  1) a bunch of boats that are sitting in the water . (p=0.001570)
+  2) a bunch of boats that are in the water (p=0.000280)
+Captions for image 13397524_1337124669650858_1387185550_n.jpg:
+  0) a large body of water with lots of boats on it . (p=0.000060)
+  1) a large body of water with a lot of boats on it . (p=0.000053)
+  2) a large body of water with a lot of boats on it (p=0.000050)
+Captions for image 13329224_1713467835571656_943176763_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.000496)
+  1) a vase filled with flowers on top of a table . (p=0.000428)
+  2) a vase filled with flowers sitting on a table . (p=0.000378)
+Captions for image 13277820_1593319304331177_634853075_n.jpg:
+  0) a man sitting at a table with a laptop . (p=0.000062)
+  1) a man sitting at a table with a laptop computer . (p=0.000022)
+  2) a man sitting at a table in front of a window . (p=0.000021)
+Captions for image 13380946_286655241672578_240758421_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.001008)
+  1) a vase filled with lots of flowers on top of a table . (p=0.000422)
+  2) a bouquet of flowers in a vase on a table . (p=0.000300)
+Captions for image 13391301_1745314639074153_1195768301_n.jpg:
+  0) a vase with flowers in it sitting on a table . (p=0.000230)
+  1) a vase with flowers in it sitting on a table (p=0.000081)
+  2) a vase with flowers on a table in a room . (p=0.000056)
+Captions for image 12383580_953654364683573_1051980682_n.jpg:
+  0) a table topped with plates of food and cups of coffee . (p=0.000647)
+  1) a table topped with plates of food and a cup of coffee . (p=0.000260)
+  2) a table topped with a plate of food and a cup of coffee . (p=0.000194)
+Captions for image 13249877_1549428622027419_912559391_n.jpg:
+  0) a little girl sitting on top of a fire hydrant . (p=0.000373)
+  1) a little girl sitting on top of a red fire hydrant . (p=0.000269)
+  2) a little girl sitting on top of a yellow fire hydrant . (p=0.000163)
+Captions for image 13266664_247588042264077_1838863695_n.jpg:
+  0) a large body of water with a sky background (p=0.000193)
+  1) a large body of water next to a forest . (p=0.000105)
+  2) a large body of water next to a river . (p=0.000089)
+Captions for image 13183500_1758233901063600_959573826_n.jpg:
+  0) a flock of birds flying through a cloudy sky . (p=0.001805)
+  1) a flock of birds flying over a tall building . (p=0.000495)
+  2) a flock of birds flying through a cloudy sky (p=0.000082)
+Captions for image 13259580_1299301146768496_1860467801_n.jpg:
+  0) a wooden bench sitting in front of a window . (p=0.000153)
+  1) a wooden bench sitting next to a window . (p=0.000089)
+  2) a wooden bench sitting in front of a building . (p=0.000089)
+Captions for image 13256757_185488245181781_1844252436_n.jpg:
+  0) a room filled with lots of tables and chairs . (p=0.000135)
+  1) a room filled with lots of wooden tables . (p=0.000083)
+  2) a room filled with lots of wooden furniture . (p=0.000079)
+Captions for image 13320284_1636234830035186_1186438931_n.jpg:
+  0) a tree filled with lots of green apples . (p=0.000361)
+  1) a tree filled with lots of green leaves . (p=0.000314)
+  2) a tree filled with lots of oranges and leaves . (p=0.000243)
+Captions for image 13248896_246862322346915_1387874130_n.jpg:
+  0) a cell phone sitting on top of a wooden table . (p=0.000370)
+  1) a cell phone sitting on top of a pile of books . (p=0.000059)
+  2) a cell phone sitting on top of a wooden table (p=0.000009)
+Captions for image 13116728_1328541700493588_515552363_n.jpg:
+  0) a person riding a surf board on a body of water (p=0.000912)
+  1) a person riding a surf board on a wave (p=0.000366)
+  2) a man riding a paddle board on top of a body of water . (p=0.000149)
+Captions for image 13256771_268228056864375_296023994_n.jpg:
+  0) a person riding a surf board on a wave (p=0.000926)
+  1) a person riding a surf board on a body of water (p=0.000824)
+  2) a person on a surfboard in the water . (p=0.000747)
+Captions for image 13256835_1075929229140049_177106685_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.001241)
+  1) a laptop computer sitting on top of a wooden desk . (p=0.000749)
+  2) a laptop computer sitting on top of a table . (p=0.000692)
+Captions for image 13298250_584063268420339_1695740518_n.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.005646)
+  1) a person riding a surf board on a wave (p=0.003542)
+  2) a person riding a surf board on a body of water (p=0.001150)
+Captions for image 13285339_1022140594540433_1594732198_n.jpg:
+  0) a bench on a beach near a body of water (p=0.000389)
+  1) a bench on a beach near a body of water . (p=0.000005)
+  2) a bench on a beach near a body of water and trees (p=0.000000)
+Captions for image 13187998_589260141232225_1749103262_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.000706)
+  1) a vase filled with flowers on top of a table . (p=0.000604)
+  2) a vase filled with flowers sitting on a table . (p=0.000301)
+Captions for image 13116551_238640379839578_267435536_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000497)
+  1) a yellow fire hydrant in the middle of a forest . (p=0.000160)
+  2) a fire hydrant in the middle of a forest (p=0.000062)
+Captions for image 13116770_1261600377184771_375312714_n.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.001907)
+  1) a vase filled with lots of flowers on top of a table . (p=0.000509)
+  2) a vase filled with flowers on top of a wooden table . (p=0.000330)
+Captions for image 13181430_477809762427943_1310715503_n.jpg:
+  0) a woman standing in front of a mirror in a room . (p=0.000032)
+  1) a woman standing in front of a mirror in a bathroom . (p=0.000031)
+  2) a woman standing in front of a table with a vase of flowers . (p=0.000009)
+Captions for image 13267315_1760185430883261_2117367399_n.jpg:
+  0) a wooden bench sitting in the middle of a forest . (p=0.000310)
+  1) a wooden bench sitting in the middle of a park . (p=0.000102)
+  2) a wooden bench sitting in the middle of a lush green forest . (p=0.000058)
+Captions for image 13166679_682796628525169_415875903_n.jpg:
+  0) a woman sitting in front of a laptop computer . (p=0.003363)
+  1) a woman sitting at a table with a laptop . (p=0.001345)
+  2) a woman sitting at a table in front of a laptop computer . (p=0.000859)
+Captions for image 13188001_525551487647534_1308618681_n.jpg:
+  0) a woman petting a cat on a bench . (p=0.000184)
+  1) a man and a cat sitting on a bench . (p=0.000092)
+  2) a woman is petting a cat on a bench . (p=0.000085)
+Captions for image 13130050_1695214194078465_1787053259_n.jpg:
+  0) a close up of a piece of cake on a plate (p=0.000951)
+  1) a piece of cake on a plate with a fork . (p=0.000486)
+  2) a close up of a piece of cake on a table (p=0.000427)
+Captions for image 13129493_981923485255956_934915310_n.jpg:
+  0) a man standing on a sidewalk holding a skateboard . (p=0.000145)
+  1) a man standing on a sidewalk holding a cell phone . (p=0.000082)
+  2) a man standing on a sidewalk holding a frisbee . (p=0.000049)
+Captions for image 12362183_961753750552842_690839158_n.jpg:
+  0) a red umbrella sitting on top of a table . (p=0.000171)
+  1) a red umbrella sitting on top of a wooden table . (p=0.000052)
+  2) a red umbrella sitting on top of a white table . (p=0.000018)
+Captions for image 13102333_489370807924397_1224462234_n.jpg:
+  0) a bench sitting in the middle of a lake . (p=0.000052)
+  1) a large body of water with a bridge in the background . (p=0.000027)
+  2) a large body of water with a bridge in the background (p=0.000024)
+Captions for image 12940257_1704357376520400_1876417838_n.jpg:
+  0) a person is doing a trick on a skateboard . (p=0.000809)
+  1) a person on a skateboard doing a trick . (p=0.000414)
+  2) a person is doing a trick on a skateboard (p=0.000330)
+Captions for image 12965100_986575751431390_1394354159_n.jpg:
+  0) a bird perched on top of a tree . (p=0.000947)
+  1) a bird perched on top of a tree branch . (p=0.000873)
+  2) a bird perched on top of a tree in a forest . (p=0.000115)
+Captions for image 12960149_787701614693682_601252806_n.jpg:
+  0) a large clock tower towering over a city . (p=0.000510)
+  1) a clock tower in the middle of a lake . (p=0.000108)
+  2) a clock tower in the middle of a river . (p=0.000078)
+Captions for image 12940865_1043552412373190_1322922077_n.jpg:
+  0) a group of people walking down a street . (p=0.001523)
+  1) a group of people walking down a street next to tall buildings . (p=0.000705)
+  2) a group of people walking down a street next to a building . (p=0.000347)
+Captions for image 12531182_1777363219160464_366827895_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.001470)
+  1) a glass of wine is sitting on a table (p=0.000257)
+  2) a glass of wine sitting on a table next to a plate of food . (p=0.000069)
+Captions for image 12976649_251762825172717_265440875_n.jpg:
+  0) a boat is sitting on the side of the water . (p=0.000032)
+  1) a boat is sitting on the shore of a beach . (p=0.000017)
+  2) a boat is sitting on the side of a river . (p=0.000016)
+Captions for image 12501549_1001066579931122_317884950_n.jpg:
+  0) a large clock tower with a sky background (p=0.000826)
+  1) a large clock tower with a clock on each of it 's sides . (p=0.000409)
+  2) a clock tower with a weather vane on top . (p=0.000287)
+Captions for image 12917879_244319825918539_338925775_n.jpg:
+  0) a woman sitting on a bench next to a body of water . (p=0.000090)
+  1) a woman sitting on a bench next to a man on a cell phone . (p=0.000017)
+  2) a woman sitting on a bench next to a body of water (p=0.000012)
+Captions for image 12940056_227376784293228_1963118969_n.jpg:
+  0) a boat in the middle of a lake . (p=0.000184)
+  1) a boat in the middle of a lake surrounded by mountains . (p=0.000101)
+  2) a boat in the middle of a lake with mountains in the background . (p=0.000084)
+Captions for image 12940830_943241312463160_1380911492_n.jpg:
+  0) a view of a lake with a boat in the water . (p=0.000003)
+  1) a view of a lake with a boat in the distance . (p=0.000001)
+  2) a view of a lake and a bench in the distance . (p=0.000001)
+Captions for image 12530654_772133879588819_1779548399_n.jpg:
+  0) a woman sitting on a bench with her legs crossed . (p=0.001192)
+  1) a woman sitting on a wooden bench in a park . (p=0.000844)
+  2) a woman sitting on a wooden bench in front of a tree . (p=0.000246)
+Captions for image 12940791_202860800098543_1942061747_n.jpg:
+  0) a red and white umbrella sitting in front of a building . (p=0.000004)
+  1) a red and white umbrella sitting on top of a wooden bench . (p=0.000002)
+  2) a red and white umbrella sitting on top of a wooden deck . (p=0.000001)
+Captions for image 12531174_1019619141449186_70899004_n.jpg:
+  0) a tree filled with lots of green leaves . (p=0.000236)
+  1) a tree filled with lots of green plants . (p=0.000158)
+  2) a tree with a bunch of green leaves on it (p=0.000064)
+Captions for image 12519539_965961503525379_64961635_n.jpg:
+  0) a large body of water with boats in it . (p=0.000173)
+  1) a large body of water with boats floating in it . (p=0.000165)
+  2) a large body of water with boats in it (p=0.000089)
+Captions for image 12445925_439765442899216_199056145_n.jpg:
+  0) a tree filled with lots of green leaves . (p=0.000660)
+  1) a tree filled with lots of green plants . (p=0.000306)
+  2) a bunch of green leaves that are growing in a tree . (p=0.000015)
+Captions for image 11357349_785377061568083_347694588_n.jpg:
+  0) a crowd of people standing on top of a lush green field . (p=0.000632)
+  1) a crowd of people standing on top of a sandy beach . (p=0.000212)
+  2) a crowd of people standing on top of a field flying kites . (p=0.000176)
+Captions for image 12822511_1059064207490417_97881462_n.jpg:
+  0) a group of people walking down a street next to tall buildings . (p=0.000085)
+  1) a group of people walking down a street next to a building . (p=0.000021)
+  2) a group of people walking down a street next to a tall building . (p=0.000018)
+Captions for image 11098343_786145511529874_1117001212_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.001248)
+  1) a cup of coffee sitting on a table next to a keyboard . (p=0.000108)
+  2) a cup of coffee sitting on a table next to a cup . (p=0.000102)
+Captions for image 12816950_1703478166597445_434087747_n.jpg:
+  0) a bench on a beach near a body of water (p=0.000402)
+  1) a bench sitting on a beach next to the ocean . (p=0.000253)
+  2) a bench sitting on a beach next to a body of water . (p=0.000118)
+Captions for image 10724040_1575784452712323_1173213735_n.jpg:
+  0) a woman standing in a field holding a cell phone . (p=0.000058)
+  1) a woman standing in the grass holding a cell phone . (p=0.000046)
+  2) a woman standing in a field with a cell phone . (p=0.000035)
+Captions for image 12105005_249386472069469_141840675_n.jpg:
+  0) a vase filled with flowers sitting on top of a table . (p=0.000366)
+  1) a vase filled with flowers on top of a table . (p=0.000323)
+  2) a vase filled with flowers sitting on a table . (p=0.000234)
+Captions for image 12826064_1706278122988349_1472106033_n.jpg:
+  0) a cup of coffee sitting next to a cup of coffee . (p=0.000069)
+  1) a cup of coffee sitting next to a glass of water . (p=0.000023)
+  2) a cup of coffee sitting on a table next to a glass . (p=0.000009)
+Captions for image 10251355_886391478144291_1793324901_n.jpg:
+  0) a man standing next to a pile of luggage . (p=0.000227)
+  1) a man standing in front of a pile of luggage . (p=0.000159)
+  2) a man standing in front of a pile of luggage (p=0.000011)
+Captions for image 12822556_100183630379760_96195971_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000272)
+  1) a close up of a flower in a tree (p=0.000131)
+  2) a close up of a flower in a vase (p=0.000038)
+Captions for image 10817757_976374515785213_635947399_n.jpg:
+  0) a plate of food and a cup of coffee . (p=0.000215)
+  1) a plate of food and a cup of coffee (p=0.000105)
+  2) a table with a plate of food and a cup of coffee (p=0.000086)
+Captions for image 12751551_923591254423201_1066269716_n.jpg:
+  0) a person taking a picture of themselves in a mirror . (p=0.000046)
+  1) a person taking a picture of themselves in a mirror (p=0.000032)
+  2) a person taking a picture of a mirror with a camera . (p=0.000004)
+Captions for image 10903599_522234917957839_334414712_n.jpg:
+  0) a yellow flower in a green vase on a table . (p=0.000003)
+  1) a red flower in a green vase on a table . (p=0.000003)
+  2) a yellow flower in a green vase on a sunny day . (p=0.000003)
+Captions for image 12784004_1668534280053337_638932232_n.jpg:
+  0) a cup of coffee sitting next to a plate of food . (p=0.000319)
+  1) a cup of coffee sitting next to a cup of coffee . (p=0.000307)
+  2) a cup of coffee and a banana on a table . (p=0.000272)
+Captions for image 12748462_1086939594679136_1016445570_n.jpg:
+  0) a cup of coffee and a banana on a table . (p=0.000045)
+  1) a cup of coffee sitting next to a cup of coffee . (p=0.000024)
+  2) a cup of coffee and a banana on a table (p=0.000016)
+Captions for image 12724876_1054388394603268_1240634307_n.jpg:
+  0) a bunch of flowers that are in a tree . (p=0.000480)
+  1) a bunch of flowers that are sitting in the grass . (p=0.000167)
+  2) a bunch of flowers that are sitting in a tree . (p=0.000134)
+Captions for image 12328417_836300489830386_177965553_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.000167)
+  1) a green fire hydrant sitting in the middle of a forest . (p=0.000125)
+  2) a fire hydrant in the middle of a field . (p=0.000111)
+Captions for image 12677412_795923473875748_681455092_n.jpg:
+  0) a row of wooden benches sitting next to each other . (p=0.000600)
+  1) a group of people sitting on a bench in front of a train . (p=0.000006)
+  2) a group of people sitting on a bench in front of a building . (p=0.000006)
+Captions for image 12677353_1509885392649398_328325314_n.jpg:
+  0) a street sign on the side of a tree . (p=0.000204)
+  1) a street sign on a pole near a tree (p=0.000134)
+  2) a street sign on the side of a road . (p=0.000125)
+Captions for image 12531110_485019265038824_579455753_n.jpg:
+  0) a tall building with a clock on it . (p=0.000737)
+  1) a tall building with a clock on it (p=0.000633)
+  2) a tall building with a clock on the front . (p=0.000257)
+Captions for image 12728410_253226448341798_748507126_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002208)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000287)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000100)
+Captions for image 10311093_1691713961106841_142301583_n.jpg:
+  0) a group of people standing next to a building . (p=0.000024)
+  1) a group of people walking down a street next to a building . (p=0.000021)
+  2) a group of people walking down a sidewalk next to a building . (p=0.000021)
+Captions for image 12555974_873037166127187_309600416_n.jpg:
+  0) a boat that is sitting in the water . (p=0.004077)
+  1) a boat that is floating in the water . (p=0.003203)
+  2) a boat that is floating in the water (p=0.000305)
+Captions for image 12627848_1548393128805811_651630130_n.jpg:
+  0) a giraffe standing in front of a tree . (p=0.000040)
+  1) a giraffe standing in front of a tree in a forest . (p=0.000008)
+  2) a giraffe standing in front of a tree in a park . (p=0.000007)
+Captions for image 12446004_224626704544767_308219817_n.jpg:
+  0) a bench sitting on a beach next to the ocean . (p=0.000183)
+  1) a bench sitting on a beach next to a body of water . (p=0.000075)
+  2) a bench sitting on a beach next to the ocean (p=0.000033)
+Captions for image 12424562_458467904338848_520583447_n.jpg:
+  0) a close up of a cat on a ledge (p=0.000572)
+  1) a close up of a cat in a cage (p=0.000560)
+  2) a close up of a cat laying on a ledge (p=0.000375)
+Captions for image 12545419_1667449103505518_925845420_n.jpg:
+  0) a close up of a person holding a hot dog (p=0.000263)
+  1) a close up of a person holding a banana (p=0.000215)
+  2) a close up of a person holding a baseball bat (p=0.000192)
+Captions for image 12501933_530019750508528_1672986776_n.jpg:
+  0) a room filled with lots of different types of furniture . (p=0.000058)
+  1) a room filled with lots of different colored vases . (p=0.000030)
+  2) a room filled with lots of different types of lights . (p=0.000020)
+Captions for image 12292746_1158841394187373_1011831667_n.jpg:
+  0) a cat that is sitting on a wooden bench . (p=0.003427)
+  1) a cat is sitting on a wooden bench . (p=0.003334)
+  2) a cat that is sitting on a bench . (p=0.003056)
+Captions for image 12331923_1676338225983708_284184410_n.jpg:
+  0) a kitchen with a stove and a refrigerator (p=0.000019)
+  1) a kitchen with a lot of bottles on the counter (p=0.000009)
+  2) a kitchen with a stove and a refrigerator . (p=0.000009)
+Captions for image 12523788_170008173365697_1119902756_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000096)
+  1) a large building with a clock tower on top of it . (p=0.000087)
+  2) a large building with a clock tower in the middle . (p=0.000057)
+Captions for image 12558257_159347547771279_1200344037_n.jpg:
+  0) a flock of ducks floating on top of a lake . (p=0.000749)
+  1) a group of ducks floating on top of a lake . (p=0.000634)
+  2) a group of ducks floating on top of a river . (p=0.000423)
+Captions for image 12407300_171188356578509_16445780_n.jpg:
+  0) a building with a clock on the side of it (p=0.000137)
+  1) a building with a clock on the side of it . (p=0.000085)
+  2) a building with a clock on the front of it (p=0.000040)
+Captions for image 12599373_943615012393246_1948678652_n.jpg:
+  0) a view of a body of water with mountains in the background . (p=0.000053)
+  1) a view of a body of water with a boat in the background . (p=0.000013)
+  2) a view of a body of water with a boat in the distance . (p=0.000009)
+Captions for image 12556123_1672635679644570_1380382702_n.jpg:
+  0) a man and a woman standing next to each other . (p=0.000052)
+  1) a man and a woman standing next to each other on a pier . (p=0.000022)
+  2) a man and a woman standing next to each other on a boat . (p=0.000009)
+Captions for image 12534071_877220135726994_1802387975_n.jpg:
+  0) a large clock mounted to the side of a building . (p=0.001114)
+  1) a large clock mounted to the side of a wall . (p=0.000467)
+  2) a clock mounted to the side of a building . (p=0.000382)
+Captions for image 12501900_242222432776360_1694446130_n.jpg:
+  0) a man standing in front of a tall building . (p=0.000647)
+  1) a man standing in front of a building with a clock . (p=0.000132)
+  2) a man standing in front of a building with a clock on it . (p=0.000115)
+Captions for image 1740195_808294849315899_35884642_n.jpg:
+  0) a snow covered mountain with lots of trees . (p=0.000479)
+  1) a snow covered mountain with lots of snow . (p=0.000096)
+  2) a snow covered mountain with a snow covered mountain . (p=0.000061)
+Captions for image 12568881_1025667670825271_628543889_n.jpg:
+  0) a large building with a clock on it (p=0.000271)
+  1) a building with a clock on the front of it . (p=0.000172)
+  2) a large building with a clock on the front of it . (p=0.000170)
+Captions for image 12345812_150768135291160_891287084_n.jpg:
+  0) a group of people standing next to each other . (p=0.001375)
+  1) a group of people are posing for a picture . (p=0.000542)
+  2) a group of people standing around each other . (p=0.000526)

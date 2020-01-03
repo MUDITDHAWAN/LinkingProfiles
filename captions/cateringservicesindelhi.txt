@@ -1,0 +1,24 @@
+Captions for image 12750098_1520454194917933_1544772383_n.jpg:
+  0) a living room with a couch and a table (p=0.000104)
+  1) a living room with a couch , table , and table . (p=0.000002)
+  2) a living room with a couch and a table with a lamp (p=0.000001)
+Captions for image 12750253_242210202780206_748921749_n.jpg:
+  0) a bench in front of a building in a city . (p=0.000004)
+  1) a bench in front of a building with a window . (p=0.000002)
+  2) a bench in front of a building in a city (p=0.000002)
+Captions for image 12751131_699144386893264_1106309594_n.jpg:
+  0) a close up of a pair of scissors (p=0.001258)
+  1) a close up of a pair of scissors on a table (p=0.000802)
+  2) a close up of a tooth brush and a tooth brush (p=0.000283)
+Captions for image 12716734_942608392460628_449345916_n.jpg:
+  0) a room that has a bed and a table in it (p=0.000028)
+  1) a room with a bed and a table (p=0.000025)
+  2) a room that has a bed and a table in it . (p=0.000010)
+Captions for image 12716675_1541181226210727_2101238823_a.jpg:
+  0) a close up of a pair of scissors (p=0.002222)
+  1) a close up of a pair of scissors on a table (p=0.000768)
+  2) a pair of scissors and a pair of scissors . (p=0.000172)
+Captions for image 12716885_1509032816072741_1056681099_n.jpg:
+  0) a living room with a table and chairs (p=0.000152)
+  1) a living room with a couch and a table (p=0.000130)
+  2) a living room with a table and chairs and a couch (p=0.000009)

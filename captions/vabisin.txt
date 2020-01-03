@@ -1,0 +1,296 @@
+Captions for image 53713939_2305769113041603_1622739993628050822_n.jpg:
+  0) a man sitting on a bench in a park . (p=0.001178)
+  1) a man sitting on a bench next to a tree . (p=0.000967)
+  2) a man sitting on a bench in front of a tree . (p=0.000537)
+Captions for image 45960008_2201057063493530_4261606305032044544_n.jpg:
+  0) a herd of cattle standing on top of a grass covered field . (p=0.001602)
+  1) a herd of cattle standing on top of a dirt field . (p=0.001503)
+  2) a herd of cattle standing on top of a lush green field . (p=0.001034)
+Captions for image 51356628_286711875358267_8473353151033320828_n.jpg:
+  0) a close up of a pair of scissors (p=0.006601)
+  1) a close up of a person holding a pair of scissors (p=0.001843)
+  2) a close up of a pair of scissors on a table (p=0.001112)
+Captions for image 50254782_290659421808935_5641601417114592506_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.000193)
+  1) a person holding a cell phone in their hands . (p=0.000150)
+  2) a man holding a cell phone up to his ear . (p=0.000114)
+Captions for image 54512805_410086803114783_2224869905812077254_n.jpg:
+  0) a man standing on the side of a road . (p=0.000266)
+  1) a man standing on the side of the road (p=0.000086)
+  2) a man standing on the side of a road next to a river . (p=0.000027)
+Captions for image 54447000_346883865961099_2061608107557106582_n.jpg:
+  0) a person holding a toothbrush in their hand . (p=0.000670)
+  1) a person holding a pair of scissors in their hands . (p=0.000261)
+  2) a person holding a toothbrush in their hands . (p=0.000238)
+Captions for image 54512762_563812567441904_6530696169322556445_n.jpg:
+  0) a person holding a toothbrush in their hand . (p=0.000670)
+  1) a person holding a pair of scissors in their hands . (p=0.000261)
+  2) a person holding a toothbrush in their hands . (p=0.000238)
+Captions for image 50608388_250781435839737_1953036456693104805_n.jpg:
+  0) a close up of a person holding a cell phone (p=0.000094)
+  1) a close up of a person with a sign (p=0.000028)
+  2) a close up of a person with a sign on it (p=0.000004)
+Captions for image 51376772_2157218847632536_3027364986816127305_n.jpg:
+  0) a statue of a man sitting on a bench . (p=0.000181)
+  1) a statue of a man in a suit and tie . (p=0.000063)
+  2) a statue of a man in a suit and tie (p=0.000039)
+Captions for image 53513386_367827100474825_1466801138822800407_n.jpg:
+  0) a man standing in front of a large building . (p=0.000019)
+  1) a man standing in front of a large building (p=0.000003)
+  2) a man standing in front of a house with a clock tower . (p=0.000001)
+Captions for image 52274979_369593493643501_3628552064237413033_n.jpg:
+  0) a stop sign that has been vandalized with graffiti . (p=0.000149)
+  1) a red stop sign with a sticker on it . (p=0.000103)
+  2) a stop sign that has a sign on it . (p=0.000073)
+Captions for image 52523910_778553329190954_4696159187312620261_n.jpg:
+  0) a woman in a white shirt and a black tie (p=0.000011)
+  1) a woman in a white shirt and a black tie . (p=0.000002)
+  2) a woman in a white shirt and a black and white tie (p=0.000002)
+Captions for image 50799838_331958974086067_5974820454815043506_n.jpg:
+  0) a boat traveling down a river next to a forest . (p=0.000208)
+  1) a boat traveling down a river in a forest . (p=0.000052)
+  2) a boat traveling down a river next to a river . (p=0.000021)
+Captions for image 50684141_594261631398452_6375873173682846879_n.jpg:
+  0) a man holding a skateboard in front of a wall . (p=0.000006)
+  1) a person holding a frisbee in front of a building . (p=0.000005)
+  2) a person holding a frisbee in front of a wall . (p=0.000003)
+Captions for image 12749835_1672703969668303_486413565_n.jpg:
+  0) a group of people standing next to each other . (p=0.000391)
+  1) a group of people standing next to each other on a street . (p=0.000040)
+  2) a group of people standing next to each other in front of a sign . (p=0.000015)
+Captions for image 50956107_111985573242767_2466290814004489954_n.jpg:
+  0) a close up of a sign with a sign on it (p=0.000021)
+  1) a close up of a sign that says `` <UNK> '' . (p=0.000009)
+  2) a close up of a business sign with a <UNK> (p=0.000006)
+Captions for image 12599066_535131029980514_632022678_n.jpg:
+  0) a close up of a monkey eating a banana (p=0.001137)
+  1) a close up of a monkey eating a doughnut (p=0.000828)
+  2) a close up of a monkey holding a banana (p=0.000497)
+Captions for image 49470471_2280435905573530_7320499959426923396_n.jpg:
+  0) a close up of a pair of scissors (p=0.001891)
+  1) a close up of a pair of scissors on a table (p=0.000147)
+  2) a close up of a pair of scissors on a desk (p=0.000057)
+Captions for image 50696120_349937649067778_6191602496909012580_n.jpg:
+  0) a flock of birds sitting on top of a tree . (p=0.001190)
+  1) a flock of birds flying over a forest . (p=0.000903)
+  2) a flock of birds flying over a lush green forest . (p=0.000452)
+Captions for image 49622780_278875756094430_4422329720833949458_n.jpg:
+  0) a man standing in a field holding a kite . (p=0.001135)
+  1) a woman standing in a field holding a kite . (p=0.000836)
+  2) a man standing in a field with a kite . (p=0.000362)
+Captions for image 47692728_144999403159642_8542018415569526897_n.jpg:
+  0) a woman is sitting on a skateboard in a room . (p=0.000004)
+  1) a woman is sitting on a bench with a skateboard . (p=0.000002)
+  2) a woman is sitting on a skateboard in a room (p=0.000002)
+Captions for image 26183797_1996533757251444_2688693473401372672_n.jpg:
+  0) a close up of a street sign with a sky background (p=0.003181)
+  1) a close up of a street sign on a pole (p=0.000750)
+  2) a close up of a street sign with trees in the background (p=0.000424)
+Captions for image 47691587_158286275141861_2588685643768150658_n.jpg:
+  0) a tree with a bird sitting on top of it . (p=0.000070)
+  1) a tree that has a bunch of birds on it (p=0.000059)
+  2) a tree that has a bird on it (p=0.000042)
+Captions for image 47581765_2047314455385998_7509551788186646149_n.jpg:
+  0) a close up of a clock on a wall (p=0.000069)
+  1) a close up of a sign on a building (p=0.000069)
+  2) a close up of a sign on a wall (p=0.000055)
+Captions for image 47584901_408318596576081_4692270679509796476_n.jpg:
+  0) a baseball player holding a bat on top of a field . (p=0.000196)
+  1) a baseball player holding a bat on a field . (p=0.000185)
+  2) a baseball player holding a bat on a baseball field . (p=0.000031)
+Captions for image 49741153_2267729169904852_2634878121209835731_n.jpg:
+  0) a painting of a clock on a wall . (p=0.000144)
+  1) a painting of a clock on a wall (p=0.000105)
+  2) a statue of a man holding a clock . (p=0.000041)
+Captions for image 47124321_366475664181018_6272241187647556885_n.jpg:
+  0) a man riding a skateboard up the side of a ramp . (p=0.003200)
+  1) a man riding a skateboard down the side of a ramp . (p=0.002571)
+  2) a man riding a skateboard down a rail . (p=0.000799)
+Captions for image 29415147_179786509313420_2726010262392930304_n.jpg:
+  0) a man is sitting on a boat in the water . (p=0.000211)
+  1) a man is sitting on a boat in the water (p=0.000063)
+  2) a man in a hat and sunglasses sitting on a boat . (p=0.000039)
+Captions for image 28763513_231347227434078_6212508200382496768_n.jpg:
+  0) a bike parked on the side of a road . (p=0.000396)
+  1) a bike parked on the side of a street . (p=0.000382)
+  2) a bike parked on the side of the road (p=0.000111)
+Captions for image 28432905_769410116585454_3595531648508100608_n.jpg:
+  0) a man wearing a hat and sunglasses sitting on a motorcycle . (p=0.000058)
+  1) a man wearing a hat and sunglasses sitting on a bench . (p=0.000036)
+  2) a man wearing a hat and sunglasses sitting on a motorcycle (p=0.000018)
+Captions for image 28754055_140465800111244_1232127706636746752_n.jpg:
+  0) a man in a hat and sunglasses is standing in the snow . (p=0.000007)
+  1) a man in a hat and sunglasses is holding a bicycle . (p=0.000004)
+  2) a man in a hat and sunglasses is holding a camera . (p=0.000003)
+Captions for image 29094751_183722649085652_5144605092363632640_n.jpg:
+  0) a bench sitting on a beach next to the ocean . (p=0.000078)
+  1) a bench sitting on a beach next to a body of water . (p=0.000050)
+  2) a bench sitting on a beach next to the ocean (p=0.000007)
+Captions for image 28158765_1561146773921995_7901001084439625728_n.jpg:
+  0) a bike parked on a beach next to the ocean . (p=0.000314)
+  1) a bike parked on a beach near a body of water (p=0.000314)
+  2) a bike parked on a beach next to a body of water . (p=0.000158)
+Captions for image 28433534_332161537304979_1767213522854346752_n.jpg:
+  0) a woman sitting on a bench looking at the ocean . (p=0.000764)
+  1) a woman sitting on a bench looking at the water . (p=0.000726)
+  2) a woman is sitting on a bench by the water . (p=0.000640)
+Captions for image 28436194_1641106872603136_8462483464715763712_n.jpg:
+  0) a group of birds standing in the water . (p=0.000740)
+  1) a flock of birds standing on top of a sandy beach . (p=0.000613)
+  2) a flock of birds standing on top of a beach . (p=0.000426)
+Captions for image 28428374_154826611999092_8473635630767669248_n.jpg:
+  0) a bunch of boats that are in the water . (p=0.002793)
+  1) a group of boats floating on top of a body of water . (p=0.001829)
+  2) a group of boats floating on top of a lake . (p=0.001325)
+Captions for image 26866855_356939428112639_2079789878173761536_n.jpg:
+  0) a woman holding a pair of scissors in her hands . (p=0.000326)
+  1) a woman is holding a pair of scissors . (p=0.000292)
+  2) a woman holding a pair of scissors in her hand . (p=0.000247)
+Captions for image 26157975_143437249625914_1573692063252217856_n.jpg:
+  0) a picture of a person on a surfboard . (p=0.000009)
+  1) a picture of a person on a surfboard (p=0.000001)
+  2) a picture of a man in a suit and tie . (p=0.000001)
+Captions for image 26342238_399451467191402_9178671168289243136_n.jpg:
+  0) a man is sitting on a bench in the woods . (p=0.000212)
+  1) a man is sitting on a bench in the woods (p=0.000079)
+  2) a man is sitting on a bench in the grass . (p=0.000060)
+Captions for image 28433999_169917916990083_4508198373408374784_n.jpg:
+  0) a group of people on a beach with surfboards . (p=0.002890)
+  1) a group of people standing on top of a sandy beach . (p=0.002451)
+  2) a group of people standing on top of a beach . (p=0.001992)
+Captions for image 26300987_434314693652817_7888522065551032320_n.jpg:
+  0) a black and white photo of a snow capped mountain (p=0.000276)
+  1) a black and white photo of a snow covered mountain . (p=0.000241)
+  2) a black and white photo of a snow capped mountain . (p=0.000141)
+Captions for image 13394970_803077109793938_1150323652_n.jpg:
+  0) a woman in a wet suit carrying a surfboard . (p=0.000275)
+  1) a woman in a wet suit holding a surfboard . (p=0.000180)
+  2) a woman in a wet suit carrying a surfboard (p=0.000068)
+Captions for image 12716806_1681758462113223_1226338453_n.jpg:
+  0) a close up of a cat on a tree branch (p=0.000299)
+  1) a close up of a cat on a wooden surface (p=0.000135)
+  2) a close up of a cat on a tree (p=0.000052)
+Captions for image 28430742_203682650215552_2024477249226407936_n.jpg:
+  0) a group of people on a beach with surfboards . (p=0.002414)
+  1) a group of people standing on top of a beach . (p=0.001780)
+  2) a group of people standing on a beach next to surfboards . (p=0.000659)
+Captions for image 12749774_1689065928024650_1871032405_n.jpg:
+  0) a man standing on a beach holding a surfboard . (p=0.002555)
+  1) a man standing on a beach with a surfboard . (p=0.000921)
+  2) a man walking on the beach with a surfboard . (p=0.000535)
+Captions for image 26067816_337543803395677_1519460219875229696_n.jpg:
+  0) a sign that reads `` <UNK> '' on the side of a building . (p=0.000006)
+  1) a sign that reads `` <UNK> '' on the side of the road . (p=0.000002)
+  2) a sign that reads `` <UNK> '' is on the side of a building . (p=0.000001)
+Captions for image 12104995_995211503859057_1499277696_n.jpg:
+  0) a close up of a bird on a tree branch (p=0.001400)
+  1) a close up of a small bird on a tree branch (p=0.001337)
+  2) a close up of a small bird on a branch (p=0.001008)
+Captions for image 12724767_1682240442031297_372402757_n.jpg:
+  0) a group of people standing on top of a tennis court . (p=0.001472)
+  1) a crowd of people standing on top of a tennis court . (p=0.000532)
+  2) a group of people standing on top of a green field . (p=0.000218)
+Captions for image 12724881_473388829452588_1177694062_n.jpg:
+  0) a young girl wearing a tie and smiling . (p=0.000034)
+  1) a young girl wearing a blue shirt and tie . (p=0.000014)
+  2) a young girl wearing a tie and smiling (p=0.000013)
+Captions for image 26863709_1569066259840395_1899402488692342784_n.jpg:
+  0) a man in a hat and sunglasses is standing in the water . (p=0.000015)
+  1) a man wearing a hat and sunglasses is standing in the water . (p=0.000012)
+  2) a man in a hat and sunglasses is standing on a boat . (p=0.000007)
+Captions for image 12750337_802365589895637_611452025_n.jpg:
+  0) a woman holding a pair of scissors in her hands . (p=0.000513)
+  1) a woman holding a pair of scissors in her hand . (p=0.000263)
+  2) a woman holding a pair of scissors up to her face . (p=0.000103)
+Captions for image 12751277_1541031329560061_2057879681_n.jpg:
+  0) a close up of a cat laying on a couch (p=0.000498)
+  1) a close up of a cat laying on the ground (p=0.000475)
+  2) a close up of a cat laying on a wooden surface (p=0.000405)
+Captions for image 26355869_257682154769242_6347687073343864832_n.jpg:
+  0) a fire hydrant in the middle of a field . (p=0.001067)
+  1) a fire hydrant sitting in the middle of a forest . (p=0.000778)
+  2) a fire hydrant in the middle of a grassy area . (p=0.000466)
+Captions for image 12677514_1655624351355302_728090235_n.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.007336)
+  1) a person on a surfboard in the water . (p=0.004010)
+  2) a man riding a surfboard on top of a wave . (p=0.001719)
+Captions for image 12751050_1782874815335387_805178686_n.jpg:
+  0) a view of a sunset from the sky . (p=0.000026)
+  1) a view of a sunset from a plane . (p=0.000016)
+  2) a view of a sunset and a sunset . (p=0.000008)
+Captions for image 12748280_189398284758746_17221586_n.jpg:
+  0) a display case with a clock on it . (p=0.000002)
+  1) a display case with a clock on it (p=0.000001)
+  2) a display case with a bunch of teddy bears . (p=0.000001)
+Captions for image 26392526_1671246452955129_4045926387595345920_n.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.013748)
+  1) a person riding a surf board on a wave (p=0.005527)
+  2) a man riding a surfboard on top of a wave . (p=0.002967)
+Captions for image 12628130_224187357926687_547119837_n.jpg:
+  0) a small bird sitting on a wooden ledge . (p=0.000108)
+  1) a bird is sitting on a ledge outside . (p=0.000105)
+  2) a small bird sitting on a wooden ledge (p=0.000052)
+Captions for image 12749848_1243349162348623_2023900063_n.jpg:
+  0) a bird is standing on a tree branch . (p=0.000850)
+  1) a bird is standing on a tree branch (p=0.000324)
+  2) a bird is standing on a branch in the snow . (p=0.000085)
+Captions for image 12750000_820631981399621_1365275171_n.jpg:
+  0) a bench sitting on top of a sandy beach . (p=0.000081)
+  1) a bench sitting on top of a rocky hillside . (p=0.000068)
+  2) a bench sitting on top of a sandy beach next to the ocean . (p=0.000019)
+Captions for image 12751112_485397541668626_1260870602_n.jpg:
+  0) a close up of a bird on a tree branch (p=0.000254)
+  1) a close up of a bird on a tree (p=0.000156)
+  2) a close up of a bird with a bird on it (p=0.000122)
+Captions for image 12728687_582907448532492_1385137238_n.jpg:
+  0) a group of people walking down a street . (p=0.000139)
+  1) a group of people standing on top of a snow covered field . (p=0.000052)
+  2) a group of people walking down a street next to tall buildings . (p=0.000048)
+Captions for image 12716594_597174593770877_1479450350_n.jpg:
+  0) a woman in a white dress and a man in a bathroom . (p=0.000001)
+  1) a woman in a white dress and a man in a bathroom (p=0.000001)
+  2) a woman in a white dress and a man in a white dress (p=0.000001)
+Captions for image 12747769_547564372080022_794304564_n.jpg:
+  0) a man standing next to an old truck . (p=0.000216)
+  1) a man standing next to an old truck (p=0.000107)
+  2) a man standing next to a truck on a dirt road . (p=0.000100)
+Captions for image 12599238_572231736272541_962670430_n.jpg:
+  0) a close up of a cat on a wooden surface (p=0.000280)
+  1) a close up of a cat on a table (p=0.000252)
+  2) a close up of a cat with a bird on it (p=0.000081)
+Captions for image 12677609_220103171670802_1062021744_n.jpg:
+  0) a small airplane flying through a blue sky . (p=0.000895)
+  1) a small plane flying through a blue sky . (p=0.000584)
+  2) a small airplane flying through a cloudy sky . (p=0.000575)
+Captions for image 12716638_1995652947327258_543003913_n.jpg:
+  0) a woman is taking a picture of herself in a mirror . (p=0.000529)
+  1) a woman is taking a picture of herself in the mirror . (p=0.000485)
+  2) a woman is taking a picture of herself in front of a mirror . (p=0.000174)
+Captions for image 12749982_210911662594294_1908083245_n.jpg:
+  0) a stop sign with a street sign on it . (p=0.000017)
+  1) a stop sign with a street sign on it (p=0.000012)
+  2) a stop sign with a sign on it (p=0.000012)
+Captions for image 12328496_1107766132568485_323677249_n.jpg:
+  0) a dog and a dog are playing with a frisbee . (p=0.000021)
+  1) a dog and a dog are standing in a field . (p=0.000012)
+  2) a dog and a dog are playing with a frisbee (p=0.000004)
+Captions for image 12728692_489813074555536_935084510_n.jpg:
+  0) a brown and white cat sitting on top of a wooden bench . (p=0.000193)
+  1) a brown and white cat sitting on a wooden bench . (p=0.000125)
+  2) a brown and white cat sitting on a bench . (p=0.000053)
+Captions for image 12728467_1713913658844011_6494827_n.jpg:
+  0) a dog sitting on a table next to a cup . (p=0.000048)
+  1) a dog sitting on a table next to a cup of coffee . (p=0.000027)
+  2) a dog sitting on a table next to a cup (p=0.000023)
+Captions for image 12728470_192051844485359_22613410_n.jpg:
+  0) a man flying through the air while riding a skateboard . (p=0.004055)
+  1) a man flying through the air while riding a snowboard . (p=0.002591)
+  2) a man flying through the air while riding a surfboard . (p=0.000841)
+Captions for image 10547015_1033109633416971_1434946185_n.jpg:
+  0) a close up of a cat looking at the camera (p=0.000477)
+  1) a close up of a cat looking at a bird (p=0.000355)
+  2) a close up of a black and white cat . (p=0.000271)
+Captions for image 12717073_1714187358795417_1151475548_n.jpg:
+  0) a bunch of kites flying in the sky (p=0.001530)
+  1) a group of people flying kites on a beach . (p=0.001235)
+  2) a group of people flying kites in a field . (p=0.001174)

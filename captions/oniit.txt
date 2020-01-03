@@ -1,0 +1,76 @@
+Captions for image 11357823_690464287749497_1957563059_n.jpg:
+  0) a book sitting on top of a wooden desk . (p=0.000623)
+  1) a book sitting on top of a desk . (p=0.000439)
+  2) a book sitting on top of a desk next to a keyboard . (p=0.000217)
+Captions for image 14026688_671515666331305_1128323031_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000075)
+  1) a pair of scissors sitting on a table . (p=0.000035)
+  2) a pair of scissors sitting on a table (p=0.000024)
+Captions for image 11311121_797909210324593_666432519_n.jpg:
+  0) a sandwich and a cup of coffee on a table . (p=0.001173)
+  1) a plate with a sandwich and a cup of coffee . (p=0.000336)
+  2) a sandwich and a cup of coffee on a table (p=0.000330)
+Captions for image 14033465_844307565705950_1360955708_n.jpg:
+  0) a close up of a vandalized stop sign (p=0.006697)
+  1) a red stop sign sitting on the side of a road . (p=0.002669)
+  2) a red stop sign sitting on the side of a street . (p=0.001024)
+Captions for image 13687245_1655759301408832_225836747_n.jpg:
+  0) a stop sign that has been vandalized with graffiti . (p=0.000210)
+  1) a stop sign that has a sticker on it . (p=0.000152)
+  2) a stop sign that has been vandalized with stickers . (p=0.000119)
+Captions for image 22158740_131567844160654_7739433511504838656_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.000749)
+  1) a red stop sign sitting next to a street sign . (p=0.000187)
+  2) a red stop sign sitting on top of a metal pole . (p=0.000136)
+Captions for image 13651899_1754159268206405_2069357160_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.001952)
+  1) a stop sign with a sticker on it (p=0.000290)
+  2) a stop sign with a sticker on it . (p=0.000261)
+Captions for image 11232542_1087031151312221_269023690_n.jpg:
+  0) a group of people standing in front of a store . (p=0.000014)
+  1) a group of people standing around a table filled with bananas . (p=0.000004)
+  2) a group of people standing in front of a store filled with produce . (p=0.000001)
+Captions for image 11257852_100312600306500_1098357967_n.jpg:
+  0) a cup of coffee sitting next to a laptop computer . (p=0.001548)
+  1) a cup of coffee sitting on top of a table . (p=0.000899)
+  2) a cup of coffee sitting on a table next to a laptop . (p=0.000198)
+Captions for image 13736819_923776751081200_1341015723_n.jpg:
+  0) a stop sign with a sign on it (p=0.000012)
+  1) a stop sign with a sign on it . (p=0.000011)
+  2) a stop sign with graffiti on it next to a building . (p=0.000009)
+Captions for image 13397683_257117311324812_1522572421_n.jpg:
+  0) a person sitting on a surfboard on the beach . (p=0.000465)
+  1) a man sitting on a beach with a surfboard . (p=0.000299)
+  2) a person sitting on a beach with a surfboard . (p=0.000264)
+Captions for image 11875348_925005860886435_2051408490_n.jpg:
+  0) a close up of a person holding a pair of scissors (p=0.003490)
+  1) a person holding a pair of scissors in their hands . (p=0.001191)
+  2) a person holding a pair of scissors in their hands (p=0.000312)
+Captions for image 12797649_449134911948258_255708703_n.jpg:
+  0) a person holding an umbrella in front of a building . (p=0.000008)
+  1) a person holding an umbrella in the air . (p=0.000006)
+  2) a person holding an umbrella in the air (p=0.000006)
+Captions for image 13671178_941854062591461_971307433_n.jpg:
+  0) a sign that reads `` <UNK> '' on the side of a building . (p=0.000004)
+  1) a sign that reads `` <UNK> '' on a wall . (p=0.000002)
+  2) a sign that reads `` <UNK> '' on the side of the building . (p=0.000001)
+Captions for image 11821056_392554137608520_1694315859_n.jpg:
+  0) a person holding a cell phone in their hand . (p=0.002142)
+  1) a person holding a cell phone in their hand (p=0.000507)
+  2) a person holding a cell phone in their hands . (p=0.000454)
+Captions for image 11123950_1577608199176214_1699537498_n.jpg:
+  0) a collage of photos with a sign and a sign (p=0.000003)
+  1) a collage of photos with a sign and a sign . (p=0.000001)
+  2) a collage of photos with a sign that reads `` <UNK> '' . (p=0.000001)
+Captions for image 10958173_1410078359290798_445117584_n.jpg:
+  0) a man holding a baseball bat in his hands . (p=0.000539)
+  1) a young man holding a baseball bat in his hands . (p=0.000359)
+  2) a man holding a baseball bat in his hands (p=0.000103)
+Captions for image 10475076_522191157908040_2084856513_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000700)
+  1) a close up of a pair of scissors (p=0.000317)
+  2) a pair of scissors sitting on a table (p=0.000268)
+Captions for image 11372068_493506880806542_669244576_n.jpg:
+  0) a black and white photo of a man in a suit . (p=0.001196)
+  1) a black and white photo of a man in a suit and tie (p=0.001026)
+  2) a black and white photo of a man in a suit (p=0.000897)

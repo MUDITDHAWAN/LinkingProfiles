@@ -1,0 +1,20 @@
+Captions for image 13573484_680625655424083_1543214426_n.jpg:
+  0) a bench sitting in the middle of a field . (p=0.000456)
+  1) a bench sitting in the middle of a lush green field . (p=0.000223)
+  2) a bench sitting in the middle of a forest . (p=0.000197)
+Captions for image 11355951_1622894281312509_1403963796_a.jpg:
+  0) a man in a suit and tie sitting in a car . (p=0.000131)
+  1) a man in a suit and tie sitting in a car (p=0.000051)
+  2) a man in a suit and tie sitting on a motorcycle . (p=0.000018)
+Captions for image 11116830_366700990206617_1232591501_n.jpg:
+  0) a giraffe is standing in a grassy field . (p=0.001286)
+  1) a giraffe is standing in a grassy field (p=0.000817)
+  2) a giraffe standing in the grass near a tree . (p=0.000698)
+Captions for image 13551552_1635363313457962_241641363_n.jpg:
+  0) a sign that is on a pole with a sign on it . (p=0.000001)
+  1) a sign that is on a pole with a sign . (p=0.000001)
+  2) a sign that reads `` <UNK> <UNK> '' on the side of a building . (p=0.000000)
+Captions for image 13628013_1718086825117316_1618056850_n.jpg:
+  0) a woman taking a picture of herself in a bathroom mirror . (p=0.001582)
+  1) a woman taking a picture of herself in a mirror . (p=0.001291)
+  2) a woman taking a picture of herself in a mirror (p=0.000722)

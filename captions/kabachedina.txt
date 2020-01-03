@@ -1,0 +1,28 @@
+Captions for image 11333640_1585183451771483_1543471711_n.jpg:
+  0) a woman wearing a white shirt and tie . (p=0.000130)
+  1) a woman wearing a white shirt and a tie . (p=0.000035)
+  2) a woman wearing a white shirt and tie (p=0.000027)
+Captions for image 11282187_382627728602261_993089519_n.jpg:
+  0) a woman in a white shirt and black tie (p=0.000044)
+  1) a woman in a white shirt and black hat (p=0.000024)
+  2) a woman in a white shirt and a black hat (p=0.000017)
+Captions for image 23101029_1551335448238048_9210841392459284480_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.007116)
+  1) a laptop computer sitting on top of a wooden desk . (p=0.004021)
+  2) a laptop computer sitting on top of a desk next to a monitor . (p=0.000344)
+Captions for image 42403129_498885893925488_859961824001392640_n.jpg:
+  0) a picture of a person holding a clock . (p=0.000024)
+  1) a picture of a clock on a wall . (p=0.000024)
+  2) a picture of a person with a clock . (p=0.000021)
+Captions for image 11311562_776223012475316_1742663374_n.jpg:
+  0) a woman in a red shirt holding a white frisbee . (p=0.000002)
+  1) a woman in a red shirt is holding a white frisbee (p=0.000001)
+  2) a woman in a red shirt holding a white frisbee (p=0.000001)
+Captions for image 30077842_421541774971511_3301619451530575872_n.jpg:
+  0) a couple of bottles of wine sitting on top of a table . (p=0.000713)
+  1) three bottles of wine sitting on a table . (p=0.000577)
+  2) a couple of bottles of wine sitting on a table . (p=0.000287)
+Captions for image 26226205_123567211688291_1139066863527919616_n.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.002966)
+  1) a laptop computer sitting on top of a wooden desk . (p=0.002840)
+  2) a laptop computer sitting on top of a table . (p=0.000901)

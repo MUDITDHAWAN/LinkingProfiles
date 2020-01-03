@@ -1,0 +1,16 @@
+Captions for image 11287796_1450143951951249_775679845_n.jpg:
+  0) a man is holding a bunch of oranges . (p=0.000235)
+  1) a man is holding a bunch of oranges (p=0.000198)
+  2) a man holding a bunch of oranges in his hand . (p=0.000109)
+Captions for image 11189371_1616894618529282_1384457638_n.jpg:
+  0) a man is holding a toothbrush in his mouth . (p=0.000659)
+  1) a man is holding a toothbrush in his hand . (p=0.000195)
+  2) a man is holding a toothbrush in his mouth (p=0.000178)
+Captions for image 11371157_1615091478708981_334910392_n.jpg:
+  0) a man holding a baseball bat in his hands . (p=0.000206)
+  1) a man holding a baseball bat in his right hand . (p=0.000150)
+  2) a man holding a baseball bat in his hands (p=0.000037)
+Captions for image 57114916_1121405564726218_1827934984506179584_n.jpg:
+  0) a man wearing a hat and a tie . (p=0.000116)
+  1) a man wearing a hat and a hat and glasses . (p=0.000006)
+  2) a man in a suit and tie holding a <UNK> (p=0.000004)

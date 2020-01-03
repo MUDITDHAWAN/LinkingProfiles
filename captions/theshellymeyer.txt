@@ -1,0 +1,36 @@
+Captions for image 11205654_1707103749517006_1302615741_n.jpg:
+  0) a tall building with a sky background (p=0.000053)
+  1) a view of a street light in the dark . (p=0.000009)
+  2) a view of a street light in a dark city . (p=0.000002)
+Captions for image 11203405_870376909700514_911145389_n.jpg:
+  0) a fire hydrant in the middle of a snowy field . (p=0.000052)
+  1) a fire hydrant in the middle of a snowy field (p=0.000027)
+  2) a fire hydrant in the middle of a snow covered field . (p=0.000027)
+Captions for image 11242282_483789365124179_1057184868_n.jpg:
+  0) a man in a suit and tie looking at the camera (p=0.000241)
+  1) a man in a suit and tie looking at the camera . (p=0.000228)
+  2) a man in a suit and tie looking at his cell phone . (p=0.000179)
+Captions for image 11192752_1049060585123069_52948931_n.jpg:
+  0) a tree in a park with a bench in front of it . (p=0.000001)
+  1) a tree in a park with a bench in the background . (p=0.000001)
+  2) a green field with a tree and a tree (p=0.000000)
+Captions for image 11356578_798442096943723_964370889_a.jpg:
+  0) a woman in a red shirt and a red tie (p=0.000046)
+  1) a woman in a red shirt and a black tie (p=0.000031)
+  2) a woman in a red shirt and a red tie . (p=0.000030)
+Captions for image 11243564_357890891083286_17615737_n.jpg:
+  0) a man in a suit and tie is smiling . (p=0.000147)
+  1) a man in a suit and tie is smiling (p=0.000064)
+  2) a man in a suit and tie looking at the camera . (p=0.000053)
+Captions for image 11193143_827263994015362_651199140_n.jpg:
+  0) a traffic light sitting on the side of a road . (p=0.000956)
+  1) a traffic light sitting on the side of a street . (p=0.000652)
+  2) a traffic light on a city street at night (p=0.000365)
+Captions for image 1517192_580560602020361_1418662298_n.jpg:
+  0) a man holding a cell phone up to his ear . (p=0.003131)
+  1) a man holding a cell phone in his hand . (p=0.001751)
+  2) a man holding a cell phone in his hands . (p=0.001574)
+Captions for image 1516047_481478295305196_1072178451_n.jpg:
+  0) a close up of a cat looking at the camera (p=0.001063)
+  1) a close up of a cat laying on a bed (p=0.000963)
+  2) a close up of a cat laying on a couch (p=0.000871)

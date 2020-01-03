@@ -1,0 +1,792 @@
+Captions for image 11186826_1577325742546214_1685859221_n.jpg:
+  0) a sign that is on the side of a road . (p=0.000178)
+  1) a sign that is on the side of a building . (p=0.000104)
+  2) a sign that is on the side of a pole . (p=0.000093)
+Captions for image 11856650_781271798683593_2127731671_a.jpg:
+  0) a close up of a person brushing his teeth (p=0.002030)
+  1) a close up of a person holding a tooth brush (p=0.000689)
+  2) a close up of a person holding a toothbrush (p=0.000555)
+Captions for image 35000476_2100393410284468_9182549407793414144_n.jpg:
+  0) a small boat in a body of water (p=0.003331)
+  1) a small boat in the middle of a lake . (p=0.000396)
+  2) a small boat in a body of water with trees in the background (p=0.000248)
+Captions for image 36032089_199605094218516_7575686010739097600_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000325)
+  1) a large building with a clock tower on top of it . (p=0.000201)
+  2) a large building with a clock tower in the middle . (p=0.000142)
+Captions for image 11356461_1607060672867801_1969857935_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.001703)
+  1) a red stop sign sitting on the side of a street . (p=0.000238)
+  2) a red stop sign sitting on top of a metal pole . (p=0.000109)
+Captions for image 35616433_197416130920187_8205649647390162944_n.jpg:
+  0) a field of grass with a field in the background (p=0.000012)
+  1) a field of grass with a field in the background . (p=0.000007)
+  2) a field of grass with a field in the distance (p=0.000002)
+Captions for image 36669116_2138455693066868_586692343655038976_n.jpg:
+  0) a couple of horses standing in a field . (p=0.000343)
+  1) a group of horses grazing in a field . (p=0.000291)
+  2) a group of sheep grazing in a field . (p=0.000193)
+Captions for image 64297412_417917899056235_3851175078846325421_n.jpg:
+  0) a view of a plane flying in the sky . (p=0.000041)
+  1) a plane flying over a building with a sky background (p=0.000013)
+  2) a view of a plane flying in the air . (p=0.000010)
+Captions for image 59494665_288801048731584_3930510116654889175_n.jpg:
+  0) a group of people walking down a city street . (p=0.000034)
+  1) a group of people walking down a street next to tall buildings . (p=0.000017)
+  2) a group of people walking down a street next to a building . (p=0.000013)
+Captions for image 60838080_2966234323387521_3570629063287756534_n.jpg:
+  0) a building with a clock on the front of it (p=0.000579)
+  1) a building with a clock on the front of it . (p=0.000513)
+  2) a building with a clock on the top of it . (p=0.000399)
+Captions for image 60911117_452092745362714_4552805120253670329_n.jpg:
+  0) a house with a fire hydrant in front of it . (p=0.000017)
+  1) a house with a fire hydrant in front of a building . (p=0.000008)
+  2) a house with a fire hydrant in front of it (p=0.000006)
+Captions for image 61332156_317469109155515_7746711801482633865_n.jpg:
+  0) a church with a clock on the wall (p=0.000048)
+  1) a large church with a clock on the wall . (p=0.000043)
+  2) a large church with a clock on the wall (p=0.000039)
+Captions for image 52803999_265801411002612_5135918271221698791_n.jpg:
+  0) a bunch of green plants in a garden (p=0.000046)
+  1) a bunch of green plants in a garden . (p=0.000042)
+  2) a bunch of yellow flowers growing in a garden . (p=0.000017)
+Captions for image 57488298_2087209624723875_2969971449056531480_n.jpg:
+  0) a red and white fire hydrant sitting in the grass . (p=0.000034)
+  1) a red and white fire hydrant sitting in a field . (p=0.000011)
+  2) a red and white fire hydrant sitting in the grass (p=0.000006)
+Captions for image 51966154_973782363011701_833778196691792133_n.jpg:
+  0) an old truck is parked on the side of the road . (p=0.000006)
+  1) an old truck is parked on the side of the street . (p=0.000003)
+  2) an old rusty truck is parked in the dirt . (p=0.000002)
+Captions for image 51790176_363744060882686_4026016057022762936_n.jpg:
+  0) a large body of water with a clock on top of it . (p=0.000039)
+  1) a large body of water with a clock on it (p=0.000017)
+  2) a large body of water with a clock on it 's side . (p=0.000013)
+Captions for image 46375160_212036116366220_6939333156310981538_n.jpg:
+  0) a swan swimming in a lake next to a forest . (p=0.000048)
+  1) a swan swimming in the water near a city . (p=0.000036)
+  2) a swan swimming in a lake next to a tree . (p=0.000019)
+Captions for image 44647527_1054195218075029_7081526754247183560_n.jpg:
+  0) a large bridge spanning the width of a river . (p=0.003434)
+  1) a large bridge spanning the width of a large river . (p=0.000271)
+  2) a large bridge spanning the width of a river (p=0.000219)
+Captions for image 43985470_2002899346443676_4634554121124664909_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000585)
+  1) a very tall building with a clock on it 's side . (p=0.000297)
+  2) a large building with a clock tower in the middle . (p=0.000224)
+Captions for image 41248854_2151827768418010_1956247877238007111_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000168)
+  1) a large building with a clock tower on top of it . (p=0.000089)
+  2) a large building with a clock tower in the middle . (p=0.000083)
+Captions for image 37638052_209845529872366_3864410379492786176_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001288)
+  1) a large clock tower towering over a small town . (p=0.000295)
+  2) a large clock tower with a clock on it 's side . (p=0.000118)
+Captions for image 37174507_2156579964589615_3155627684868915200_n.jpg:
+  0) a lake with a boat in the distance . (p=0.000026)
+  1) a lake with a boat in the water . (p=0.000022)
+  2) a lake with a boat in the distance (p=0.000014)
+Captions for image 37382877_225391598086020_6114418745139003392_n.jpg:
+  0) a large building with a clock on it (p=0.000057)
+  1) a large building with a clock on the front of it . (p=0.000029)
+  2) a large building with a clock on the side of it . (p=0.000026)
+Captions for image 19228722_294406634353359_1631538911882772480_n.jpg:
+  0) a lush green field next to a lush green field . (p=0.000573)
+  1) a lush green field with animals grazing on it . (p=0.000211)
+  2) a lush green field with animals grazing on top of it . (p=0.000199)
+Captions for image 13715020_1009428809154369_1923278040_n.jpg:
+  0) a tall clock tower with a sky background (p=0.007244)
+  1) a tall tower with a clock on it (p=0.001818)
+  2) a tall tower with a clock on top (p=0.001475)
+Captions for image 13402405_1550086911963631_900978889_n.jpg:
+  0) a computer desk with two monitors and a keyboard . (p=0.000161)
+  1) a computer desk with two monitors and a keyboard (p=0.000051)
+  2) a computer desk with a computer monitor and keyboard . (p=0.000048)
+Captions for image 11049148_427315467449362_646027261_n.jpg:
+  0) a street sign on a pole on a city street (p=0.000108)
+  1) a street sign on a pole on a street . (p=0.000097)
+  2) a street sign on a pole on a street (p=0.000095)
+Captions for image 35275901_239620776825975_1088457395568377856_n.jpg:
+  0) a close up of a bird on a rock (p=0.000150)
+  1) a close up of a small bird on a rock (p=0.000117)
+  2) a close up of a bird in a field (p=0.000036)
+Captions for image 34983231_205405573419927_2466839188289355776_n.jpg:
+  0) a train traveling through a lush green forest . (p=0.000447)
+  1) a train traveling through a lush green countryside . (p=0.000255)
+  2) a train traveling through a lush green hillside . (p=0.000150)
+Captions for image 35985963_218019652139903_7444498936217206784_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000263)
+  1) a large building with a clock tower on top of it . (p=0.000131)
+  2) a large building with a clock on the top of it . (p=0.000098)
+Captions for image 34307129_265221777372628_5097096951569055744_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.002163)
+  1) a train on a bridge over a body of water (p=0.000363)
+  2) a train traveling over a bridge over a body of water . (p=0.000313)
+Captions for image 34846531_242430753004963_2330205747343785984_n.jpg:
+  0) a tall building with a clock on it (p=0.000450)
+  1) a tall building with a clock on it . (p=0.000374)
+  2) a tall building with a clock on top of it . (p=0.000300)
+Captions for image 33042069_175421439963969_3473156708711268352_n.jpg:
+  0) a baseball game in progress with the batter up to plate . (p=0.005415)
+  1) a baseball game in progress with the batter up to bat . (p=0.000743)
+  2) a baseball game in progress with the batter up to plate (p=0.000366)
+Captions for image 22430065_1935639830036090_3577144025930530816_n.jpg:
+  0) a large bird flying over a body of water . (p=0.000127)
+  1) a large bird flying over the top of a mountain . (p=0.000024)
+  2) a large bird flying over the top of a snow covered field . (p=0.000007)
+Captions for image 23161499_328439707565202_7188401864696659968_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.000796)
+  1) a red fire hydrant in a wooded area . (p=0.000234)
+  2) a red fire hydrant sitting in a forest . (p=0.000181)
+Captions for image 22426989_325373721260809_5725640036376903680_n.jpg:
+  0) a group of horses grazing in a field . (p=0.001739)
+  1) a group of horses standing in a field . (p=0.001520)
+  2) a group of horses grazing on a lush green field . (p=0.001193)
+Captions for image 21040915_733371223532402_7861360584996945920_n.jpg:
+  0) a stop light that is on a pole . (p=0.000083)
+  1) a stop light that is on a pole (p=0.000026)
+  2) a stop light that is on the side of a road . (p=0.000023)
+Captions for image 20839088_1460186747393874_502680202069934080_n.jpg:
+  0) a very tall clock tower towering over a forest . (p=0.000212)
+  1) a large clock tower towering over a lush green forest . (p=0.000180)
+  2) a very tall clock tower towering over a lush green field . (p=0.000102)
+Captions for image 21910757_1904140496570431_4916530925807861760_n.jpg:
+  0) a building with a clock on the side of it (p=0.000108)
+  1) a building with a clock on the side of it . (p=0.000084)
+  2) a brick building with a clock on the side of it . (p=0.000059)
+Captions for image 22158736_1750340368596063_1415774731482693632_n.jpg:
+  0) a couple of animals that are standing in the grass . (p=0.000154)
+  1) a couple of animals that are in the grass . (p=0.000102)
+  2) a couple of animals that are standing in the dirt . (p=0.000090)
+Captions for image 27877960_152209852153993_8374386521469353984_n.jpg:
+  0) a clock tower in the middle of a park . (p=0.000399)
+  1) a clock tower in the middle of a field . (p=0.000202)
+  2) a clock tower in the middle of a park (p=0.000188)
+Captions for image 20634081_1417340251652318_96153219561947136_n.jpg:
+  0) a brick building with a clock on the wall . (p=0.000216)
+  1) a brick building with a clock on the wall (p=0.000199)
+  2) a large brick building with a clock on the side of it . (p=0.000108)
+Captions for image 20347643_678179012376466_5213906373959483392_n.jpg:
+  0) a tall brick building with a clock on it . (p=0.000605)
+  1) a tall brick building with a clock on it (p=0.000535)
+  2) a tall brick building with a clock on it 's side . (p=0.000459)
+Captions for image 20225799_117419712232446_4828926877303308288_n.jpg:
+  0) a large building with a clock on it (p=0.000406)
+  1) a large building with a clock tower on top . (p=0.000400)
+  2) a large building with a clock on the top . (p=0.000325)
+Captions for image 20213793_341349899630445_591877906779602944_n.jpg:
+  0) a car parked on the side of a road near a building . (p=0.000020)
+  1) a car parked on the side of a road next to a building . (p=0.000018)
+  2) a car parked on the side of a road next to a house . (p=0.000012)
+Captions for image 20184198_1761469500809589_7459551460854857728_n.jpg:
+  0) a red fire hydrant sitting in the middle of a forest . (p=0.000348)
+  1) a red fire hydrant in the middle of a forest . (p=0.000155)
+  2) a red fire hydrant sitting in the middle of a field . (p=0.000068)
+Captions for image 20065935_1383213351714848_5496108325424594944_n.jpg:
+  0) a bottle of wine sitting on top of a table . (p=0.001415)
+  1) a bottle of wine sitting on top of a wooden table . (p=0.000758)
+  2) a bottle of wine and a glass of wine (p=0.000276)
+Captions for image 18580112_547222542332571_1898270966673309696_n.jpg:
+  0) a large long train on a steel track . (p=0.002037)
+  1) a large long boat on a river near a bridge . (p=0.000054)
+  2) a large long boat on a river next to a bridge . (p=0.000053)
+Captions for image 20225875_104052990273985_3841444394792124416_n.jpg:
+  0) a large building with a clock on the top . (p=0.000413)
+  1) a large building with a clock on it (p=0.000310)
+  2) a large building with a clock on the top of it . (p=0.000234)
+Captions for image 18513392_1293300294100219_3362756339599147008_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001803)
+  1) a clock tower in the middle of a river . (p=0.000250)
+  2) a clock tower in the middle of a river (p=0.000124)
+Captions for image 18300114_1523532817679768_2628817862608814080_n.jpg:
+  0) a large building with a clock on the top of it . (p=0.000170)
+  1) a large building with a clock on the front of it . (p=0.000120)
+  2) a large building with a clock on the front of it (p=0.000073)
+Captions for image 16585058_1531788533499687_8031047351223189504_n.jpg:
+  0) a large building with a clock on the front of it . (p=0.000326)
+  1) a large building with a clock on the top of it . (p=0.000237)
+  2) a large building with a clock on the front of it (p=0.000234)
+Captions for image 14156606_1148318758569365_980327215_n.jpg:
+  0) a bear that is sitting on a rock . (p=0.000508)
+  1) a bear that is standing on a rock . (p=0.000493)
+  2) a bear that is laying down on a rock . (p=0.000347)
+Captions for image 14027165_917126558414878_1040645746_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.000530)
+  1) a train traveling over a bridge over water . (p=0.000120)
+  2) a train traveling over a bridge over a body of water . (p=0.000106)
+Captions for image 14063193_711352409002800_84037326_n.jpg:
+  0) a river with a bridge and a bridge over it . (p=0.000005)
+  1) a river with a river and a bridge in the distance . (p=0.000004)
+  2) a river with a river and a bridge in the background . (p=0.000003)
+Captions for image 10881858_739067802849201_295027366_n.jpg:
+  0) a street sign with a tree in the background (p=0.000187)
+  1) a street sign that is on a pole . (p=0.000117)
+  2) a street sign with a tree in the background . (p=0.000070)
+Captions for image 13694534_849961901805391_504511073_n.jpg:
+  0) a building with a clock on the top of it . (p=0.000358)
+  1) a building with a clock on the top of it (p=0.000293)
+  2) a large building with a clock on the front of it . (p=0.000253)
+Captions for image 13388545_1095812050493129_944910776_n.jpg:
+  0) a bench sitting in the middle of a park . (p=0.000324)
+  1) a bench sitting in the middle of a lush green park . (p=0.000281)
+  2) a bench sitting in the middle of a lush green field . (p=0.000240)
+Captions for image 14052517_307867949565819_1358189769_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.001728)
+  1) a red fire hydrant in the middle of a forest . (p=0.000706)
+  2) a fire hydrant in the middle of the woods . (p=0.000494)
+Captions for image 10475130_1490774614489891_769979360_n.jpg:
+  0) a train traveling through a lush green countryside . (p=0.000114)
+  1) a train traveling through a lush green hillside . (p=0.000104)
+  2) a view of a mountain range with a mountain in the background . (p=0.000007)
+Captions for image 13150952_1705064989750793_247841794_n.jpg:
+  0) a bunch of green bananas hanging from a tree . (p=0.000773)
+  1) a bunch of bananas hanging from a tree . (p=0.000689)
+  2) a bunch of bananas hanging from a tree (p=0.000164)
+Captions for image 12724898_1185486698131025_150549055_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000283)
+  1) a close up of a flower in a garden (p=0.000165)
+  2) a close up of a plant with leaves (p=0.000150)
+Captions for image 12424418_616077665212557_1289138089_n.jpg:
+  0) a large building with a large clock tower . (p=0.000094)
+  1) a large building with a clock on the front of it . (p=0.000020)
+  2) a large building with a clock tower in the background . (p=0.000017)
+Captions for image 12930841_268602296815155_761844079_n.jpg:
+  0) a boat traveling down a river next to a bridge . (p=0.000106)
+  1) a boat traveling down a river next to a tall building . (p=0.000041)
+  2) a boat traveling down a river next to a large building . (p=0.000016)
+Captions for image 13129622_1545656949073680_1184837808_n.jpg:
+  0) a bunch of flowers that are in the grass . (p=0.000250)
+  1) a bunch of flowers that are in a tree . (p=0.000090)
+  2) a bunch of flowers that are growing in a field . (p=0.000044)
+Captions for image 12599181_208923069472074_989069460_n.jpg:
+  0) a bunch of green bananas hanging from a tree . (p=0.001803)
+  1) a bunch of bananas growing on a tree . (p=0.000777)
+  2) a bunch of green bananas growing on a tree . (p=0.000612)
+Captions for image 12501468_1508504946118011_412816264_n.jpg:
+  0) a close up of a vase with a flower in it (p=0.000748)
+  1) a close up of a vase with flowers in it (p=0.000729)
+  2) a close up of a vase on a table (p=0.000467)
+Captions for image 12383289_1071251389575288_990554368_n.jpg:
+  0) a city street at night with a traffic light . (p=0.000054)
+  1) a city street at night with a red light (p=0.000010)
+  2) a city street at night with a traffic light and street signs . (p=0.000003)
+Captions for image 927267_630294267146455_831343343_n.jpg:
+  0) a fire hydrant spraying water on a street . (p=0.001252)
+  1) a fire hydrant is spraying water onto a street . (p=0.000928)
+  2) a fire hydrant spraying water on a street (p=0.000770)
+Captions for image 12292768_961759160537082_1350521405_n.jpg:
+  0) a red fire hydrant in front of a building . (p=0.000606)
+  1) a red fire hydrant in front of a brick building . (p=0.000494)
+  2) a red fire hydrant in front of a brick wall . (p=0.000296)
+Captions for image 12301131_1676958689213944_166015626_n.jpg:
+  0) a park bench sitting in the middle of a park . (p=0.001573)
+  1) a park bench in the middle of a park . (p=0.001557)
+  2) a wooden bench sitting in the middle of a park . (p=0.000896)
+Captions for image 12106285_466295993572741_2086287168_n.jpg:
+  0) a parking meter on the side of a street . (p=0.000455)
+  1) a parking meter on the side of a road . (p=0.000275)
+  2) a parking meter on the side of the road . (p=0.000217)
+Captions for image 12256793_864864853608864_1451302553_n.jpg:
+  0) a building with a clock on the top of it . (p=0.000265)
+  1) a building with a clock on the top of it (p=0.000227)
+  2) a large building with a clock on the top of it . (p=0.000148)
+Captions for image 11374461_515958868571905_1712975726_n.jpg:
+  0) a large building with a clock on the top . (p=0.000318)
+  1) a large building with a clock on the top of it . (p=0.000176)
+  2) a large building with a clock on top (p=0.000164)
+Captions for image 12104957_935976306489039_1954284384_n.jpg:
+  0) a tree filled with lots of green plants . (p=0.000295)
+  1) a tree filled with lots of unripe bananas . (p=0.000235)
+  2) a tree filled with lots of yellow flowers . (p=0.000173)
+Captions for image 11850029_976676372394535_1977948_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000149)
+  1) a large building with a clock tower in the middle . (p=0.000088)
+  2) a tall building with a clock on the top of it . (p=0.000069)
+Captions for image 12141955_786722278104147_1595625064_n.jpg:
+  0) a clock tower in the middle of a city . (p=0.000481)
+  1) a tall clock tower in the middle of a city . (p=0.000376)
+  2) a large clock tower in the middle of a city . (p=0.000273)
+Captions for image 11849947_783333621778085_1042162172_n.jpg:
+  0) a view of a window from inside a building . (p=0.000022)
+  1) a view of a window from inside of a building . (p=0.000010)
+  2) a view of a window from inside a building (p=0.000004)
+Captions for image 11373834_507319392778658_2103439559_n.jpg:
+  0) a tall clock tower with a sky background (p=0.002330)
+  1) a tall clock tower with a clock on each of it 's sides . (p=0.000440)
+  2) a tall clock tower with a clock on it 's side . (p=0.000143)
+Captions for image 924710_1659151177660789_463203904_n.jpg:
+  0) a view of a kitchen with a large window . (p=0.000010)
+  1) a view of a hallway from the hallway (p=0.000006)
+  2) a view of a hallway from the hallway of a building . (p=0.000004)
+Captions for image 11356480_660761114060588_980224885_n.jpg:
+  0) a train traveling down tracks next to a river . (p=0.000348)
+  1) a train on a track near a body of water (p=0.000347)
+  2) a train on a train track near a bridge (p=0.000186)
+Captions for image 11357404_124058597939864_1860934904_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000436)
+  1) a large building with a clock tower on top of it . (p=0.000247)
+  2) a large building with a clock tower in the middle . (p=0.000103)
+Captions for image 11427427_924960554216720_853639173_n.jpg:
+  0) a close up of a vase with flowers in it (p=0.000229)
+  1) a close up of a flower in a vase (p=0.000053)
+  2) a close up of a flower in a tree (p=0.000039)
+Captions for image 11375783_797666393680973_2006086921_n.jpg:
+  0) an airplane flying in the sky over a building . (p=0.000056)
+  1) an airplane flying in the sky over a city . (p=0.000047)
+  2) a plane flying high in the sky with a sky background (p=0.000021)
+Captions for image 11377631_1638761996368727_1356628468_n.jpg:
+  0) a tree with a bunch of flowers in it (p=0.000096)
+  1) a plant in the middle of a forest . (p=0.000071)
+  2) a tree with a bunch of green leaves on it (p=0.000043)
+Captions for image 11377756_521310254693104_1746229315_n.jpg:
+  0) a red and green plant with a bunch of green leaves . (p=0.000001)
+  1) a red and green plant with a bunch of flowers in it . (p=0.000000)
+  2) a red and green plant with a bunch of leaves on it . (p=0.000000)
+Captions for image 11378985_706179509528328_618064187_n.jpg:
+  0) a passenger train that is pulling into a station . (p=0.001873)
+  1) a train on a train track near a platform (p=0.000229)
+  2) a passenger train that is pulling into a train station . (p=0.000183)
+Captions for image 925657_1461796644121208_927827787_n.jpg:
+  0) a street sign on a pole on a city street (p=0.000631)
+  1) a street sign on the side of a road . (p=0.000422)
+  2) a street sign on the corner of a street . (p=0.000324)
+Captions for image 10661223_808325185949161_696691135_n.jpg:
+  0) a person flying a kite in a field . (p=0.000540)
+  1) a person flying a kite in a field (p=0.000321)
+  2) a kite flying in the sky with a sky background (p=0.000293)
+Captions for image 11378493_1462837210694505_1287191304_n.jpg:
+  0) a street sign with a sign on it (p=0.000007)
+  1) a sign that says `` <UNK> '' on a pole . (p=0.000002)
+  2) a sign that says `` <UNK> '' on the side of the road . (p=0.000001)
+Captions for image 11379163_1490137237944607_1382848261_n.jpg:
+  0) a close up of a bottle of beer on a table (p=0.000228)
+  1) a close up of a bottle of beer next to a keyboard (p=0.000052)
+  2) a close up of a bottle of beer next to a bottle (p=0.000048)
+Captions for image 11355716_1451282485194164_2133471923_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000561)
+  1) a large building with a clock on the top . (p=0.000417)
+  2) a large building with a clock on the front of it . (p=0.000174)
+Captions for image 11357563_1470573149902092_954664600_n.jpg:
+  0) a stop sign with a street sign above it . (p=0.000082)
+  1) a stop sign with a street sign on top of it . (p=0.000037)
+  2) a stop sign with a street sign on it . (p=0.000035)
+Captions for image 11357364_491233871030012_2030090628_n.jpg:
+  0) a stop sign with a street sign on top of it . (p=0.000027)
+  1) a stop sign with a street sign on it . (p=0.000018)
+  2) a stop sign with a sign on it (p=0.000014)
+Captions for image 11351049_461379147364601_621645468_n.jpg:
+  0) a red and white train traveling down train tracks . (p=0.000336)
+  1) a red and white train on a track next to a platform . (p=0.000018)
+  2) a red and white train on a track next to a building . (p=0.000011)
+Captions for image 11355039_1619778888266138_934614713_n.jpg:
+  0) a bus that is sitting in the street . (p=0.001585)
+  1) a bus that is sitting on the street . (p=0.000707)
+  2) a bus that is parked in front of a building . (p=0.000580)
+Captions for image 10499302_275494135985705_1672879682_n.jpg:
+  0) a red and black bird is standing in a field (p=0.000002)
+  1) a red and black bird is sitting in a field (p=0.000001)
+  2) a red and black bird is standing in a field . (p=0.000001)
+Captions for image 11335036_341417079401142_111714831_n.jpg:
+  0) a stop sign on the side of a road . (p=0.000331)
+  1) a stop sign on the side of the road . (p=0.000140)
+  2) a stop sign on the side of a road (p=0.000079)
+Captions for image 11312311_797589143642706_1858041838_n.jpg:
+  0) a red fire hydrant sitting in the middle of a field . (p=0.000675)
+  1) a red fire hydrant in the middle of a field . (p=0.000662)
+  2) a red fire hydrant sitting in the middle of a green field . (p=0.000368)
+Captions for image 11378461_843834652377378_1400262558_n.jpg:
+  0) a train traveling through a lush green forest . (p=0.003718)
+  1) a train traveling down tracks next to a forest . (p=0.003391)
+  2) a train traveling down train tracks next to a forest . (p=0.001918)
+Captions for image 11355206_844184288952424_1992636400_n.jpg:
+  0) a bird is standing in the middle of a pond . (p=0.000048)
+  1) a bird is standing in the middle of the water . (p=0.000048)
+  2) a bird is standing in the middle of the grass . (p=0.000045)
+Captions for image 11242390_743521259090371_22199644_n.jpg:
+  0) a city street at night with a traffic light . (p=0.000067)
+  1) a city street at night with a street light . (p=0.000053)
+  2) a city street at night with a street light (p=0.000032)
+Captions for image 11352396_1835634543328923_564974466_n.jpg:
+  0) a street sign on the corner of a street (p=0.000282)
+  1) a street sign on the side of a road . (p=0.000277)
+  2) a street sign on the corner of a street . (p=0.000271)
+Captions for image 11379148_881067161931793_361096494_n.jpg:
+  0) a stop sign on the side of the road . (p=0.000302)
+  1) a stop sign on the side of a road . (p=0.000184)
+  2) a stop sign on the side of the road (p=0.000173)
+Captions for image 11256179_643385155796831_1192328653_n.jpg:
+  0) a large building with a clock on it . (p=0.000375)
+  1) a large building with a clock on the top . (p=0.000307)
+  2) a large building with a clock on it (p=0.000304)
+Captions for image 11264530_1664095433813803_143465445_n.jpg:
+  0) a woman walking down a street holding a pink umbrella . (p=0.000057)
+  1) a woman walking down a street with a red umbrella . (p=0.000054)
+  2) a woman walking down a street holding a red umbrella . (p=0.000044)
+Captions for image 11357289_1401750483486370_1961546658_n.jpg:
+  0) a black and white photo of a kite flying in the sky . (p=0.000176)
+  1) a black and white photo of a kite flying in the sky (p=0.000153)
+  2) a black and white photo of a person flying a kite (p=0.000107)
+Captions for image 11380186_969754096389832_118093329_n.jpg:
+  0) a large body of water next to a river . (p=0.000110)
+  1) a large body of water with a mountain in the background (p=0.000055)
+  2) a large body of water next to a forest . (p=0.000045)
+Captions for image 11282084_1586451718286151_1512682187_n.jpg:
+  0) a train on a train track near a building (p=0.000624)
+  1) a train on a track near a building (p=0.000601)
+  2) a train traveling down tracks next to a tall building . (p=0.000371)
+Captions for image 11241419_450242778485724_1112429040_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000595)
+  1) a large building with a clock on the top . (p=0.000424)
+  2) a large building with a clock tower in the middle . (p=0.000189)
+Captions for image 11261229_695547007234296_1940428028_n.jpg:
+  0) a red and white fire hydrant in the grass . (p=0.000090)
+  1) a red and white fire hydrant sitting in the grass . (p=0.000079)
+  2) a red and white fire hydrant in a grassy field . (p=0.000056)
+Captions for image 11241411_431862090309011_356005067_n.jpg:
+  0) a tree with a bunch of birds on it (p=0.000150)
+  1) a tree with a bunch of birds sitting on it (p=0.000070)
+  2) a tree with a bunch of birds on it . (p=0.000062)
+Captions for image 11201773_895368053838292_1666216058_n.jpg:
+  0) a group of people walking down a street . (p=0.002582)
+  1) a group of people walking down a street next to tall buildings . (p=0.000882)
+  2) a crowd of people walking down a street next to tall buildings . (p=0.000668)
+Captions for image 11205710_815091275226223_613308242_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.005431)
+  1) a train crossing a bridge over a river . (p=0.003493)
+  2) a train traveling over a bridge over a body of water . (p=0.000713)
+Captions for image 11191401_445714692271099_2115814598_n.jpg:
+  0) a person flying a kite in a cloudy sky . (p=0.001349)
+  1) a person flying a kite in the sky . (p=0.000870)
+  2) a kite flying in the sky with a sky background (p=0.000414)
+Captions for image 11190002_474826732668756_1835453816_n.jpg:
+  0) a stop sign on the side of the road . (p=0.000436)
+  1) a stop sign on the side of a road . (p=0.000405)
+  2) a stop sign on the corner of a street . (p=0.000292)
+Captions for image 11186853_760592880724896_981069973_n.jpg:
+  0) a street sign on the side of a road . (p=0.000073)
+  1) a street sign on the side of a street . (p=0.000031)
+  2) a street sign on the side of the road . (p=0.000031)
+Captions for image 11093055_1650380321851928_327242706_n.jpg:
+  0) a black and white photo of a city street (p=0.002742)
+  1) a black and white photo of a city street . (p=0.001848)
+  2) a black and white photo of a street corner (p=0.000471)
+Captions for image 11190983_445855268925700_440660163_n.jpg:
+  0) a sign on a pole on a street . (p=0.000030)
+  1) a sign on a pole on a city street . (p=0.000025)
+  2) a sign on a pole on a city street (p=0.000014)
+Captions for image 11085109_934393269945346_519765761_n.jpg:
+  0) a glass of wine sitting on top of a table . (p=0.004168)
+  1) a glass of wine sitting on top of a wooden table . (p=0.001449)
+  2) a glass of wine sitting on a table next to a bottle of wine . (p=0.000196)
+Captions for image 10808418_428728617288657_1111830057_n.jpg:
+  0) a stop sign on the side of the road . (p=0.000172)
+  1) a stop sign on the side of a road . (p=0.000111)
+  2) a stop sign on the side of the road (p=0.000081)
+Captions for image 11093010_1378135515850144_164862448_n.jpg:
+  0) a group of people walking down a street . (p=0.001581)
+  1) a group of people walking down a street next to tall buildings . (p=0.000680)
+  2) a crowd of people walking down a street next to tall buildings . (p=0.000408)
+Captions for image 11137972_1620550984848107_788111122_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.000772)
+  1) a train traveling down train tracks next to a forest . (p=0.000332)
+  2) a train traveling down tracks next to a lush green forest . (p=0.000300)
+Captions for image 1517123_563965460412506_1139344664_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000300)
+  1) a sign that is on the side of a pole . (p=0.000086)
+  2) a sign that is on the side of a road . (p=0.000057)
+Captions for image 924564_841568979246813_1549857176_n.jpg:
+  0) a large building with a clock tower on top of it . (p=0.000158)
+  1) a large building with a clock tower in front of it . (p=0.000103)
+  2) a tall building with a clock on it (p=0.000090)
+Captions for image 10570014_1457097904544291_862443851_n.jpg:
+  0) a passenger train that is pulling into a station . (p=0.002695)
+  1) a passenger train that is pulling into the station . (p=0.000450)
+  2) a passenger train that is pulling into a train station . (p=0.000330)
+Captions for image 1171107_823750544347047_2001601380_n.jpg:
+  0) a sign that is on the side of a road . (p=0.000185)
+  1) a sign that is on the side of a building . (p=0.000141)
+  2) a sign that is on the side of a pole . (p=0.000091)
+Captions for image 11142949_1444365815856035_1998385584_n.jpg:
+  0) a train traveling down tracks next to a train station . (p=0.000663)
+  1) a train traveling down train tracks next to a train station . (p=0.000447)
+  2) a train traveling down tracks next to a loading platform . (p=0.000310)
+Captions for image 11085101_1573949056206799_1378207010_n.jpg:
+  0) a yellow and green plant in a vase . (p=0.000024)
+  1) a vase with flowers in it sitting on a table . (p=0.000010)
+  2) a yellow and green plant in a vase (p=0.000007)
+Captions for image 11084866_1443832712575752_187946858_n.jpg:
+  0) a stop sign on the side of a road . (p=0.000110)
+  1) a stop sign on the side of the road . (p=0.000105)
+  2) a stop sign on the side of a street . (p=0.000068)
+Captions for image 928785_821557397938152_833686459_n.jpg:
+  0) a building with a clock on the front of it (p=0.000322)
+  1) a building with a clock on the front of it . (p=0.000274)
+  2) a large building with a clock on the front . (p=0.000211)
+Captions for image 11117160_774717059290300_1382623417_n.jpg:
+  0) a bottle of wine sitting next to a bottle of wine . (p=0.000565)
+  1) a bottle of wine and a bottle of wine . (p=0.000410)
+  2) a bottle of wine sitting next to a glass of wine . (p=0.000296)
+Captions for image 10387796_392571834259188_1226787614_n.jpg:
+  0) a cup of coffee sitting next to a cup of coffee . (p=0.000918)
+  1) a cup of coffee and a banana on a table . (p=0.000836)
+  2) a cup of coffee and a cup of coffee . (p=0.000597)
+Captions for image 11024321_396115223909730_743596875_n.jpg:
+  0) a stop sign on the side of the road . (p=0.000242)
+  1) a stop sign on the side of a road . (p=0.000234)
+  2) a stop sign on the corner of a street . (p=0.000146)
+Captions for image 11111404_1641558292743583_1807896055_n.jpg:
+  0) a large group of people flying kites in a field . (p=0.000050)
+  1) a large group of people flying kites in a park . (p=0.000034)
+  2) a man is flying a kite in a field (p=0.000033)
+Captions for image 11055868_991111317567523_1706866032_n.jpg:
+  0) a stop sign on the side of the road . (p=0.000411)
+  1) a stop sign on the corner of a street . (p=0.000349)
+  2) a stop sign on the corner of a street (p=0.000330)
+Captions for image 11142309_983801621631613_954106979_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.003150)
+  1) a red stop sign sitting next to a tree . (p=0.000282)
+  2) a red stop sign sitting on top of a metal pole . (p=0.000216)
+Captions for image 11116866_1582066075408586_1241903844_n.jpg:
+  0) a person flying a kite in the sky . (p=0.000155)
+  1) a person flying a kite in the air . (p=0.000104)
+  2) a person flying a kite in the sky (p=0.000068)
+Captions for image 11017652_1628040910743914_733866296_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000085)
+  1) a train station with a train passing by . (p=0.000068)
+  2) a train station with a train passing by (p=0.000057)
+Captions for image 11116778_754956211269461_1042907151_n.jpg:
+  0) a car that is sitting in the street . (p=0.000733)
+  1) a car that is parked on the side of the road . (p=0.000222)
+  2) a car that is parked in front of a building . (p=0.000190)
+Captions for image 10454078_1566771900243154_705492638_n.jpg:
+  0) a car is parked on the side of the road . (p=0.000389)
+  1) a car is parked on the side of the street . (p=0.000372)
+  2) a car is parked on the side of a street . (p=0.000198)
+Captions for image 10584650_1460248810891302_432248281_n.jpg:
+  0) a park bench in the middle of a park . (p=0.000160)
+  1) a park bench in the middle of a field . (p=0.000052)
+  2) a park bench in the middle of a park (p=0.000047)
+Captions for image 11092989_1419390161708185_531677620_n.jpg:
+  0) a bunch of birds that are sitting on a tree . (p=0.000090)
+  1) a bunch of birds that are sitting in a tree . (p=0.000049)
+  2) a bunch of birds that are sitting on a branch . (p=0.000044)
+Captions for image 11055876_1617944648424646_1527510773_n.jpg:
+  0) a kite that is flying in the sky . (p=0.002108)
+  1) a kite that is flying in the air . (p=0.000909)
+  2) a kite that is flying in the sky (p=0.000507)
+Captions for image 11007922_1597511683823782_650143060_n.jpg:
+  0) a city street filled with lots of traffic . (p=0.002061)
+  1) a city street filled with lots of traffic next to tall buildings . (p=0.000128)
+  2) a city street filled with lots of traffic and tall buildings . (p=0.000068)
+Captions for image 11084757_337590526430817_983503145_n.jpg:
+  0) a street sign on a pole on a city street (p=0.000196)
+  1) a street sign on a pole on a street (p=0.000101)
+  2) a street sign on a pole on a street . (p=0.000099)
+Captions for image 10554037_342409592623869_2146475831_n.jpg:
+  0) a stop sign on the side of the road . (p=0.000110)
+  1) a stop sign on the corner of a street . (p=0.000085)
+  2) a stop sign on the corner of a street (p=0.000082)
+Captions for image 11017657_874177802623658_1194678091_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.000765)
+  1) a train traveling down train tracks next to a forest . (p=0.000689)
+  2) a train traveling down tracks next to a lush green field . (p=0.000312)
+Captions for image 11017614_1805432793015538_1752372147_n.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.000268)
+  1) a train traveling down tracks next to a lush green field . (p=0.000131)
+  2) a train traveling down train tracks next to a forest . (p=0.000097)
+Captions for image 11032816_354916308035346_1163306804_n.jpg:
+  0) a street sign on the side of a road . (p=0.000546)
+  1) a street sign on the side of the road . (p=0.000297)
+  2) a street sign on the corner of a street (p=0.000200)
+Captions for image 1209588_1578575042391034_1967764111_n.jpg:
+  0) a boat on a body of water with a sky background (p=0.000035)
+  1) a boat on a body of water near a building (p=0.000013)
+  2) a boat on a body of water with a sky in the background (p=0.000004)
+Captions for image 11022929_438660106300077_1219877328_n.jpg:
+  0) a stop sign on the side of the road . (p=0.001047)
+  1) a stop sign on the side of a road . (p=0.000990)
+  2) a stop sign on the side of the road (p=0.000456)
+Captions for image 10955428_443813765794573_2035232484_n.jpg:
+  0) a black and white photo of a train track (p=0.000121)
+  1) a black and white photo of a farm (p=0.000069)
+  2) a black and white photo of a train track . (p=0.000050)
+Captions for image 11055720_1413969692243662_2107392756_n.jpg:
+  0) a bunch of plants that are in the grass . (p=0.000083)
+  1) a bunch of plants that are in a field . (p=0.000026)
+  2) a bunch of plants that are in a field (p=0.000014)
+Captions for image 11015560_935996366465989_514384716_n.jpg:
+  0) a black and white photo of a street sign (p=0.001107)
+  1) a black and white photo of a street sign . (p=0.000921)
+  2) a black and white picture of a street sign . (p=0.000479)
+Captions for image 11049287_1554999221420548_1516537360_n.jpg:
+  0) a bottle of beer and a glass of wine . (p=0.000218)
+  1) a bottle of wine and a glass of wine . (p=0.000196)
+  2) a bottle of beer and a glass of orange juice . (p=0.000148)
+Captions for image 11007919_882369178496981_1628949783_n.jpg:
+  0) a train on a train track with a sky background (p=0.000863)
+  1) a train traveling down tracks next to a forest . (p=0.000425)
+  2) a train traveling down tracks next to a lush green field . (p=0.000136)
+Captions for image 11008171_751028551671410_289211063_n.jpg:
+  0) a fire hydrant sitting in the middle of a forest . (p=0.000285)
+  1) a fire hydrant sitting in the middle of a field . (p=0.000129)
+  2) a fire hydrant sitting in the middle of a lush green field . (p=0.000084)
+Captions for image 10958248_782359845178866_888262815_n.jpg:
+  0) a tall building with a clock on it (p=0.000355)
+  1) a large building with a clock on the front of it . (p=0.000257)
+  2) a large building with a clock on the top of it . (p=0.000254)
+Captions for image 11007959_1562099544077179_2107263006_n.jpg:
+  0) a blender filled with liquid on top of a counter . (p=0.000164)
+  1) a blender filled with liquid on a counter . (p=0.000104)
+  2) a blender filled with a mixture of food . (p=0.000066)
+Captions for image 10948774_1586454304902598_140079170_n.jpg:
+  0) a black and white photo of a train bridge (p=0.000094)
+  1) a black and white photo of a train on a bridge . (p=0.000094)
+  2) a black and white photo of a train on a bridge (p=0.000066)
+Captions for image 10979652_866423256734154_610231855_n.jpg:
+  0) a street sign in front of a building . (p=0.000221)
+  1) a street sign in front of a building (p=0.000158)
+  2) a street sign on a pole on a city street (p=0.000108)
+Captions for image 10932128_1515845128698609_557538229_n.jpg:
+  0) a train traveling down tracks next to a train station . (p=0.000884)
+  1) a train traveling down train tracks next to a train station . (p=0.000536)
+  2) a train traveling down train tracks next to a forest . (p=0.000496)
+Captions for image 1599825_406359546199145_927898939_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.001978)
+  1) a cup of coffee sitting on top of a wooden table . (p=0.000667)
+  2) a cup of coffee sitting on a table next to a keyboard . (p=0.000165)
+Captions for image 10903563_1533053776981825_1905613117_n.jpg:
+  0) a black and white photo of a snow covered street . (p=0.000235)
+  1) a black and white photo of a snow covered street (p=0.000148)
+  2) a black and white photo of a street in the snow . (p=0.000050)
+Captions for image 10899265_1528536254082182_2132014660_n.jpg:
+  0) a stop sign that has been vandalized with graffiti . (p=0.000147)
+  1) a stop sign that has been vandalized with graffiti (p=0.000036)
+  2) a stop sign with graffiti on it next to a building . (p=0.000019)
+Captions for image 10914696_1398189917144293_1947167741_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001641)
+  1) a large clock tower towering over a city at night . (p=0.001281)
+  2) a clock tower in the middle of a city . (p=0.000411)
+Captions for image 10299740_1393723297588038_1010120902_n.jpg:
+  0) a baby laying on a bed with a blanket . (p=0.000408)
+  1) a baby laying in a bed with a blanket . (p=0.000386)
+  2) a baby laying on a bed with a stuffed animal . (p=0.000286)
+Captions for image 10860014_876726155695244_1531836168_n.jpg:
+  0) a black and white photo of a street sign (p=0.000958)
+  1) a black and white photo of a street sign . (p=0.000760)
+  2) a black and white picture of a street sign . (p=0.000460)
+Captions for image 10848274_635354889908389_576169715_n.jpg:
+  0) a large clock tower towering over a city . (p=0.001470)
+  1) a large clock tower towering over a city at night . (p=0.000446)
+  2) a large building with a clock tower in the middle of it . (p=0.000042)
+Captions for image 10865130_784136598323792_1671121649_n.jpg:
+  0) a baby is sitting in a crib with a toothbrush . (p=0.000010)
+  1) a baby is sitting on a bed with a pacifier in its mouth . (p=0.000004)
+  2) a baby is sitting in a crib with a pacifier in its mouth . (p=0.000003)
+Captions for image 10817538_1636041343290241_205888987_n.jpg:
+  0) a vase with a flower on top of it . (p=0.000028)
+  1) a vase with a flower in it sitting on a table . (p=0.000020)
+  2) a vase with a flower on top of it (p=0.000015)
+Captions for image 10809926_1506341206300044_714063878_n.jpg:
+  0) a train traveling over a bridge over a river . (p=0.002776)
+  1) a train on a train track near a body of water (p=0.000326)
+  2) a train on a train track near a river (p=0.000282)
+Captions for image 10809493_1507521779518151_1542566549_n.jpg:
+  0) a man standing next to a stop sign . (p=0.000188)
+  1) a man is standing in front of a stop sign . (p=0.000092)
+  2) a man is standing in front of a stop sign (p=0.000044)
+Captions for image 10808768_377500402419046_718047880_n.jpg:
+  0) a view of a city street at night . (p=0.000360)
+  1) a view of a city street at night (p=0.000049)
+  2) a city street at night with a traffic light . (p=0.000033)
+Captions for image 10808422_1528482030733791_1588712577_n.jpg:
+  0) a stop sign with a sign on it (p=0.000009)
+  1) a stop sign with a sign on it . (p=0.000008)
+  2) a stop sign is shown with a sign on it . (p=0.000004)
+Captions for image 891526_357827754378670_782904707_n.jpg:
+  0) a view of a city skyline from a plane . (p=0.000010)
+  1) a view of a city skyline with a cloudy sky . (p=0.000006)
+  2) a view of a city skyline with a plane flying in the sky . (p=0.000002)
+Captions for image 10632381_1495290567399861_363692249_n.jpg:
+  0) a black and white photo of a building with a clock tower . (p=0.000245)
+  1) a black and white photo of a city street (p=0.000114)
+  2) a black and white photo of a castle with a clock tower . (p=0.000106)
+Captions for image 10735422_1499362767007068_1756361205_n.jpg:
+  0) a sign that reads `` <UNK> '' on a wall . (p=0.000001)
+  1) a sign that reads `` <UNK> '' on a pole . (p=0.000001)
+  2) a sign that says `` <UNK> '' on the side of a building . (p=0.000001)
+Captions for image 925917_742765712439833_2117324060_n.jpg:
+  0) a large building with a clock on it . (p=0.000567)
+  1) a large building with a clock on it (p=0.000463)
+  2) a large building with a clock on the front . (p=0.000439)
+Captions for image 10723917_1506672746255640_553973215_n.jpg:
+  0) a close up of a plant in a garden (p=0.000055)
+  1) a close up of a plant in a field (p=0.000044)
+  2) a close up of a plant in a field of grass (p=0.000005)
+Captions for image 10724836_1570068706554552_896193834_n.jpg:
+  0) a close up of a box with a sticker on it (p=0.000043)
+  1) a close up of a book with a sticker on it (p=0.000025)
+  2) a close up of a box with a sign on it (p=0.000010)
+Captions for image 10693322_803800063014315_628426231_n.jpg:
+  0) a tree filled with lots of green plants . (p=0.000289)
+  1) a tree filled with lots of green leaves . (p=0.000229)
+  2) a tree filled with lots of green plants next to a forest . (p=0.000014)
+Captions for image 10655100_1525140121048904_1234188494_n.jpg:
+  0) a sign that is on the side of a building . (p=0.000592)
+  1) a sign that is on the side of a wall . (p=0.000033)
+  2) a sign that is on the side of the building . (p=0.000016)
+Captions for image 10693830_918741761473858_826720738_n.jpg:
+  0) a fire hydrant in the middle of a forest . (p=0.000276)
+  1) a fire hydrant in the middle of a grassy field . (p=0.000091)
+  2) a fire hydrant in the middle of a grassy area . (p=0.000076)
+Captions for image 929179_1478488212398990_828051249_n.jpg:
+  0) a red fire hydrant in the middle of a forest . (p=0.000295)
+  1) a red fire hydrant in the middle of a field . (p=0.000129)
+  2) a red fire hydrant in the middle of a garden . (p=0.000104)
+Captions for image 926254_699851150097965_363016832_n.jpg:
+  0) a plane flying in the sky over some trees . (p=0.000069)
+  1) a plane flying in the sky over some trees (p=0.000068)
+  2) a plane flying in the sky over a forest . (p=0.000023)
+Captions for image 10611182_370256019789231_1804019720_n.jpg:
+  0) a train station with a train on the tracks . (p=0.000047)
+  1) a train station with a train on the tracks (p=0.000040)
+  2) a train station with a train passing by (p=0.000037)
+Captions for image 928082_257369881122289_274902120_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000265)
+  1) a very tall building with a clock on it . (p=0.000252)
+  2) a large building with a clock tower in the middle . (p=0.000139)
+Captions for image 925019_1438182589777625_2064510260_n.jpg:
+  0) a large building with a clock tower on top . (p=0.000459)
+  1) a large building with a clock tower on top of it . (p=0.000181)
+  2) a large building with a clock tower in the middle . (p=0.000134)
+Captions for image 10483418_680636785322812_1110997065_n.jpg:
+  0) a blue and white truck parked in a field . (p=0.000116)
+  1) a blue car is parked in a field (p=0.000109)
+  2) a blue car is parked on the grass . (p=0.000089)
+Captions for image 10554086_647015822060762_992596239_n.jpg:
+  0) a close up of a person wearing a suit and tie (p=0.000189)
+  1) a close up of a person wearing a tie (p=0.000138)
+  2) a close up of a person wearing a suit (p=0.000056)
+Captions for image 10537282_746956375354790_1358319481_n.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.000245)
+  1) a red stop sign sitting on top of a green field . (p=0.000022)
+  2) a red stop sign sitting on the side of a street . (p=0.000016)
+Captions for image 928289_1438642706399361_1092051100_n.jpg:
+  0) a stop sign with a street sign attached to it . (p=0.000024)
+  1) a stop sign with a street sign on it . (p=0.000020)
+  2) a stop sign with a street sign on it (p=0.000017)
+Captions for image 926247_268009080059192_733679024_n.jpg:
+  0) a stop sign with a street sign on top of it . (p=0.000034)
+  1) a stop sign with a street sign on it . (p=0.000019)
+  2) a stop sign with a street sign on it (p=0.000011)
+Captions for image 10508076_769034846450122_1586056674_n.jpg:
+  0) a bike parked on the side of a road . (p=0.000277)
+  1) a bike parked on the side of a road next to a sign . (p=0.000039)
+  2) a bike parked on the side of a road near a sign . (p=0.000021)
+Captions for image 10488766_1443287205931118_1907981984_n.jpg:
+  0) a plane flying in the sky with a sky background (p=0.000096)
+  1) a plane is flying in the sky with a sky background (p=0.000017)
+  2) a plane is flying in the sky with clouds in the background . (p=0.000008)
+Captions for image 10467875_767578069948837_753578036_n.jpg:
+  0) a man wearing a tie and a shirt . (p=0.000056)
+  1) a man wearing a tie and a hat . (p=0.000053)
+  2) a man wearing a tie and a shirt and tie . (p=0.000039)

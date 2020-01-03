@@ -1,0 +1,40 @@
+Captions for image 917064_1659973660922456_1102141061_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.001061)
+  1) a pair of scissors sitting on top of a piece of paper . (p=0.000261)
+  2) a pair of scissors sitting on top of a table (p=0.000147)
+Captions for image 12331716_1530409613936900_551118325_n.jpg:
+  0) a bunch of different colored clocks on a wall . (p=0.000058)
+  1) a bunch of different colored clocks on a wall (p=0.000048)
+  2) a bunch of different colored clocks on display (p=0.000042)
+Captions for image 10005736_1786992628194892_570327747_n.jpg:
+  0) a book shelf filled with lots of books . (p=0.002308)
+  1) a book shelf filled with books and a clock . (p=0.000953)
+  2) a book shelf filled with books next to a clock . (p=0.000217)
+Captions for image 13562115_975590822559103_809010051_n.jpg:
+  0) a pair of scissors sitting on top of a table . (p=0.000216)
+  1) a pair of scissors sitting on top of a table (p=0.000026)
+  2) a pair of scissors sitting on a table next to a book . (p=0.000003)
+Captions for image 65510343_700542567054452_2796955709009297408_n.jpg:
+  0) a woman wearing a white shirt and tie . (p=0.000165)
+  1) a woman wearing a white shirt and a tie . (p=0.000068)
+  2) a woman in a white shirt and tie . (p=0.000059)
+Captions for image 17933997_1705749382785259_4444260767230853120_n.jpg:
+  0) a collage of photos of a sign and a sign (p=0.000001)
+  1) a collage of photos of a sign that says <UNK> . (p=0.000001)
+  2) a collage of photos of a sign that says <UNK> (p=0.000001)
+Captions for image 12751402_913007195464977_900856168_n.jpg:
+  0) a bunch of different types of scissors on a table . (p=0.000012)
+  1) a collection of different types of scissors on a table . (p=0.000010)
+  2) a bunch of different types of scissors on a table (p=0.000004)
+Captions for image 12558358_1682670628658208_1979595135_n.jpg:
+  0) a bunch of books that are on a table . (p=0.000211)
+  1) a bunch of books that are sitting on a table . (p=0.000076)
+  2) a bunch of books are stacked on a table (p=0.000032)
+Captions for image 18513835_359086371160396_3279752282672988160_n.jpg:
+  0) a cup of coffee sitting on top of a table . (p=0.000979)
+  1) a cup of coffee sitting on top of a table next to a cup . (p=0.000025)
+  2) a cup of coffee sitting on top of a table next to a pair of scissors . (p=0.000024)
+Captions for image 12531107_829904083799076_1702761530_n.jpg:
+  0) a book sitting on top of a bed . (p=0.000827)
+  1) a book sitting on top of a bed next to a book . (p=0.000232)
+  2) a book sitting on top of a bed with a book . (p=0.000102)

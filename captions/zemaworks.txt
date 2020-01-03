@@ -1,0 +1,12 @@
+Captions for image 10848131_531666653602499_2106586101_n.jpg:
+  0) a bunch of flowers that are in a vase . (p=0.001434)
+  1) a bunch of flowers in a vase on a table . (p=0.000600)
+  2) a bunch of flowers that are in a glass vase . (p=0.000552)
+Captions for image 10860018_415306415284784_2010593009_n.jpg:
+  0) a couple of people sitting at a table with food . (p=0.000629)
+  1) a couple of people sitting at a table with a cake . (p=0.000399)
+  2) a woman sitting at a table in front of a cake . (p=0.000356)
+Captions for image 11261017_1484076808578074_938751401_a.jpg:
+  0) a man in a suit and tie posing for a picture . (p=0.000958)
+  1) a man in a suit and tie posing for a picture (p=0.000381)
+  2) a man in a suit and tie standing in a field . (p=0.000378)
