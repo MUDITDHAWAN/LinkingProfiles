@@ -56,6 +56,7 @@ for file in glob.glob("/home/muditdhawan/Downloads/captions/*.txt"):
     # print(word_counts)
     # print(' '.join(papers))
     classified_text = st.tag((' '.join(papers)).split(" "))
+# using the classified data to analyse which words don't come under the non-named entities 
     for j in range(len(classified_text)):
         if(classified_text[j][1]!='O'):
             named_entity.append(classified_text[j][0])
@@ -64,17 +65,7 @@ for file in glob.glob("/home/muditdhawan/Downloads/captions/*.txt"):
     # print(text_list)
     # final_counter= final_counter+word_counts
 
-# print(text_list)
-
-# from gensim import corpora
-# dictionary = corpora.Dictionary(text_list)
-# dictionary.save_as_text('dictionary_text.dict')
-# # print(dictionary)
-
-# print("dict made")
-# doc_term_matrix = [dictionary.doc2bow(doc) for doc in text_list]
-# corpora.MmCorpus.serialize('corpus.mm', doc_term_matrix)
-
-# print("corpa made")
-# print(len(doc_term_matrix))
-# print(doc_term_matrix[1])
+# will upload the file as and when the code completes running and the file is written
+with open('NER.txt', 'w') as f:
+    for item in named_entity:
+        f.write("%s\n" % item)
