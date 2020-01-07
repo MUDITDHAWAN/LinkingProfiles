@@ -13,5 +13,7 @@ dictionary_text.dict
 
 LDA.ipynb - to read the captions and then make the corpus, dictionary, model and other analysis.
 
-NERTagging.py - to perform NER Tagging on the data (will upload the results [ code still running ont the data] )
+NERTagging.py - to perform NER Tagging on the data 
+NER.txt- Named entities found in the data
+
 
